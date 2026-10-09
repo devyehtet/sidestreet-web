@@ -49,3 +49,5 @@ Google decides approval after reviewing the live site. Passing a build or this l
 ## Current preparation record
 
 See `docs/PRELAUNCH-REVIEW.md` for actual work, crawl evidence and remaining blockers. `npm run prelaunch:check` checks preparation before an AdSense ID exists. Do not interpret a successful script exit as Google approval: pending review and mailbox items are printed separately.
+
+Publisher ID supplied on 2026-10-09: ca-pub-1337118254370247. Published for the existing meta-tag verification and ads.txt methods. adsenseEnabled and consentConfigured remain false; the adsbygoogle.js advertising loader is not enabled. No AdSense review request has been submitted by this update.
