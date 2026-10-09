@@ -776,6 +776,51 @@
       "name": "Sacred Monkey Forest Sanctuary — guidelines",
       "url": "https://monkeyforestubud.com/guidelines-faq/",
       "consultedAt": "2026-10-10"
+    },
+    "bkk-airport-aot": {
+      "name": "Airports of Thailand — Suvarnabhumi transport",
+      "url": "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK",
+      "consultedAt": "2026-10-10"
+    },
+    "bkk-bts-official": {
+      "name": "BTS Skytrain — routes and fares",
+      "url": "https://www.bts.co.th/eng/",
+      "consultedAt": "2026-10-10"
+    },
+    "phuket-bus-official": {
+      "name": "Phuket Smart Bus — timetable and routes",
+      "url": "https://www.phuketsmartbus.com/timetable/",
+      "consultedAt": "2026-10-10"
+    },
+    "phuket-bus-boarding": {
+      "name": "Phuket Smart Bus — airport boarding point",
+      "url": "https://www.phuketsmartbus.com/blog/phuket-smart-bus-stop-at-phuket-airport",
+      "consultedAt": "2026-10-10"
+    },
+    "kyoto-respect": {
+      "name": "Kyoto City Official Travel Guide — responsible travel",
+      "url": "https://kyoto.travel/en/responsible-travel/",
+      "consultedAt": "2026-10-10"
+    },
+    "penang-heritage-trail": {
+      "name": "Penang Global Tourism — George Town heritage trail",
+      "url": "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "consultedAt": "2026-10-10"
+    },
+    "nepal-swayambhu": {
+      "name": "Nepal Tourism Board — Swayambhunath",
+      "url": "https://ntb.gov.np/en/swayambhunath",
+      "consultedAt": "2026-10-10"
+    },
+    "nepal-boudha": {
+      "name": "Nepal Tourism Board — Boudha",
+      "url": "https://ntb.gov.np/en/boudha",
+      "consultedAt": "2026-10-10"
+    },
+    "morocco-medina": {
+      "name": "Moroccan National Tourist Office — Marrakech medina",
+      "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
+      "consultedAt": "2026-10-10"
     }
   },
   "cities": [
@@ -1397,6 +1442,94 @@
       "line": "A palace area, a forest visit and a ridge walk on separate, manageable outings.",
       "code": "UBD",
       "img": "ubd-forest-photo"
+    },
+    {
+      "id": "kyo",
+      "name": "Kyoto",
+      "country": "Japan",
+      "region": "Asia",
+      "slug": "kyoto",
+      "lat": 35.0116,
+      "lng": 135.7681,
+      "money": "Japanese yen (¥)",
+      "cur": "¥",
+      "utc": "UTC+9",
+      "airport": "KIX · Kansai International; rail connection to Kyoto",
+      "transit": "Rail, subway, buses and walking",
+      "timezone": "Asia/Tokyo",
+      "tz": [
+        "Asia/Tokyo"
+      ],
+      "color": "#7c6756",
+      "line": "Temple approaches, river pauses and neighbourhoods worth visiting with care.",
+      "code": "KYO",
+      "img": "kyo-destination-photo"
+    },
+    {
+      "id": "png",
+      "name": "George Town (Penang)",
+      "country": "Malaysia",
+      "region": "Asia",
+      "slug": "george-town",
+      "lat": 5.4141,
+      "lng": 100.3288,
+      "money": "Malaysian ringgit (RM)",
+      "cur": "RM",
+      "utc": "UTC+8",
+      "airport": "PEN · Penang International",
+      "transit": "Buses, arranged road transfers and short walking routes",
+      "timezone": "Asia/Kuala_Lumpur",
+      "tz": [
+        "Asia/Kuala_Lumpur"
+      ],
+      "color": "#317775",
+      "line": "Shophouses, working heritage streets and a waterfront finish.",
+      "code": "PNG",
+      "img": "png-destination-photo"
+    },
+    {
+      "id": "ktm",
+      "name": "Kathmandu",
+      "country": "Nepal",
+      "region": "Asia",
+      "slug": "kathmandu",
+      "lat": 27.7172,
+      "lng": 85.324,
+      "money": "Nepalese rupee (NPR)",
+      "cur": "NPR",
+      "utc": "UTC+5:45",
+      "airport": "KTM · Tribhuvan International",
+      "transit": "Taxis, arranged transfers and selected neighbourhood walks",
+      "timezone": "Asia/Kathmandu",
+      "tz": [
+        "Asia/Kathmandu"
+      ],
+      "color": "#95644b",
+      "line": "Two stupa outings with space for worship and a quiet meal.",
+      "code": "KTM",
+      "img": "ktm-destination-photo"
+    },
+    {
+      "id": "rak",
+      "name": "Marrakech",
+      "country": "Morocco",
+      "region": "Africa",
+      "slug": "marrakech",
+      "lat": 31.6295,
+      "lng": -7.9811,
+      "money": "Moroccan dirham (MAD)",
+      "cur": "MAD",
+      "utc": "Check Africa/Casablanca for your travel date",
+      "airport": "RAK · Marrakech Menara",
+      "transit": "Walking in selected medina streets; taxis and arranged transfers outside",
+      "timezone": "Africa/Casablanca",
+      "tz": [
+        "Africa/Casablanca"
+      ],
+      "color": "#a35742",
+      "line": "Medina lanes, a square at dusk and a garden visit on its own terms.",
+      "code": "RAK",
+      "img": "rak-destination-photo"
     }
   ],
   "stories": [
@@ -7989,6 +8122,1117 @@
       "dateModified": "2026-10-10",
       "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
       "mins": 4
+    },
+    {
+      "id": "bangkok-suvarnabhumi-airport-transfer",
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "city": "bkk",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Suvarnabhumi to Bangkok: choose rail or a road transfer",
+      "dek": "Compare the whole door-to-door journey, with luggage, arrival time and the final hotel connection included.",
+      "img": "bkk-wat-arun",
+      "src": [
+        "bkk-airport-aot",
+        "bkk-bts-official"
+      ],
+      "body": [
+        "For a first arrival at Suvarnabhumi, choose transport by the hotel door you need to reach, not simply the cheapest advertised ticket. A train journey can be a sensible choice when the final connection is straightforward. A road transfer may suit a group with bulky bags or a late arrival. Neither option guarantees a fixed arrival time."
+      ],
+      "sections": [
+        {
+          "h": "Start with the airport code and hotel entrance",
+          "p": [
+            "Check that your booking says BKK, Suvarnabhumi. Don Mueang is a different airport and needs its own route. Save the hotel address, a map pin and the name in Thai if the property provides it. Ask which entrance drivers should use; an address beside a station does not necessarily mean the entrance is beside that station.",
+            "Allow for baggage collection before promising a pickup time. Tell a booked driver how delays are handled and where to meet after you leave arrivals. Keep the confirmation available offline rather than relying on airport connectivity at the meeting point."
+          ],
+          "sourceIds": [
+            "bkk-airport-aot"
+          ]
+        },
+        {
+          "h": "Compare rail using every leg of the journey",
+          "p": [
+            "AOT lists the Airport Rail Link among Suvarnabhumi transport options, with its station on level B1. Check its current service hours for the date and time you land. Use the BTS route information for any onward Skytrain connection, then identify the final walk or taxi leg to the hotel.",
+            "Count transfers, stairs or lift access, and the distance you will carry bags. Compare the combined cost for everyone travelling, including a final vehicle if needed. A rail option that looks inexpensive per person may be less attractive for a group with several bags and a difficult last leg."
+          ],
+          "sourceIds": [
+            "bkk-airport-aot",
+            "bkk-bts-official"
+          ]
+        },
+        {
+          "h": "For a vehicle, agree what the quote covers",
+          "p": [
+            "Use the airport’s published transport information to identify the service and boarding area. For a prebooked transfer, ask whether waiting time, tolls, airport charges and luggage capacity are included. For an on-arrival service, follow the designated process rather than assuming a person approaching you represents the airport.",
+            "Choose rail or road after checking the complete journey, then keep a fallback. If the flight arrives after your intended rail connection finishes, contact the hotel about a road transfer. Do not turn a tight last-service connection into the only way to reach accommodation."
+          ],
+          "sourceIds": [
+            "bkk-airport-aot"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Good for",
+          "First-time BKK arrivals comparing complete transfers."
+        ],
+        [
+          "Prepare",
+          "Hotel entrance, flight details and luggage count."
+        ],
+        [
+          "Decision",
+          "Rail with an easy last leg, or a vehicle with clear inclusions."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Rail",
+            "Count every transfer and the final walk",
+            "Service hours and access"
+          ],
+          [
+            "Road",
+            "Agree pickup and included charges",
+            "Waiting policy and vehicle size"
+          ],
+          [
+            "Late arrival",
+            "Have a vehicle fallback",
+            "Hotel reception and pickup contact"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Does this route apply to Don Mueang?",
+          "No. Check the airport code; this guide covers Suvarnabhumi, BKK."
+        ],
+        [
+          "Is rail always the cheapest choice?",
+          "Compare the total for your group and the last leg, not only one train ticket."
+        ]
+      ],
+      "tips": [
+        "Save the hotel address before flying.",
+        "Avoid a non-refundable pickup time that ignores baggage collection."
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3,
+      "relatedGuides": [
+        "bangkok-three-day-first-visit",
+        "bangkok-hotels",
+        "bangkok-temples"
+      ]
+    },
+    {
+      "id": "bangkok-three-day-first-visit",
+      "slug": "bangkok-three-day-first-visit",
+      "city": "bkk",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Bangkok in three days: temples, neighbourhoods and one food evening",
+      "dek": "A flexible first-visit plan that groups activities by area instead of crossing the city for every meal.",
+      "img": "bkk-wat-arun",
+      "src": [
+        "arun-tat",
+        "talatnoi-tat",
+        "bkk-bts-official"
+      ],
+      "body": [
+        "Three days in Bangkok work better as three different kinds of outing: a historic riverside day, a neighbourhood day and a flexible final day. This is an editorial framework rather than an hourly schedule. Choose your hotel first, then adapt the order to transport, opening information and how much walking your group wants."
+      ],
+      "sections": [
+        {
+          "h": "Day one: keep the temple plan small",
+          "p": [
+            "Use the existing Bangkok temples guide to decide between a full historic-area outing and a shorter two-stop plan. Wat Arun is one possible anchor; check its current admission and visitor rules before adding another paid visit. Set aside time for lunch and a seated break instead of treating those as spare minutes.",
+            "A saved list of temples is not a route. Put entrances and your return connection on the map, then remove a stop if the day becomes mostly travel. Clothing requirements and separate tickets deserve preparation before leaving the hotel."
+          ],
+          "sourceIds": [
+            "arun-tat"
+          ]
+        },
+        {
+          "h": "Day two: give a neighbourhood its own purpose",
+          "p": [
+            "Talat Noi can be a neighbourhood-led outing rather than another attraction checklist. Choose architectural details, a selected café or a few public-street landmarks as the focus. Working shops and homes are part of the district; ask before photographing people or entering a doorway that looks interesting.",
+            "Keep the meal near the walk. If you add an evening market, choose one that fits the journey home rather than combining several markets because they appear on a ranking list. Check the actual trading day and transport separately; a daytime neighbourhood visit does not confirm an evening market programme."
+          ],
+          "sourceIds": [
+            "talatnoi-tat"
+          ]
+        },
+        {
+          "h": "Day three: use a choice, not an obligation",
+          "p": [
+            "Keep the last day available for a shopping outing, another cultural visit or a slower meal. Chatuchak is a calendar-dependent choice, so read the market guide before assigning it automatically to day three. A neighbourhood near accommodation can be more useful when you have a flight to catch.",
+            "Use the BTS route tool where a Skytrain connection helps, but check the walking leg too. Protect the departure transfer before buying a late attraction ticket. If arrival delays reduced your first day, move one missed experience here and drop the least important optional stop."
+          ],
+          "sourceIds": [
+            "bkk-bts-official"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Structure",
+          "One main area each day."
+        ],
+        [
+          "Food",
+          "One planned meal and optional snacks, not a citywide food race."
+        ],
+        [
+          "Flexibility",
+          "Keep the departure day lighter."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Historic day",
+            "A smaller temple sequence",
+            "Admissions and dress rules"
+          ],
+          [
+            "Neighbourhood day",
+            "Talat Noi and a nearby meal",
+            "Visitor boundaries and route home"
+          ],
+          [
+            "Final day",
+            "Shopping or a missed priority",
+            "Trading day and departure transfer"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Can I follow this in any order?",
+          "Yes. Adjust for opening days, weather and the location of your hotel."
+        ],
+        [
+          "Should I book every activity first?",
+          "Book activities that require it, but leave optional stops flexible until the route makes sense."
+        ]
+      ],
+      "tips": [
+        "Do not add a distant dinner just to complete a list.",
+        "Use the city page to compare the detailed temple, market and food guides."
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3,
+      "relatedGuides": [
+        "bangkok-temples",
+        "bangkok-talatnoi",
+        "bangkok-suvarnabhumi-airport-transfer"
+      ]
+    },
+    {
+      "id": "chiang-mai-doi-suthep-visit",
+      "slug": "chiang-mai-doi-suthep-visit",
+      "city": "cnx",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Doi Suthep from Chiang Mai: plan the temple visit and return",
+      "dek": "Choose an approach, agree transport and leave the rest of the mountain optional.",
+      "img": "cnx-doi-suthep",
+      "src": [
+        "doi-suthep-tat",
+        "cm-government"
+      ],
+      "body": [
+        "A Doi Suthep outing needs three separate decisions: how to reach the temple, how to manage the approach, and how to return. Decide those before attaching a waterfall, village or another distant attraction. A smaller temple visit can be a worthwhile afternoon without becoming a full mountain circuit."
+      ],
+      "sections": [
+        {
+          "h": "Prepare for a place of worship",
+          "p": [
+            "Tourism Authority of Thailand identifies Wat Phra That Doi Suthep as a Chiang Mai temple attraction. Prepare clothing suitable for a religious visit and check current visitor instructions on arrival. Bring what you need for the outing in a manageable bag, leaving bulky purchases for another day.",
+            "The purpose is to visit the temple respectfully, not to secure a particular photograph. Give worshippers space, follow notices about footwear and ask before taking photographs inside sensitive areas. If a ceremony changes access, adapt the visit rather than treating your saved route as a right of entry."
+          ],
+          "sourceIds": [
+            "doi-suthep-tat"
+          ]
+        },
+        {
+          "h": "Choose transport with the return included",
+          "p": [
+            "For an arranged vehicle, specify the actual temple destination and the collection point. Ask whether the driver waits, how waiting is priced and how to contact them if the visit ends early. A one-way drop-off is different from a return booking, even when both are described as a Doi Suthep trip.",
+            "If you plan to use a shared service, confirm the current boarding point, destination, departure arrangement and return availability locally. Do not build the afternoon around an unverified timetable from an old blog. Mountain travel and the temple approach are separate parts of the day."
+          ],
+          "sourceIds": [
+            "cm-government"
+          ]
+        },
+        {
+          "h": "Check the approach against your group’s needs",
+          "p": [
+            "Ask about the currently available way from vehicle drop-off to the visitor area, especially if stairs or prolonged standing are difficult. This guide does not certify a step-free visit. Leave enough energy for the return approach and ask staff about any alternative before paying for transport.",
+            "Keep another mountain stop optional. If transport is waiting or the weather changes, a direct return can be the sensible finish. Plan a meal back in the city rather than relying on a specific vendor near the temple being open. That makes it easier to adjust the visit without losing the whole afternoon."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Main outing",
+          "Temple visit, with transport arranged separately."
+        ],
+        [
+          "Before departure",
+          "Clothing, approach requirements and named pickup."
+        ],
+        [
+          "Shorter option",
+          "Temple only; no extra mountain circuit."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Private return",
+            "Agree waiting and collection",
+            "What the fare includes"
+          ],
+          [
+            "Shared transport",
+            "Confirm both directions locally",
+            "Departure arrangement"
+          ],
+          [
+            "Limited mobility",
+            "Ask about the current approach",
+            "Access from drop-off"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Does this guide include a hike?",
+          "No. Hiking requires separate route and conditions research."
+        ],
+        [
+          "Should I combine several mountain sights?",
+          "Only when the actual transfer time and your group’s energy support it; they are optional additions."
+        ]
+      ],
+      "tips": [
+        "Make the return meeting point specific.",
+        "Treat temple access instructions as part of the visit."
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3,
+      "relatedGuides": [
+        "chiang-mai-two-day-itinerary",
+        "chiang-mai-oldcity",
+        "chiang-mai-markets"
+      ]
+    },
+    {
+      "id": "chiang-mai-two-day-itinerary",
+      "slug": "chiang-mai-two-day-itinerary",
+      "city": "cnx",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Chiang Mai in two days: Old City first, mountain or market second",
+      "dek": "A city-based weekend framework with room for a northern Thai meal and changes of plan.",
+      "img": "cnx-doi-suthep",
+      "src": [
+        "cm-government",
+        "doi-suthep-tat",
+        "cm-food-tat"
+      ],
+      "body": [
+        "A two-day Chiang Mai stay is easier to plan when the Old City gets one day and the second day has a single main choice. You do not need to fit every temple, cooking activity and countryside excursion into one weekend. Start with the experience you care about most, then make the other stops support it."
+      ],
+      "sections": [
+        {
+          "h": "Use the Old City as your first-day anchor",
+          "p": [
+            "Choose a small temple walk from the existing Old City guide and give each stop enough attention. Keep your starting point near accommodation or an easy drop-off. A map full of saved temples becomes useful only after you choose which entrances and connecting streets suit the day.",
+            "Schedule lunch as part of the outing. If you want to try khao soi, use the dedicated food guide to consider your order and dietary questions. Do not stretch the route to a distant restaurant merely because the name appears in several lists. A shorter outing leaves time to notice the city between monuments."
+          ],
+          "sourceIds": [
+            "cm-government",
+            "cm-food-tat"
+          ]
+        },
+        {
+          "h": "Choose a mountain visit or another city outing",
+          "p": [
+            "For day two, Doi Suthep is one possible main experience. Read the transport and approach guide before arranging a vehicle. Another city-focused day may suit a group that prefers shops, a cultural stop or a cooking activity. Confirm the actual activity provider and booking terms before making it the centre of the day.",
+            "Keep these as alternatives, not a compulsory sequence. A mountain transfer and a scheduled class can compete for the same afternoon. Decide which matters more, then leave a meal and rest around it rather than compressing both into an itinerary that depends on everything running perfectly."
+          ],
+          "sourceIds": [
+            "doi-suthep-tat"
+          ]
+        },
+        {
+          "h": "Fit markets to the calendar and the return",
+          "p": [
+            "Use the Chiang Mai markets guide to compare shopping purposes and trading days. Do not assume that a walking street operates every evening or that a market with a famous name is close to your hotel. Save the return destination before entering a crowded shopping area.",
+            "Set a spending limit and a finish time, especially on the night before departure. Keep market food separate from a guaranteed dinner plan if the group has specific dietary needs. On the final day, allow for packing and transport; two calendar days do not always equal two full sightseeing days."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Day one",
+          "Old City, a meal and optional nearby shopping."
+        ],
+        [
+          "Day two",
+          "Mountain visit or another city activity."
+        ],
+        [
+          "Evening",
+          "A market only when its current trading day fits."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Old City",
+            "Choose a short temple walk",
+            "Visitor rules"
+          ],
+          [
+            "Doi Suthep",
+            "Arrange a return journey",
+            "Approach and pickup"
+          ],
+          [
+            "Market",
+            "Choose by purpose and calendar",
+            "Trading day and route home"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Is two days enough for every attraction?",
+          "No. Use two days for a few priorities rather than treating this as a complete regional itinerary."
+        ],
+        [
+          "Can I swap the days?",
+          "Yes. Match market days and booked activities to your actual dates."
+        ]
+      ],
+      "tips": [
+        "Keep countryside transfers outside a casual city walk.",
+        "Give departure arrangements their own time allowance."
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3,
+      "relatedGuides": [
+        "chiang-mai-oldcity",
+        "chiang-mai-doi-suthep-visit",
+        "chiang-mai-khaosoi"
+      ]
+    },
+    {
+      "id": "phuket-airport-to-beach-transfer",
+      "slug": "phuket-airport-to-beach-transfer",
+      "city": "hkt",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Phuket airport to your hotel: bus route or direct transfer?",
+      "dek": "Check the actual hotel location before choosing a west-coast bus or a booked vehicle.",
+      "img": "hkt-promthep",
+      "src": [
+        "phuket-bus-official",
+        "phuket-bus-boarding"
+      ],
+      "body": [
+        "Phuket is not one hotel district. A transfer that works for a property near a west-coast bus stop may be inconvenient for accommodation elsewhere. Start with the hotel entrance, the arrival terminal and your luggage, then compare the complete bus journey with a direct transfer."
+      ],
+      "sections": [
+        {
+          "h": "Find the route that actually serves your area",
+          "p": [
+            "Phuket Smart Bus publishes an Airport–Rawai route with west-coast stops including Patong, Karon and Kata. Use the current route and timetable to identify the stop nearest your hotel. A beach name in the route list does not establish a short or easy walk to every property in that area.",
+            "Map the final leg separately. Ask the hotel about the approach if it is uphill, outside the centre or reached by a road without a comfortable walking route. Include another vehicle if required when comparing costs; the bus ticket is only part of the journey."
+          ],
+          "sourceIds": [
+            "phuket-bus-official"
+          ]
+        },
+        {
+          "h": "Locate boarding after collecting luggage",
+          "p": [
+            "The operator’s airport boarding guidance identifies the Domestic Terminal, Exit 3. Recheck that information before travelling and follow airport signs on the day. If arriving at a different terminal, locate the boarding point before committing to a departure shown on your phone.",
+            "Allow time to reach the stop with bags. Look at the current timetable and live tracking rather than treating a printed departure as a guaranteed arrival. The operator notes that traffic can affect journey times. Keep a direct-transfer fallback if waiting or the final connection would not suit the group."
+          ],
+          "sourceIds": [
+            "phuket-bus-boarding",
+            "phuket-bus-official"
+          ]
+        },
+        {
+          "h": "Compare a direct vehicle honestly",
+          "p": [
+            "For a booked transfer, give the hotel name, address, flight number and luggage count. Ask about late arrivals, waiting time and the collection procedure. A quote for one passenger with a small bag is not necessarily a quote for your whole group.",
+            "Choose the vehicle if a direct door-to-door journey solves a difficult last leg or arrival-time problem. Choose the bus when its current route genuinely fits. Do not expect either option to guarantee a fixed journey time; avoid a non-refundable activity immediately after the advertised transfer duration."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Start with",
+          "Your hotel entrance and arrival terminal."
+        ],
+        [
+          "Bus option",
+          "Match a published stop with a practical final leg."
+        ],
+        [
+          "Vehicle option",
+          "Check total price, luggage and flight-delay policy."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "West-coast bus",
+            "Find the nearest listed stop",
+            "Timetable and final connection"
+          ],
+          [
+            "Direct transfer",
+            "Provide full hotel and flight details",
+            "Waiting and luggage terms"
+          ],
+          [
+            "Late flight",
+            "Keep an alternative ready",
+            "Actual service availability"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Does the bus serve every Phuket hotel?",
+          "No. Check the published route and the hotel’s final connection."
+        ],
+        [
+          "Can I rely on a fixed transfer duration?",
+          "No. Traffic, waiting and the final hotel leg affect the whole journey."
+        ]
+      ],
+      "tips": [
+        "Save the booking contact before boarding your flight.",
+        "Compare total group costs rather than one ticket."
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3,
+      "relatedGuides": [
+        "phuket-three-day-itinerary",
+        "phuket-beaches",
+        "phuket-oldtown"
+      ]
+    },
+    {
+      "id": "phuket-three-day-itinerary",
+      "slug": "phuket-three-day-itinerary",
+      "city": "hkt",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Phuket in three days: town, a beach day and a flexible outing",
+      "dek": "Choose accommodation and transport first, then give each day a clear purpose.",
+      "img": "hkt-promthep",
+      "src": [
+        "phuket-oldtown-tat",
+        "phuket-beaches-government",
+        "phuket-bus-official"
+      ],
+      "body": [
+        "A short Phuket stay benefits from a town day, a beach-area day and a flexible final outing. This plan is an editorial suggestion, not a promise of swimming conditions or a confirmed tour programme. Your accommodation location should influence the order: repeated transfers can consume the time you meant to spend outside."
+      ],
+      "sections": [
+        {
+          "h": "Give Old Town a dedicated visit",
+          "p": [
+            "Tourism Authority of Thailand lists Phuket Old Town as an attraction. Use the existing Old Town guide to choose a walk built around architecture, breakfast or shopping. Begin with a few named streets and a meal rather than expecting every saved café to fit into the same outing.",
+            "Keep a market evening dependent on the actual trading day. The town visit can stand on its own without an evening event. Plan transport back to your beach accommodation before the walk, particularly if you intend to finish later than expected."
+          ],
+          "sourceIds": [
+            "phuket-oldtown-tat"
+          ]
+        },
+        {
+          "h": "Choose one beach area for the second day",
+          "p": [
+            "Use the provincial beach directory and the site’s beach guide to select the kind of day you want. Decide whether the main purpose is a meal by the coast, time on the sand or swimming. Being able to visit a beach does not establish that the water is suitable for swimming on your date.",
+            "Follow current on-site signs and lifeguard instructions. Keep another beach optional rather than spending the day crossing the island for several short stops. If the weather changes, move the meal or a town activity forward instead of forcing the original plan."
+          ],
+          "sourceIds": [
+            "phuket-beaches-government"
+          ]
+        },
+        {
+          "h": "Keep day three available for an actual priority",
+          "p": [
+            "Use the final day for something you missed, a selected booked activity or an easy outing close to your hotel. For a boat trip, research the operator, departure point, weather policy and inclusions separately; this guide does not endorse a particular excursion.",
+            "If you use Phuket Smart Bus, match the current route to both ends of the trip. A stop bearing a familiar beach name may still require another connection to your accommodation. Protect the airport transfer first on departure day and avoid buying an activity whose finish leaves no room for delays."
+          ],
+          "sourceIds": [
+            "phuket-bus-official"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Day one",
+          "Old Town with one meal or shopping purpose."
+        ],
+        [
+          "Day two",
+          "One beach area; swimming assessed on the day."
+        ],
+        [
+          "Day three",
+          "A chosen activity or a lighter departure day."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Town",
+            "A selected street walk",
+            "Return transport"
+          ],
+          [
+            "Coast",
+            "One beach area",
+            "Conditions and visitor signs"
+          ],
+          [
+            "Final day",
+            "One flexible priority",
+            "Airport transfer and cancellation terms"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Is a boat trip required?",
+          "No. A town outing and a beach-area day can be the main experiences."
+        ],
+        [
+          "Does this itinerary guarantee safe swimming?",
+          "No. Assess current conditions and follow local instructions on the day."
+        ]
+      ],
+      "tips": [
+        "Choose hotel location before fixing the itinerary.",
+        "A shorter plan is easier to adapt than three days of prepaid transfers."
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3,
+      "relatedGuides": [
+        "phuket-oldtown",
+        "phuket-beaches",
+        "phuket-airport-to-beach-transfer"
+      ]
+    },
+    {
+      "id": "kyoto-first-visit-two-area-plan",
+      "slug": "kyoto-first-visit-two-area-plan",
+      "city": "kyo",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Kyoto first visit: choose Higashiyama or Arashiyama for the day",
+      "dek": "A neighbourhood-based approach that leaves room for temple access, a meal and respectful photography.",
+      "img": "kyo-destination-photo",
+      "src": [
+        "kyoto-respect"
+      ],
+      "body": [
+        "For a first Kyoto visit, choose one main area instead of treating Higashiyama and Arashiyama as parts of a single compulsory circuit. The useful question is whether you want a historic-street and temple outing or a western-district visit. Both deserve time for the journey, breaks and places that you decide not to enter."
+      ],
+      "sections": [
+        {
+          "h": "A historic-street day has visitor boundaries",
+          "p": [
+            "For a Higashiyama-led outing, save the specific temple or cultural stop that interests you and build a small approach around it. Check the venue’s current ticket and entry instructions directly. Keep Gion as a district where people live and work, not as a promise of photographing a performer.",
+            "Kyoto’s official responsible-travel guidance asks visitors to respect private property and local rules. Keep to public routes, follow notices and ask before photographing a person. If a lane is restricted, use another route. A photograph seen online does not give permission to recreate it at any doorway."
+          ],
+          "sourceIds": [
+            "kyoto-respect"
+          ]
+        },
+        {
+          "h": "An Arashiyama day can stay in the west",
+          "p": [
+            "Choose one principal visit in the Arashiyama area, then a nearby walk and lunch. Look up the actual station or stop for the entrance you intend to use; a destination label on a map can cover several different approaches. Keep a second paid stop optional until you know how the main visit fits.",
+            "The official city guidance describes crowding in popular districts and asks visitors not to damage bamboo. Use an available crowd-information tool before setting out and follow instructions at the location. Do not wait in a narrow passage for a people-free image when others need to move through it."
+          ],
+          "sourceIds": [
+            "kyoto-respect"
+          ]
+        },
+        {
+          "h": "Plan the return before adding an evening",
+          "p": [
+            "Write down your accommodation’s return connection and keep a meal near the day’s chosen area. If you move to another district for dinner, count that as a new journey rather than a free addition. Compare walking demands as well as the number of attractions.",
+            "Carry a small bag and dispose of rubbish appropriately. Give anyone in the group who needs a rest a real place to pause. A successful first day can be a single cultural visit, an unhurried walk and one good meal. Save the other district for another day rather than using the evening to finish an oversized list."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Main choice",
+          "Higashiyama-led culture or an Arashiyama outing."
+        ],
+        [
+          "Prepare",
+          "One venue entrance and the return connection."
+        ],
+        [
+          "Respect",
+          "Public routes, photography permission and local notices."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Higashiyama",
+            "One temple and a nearby street walk",
+            "Venue entry and public routes"
+          ],
+          [
+            "Arashiyama",
+            "One main stop in the west",
+            "Approach and crowd information"
+          ],
+          [
+            "Evening",
+            "A meal near the selected area",
+            "Return transport"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Must I combine both districts?",
+          "No. This guide recommends one main area per day so visits and transfers have enough space."
+        ],
+        [
+          "Can I photograph people in Gion freely?",
+          "Ask permission and follow local restrictions. Do not treat a working person as a tourist attraction."
+        ]
+      ],
+      "tips": [
+        "Use Kyoto’s official responsible-travel information before departure.",
+        "Choose a specific venue rather than a generic temple checklist."
+      ],
+      "items": [],
+      "places": [
+        "kyo-higashiyama",
+        "kyo-arashiyama"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3
+    },
+    {
+      "id": "george-town-penang-heritage-walk",
+      "slug": "george-town-penang-heritage-walk",
+      "city": "png",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "George Town, Penang: a heritage walk with a waterfront finish",
+      "dek": "Choose a small part of the official heritage trail, with architecture, living streets and a meal as separate priorities.",
+      "img": "png-destination-photo",
+      "src": [
+        "penang-heritage-trail"
+      ],
+      "body": [
+        "George Town’s heritage streets are easier to appreciate when the walk has a purpose. Choose architectural detail, a particular cultural venue or waterfront time as the main experience. The official heritage trail is a useful starting point, but you do not need to follow every listed stop to have a worthwhile first visit."
+      ],
+      "sections": [
+        {
+          "h": "Start with the part of the trail you want to understand",
+          "p": [
+            "Penang Global Tourism’s heritage trail includes the Esplanade and historic waterfront surroundings. For a first outing, select a few points from the official map and decide what you want to notice at each: a façade, a public space or a story about the neighbourhood.",
+            "Our suggested sequence is a short street walk, a meal and a waterfront finish. It is not a timed route tested on foot. Put the actual entrances on a map and check which interiors require tickets or advance arrangements. A building being on a heritage trail does not make its doors open to visitors at all times."
+          ],
+          "sourceIds": [
+            "penang-heritage-trail"
+          ]
+        },
+        {
+          "h": "Leave room for streets that are still in use",
+          "p": [
+            "Treat shophouses and heritage businesses as places with ordinary working routines. Walk without blocking entrances, ask before photographing people and check whether a shop welcomes browsing. If you want to buy something, ask about the item and its making rather than assuming every object is locally produced.",
+            "Do not turn the walk into a hunt for one famous image. An interesting doorway or wall may be beside a home or a delivery area. Keep your group clear of traffic and move on when a stop becomes crowded. A nearby shaded pause can be more useful than an extra landmark across town."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Give lunch and the waterfront their own time",
+          "p": [
+            "Choose a meal near the section of the route you are using. Read the current menu and ask about ingredients if you have dietary requirements; a famous food name does not establish how every vendor prepares it. Set a queue limit so lunch does not consume the entire afternoon.",
+            "Finish at the waterfront only if the weather and route suit your group. Identify a meeting point for any onward vehicle and keep the hotel destination saved. If heat or rain changes the walk, choose a confirmed indoor visit or shorten the route. You can return for another part of the heritage trail rather than trying to see the whole district in one session."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Focus",
+          "A small heritage-street selection, not every landmark."
+        ],
+        [
+          "Suggested finish",
+          "Waterfront time after a nearby meal."
+        ],
+        [
+          "Before entering",
+          "Check the actual venue’s visitor arrangements."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Architecture",
+            "Select a few public-street stops",
+            "Entrances and walking approach"
+          ],
+          [
+            "Cultural interior",
+            "Choose one venue",
+            "Admission and opening information"
+          ],
+          [
+            "Waterfront",
+            "Keep a flexible finish",
+            "Weather and onward pickup"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Is every heritage building a public museum?",
+          "No. Check the individual property’s visitor information before entering."
+        ],
+        [
+          "Must I follow the entire official trail?",
+          "No. Select the part that fits your interests and walking needs."
+        ]
+      ],
+      "tips": [
+        "Carry the route offline.",
+        "Keep a second neighbourhood outing for another day."
+      ],
+      "items": [],
+      "places": [
+        "png-esplanade",
+        "png-heritage-streets"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3
+    },
+    {
+      "id": "kathmandu-swayambhu-boudha-first-visit",
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "city": "ktm",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Kathmandu stupa visits: choose Swayambhu or Boudha first",
+      "dek": "Compare a hilltop approach with a stupa-area outing, leaving transport and worship space in the plan.",
+      "img": "ktm-destination-photo",
+      "src": [
+        "nepal-swayambhu",
+        "nepal-boudha"
+      ],
+      "body": [
+        "For a first stupa visit in Kathmandu, choose Swayambhu or Boudha as the main outing rather than assuming both belong in the same morning. The difference is not simply which photograph you prefer: consider the approach, the setting and how much movement your group wants before arranging transport."
+      ],
+      "sections": [
+        {
+          "h": "Swayambhu requires an approach decision",
+          "p": [
+            "Nepal Tourism Board describes Swayambhu as a hilltop Buddhist site and identifies a steep stair approach as well as a road approach near the top. Ask about the current drop-off and remaining walk before selecting transport, particularly when stairs are a concern. A road approach does not by itself certify a step-free visit.",
+            "Build the outing around time at the site rather than a race to the viewpoint. Follow instructions near shrines, keep worship areas clear and ask about photography where it is not obvious. Leave enough energy for the descent or return walk and agree a pickup point that you can identify again."
+          ],
+          "sourceIds": [
+            "nepal-swayambhu"
+          ]
+        },
+        {
+          "h": "Boudha offers a different kind of attention",
+          "p": [
+            "The tourism board identifies Boudha as a major stupa in Kathmandu. For this outing, give the stupa area time on its own and leave a nearby meal or tea break flexible. Before joining a circulation path, observe how worshippers move and follow the locally indicated direction and visitor rules.",
+            "Look up the current entrance arrangements rather than carrying a fee from an old article as a promise. Shops and cafés nearby are separate businesses with their own menus and opening patterns. Choose one that meets your needs on the day; a rooftop image online does not establish access or a reserved table."
+          ],
+          "sourceIds": [
+            "nepal-boudha"
+          ]
+        },
+        {
+          "h": "Use a two-outing plan when both matter",
+          "p": [
+            "If both places are priorities, give each its own session and compare transport from your actual accommodation. Traffic and the approach to each entrance can change what fits comfortably. Do not buy another activity solely because an estimated drive time appears short on a map.",
+            "Tell a driver the site name and the collection location, and agree whether the service waits or returns later. Keep cash needs, admissions and transport in separate budget lines. This is a cultural city-outing guide, not trekking or altitude advice; mountain travel needs separate planning. Finish near a reliable onward connection rather than letting the final stop dictate an uncertain journey back."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Swayambhu option",
+          "Hilltop visit with the approach checked first."
+        ],
+        [
+          "Boudha option",
+          "Stupa-area time and a nearby break."
+        ],
+        [
+          "Both options",
+          "Use separate sessions if each is a priority."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Swayambhu",
+            "Compare stair and road approaches",
+            "Actual drop-off and remaining walk"
+          ],
+          [
+            "Boudha",
+            "Give the stupa area time",
+            "Entrance and worship rules"
+          ],
+          [
+            "Transport",
+            "Agree the return collection",
+            "Waiting arrangement and fare"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Is the road approach guaranteed step-free?",
+          "No. Ask about the current drop-off, surface and remaining approach for your own needs."
+        ],
+        [
+          "Does this plan include a trek?",
+          "No. It covers cultural visits in Kathmandu; trekking needs separate specialist preparation."
+        ]
+      ],
+      "tips": [
+        "Keep worshippers’ movement unobstructed.",
+        "Confirm individual venue access rather than assuming all nearby religious spaces welcome entry."
+      ],
+      "items": [],
+      "places": [
+        "ktm-swayambhu",
+        "ktm-boudha"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3
+    },
+    {
+      "id": "marrakech-medina-first-visit",
+      "slug": "marrakech-medina-first-visit",
+      "city": "rak",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Marrakech medina: a first walk, Jemaa el-Fna and a separate garden outing",
+      "dek": "Choose a manageable medina route and leave enough time to find your way back.",
+      "img": "rak-destination-photo",
+      "src": [
+        "morocco-medina"
+      ],
+      "body": [
+        "A first Marrakech outing can be a selected medina walk followed by time around Jemaa el-Fna. Keep a garden visit as a separate choice rather than adding it automatically to a long shopping route. The useful preparation is a clear starting point, a purpose for the walk and a return meeting place you can describe."
+      ],
+      "sections": [
+        {
+          "h": "Give the medina walk a beginning and an end",
+          "p": [
+            "Morocco’s national tourist office identifies the medina, Jemaa el-Fna and the Koutoubia minaret among Marrakech’s central landmarks. Use those names to orient your research, then choose the actual public streets you intend to follow. Save a map offline and ask your accommodation where a vehicle can meet you.",
+            "A map pin inside the medina may not be a practical car pickup. Agree a named meeting point rather than assuming a driver can reach the doorway. If using a guide, clarify the duration, price, inclusions and whether shopping visits are part of the service before starting."
+          ],
+          "sourceIds": [
+            "morocco-medina"
+          ]
+        },
+        {
+          "h": "Choose whether shopping or the square is the focus",
+          "p": [
+            "For shopping, decide what you want to browse and give it a budget. Ask about an item’s material, origin and final price; do not infer craftsmanship from the location of the stall alone. Leave enough space in your luggage before buying something bulky or fragile.",
+            "For Jemaa el-Fna, allow time to observe without requiring a particular performance. The tourist office describes the square’s cultural activity, but this article does not confirm a programme for your date. Ask permission before close photographs and agree any requested charge first. Choose food using the actual menu and your own requirements, not a promised universal shortlist."
+          ],
+          "sourceIds": [
+            "morocco-medina"
+          ]
+        },
+        {
+          "h": "Keep gardens and religious access separate",
+          "p": [
+            "The official tourism page also introduces the Menara gardens. Research current access and the approach as a separate outing. Another garden that appears in a booking advert may have entirely different entry conditions; a general city guide is not a ticket or an endorsement of a reseller.",
+            "Seeing the Koutoubia minaret from a public area does not establish permission to enter the mosque. Follow local access instructions and keep religious spaces out of a casual assumption of unrestricted sightseeing. When the walking route becomes tiring, finish at the agreed meeting place. A shorter first visit can make the next outing easier because you know where you started and how you returned."
+          ],
+          "sourceIds": [
+            "morocco-medina"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "First outing",
+          "A selected medina walk and time near the square."
+        ],
+        [
+          "Separate choice",
+          "A garden visit with its own access research."
+        ],
+        [
+          "Return",
+          "A named meeting point reachable by your transport."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the plan that fits your visit",
+        "headers": [
+          "Decision",
+          "Suggested approach",
+          "Confirm before departure"
+        ],
+        "rows": [
+          [
+            "Medina streets",
+            "Save a small route offline",
+            "Start and finish locations"
+          ],
+          [
+            "Square",
+            "Observe or choose a meal",
+            "Photography permission and menu"
+          ],
+          [
+            "Gardens",
+            "Plan a separate outing",
+            "Current visitor arrangements"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Does a landmark name mean I can enter every space?",
+          "No. Public viewpoints, gardens, private property and religious interiors have different access rules."
+        ],
+        [
+          "Should I combine every garden and market?",
+          "No. Choose a main outing and keep the other visits for a separate session."
+        ]
+      ],
+      "tips": [
+        "Agree guiding and shopping inclusions before setting out.",
+        "Check Africa/Casablanca time for your travel date rather than assuming one offset all year."
+      ],
+      "items": [],
+      "places": [
+        "rak-jemaa",
+        "rak-menara"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "mins": 3
     }
   ],
   "places": [
@@ -10098,6 +11342,110 @@
         "ubd-palace-official"
       ],
       "url": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali/istana-ubud",
+      "verify": true
+    },
+    {
+      "id": "kyo-higashiyama",
+      "city": "kyo",
+      "name": "Higashiyama public streets",
+      "area": "Higashiyama",
+      "kind": "see",
+      "blurb": "A district-led outing with one selected cultural visit. Follow local signs, private-property boundaries and photography instructions.",
+      "src": [
+        "kyoto-respect"
+      ],
+      "url": "https://kyoto.travel/en/responsible-travel/",
+      "verify": true
+    },
+    {
+      "id": "kyo-arashiyama",
+      "city": "kyo",
+      "name": "Arashiyama area",
+      "area": "Western Kyoto",
+      "kind": "see",
+      "blurb": "Choose one principal stop and a nearby walk. Check the actual venue entrance and current crowd information before travelling.",
+      "src": [
+        "kyoto-respect"
+      ],
+      "url": "https://kyoto.travel/en/responsible-travel/",
+      "verify": true
+    },
+    {
+      "id": "png-esplanade",
+      "city": "png",
+      "name": "George Town Esplanade",
+      "area": "Waterfront",
+      "kind": "see",
+      "blurb": "A waterfront stop on the official heritage trail. Keep the walk flexible for weather and arrange a named collection point.",
+      "src": [
+        "penang-heritage-trail"
+      ],
+      "url": "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "verify": true
+    },
+    {
+      "id": "png-heritage-streets",
+      "city": "png",
+      "name": "George Town heritage streets",
+      "area": "Historic centre",
+      "kind": "see",
+      "blurb": "Select a short section of the official heritage trail. Buildings may be working premises rather than public museums.",
+      "src": [
+        "penang-heritage-trail"
+      ],
+      "url": "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "verify": true
+    },
+    {
+      "id": "ktm-swayambhu",
+      "city": "ktm",
+      "name": "Swayambhunath",
+      "area": "Kathmandu",
+      "kind": "see",
+      "blurb": "Hilltop religious visit; ask about the current stair or road approach and the remaining walk from drop-off.",
+      "src": [
+        "nepal-swayambhu"
+      ],
+      "url": "https://ntb.gov.np/en/swayambhunath",
+      "verify": true
+    },
+    {
+      "id": "ktm-boudha",
+      "city": "ktm",
+      "name": "Boudha Stupa",
+      "area": "Boudha",
+      "kind": "see",
+      "blurb": "Give the stupa area its own session. Check entrance arrangements and leave worshippers room to circulate.",
+      "src": [
+        "nepal-boudha"
+      ],
+      "url": "https://ntb.gov.np/en/boudha",
+      "verify": true
+    },
+    {
+      "id": "rak-jemaa",
+      "city": "rak",
+      "name": "Jemaa el-Fna",
+      "area": "Medina",
+      "kind": "see",
+      "blurb": "A square-led outing with time to observe or choose a meal. Ask permission for close photographs and confirm any charge first.",
+      "src": [
+        "morocco-medina"
+      ],
+      "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
+      "verify": true
+    },
+    {
+      "id": "rak-menara",
+      "city": "rak",
+      "name": "Menara gardens",
+      "area": "Marrakech",
+      "kind": "see",
+      "blurb": "A separate garden outing, with current access and transport checked before departure.",
+      "src": [
+        "morocco-medina"
+      ],
+      "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
       "verify": true
     }
   ],
@@ -13119,6 +14467,94 @@
       "alt": "Long-tailed macaque in Ubud Monkey Forest",
       "note": "Reference photograph; not evidence of current visitor access or a recent site visit.",
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "kyo-destination-photo": {
+      "src": "/images/kyo-destination-photo.jpg",
+      "by": "Ankur P from Pune, India",
+      "lic": "CC BY 2.0",
+      "licUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kiyomizudera_Temple_Kyoto_2017_(35450804063).jpg",
+      "title": "Kiyomizudera Temple Kyoto 2017 (35450804063).jpg",
+      "w": 1600,
+      "h": 982,
+      "alt": "Temple landscape in Kyoto",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/kyo-destination-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kyo-destination-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "png-destination-photo": {
+      "src": "/images/png-destination-photo.jpg",
+      "by": "CEphoto, Uwe Aranas",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg",
+      "title": "Penang Malaysia The-George-Town-Dispensary-01.jpg",
+      "w": 1600,
+      "h": 1066,
+      "alt": "Historic George Town Dispensary building in Penang",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/png-destination-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/png-destination-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "ktm-destination-photo": {
+      "src": "/images/ktm-destination-photo.jpg",
+      "by": "Bijay Chaurasia",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Swayambhunath_Stupa_-Kathmandu_Nepal-0336.jpg",
+      "title": "Swayambhunath Stupa -Kathmandu Nepal-0336.jpg",
+      "w": 1066,
+      "h": 1600,
+      "alt": "Swayambhunath stupa in Kathmandu",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/ktm-destination-photo-480.jpg",
+          "w": 320
+        },
+        {
+          "src": "/images/ktm-destination-photo-960.jpg",
+          "w": 639
+        }
+      ]
+    },
+    "rak-destination-photo": {
+      "src": "/images/rak-destination-photo.jpg",
+      "by": "Baca12",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_de_la_Koutoubia_-_marakesh.jpg",
+      "title": "Mosquée de la Koutoubia - marakesh.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Koutoubia minaret and gardens in Marrakech",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/rak-destination-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rak-destination-photo-960.jpg",
+          "w": 960
+        }
+      ]
     }
   }
 }

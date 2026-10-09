@@ -1,0 +1,192 @@
+{
+  "publishedAt": "2026-10-10",
+  "cities": [
+    "kyo",
+    "png",
+    "ktm",
+    "rak"
+  ],
+  "guides": [
+    {
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "city": "bkk",
+      "sources": [
+        "bkk-airport-aot",
+        "bkk-bts-official"
+      ]
+    },
+    {
+      "slug": "bangkok-three-day-first-visit",
+      "city": "bkk",
+      "sources": [
+        "arun-tat",
+        "talatnoi-tat",
+        "bkk-bts-official"
+      ]
+    },
+    {
+      "slug": "chiang-mai-doi-suthep-visit",
+      "city": "cnx",
+      "sources": [
+        "doi-suthep-tat",
+        "cm-government"
+      ]
+    },
+    {
+      "slug": "chiang-mai-two-day-itinerary",
+      "city": "cnx",
+      "sources": [
+        "cm-government",
+        "doi-suthep-tat",
+        "cm-food-tat"
+      ]
+    },
+    {
+      "slug": "phuket-airport-to-beach-transfer",
+      "city": "hkt",
+      "sources": [
+        "phuket-bus-official",
+        "phuket-bus-boarding"
+      ]
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "city": "hkt",
+      "sources": [
+        "phuket-oldtown-tat",
+        "phuket-beaches-government",
+        "phuket-bus-official"
+      ]
+    },
+    {
+      "slug": "kyoto-first-visit-two-area-plan",
+      "city": "kyo",
+      "sources": [
+        "kyoto-respect"
+      ]
+    },
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "city": "png",
+      "sources": [
+        "penang-heritage-trail"
+      ]
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "city": "ktm",
+      "sources": [
+        "nepal-swayambhu",
+        "nepal-boudha"
+      ]
+    },
+    {
+      "slug": "marrakech-medina-first-visit",
+      "city": "rak",
+      "sources": [
+        "morocco-medina"
+      ]
+    }
+  ],
+  "photos": {
+    "kyo-destination-photo": {
+      "src": "/images/kyo-destination-photo.jpg",
+      "by": "Ankur P from Pune, India",
+      "lic": "CC BY 2.0",
+      "licUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kiyomizudera_Temple_Kyoto_2017_(35450804063).jpg",
+      "title": "Kiyomizudera Temple Kyoto 2017 (35450804063).jpg",
+      "w": 1600,
+      "h": 982,
+      "alt": "Temple landscape in Kyoto",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/kyo-destination-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kyo-destination-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "png-destination-photo": {
+      "src": "/images/png-destination-photo.jpg",
+      "by": "CEphoto, Uwe Aranas",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Penang_Malaysia_The-George-Town-Dispensary-01.jpg",
+      "title": "Penang Malaysia The-George-Town-Dispensary-01.jpg",
+      "w": 1600,
+      "h": 1066,
+      "alt": "Historic George Town Dispensary building in Penang",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/png-destination-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/png-destination-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "ktm-destination-photo": {
+      "src": "/images/ktm-destination-photo.jpg",
+      "by": "Bijay Chaurasia",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Swayambhunath_Stupa_-Kathmandu_Nepal-0336.jpg",
+      "title": "Swayambhunath Stupa -Kathmandu Nepal-0336.jpg",
+      "w": 1066,
+      "h": 1600,
+      "alt": "Swayambhunath stupa in Kathmandu",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/ktm-destination-photo-480.jpg",
+          "w": 320
+        },
+        {
+          "src": "/images/ktm-destination-photo-960.jpg",
+          "w": 639
+        }
+      ]
+    },
+    "rak-destination-photo": {
+      "src": "/images/rak-destination-photo.jpg",
+      "by": "Baca12",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mosqu%C3%A9e_de_la_Koutoubia_-_marakesh.jpg",
+      "title": "Mosquée de la Koutoubia - marakesh.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Koutoubia minaret and gardens in Marrakech",
+      "note": "Reference photograph; not a recent inspection or a complete depiction of this itinerary.",
+      "variants": [
+        {
+          "src": "/images/rak-destination-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rak-destination-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    }
+  },
+  "note": "Original desk-researched planning advice; no fabricated field visits, fixed fares or search-volume claims.",
+  "places": [
+    "kyo-higashiyama",
+    "kyo-arashiyama",
+    "png-esplanade",
+    "png-heritage-streets",
+    "ktm-swayambhu",
+    "ktm-boudha",
+    "rak-jemaa",
+    "rak-menara"
+  ]
+}
