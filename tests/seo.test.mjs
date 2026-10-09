@@ -1,0 +1,6 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {jsonLd,articleSchema,breadcrumbSchema,siteSchema,sectionId} from '../src/lib/seo.mjs';
+test('JSON-LD cannot terminate its script element',()=>{const input={headline:'</script><script>alert(1)</script>'};const encoded=jsonLd(input);assert.equal(encoded.includes('<'),false);assert.deepEqual(JSON.parse(encoded),input)});
+test('public schema uses absolute identity and real supplied dates only',()=>{const s={slug:'city-walk',title:'A walk',dek:'A route'};const c={origin:'https://sidestreet.test',brand:'Sidestreet',image:'/images/walk.jpg'};const a=articleSchema(s,c);assert.equal(a.url,'https://sidestreet.test/guides/city-walk');assert.equal(a.author.url,'https://sidestreet.test/about');assert.equal(a.image[0],'https://sidestreet.test/images/walk.jpg');assert.equal('datePublished' in a,false);assert.equal('dateModified' in a,false);assert.equal(articleSchema(s,{...c,origin:''}),null);assert.equal(siteSchema('',c.brand),null)});
+test('breadcrumbs and section IDs are stable and distinct',()=>{const b=breadcrumbSchema('https://sidestreet.test',[['Home','/'],['A walk','/guides/walk']]);assert.equal(b.itemListElement[1].position,2);assert.equal(b.itemListElement[1].item,'https://sidestreet.test/guides/walk');assert.notEqual(sectionId('What to eat',0),sectionId('What to eat',1))});

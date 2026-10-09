@@ -1,0 +1,6 @@
+import StructuredData from '@/components/structured-data';
+import {collectionSchema,breadcrumbSchema} from '@/lib/seo.mjs';
+import {data,config,metadata as pageMetadata} from '@/lib/content';
+import {CityCard} from '@/components/editorial';
+export const metadata=pageMetadata('City atlas',`Explore all ${data.cities.length} Sidestreet city guides.`,undefined,'/cities');
+export default function Cities(){return <main id="main" className="container directory"><StructuredData value={collectionSchema(config.siteUrl,'City atlas','/cities',data.cities.map(c=>[c.name,'/city/'+c.slug]))}/><StructuredData value={breadcrumbSchema(config.siteUrl,[['Home','/'],['City atlas','/cities']])}/><div className="page-heading"><span className="eyebrow">GEOGRAPHIC FIELD GUIDES / {data.cities.length} DESTINATIONS</span><h1>THE CITY<br/><span className="stroke-text-dark">ATLAS.</span></h1><p>Pick a place. Find the local life. Explore {data.cities.length} cities across {new Set(data.cities.map(c=>c.country)).size} countries and territories.</p></div>{data.regions.map(region=><section className="editorial-section" key={region} id={region.toLowerCase().replaceAll(' ','-')}><div className="section-title"><h2>{region}</h2></div><div className="city-grid">{data.cities.filter(c=>c.region===region).map(c=><CityCard key={c.id} city={c}/>)}</div></section>)}</main>}

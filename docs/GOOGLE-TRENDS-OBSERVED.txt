@@ -1,0 +1,3 @@
+Browser tab: 14, Title: "solo travel, slow travel - Explore - Google Trends", URL: "https://trends.google.com/trends/explore?q=solo%20travel,slow%20travel&hl=en".
+There has been no change in the accessibility tree.
+The focused UI element is 0 AXWebArea solo travel, slow travel - Explore - Google Trends, URL: trends.google.com/trends/explore?q=solo%20travel,slow%20travel&hl=en
