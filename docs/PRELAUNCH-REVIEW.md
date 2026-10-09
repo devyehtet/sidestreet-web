@@ -41,3 +41,7 @@ Potential revenue work comes after the content/contact gates: apply to relevant 
 - Two modern-artwork photographs withdrawn; existing venue/coastal images used instead. Original records retained in HELD-IMAGE-RECORDS.json and deleted assets recoverable in Git history. Current public image count: 126 (120 Wikimedia photographs and six atlas illustrations).
 - All 59 guides / 135 places / 126 images pass the structural audit with no warnings. ESLint, all 10 tests and the production build pass. These checks do not certify every factual claim, copyright permission or Google approval.
 - Publisher requested that the planned email remain unchanged; no provider purchased, mailbox created or delivery claim made. Contact and complete editorial/rights review remain application blockers.
+
+## Independent editorial composition
+
+All 59 guide records and 135 place descriptions edited on 2026-10-09. Thirty-two guides received new main prose; twenty-seven retained existing independent detailed planning with new introductions or decision support. No exact duplicate cross-guide body/section paragraphs were found. This internal comparison does not establish web-wide uniqueness or complete factual and image-rights clearance. See ORIGINAL-CONTENT-EDIT.md. AdSense publisher verification is complete; review submission was reported by the publisher. Ads remain disabled.

@@ -1,75 +1,69 @@
 # Editorial review inventory
 
-Inventory refreshed on 2026-10-09. All 59 guide records and 135 place records passed structural, reference and local-asset checks. This is not a complete factual or originality certification. Ten core guides and four additional guides were improved earlier; this pass made substantive desk edits to another 24 guide records, with overlap. Source links are evidence for selected claims, not every sentence.
+Writing pass completed 2026-10-09 across 59 guides and 135 place descriptions. Thirty-two guides received new main article prose, sections, questions and planning summaries; twenty-seven retained previously independently authored detailed plans with fresh introductions or distinct decision-support sections. All place descriptions were recomposed. This records the editing work, not a legal clearance or a complete current-facts review.
 
-Article words include title, summary, paragraphs, item commentary, sections, tips, FAQs and planning tables. They exclude repeated place cards and navigation. Word count is neither an AdSense minimum nor a quality score.
+Counts exclude repeated place cards and navigation. Word count is neither an AdSense minimum nor a quality score. Exact duplicate article paragraphs across different guides: none in this collection. This is an internal comparison, not a web-wide plagiarism test.
 
-| Guide | Article words | Research sources | Full review |
-| --- | ---: | ---: | --- |
-| [bangkok-night-markets](/guides/bangkok-night-markets) | 694 | 1 | Pending publisher review |
-| [bangkok-temples](/guides/bangkok-temples) | 736 | 5 | Pending publisher review |
-| [bangkok-street-food](/guides/bangkok-street-food) | 703 | 3 | Pending publisher review |
-| [bangkok-rooftops](/guides/bangkok-rooftops) | 314 | 2 | Pending publisher review |
-| [bangkok-chatuchak](/guides/bangkok-chatuchak) | 772 | 3 | Pending publisher review |
-| [bangkok-loy-krathong](/guides/bangkok-loy-krathong) | 521 | 3 | Pending publisher review |
-| [bangkok-biennale](/guides/bangkok-biennale) | 292 | 1 | Pending publisher review |
-| [bangkok-gigs](/guides/bangkok-gigs) | 419 | 7 | Pending publisher review |
-| [bangkok-talatnoi](/guides/bangkok-talatnoi) | 761 | 1 | Pending publisher review |
-| [bangkok-daytrips](/guides/bangkok-daytrips) | 789 | 1 | Pending publisher review |
-| [bangkok-hotels](/guides/bangkok-hotels) | 669 | 4 | Pending publisher review |
-| [chiang-mai-yi-peng](/guides/chiang-mai-yi-peng) | 539 | 2 | Pending publisher review |
-| [chiang-mai-markets](/guides/chiang-mai-markets) | 726 | 3 | Pending publisher review |
-| [chiang-mai-khaosoi](/guides/chiang-mai-khaosoi) | 693 | 2 | Pending publisher review |
-| [chiang-mai-oldcity](/guides/chiang-mai-oldcity) | 879 | 2 | Pending publisher review |
-| [phuket-vegetarian](/guides/phuket-vegetarian) | 555 | 2 | Pending publisher review |
-| [phuket-big-buddha](/guides/phuket-big-buddha) | 367 | 1 | Pending publisher review |
-| [phuket-beaches](/guides/phuket-beaches) | 789 | 1 | Pending publisher review |
-| [phuket-oldtown](/guides/phuket-oldtown) | 773 | 2 | Pending publisher review |
-| [yangon-thadingyut](/guides/yangon-thadingyut) | 464 | 2 | Pending publisher review |
-| [yangon-shwedagon](/guides/yangon-shwedagon) | 540 | 3 | Pending publisher review |
-| [yangon-circular](/guides/yangon-circular) | 300 | 3 | Pending publisher review |
-| [yangon-teashops](/guides/yangon-teashops) | 479 | 3 | Pending publisher review |
-| [yangon-walk](/guides/yangon-walk) | 601 | 2 | Pending publisher review |
-| [singapore-deepavali](/guides/singapore-deepavali) | 451 | 1 | Pending publisher review |
-| [singapore-hawker](/guides/singapore-hawker) | 543 | 3 | Pending publisher review |
-| [tokyo-listening](/guides/tokyo-listening) | 542 | 1 | Pending publisher review |
-| [tokyo-tsukiji](/guides/tokyo-tsukiji) | 526 | 2 | Pending publisher review |
-| [seoul-euljiro](/guides/seoul-euljiro) | 538 | 1 | Pending publisher review |
-| [kuala-lumpur-breakfast](/guides/kuala-lumpur-breakfast) | 516 | 2 | Pending publisher review |
-| [ho-chi-minh-city-coffee](/guides/ho-chi-minh-city-coffee) | 492 | 1 | Pending publisher review |
-| [london-lord-mayor](/guides/london-lord-mayor) | 429 | 1 | Pending publisher review |
-| [london-free](/guides/london-free) | 536 | 3 | Pending publisher review |
-| [lisbon-views](/guides/lisbon-views) | 506 | 3 | Pending publisher review |
-| [new-york-autumn](/guides/new-york-autumn) | 423 | 2 | Pending publisher review |
-| [new-york-slices](/guides/new-york-slices) | 493 | 2 | Pending publisher review |
-| [mexico-city-markets](/guides/mexico-city-markets) | 534 | 2 | Pending publisher review |
-| [buenos-aires-cafes](/guides/buenos-aires-cafes) | 464 | 2 | Pending publisher review |
-| [sydney-sculpture](/guides/sydney-sculpture) | 367 | 1 | Pending publisher review |
-| [sydney-pools](/guides/sydney-pools) | 429 | 2 | Pending publisher review |
-| [cape-town-hikes](/guides/cape-town-hikes) | 516 | 2 | Pending publisher review |
-| [world-festivals](/guides/world-festivals) | 386 | 4 | Pending publisher review |
-| [world-neighbourhoods](/guides/world-neighbourhoods) | 420 | 3 | Pending publisher review |
-| [world-trains](/guides/world-trains) | 485 | 1 | Pending publisher review |
-| [hanoi-old-quarter](/guides/hanoi-old-quarter) | 647 | 2 | Pending publisher review |
-| [siem-reap-angkor](/guides/siem-reap-angkor) | 672 | 2 | Pending publisher review |
-| [taipei-dadaocheng](/guides/taipei-dadaocheng) | 677 | 3 | Pending publisher review |
-| [hong-kong-harbour](/guides/hong-kong-harbour) | 674 | 2 | Pending publisher review |
-| [paris-seine-islands](/guides/paris-seine-islands) | 666 | 2 | Pending publisher review |
-| [istanbul-neighbourhoods-ferry](/guides/istanbul-neighbourhoods-ferry) | 636 | 3 | Pending publisher review |
-| [hanoi-culture-choices](/guides/hanoi-culture-choices) | 598 | 1 | Pending publisher review |
-| [siem-reap-craft-afternoon](/guides/siem-reap-craft-afternoon) | 585 | 1 | Pending publisher review |
-| [taipei-beitou-museum](/guides/taipei-beitou-museum) | 571 | 2 | Pending publisher review |
-| [hong-kong-tram-first-ride](/guides/hong-kong-tram-first-ride) | 580 | 2 | Pending publisher review |
-| [paris-carnavalet-budget](/guides/paris-carnavalet-budget) | 547 | 1 | Pending publisher review |
-| [istanbul-bazaar-shopping](/guides/istanbul-bazaar-shopping) | 603 | 3 | Pending publisher review |
-| [tokyo-solo-asakusa](/guides/tokyo-solo-asakusa) | 699 | 2 | Pending publisher review |
-| [taipei-slow-weekend](/guides/taipei-slow-weekend) | 696 | 4 | Pending publisher review |
-| [mexico-city-food-outing](/guides/mexico-city-food-outing) | 713 | 2 | Pending publisher review |
+| Guide | Article words | Sources | Writing pass | Full factual/rights review |
+| --- | ---: | ---: | --- | --- |
+| [bangkok-night-markets](/guides/bangkok-night-markets) | 634 | 1 | Completed | Pending |
+| [bangkok-temples](/guides/bangkok-temples) | 636 | 5 | Completed | Pending |
+| [bangkok-street-food](/guides/bangkok-street-food) | 685 | 3 | Completed | Pending |
+| [bangkok-rooftops](/guides/bangkok-rooftops) | 524 | 2 | Completed | Pending |
+| [bangkok-chatuchak](/guides/bangkok-chatuchak) | 865 | 3 | Completed | Pending |
+| [bangkok-loy-krathong](/guides/bangkok-loy-krathong) | 364 | 3 | Completed | Pending |
+| [bangkok-biennale](/guides/bangkok-biennale) | 351 | 1 | Completed | Pending |
+| [bangkok-gigs](/guides/bangkok-gigs) | 356 | 7 | Completed | Pending |
+| [bangkok-talatnoi](/guides/bangkok-talatnoi) | 853 | 1 | Completed | Pending |
+| [bangkok-daytrips](/guides/bangkok-daytrips) | 892 | 1 | Completed | Pending |
+| [bangkok-hotels](/guides/bangkok-hotels) | 855 | 4 | Completed | Pending |
+| [chiang-mai-yi-peng](/guides/chiang-mai-yi-peng) | 344 | 2 | Completed | Pending |
+| [chiang-mai-markets](/guides/chiang-mai-markets) | 940 | 3 | Completed | Pending |
+| [chiang-mai-khaosoi](/guides/chiang-mai-khaosoi) | 852 | 2 | Completed | Pending |
+| [chiang-mai-oldcity](/guides/chiang-mai-oldcity) | 987 | 2 | Completed | Pending |
+| [phuket-vegetarian](/guides/phuket-vegetarian) | 345 | 2 | Completed | Pending |
+| [phuket-big-buddha](/guides/phuket-big-buddha) | 307 | 1 | Completed | Pending |
+| [phuket-beaches](/guides/phuket-beaches) | 977 | 1 | Completed | Pending |
+| [phuket-oldtown](/guides/phuket-oldtown) | 887 | 2 | Completed | Pending |
+| [yangon-thadingyut](/guides/yangon-thadingyut) | 309 | 2 | Completed | Pending |
+| [yangon-shwedagon](/guides/yangon-shwedagon) | 316 | 3 | Completed | Pending |
+| [yangon-circular](/guides/yangon-circular) | 335 | 3 | Completed | Pending |
+| [yangon-teashops](/guides/yangon-teashops) | 333 | 3 | Completed | Pending |
+| [yangon-walk](/guides/yangon-walk) | 689 | 2 | Completed | Pending |
+| [singapore-deepavali](/guides/singapore-deepavali) | 323 | 1 | Completed | Pending |
+| [singapore-hawker](/guides/singapore-hawker) | 345 | 3 | Completed | Pending |
+| [tokyo-listening](/guides/tokyo-listening) | 342 | 1 | Completed | Pending |
+| [tokyo-tsukiji](/guides/tokyo-tsukiji) | 657 | 2 | Completed | Pending |
+| [seoul-euljiro](/guides/seoul-euljiro) | 325 | 1 | Completed | Pending |
+| [kuala-lumpur-breakfast](/guides/kuala-lumpur-breakfast) | 329 | 2 | Completed | Pending |
+| [ho-chi-minh-city-coffee](/guides/ho-chi-minh-city-coffee) | 340 | 1 | Completed | Pending |
+| [london-lord-mayor](/guides/london-lord-mayor) | 326 | 1 | Completed | Pending |
+| [london-free](/guides/london-free) | 326 | 3 | Completed | Pending |
+| [lisbon-views](/guides/lisbon-views) | 327 | 3 | Completed | Pending |
+| [new-york-autumn](/guides/new-york-autumn) | 369 | 2 | Completed | Pending |
+| [new-york-slices](/guides/new-york-slices) | 352 | 2 | Completed | Pending |
+| [mexico-city-markets](/guides/mexico-city-markets) | 321 | 2 | Completed | Pending |
+| [buenos-aires-cafes](/guides/buenos-aires-cafes) | 343 | 2 | Completed | Pending |
+| [sydney-sculpture](/guides/sydney-sculpture) | 318 | 1 | Completed | Pending |
+| [sydney-pools](/guides/sydney-pools) | 328 | 2 | Completed | Pending |
+| [cape-town-hikes](/guides/cape-town-hikes) | 344 | 2 | Completed | Pending |
+| [world-festivals](/guides/world-festivals) | 335 | 4 | Completed | Pending |
+| [world-neighbourhoods](/guides/world-neighbourhoods) | 425 | 3 | Completed | Pending |
+| [world-trains](/guides/world-trains) | 620 | 1 | Completed | Pending |
+| [hanoi-old-quarter](/guides/hanoi-old-quarter) | 739 | 2 | Completed | Pending |
+| [siem-reap-angkor](/guides/siem-reap-angkor) | 780 | 2 | Completed | Pending |
+| [taipei-dadaocheng](/guides/taipei-dadaocheng) | 778 | 3 | Completed | Pending |
+| [hong-kong-harbour](/guides/hong-kong-harbour) | 773 | 2 | Completed | Pending |
+| [paris-seine-islands](/guides/paris-seine-islands) | 765 | 2 | Completed | Pending |
+| [istanbul-neighbourhoods-ferry](/guides/istanbul-neighbourhoods-ferry) | 733 | 3 | Completed | Pending |
+| [hanoi-culture-choices](/guides/hanoi-culture-choices) | 690 | 1 | Completed | Pending |
+| [siem-reap-craft-afternoon](/guides/siem-reap-craft-afternoon) | 686 | 1 | Completed | Pending |
+| [taipei-beitou-museum](/guides/taipei-beitou-museum) | 660 | 2 | Completed | Pending |
+| [hong-kong-tram-first-ride](/guides/hong-kong-tram-first-ride) | 675 | 2 | Completed | Pending |
+| [paris-carnavalet-budget](/guides/paris-carnavalet-budget) | 639 | 1 | Completed | Pending |
+| [istanbul-bazaar-shopping](/guides/istanbul-bazaar-shopping) | 694 | 3 | Completed | Pending |
+| [tokyo-solo-asakusa](/guides/tokyo-solo-asakusa) | 793 | 2 | Completed | Pending |
+| [taipei-slow-weekend](/guides/taipei-slow-weekend) | 787 | 4 | Completed | Pending |
+| [mexico-city-food-outing](/guides/mexico-city-food-outing) | 803 | 2 | Completed | Pending |
 
-All place records now have a venue or research link; 23 remaining source gaps were closed in this pass. Operating hours and prices still require confirmation before travel. All place cards carry that check-before-going flag.
-
-The public calendar has 15 eligible records, including recurring entries; 12 dated events were compared with linked official organiser, venue, public-holiday or ticketing sources on 2026-10-09. 12 dated records without a confirmed programme are held as research and excluded from rendering. Google visibility and ticket availability are not guaranteed by a source link.
-
-The live image collection has 120 Wikimedia photo records and six original atlas illustrations. Creator and licence metadata for the original 122 Wikimedia records were checked earlier on 2026-10-09. Two photographs depicting modern artworks were withdrawn because underlying artwork permission was not established; see HELD-IMAGE-RECORDS.json. The remaining collection still needs publisher review of additional restrictions and rights beyond the photographer licence.
-
-Keep editorialReviewComplete false until a complete factual, originality and rights review is actually signed off. admin@sidestreetguides.com is retained at the publisher's request; it is not an active mailbox and contactEmailReady remains false.
+All 135 place descriptions have a venue or research link. Current operations still require confirmation. Images were not licensed anew by this writing pass: 120 Wikimedia photos and six original illustrations remain. Keep editorialReviewComplete false until factual, originality and additional image-rights checks are actually complete. The requested contact mailbox remains inactive.

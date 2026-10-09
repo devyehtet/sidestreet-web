@@ -24,3 +24,7 @@ Source consultation: 2026-10-08. One concise, independently worded section added
 Yangon uses related Burmese food coverage of a Singapore restaurant, explicitly labelled with its actual location. KL, Seoul and Mexico City sources are archives used only for cultural context. Ho Chi Minh City discloses the original Grab Dine Out association. No old prices, schedules, rankings or entire reviews have been imported.
 
 Before publication, continue the checks in EDITORIAL-REVIEW.md, including existing guide facts and image licences. Source consultation is not a completed site-wide editorial review.
+
+## Later composition pass — 2026-10-09
+
+The 59-guide writing pass supersedes the related-reading sections described above. This table is retained as a historical research record, not a list of paragraphs currently published. Primary references and any retained background sources remain credited. See ORIGINAL-CONTENT-EDIT.md for the scope and limits of the new composition.
