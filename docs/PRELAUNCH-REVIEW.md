@@ -2,7 +2,7 @@
 
 ## Implemented
 
-- Publisher brand: Sidestreet Guides. Requested email: admin@sidestreetguides.com. Mailbox is not active; contactEmailReady is false and the public contact page labels this clearly. Activate only after the mailbox receives and sends a real test message.
+- Publisher brand: Sidestreet Guides. Public contact admin@sidestreetguides.com activated on 2026-10-10 as an alias of the existing publisher inbox. Receiving verification mail and sending from the alias were tested; contactEmailReady is true. No additional mailbox licence purchased.
 - Ten core guides improved: Bangkok night markets, Chatuchak, Talat Noi, train day trips, riverside hotels; Chiang Mai markets, khao soi, Old City; Phuket beaches and Old Town.
 - Added outing plans, comparison tables, practical budget methods and official operator/tourism references where available. Removed misleading blanket claims about safe swimming seasons, fixed train stations, hotel shuttle eligibility, universal food ingredients and weekday market access. Planning suggestions are distinguished from current operator facts.
 - Photo notes now appear beside full article/place credits. Two incomplete named credits corrected from source files. The Patong image is explicitly an archive image from 27 December 2004 after the tsunami, not current beach conditions.
@@ -22,7 +22,7 @@ Added nine place references to retrieved official operator/tourism/heritage list
 
 ## Remaining application blockers
 
-1. Configure a working public mailbox and verify delivery. No MX records were returned by the DNS check on 2026-10-09.
+1. Email blocker resolved on 2026-10-10: Google Workspace alias activated, public MX/SPF/DKIM records configured and delivery tested. The 2026-10-09 missing-MX result is historical.
 2. Finish factual and originality review across all remaining guides, place listings and events. This update verifies selected source information, not every historical claim or current venue detail. Keep editorialReviewComplete false.
 3. Check every image's current source licence and any additional restrictions before asserting complete rights clearance. This update addresses two specific credit defects and caption transparency, not a legal clearance of the collection.
 4. Confirm Google can fetch the sitemap and record the actual result; homepage indexing alone does not prove all guides are indexed.
@@ -40,8 +40,12 @@ Potential revenue work comes after the content/contact gates: apply to relevant 
 - Twelve dated events checked against official organiser, venue, ticketing or government public-holiday pages. Unconfirmed dated entries retained as research and excluded from the public calendar, with a regression test including recurring research entries.
 - Two modern-artwork photographs withdrawn; existing venue/coastal images used instead. Original records retained in HELD-IMAGE-RECORDS.json and deleted assets recoverable in Git history. Current public image count: 126 (120 Wikimedia photographs and six atlas illustrations).
 - All 59 guides / 135 places / 126 images pass the structural audit with no warnings. ESLint, all 10 tests and the production build pass. These checks do not certify every factual claim, copyright permission or Google approval.
-- Publisher requested that the planned email remain unchanged; no provider purchased, mailbox created or delivery claim made. Contact and complete editorial/rights review remain application blockers.
+- At the 2026-10-09 source pass, the publisher requested that the planned email remain unchanged and delivery was not yet verified. This historical email blocker was resolved on 2026-10-10; complete editorial/rights review remains outstanding.
 
 ## Independent editorial composition
 
 All 59 guide records and 135 place descriptions edited on 2026-10-09. Thirty-two guides received new main prose; twenty-seven retained existing independent detailed planning with new introductions or decision support. No exact duplicate cross-guide body/section paragraphs were found. This internal comparison does not establish web-wide uniqueness or complete factual and image-rights clearance. See ORIGINAL-CONTENT-EDIT.md. AdSense publisher verification is complete; review submission was reported by the publisher. Ads remain disabled.
+
+## Business email activation — 2026-10-10
+
+The existing Google Workspace subscription was reused. sidestreetguides.com was verified and Gmail activated; admin@sidestreetguides.com is an alternate address for the existing publisher inbox, with Gmail Send mail as verified and replies configured to use the address that received the message. Public MX, SPF and DKIM records were checked. Google verification mail arrived and an alias sender test was sent successfully. The website contact link is enabled. This is an alias with the existing login, not a separately licensed mailbox.

@@ -15,4 +15,4 @@ All guide/place/image references resolve locally. No identical article body/sect
 
 ## What remains separate
 
-A fresh composition does not make every underlying operating detail current. Existing table information, visitor charges, event programmes and transport still need their cited source checks at the time of use. Photograph credits do not clear every underlying depicted work. The full editorial/rights clearance flag remains false, the mailbox is not active and Google decides AdSense approval.
+A fresh composition does not make every underlying operating detail current. Existing table information, visitor charges, event programmes and transport still need their cited source checks at the time of use. Photograph credits do not clear every underlying depicted work. The full editorial/rights clearance flag remains false, the public contact alias was activated and delivery tested on 2026-10-10, and Google decides AdSense approval.
