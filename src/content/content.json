@@ -676,6 +676,106 @@
       "name": "Borough Market — plan your visit",
       "url": "https://boroughmarket.org.uk/visit-us/",
       "consultedAt": "2026-10-09"
+    },
+    "bcn-gothic-official": {
+      "name": "Turisme de Barcelona — Gothic Quarter",
+      "url": "https://bid.barcelonaturisme.com/wv3/en/page/1052/gothic-quarter.html",
+      "consultedAt": "2026-10-10"
+    },
+    "bcn-guell-official": {
+      "name": "Park Güell — official visitor information",
+      "url": "https://parkguell.barcelona/en",
+      "consultedAt": "2026-10-10"
+    },
+    "rom-pantheon-official": {
+      "name": "Turismo Roma — Pantheon",
+      "url": "https://www.turismoroma.it/it/luoghi/pantheon",
+      "consultedAt": "2026-10-10"
+    },
+    "rom-colosseum-official": {
+      "name": "Colosseum Archaeological Park — opening times and tickets",
+      "url": "https://colosseo.it/en/opening-times-and-tickets/",
+      "consultedAt": "2026-10-10"
+    },
+    "rom-forum-official": {
+      "name": "Turismo Roma — Roman Forum and Palatine",
+      "url": "https://turismoroma.it/en/places/roman-forum-and-palatine",
+      "consultedAt": "2026-10-10"
+    },
+    "ams-rijks-official": {
+      "name": "Rijksmuseum — admissions, start times and opening hours",
+      "url": "https://www.rijksmuseum.nl/en/visit/practical-info/opening-hours-and-prices",
+      "consultedAt": "2026-10-10"
+    },
+    "ams-canals-official": {
+      "name": "I amsterdam — Canal Ring and City Centre",
+      "url": "https://www.iamsterdam.com/en/explore/neighbourhoods/centrum",
+      "consultedAt": "2026-10-10"
+    },
+    "ams-ndsm-official": {
+      "name": "I amsterdam — NDSM neighbourhood",
+      "url": "https://www.iamsterdam.com/ontdek/buurten/ndsm",
+      "consultedAt": "2026-10-10"
+    },
+    "ams-ferry-official": {
+      "name": "GVB — ferry routes and journey planning",
+      "url": "https://gvb.nl/en/travel-products/ferry-tickets",
+      "consultedAt": "2026-10-10"
+    },
+    "ber-gate-official": {
+      "name": "Berlin.de — Brandenburg Gate",
+      "url": "https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html",
+      "consultedAt": "2026-10-10"
+    },
+    "ber-museums-official": {
+      "name": "visitBerlin — Museum Island",
+      "url": "https://www.visitberlin.de/en/museum-island-in-berlin",
+      "consultedAt": "2026-10-10"
+    },
+    "ber-tiergarten-official": {
+      "name": "Berlin.de — Tiergarten",
+      "url": "https://www.berlin.de/en/attractions-and-sights/3560778-3104052-tiergarten.en.html",
+      "consultedAt": "2026-10-10"
+    },
+    "dxb-burdubai-official": {
+      "name": "Visit Dubai — Bur Dubai neighbourhood",
+      "url": "https://www.visitdubai.com/en/explore-dubai/dubai-neighbourhoods/bur-dubai",
+      "consultedAt": "2026-10-10"
+    },
+    "dxb-seef-official": {
+      "name": "Visit Dubai — Souk Al Seef",
+      "url": "https://www.visitdubai.com/en/articles/old-meets-new-at-al-seef-district",
+      "consultedAt": "2026-10-10"
+    },
+    "dxb-abra-official": {
+      "name": "Visit Dubai — Dubai Creek abra crossing",
+      "url": "https://www.visitdubai.com/en/places-to-visit/abra-creek-crossing",
+      "consultedAt": "2026-10-10"
+    },
+    "dxb-rta-official": {
+      "name": "Dubai RTA — current Creek abra routes",
+      "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
+      "consultedAt": "2026-10-10"
+    },
+    "ubd-tourism-official": {
+      "name": "Indonesia Ministry of Tourism — Ubud",
+      "url": "https://www.indonesia.travel/th/en/destination/bali-nusa-tenggara/bali/ubud",
+      "consultedAt": "2026-10-10"
+    },
+    "ubd-palace-official": {
+      "name": "Indonesia Ministry of Tourism — Ubud Palace",
+      "url": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali/istana-ubud",
+      "consultedAt": "2026-10-10"
+    },
+    "ubd-forest-official": {
+      "name": "Sacred Monkey Forest Sanctuary — visits and map",
+      "url": "https://monkeyforestubud.com/visit/",
+      "consultedAt": "2026-10-10"
+    },
+    "ubd-forest-rules": {
+      "name": "Sacred Monkey Forest Sanctuary — guidelines",
+      "url": "https://monkeyforestubud.com/guidelines-faq/",
+      "consultedAt": "2026-10-10"
     }
   },
   "cities": [
@@ -1165,6 +1265,138 @@
       ],
       "timezone": "Europe/Istanbul",
       "img": "ist-square-photo"
+    },
+    {
+      "id": "bcn",
+      "name": "Barcelona",
+      "country": "Spain",
+      "region": "Europe",
+      "slug": "barcelona",
+      "lat": 41.3851,
+      "lng": 2.1734,
+      "money": "Euro (€)",
+      "cur": "€",
+      "utc": "UTC+1 / UTC+2 in daylight saving time",
+      "airport": "BCN · Josep Tarradellas Barcelona–El Prat",
+      "transit": "Metro, buses and walking; choose the airport service for your terminal",
+      "timezone": "Europe/Madrid",
+      "tz": [
+        "Europe/Madrid"
+      ],
+      "color": "#9b613d",
+      "line": "Old-city squares, a hillside park and time to sit between architecture stops.",
+      "code": "BCN",
+      "img": "bcn-cathedral-photo"
+    },
+    {
+      "id": "rom",
+      "name": "Rome",
+      "country": "Italy",
+      "region": "Europe",
+      "slug": "rome",
+      "lat": 41.9028,
+      "lng": 12.4964,
+      "money": "Euro (€)",
+      "cur": "€",
+      "utc": "UTC+1 / UTC+2 in daylight saving time",
+      "airport": "FCO · Fiumicino; CIA · Ciampino",
+      "transit": "Metro, buses and walking; verify the route from your actual arrival airport",
+      "timezone": "Europe/Rome",
+      "tz": [
+        "Europe/Rome"
+      ],
+      "color": "#ac7058",
+      "line": "A dome, an ancient arena and a day with room for a proper lunch.",
+      "code": "ROM",
+      "img": "rom-pantheon-photo"
+    },
+    {
+      "id": "ams",
+      "name": "Amsterdam",
+      "country": "Netherlands",
+      "region": "Europe",
+      "slug": "amsterdam",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "money": "Euro (€)",
+      "cur": "€",
+      "utc": "UTC+1 / UTC+2 in daylight saving time",
+      "airport": "AMS · Amsterdam Schiphol",
+      "transit": "Trams, metro, trains and ferries; save the exact stop and route direction",
+      "timezone": "Europe/Amsterdam",
+      "tz": [
+        "Europe/Amsterdam"
+      ],
+      "color": "#6b777e",
+      "line": "Museum rooms, canal-side walks and a ferry trip with its own purpose.",
+      "code": "AMS",
+      "img": "ams-rijksmuseum-photo"
+    },
+    {
+      "id": "ber",
+      "name": "Berlin",
+      "country": "Germany",
+      "region": "Europe",
+      "slug": "berlin",
+      "lat": 52.52,
+      "lng": 13.405,
+      "money": "Euro (€)",
+      "cur": "€",
+      "utc": "UTC+1 / UTC+2 in daylight saving time",
+      "airport": "BER · Berlin Brandenburg",
+      "transit": "U-Bahn, S-Bahn, trams and buses; check fare zones for airport journeys",
+      "timezone": "Europe/Berlin",
+      "tz": [
+        "Europe/Berlin"
+      ],
+      "color": "#737f69",
+      "line": "City history, one carefully chosen museum and an unhurried park break.",
+      "code": "BER",
+      "img": "ber-gate-photo"
+    },
+    {
+      "id": "dxb",
+      "name": "Dubai",
+      "country": "United Arab Emirates",
+      "region": "Asia",
+      "slug": "dubai",
+      "lat": 25.2048,
+      "lng": 55.2708,
+      "money": "UAE dirham (AED)",
+      "cur": "AED",
+      "utc": "UTC+4",
+      "airport": "DXB · Dubai International; DWC · Al Maktoum International",
+      "transit": "Metro, buses, taxis and Creek boats; confirm the boat route at the station",
+      "timezone": "Asia/Dubai",
+      "tz": [
+        "Asia/Dubai"
+      ],
+      "color": "#b08654",
+      "line": "Creek crossings, neighbourhood lanes and a waterfront afternoon beyond the skyline.",
+      "code": "DXB",
+      "img": "dxb-creek-photo"
+    },
+    {
+      "id": "ubd",
+      "name": "Ubud",
+      "country": "Indonesia",
+      "region": "Asia",
+      "slug": "ubud",
+      "lat": -8.5069,
+      "lng": 115.2625,
+      "money": "Indonesian rupiah (Rp)",
+      "cur": "Rp",
+      "utc": "UTC+8",
+      "airport": "DPS · I Gusti Ngurah Rai, Bali; onward road transfer to Ubud",
+      "transit": "Walking for selected central outings; arrange road transfers and collection points separately",
+      "timezone": "Asia/Makassar",
+      "tz": [
+        "Asia/Makassar"
+      ],
+      "color": "#698455",
+      "line": "A palace area, a forest visit and a ridge walk on separate, manageable outings.",
+      "code": "UBD",
+      "img": "ubd-forest-photo"
     }
   ],
   "stories": [
@@ -7011,6 +7243,752 @@
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
         "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
       }
+    },
+    {
+      "id": "barcelona-first-visit-neighbourhoods",
+      "slug": "barcelona-first-visit-neighbourhoods",
+      "city": "bcn",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Barcelona first visit: an old-city walk or a Park Güell afternoon?",
+      "dek": "Build a small architecture outing around one part of Barcelona, with a separate plan for hillside tickets and time to sit.",
+      "img": "bcn-cathedral-photo",
+      "src": [
+        "bcn-gothic-official",
+        "bcn-guell-official"
+      ],
+      "quickPlan": [
+        [
+          "Old-city option",
+          "Gothic Quarter squares, one selected interior and a seated meal."
+        ],
+        [
+          "Hillside option",
+          "Park Güell with a confirmed booking, approach and return journey."
+        ],
+        [
+          "Suggested time",
+          "Allow half a day for either option; do not treat them as one continuous walking circuit."
+        ]
+      ],
+      "body": [
+        "Barcelona becomes easier to plan when the old city and the hillside are treated as different outings. A walk around the Gothic Quarter can stay flexible: you can stop for an interior visit, sit down for lunch or finish early. Park Güell needs a more deliberate arrival plan, because a ticket and a route to the entrance are part of the experience.",
+        "Choose your priority before filling the afternoon. If you want narrow lanes, squares and changing street scenes, start with the old city. If Gaudí’s park is the main reason for the outing, reserve that visit first and let the rest of the day support it. Neither option needs a race through Barcelona’s most photographed landmarks."
+      ],
+      "sections": [
+        {
+          "h": "Give the Gothic Quarter a clear beginning and end",
+          "p": [
+            "Barcelona’s tourism service places the cathedral, civic buildings and historic streets within the Gothic Quarter. Use two or three saved landmarks as orientation points rather than attempting every lane. Our suggested start is the cathedral area, followed by a short circuit towards Plaça de Sant Jaume, with a meal or a rest before deciding whether to continue.",
+            "Choose an endpoint near the onward transport you intend to use. A compact loop lets you linger when a square interests you and return without retracing an entire morning. Look at street names when saving pins: a photograph of a bridge or doorway can be harder to relocate than the square you actually want. Leave working and residential entrances unobstructed."
+          ],
+          "sourceIds": [
+            "bcn-gothic-official"
+          ]
+        },
+        {
+          "h": "A cathedral landmark is different from an interior visit",
+          "p": [
+            "You can use Barcelona Cathedral to orient an outdoor walk while keeping the decision to go inside separate. Before committing to that visit, read the current visitor programme, permitted areas and any religious-service arrangements. Decide whether architecture, a specific interior or a guided explanation is the reason you want to enter.",
+            "Give the booking enough room for arrival and waiting. If the only purpose is a quick exterior look, keep that choice honest in your itinerary instead of counting it as a complete cathedral visit. A rooftop, tower or special experience should have its own confirmed access details; do not infer inclusion from a general admission headline."
+          ],
+          "sourceIds": [
+            "bcn-gothic-official"
+          ]
+        },
+        {
+          "h": "For Park Güell, choose the ticket before the transfer",
+          "p": [
+            "Park Güell’s official website states that tickets are sold in advance online and carries notices about work affecting visits. Read those notices alongside the ticket description, then save the entrance and the route that fits your group. Check which spaces your selected product includes rather than assuming every building is part of a basic visit.",
+            "Protect the period before entry. A meal reservation elsewhere in the city can create an unnecessary deadline if the approach takes longer than expected. Our suggestion is to keep one substantial park visit as the afternoon’s anchor and leave the period afterwards flexible. Ask the visitor service about mobility needs before purchasing instead of relying on a map’s walking estimate."
+          ],
+          "sourceIds": [
+            "bcn-guell-official"
+          ]
+        },
+        {
+          "h": "Spend on the part you actually want",
+          "p": [
+            "Make two small budgets: admissions and getting around in one column, meals and optional purchases in another. A neighbourhood walk may need no booked attraction at all, while a park afternoon has a defined admission decision. Compare those plans on the value they offer you, not on how many stops they contain.",
+            "After the main visit, decide whether another neighbourhood still sounds enjoyable. If everyone wants a seat, a meal is a complete and useful finish. Keep any extra architecture stop optional, and write down the correct place names if you want to return another day. A manageable first outing gives you a better basis for the next plan than a crowded checklist."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "faq": [
+        [
+          "Can I combine the Gothic Quarter and Park Güell?",
+          "You can, but they need a transfer and separate time allowances. This guide suggests choosing one as the main half-day outing."
+        ],
+        [
+          "Should I buy Park Güell tickets on arrival?",
+          "Check the official online booking page before travelling; it states that tickets are sold in advance online."
+        ],
+        [
+          "Does an outdoor cathedral stop include the interior?",
+          "No. Interior admission and visitor arrangements are separate from spending time in the surrounding square."
+        ]
+      ],
+      "planTable": {
+        "caption": "Two Barcelona outings to compare",
+        "headers": [
+          "Option",
+          "Main commitment",
+          "What to keep flexible"
+        ],
+        "rows": [
+          [
+            "Gothic Quarter",
+            "One compact old-city loop",
+            "Interior visit and lunch length"
+          ],
+          [
+            "Park Güell",
+            "Ticket, entrance and arrival route",
+            "Plans after the park"
+          ]
+        ]
+      },
+      "tips": [
+        "Keep the park entry separate from restaurant reservations.",
+        "Save exact squares and entrances, not only image search results."
+      ],
+      "items": [],
+      "places": [
+        "bcn-gothic-quarter",
+        "bcn-cathedral",
+        "bcn-park-guell"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "mins": 4
+    },
+    {
+      "id": "rome-pantheon-colosseum-planning",
+      "slug": "rome-pantheon-colosseum-planning",
+      "city": "rom",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Rome first visit: separate the Pantheon walk from the Colosseum booking",
+      "dek": "Compare a central-square outing with an archaeological visit, then build the day around the ticket and energy you actually have.",
+      "img": "rom-pantheon-photo",
+      "src": [
+        "rom-pantheon-official",
+        "rom-colosseum-official",
+        "rom-forum-official"
+      ],
+      "quickPlan": [
+        [
+          "Flexible outing",
+          "Pantheon area, a selected interior visit and lunch nearby."
+        ],
+        [
+          "Booked outing",
+          "Colosseum entry and a chosen Forum or Palatine route."
+        ],
+        [
+          "Suggested allowance",
+          "Give the archaeological outing half a day or longer if you want a slower visit."
+        ]
+      ],
+      "body": [
+        "A Rome itinerary can look short on a map and still feel full when it contains security queues, interior visits and a large archaeological landscape. The useful decision is not whether every famous name fits. It is whether you want a flexible walk around central squares or a visit organised around an archaeological-park ticket.",
+        "The Pantheon and Colosseum options serve different interests. One can be a focused building visit with room to sit afterwards; the other involves choosing a ticket product and reserving the Colosseum entry. Build your day around the option you care about most, then make lunch and the journey home part of the plan."
+      ],
+      "sections": [
+        {
+          "h": "Use the Pantheon square as a meeting point, not an admission ticket",
+          "p": [
+            "Turismo Roma describes the Pantheon as a monument that is also a religious building. Its visitor listing notes that arrangements can change around celebrations. If the interior is your priority, consult the linked official admission information first and keep the square visit separate from the building visit.",
+            "Our suggested central outing is deliberately small: arrive near Piazza della Rotonda, make the interior decision, then choose a meal or a short walk rather than immediately chasing another reservation. Pick a meeting point that everyone can identify. Allow one person to pause without making the rest of the group lose a booked entrance elsewhere."
+          ],
+          "sourceIds": [
+            "rom-pantheon-official"
+          ]
+        },
+        {
+          "h": "Read the Colosseum product as a list of permissions",
+          "p": [
+            "The archaeological park’s ticket page distinguishes products and requires a reserved Colosseum entry slot. Start with the official page and record the product name, visit date, entry time and included areas. Do not assume a photograph of the arena or underground rooms describes the access in every ticket.",
+            "Before paying, compare what the product offers with the visit you actually want. A guide, an audio product and access to additional areas can be separate choices. Save the confirmation where it can be retrieved at the entrance and read the visitor rules on bags and identification. The goal is a clear booking, not an impressive collection of ticket names."
+          ],
+          "sourceIds": [
+            "rom-colosseum-official"
+          ]
+        },
+        {
+          "h": "Give the Forum and Palatine their own energy budget",
+          "p": [
+            "The Roman Forum and Palatine form an extensive archaeological landscape rather than one quick room after the arena. Use the official site information to choose an approach and decide how much of that landscape you want to cover. An exterior viewpoint is not the same as entering the archaeological area.",
+            "After the Colosseum, check whether the group still wants a long outdoor visit. Choose a shorter circuit if that better matches the day, while checking how your ticket’s validity and entry conditions work. Avoid adding another timed attraction simply because its map pin appears close. Walking surfaces, standing and the available breaks matter as much as straight-line distance."
+          ],
+          "sourceIds": [
+            "rom-forum-official"
+          ]
+        },
+        {
+          "h": "Keep lunch outside the ticket calculation",
+          "p": [
+            "Treat admission spending, local transport and meals as separate decisions. A ticket that combines sites does not make the time or energy needed to visit them disappear. Our planning allowance is half a day for a selective archaeological outing, with more room if you want to read, rest or examine several areas slowly.",
+            "Arrange the meal after the main commitment with enough flexibility for a longer visit. If you have a train, flight or evening booking, work backwards from that deadline and include the return journey. On a shorter day, one completed priority is preferable to leaving several places half visited. Save the unused option for a second outing instead of making it compulsory."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "faq": [
+        [
+          "Should the Pantheon and Colosseum be on the same day?",
+          "They can be, but this guide treats them as separate outings so a timed archaeological visit is not squeezed into a central-square walk."
+        ],
+        [
+          "Does every Colosseum ticket include underground access?",
+          "No. Only expect access that the selected official ticket product explicitly includes."
+        ],
+        [
+          "Is the Forum a quick extra after the Colosseum?",
+          "Not necessarily. Choose a route and energy allowance for the archaeological landscape rather than treating it as a single room."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the structure of your Rome outing",
+        "headers": [
+          "Plan",
+          "Booking decision",
+          "Suggested finish"
+        ],
+        "rows": [
+          [
+            "Pantheon area",
+            "Check interior admission",
+            "Lunch and a flexible square walk"
+          ],
+          [
+            "Colosseum and selected archaeological area",
+            "Product and entry slot",
+            "Meal before another commitment"
+          ]
+        ]
+      },
+      "tips": [
+        "Keep the exact archaeological ticket name with the confirmation.",
+        "Check religious-service notices before a Pantheon interior visit."
+      ],
+      "items": [],
+      "places": [
+        "rom-pantheon",
+        "rom-colosseum",
+        "rom-forum-palatine"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "mins": 4
+    },
+    {
+      "id": "amsterdam-museum-canals-ferry",
+      "slug": "amsterdam-museum-canals-ferry",
+      "city": "ams",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Amsterdam in a day: one museum, a canal walk or a ferry outing",
+      "dek": "Choose a main experience before combining the Rijksmuseum, central canals and a trip across the IJ to NDSM.",
+      "img": "ams-rijksmuseum-photo",
+      "src": [
+        "ams-rijks-official",
+        "ams-canals-official",
+        "ams-ndsm-official",
+        "ams-ferry-official"
+      ],
+      "quickPlan": [
+        [
+          "Museum-led day",
+          "Rijksmuseum starting time, selected galleries and a nearby break."
+        ],
+        [
+          "Outdoor option",
+          "One bounded Canal Ring walk, with a boat booking only if you want it."
+        ],
+        [
+          "Across the IJ",
+          "NDSM for a chosen venue or neighbourhood visit; confirm the ferry back."
+        ]
+      ],
+      "body": [
+        "Amsterdam offers several different ways to spend an afternoon, and they should not all become compulsory stops. Looking at paintings, walking beside canals and crossing the IJ each rewards a different pace. Pick one as the main experience before asking which additional activity would improve the day.",
+        "A museum reservation gives the itinerary a starting commitment. A canal walk can remain flexible. A ferry outing needs a destination on the other side, not just a boat to board. This guide compares those three formats so you can choose with your interests, energy and available time in mind."
+      ],
+      "sections": [
+        {
+          "h": "Let the Rijksmuseum reservation organise the morning",
+          "p": [
+            "The Rijksmuseum’s practical-information page sets out its starting-time system and the exceptions for particular pass holders. Read the conditions that apply to your ticket or pass and book accordingly. A starting time is the beginning of the visit, so give yourself a realistic arrival buffer rather than arranging another museum immediately afterwards.",
+            "Choose a handful of rooms or subjects before entering, then let the visit expand only if you want it to. A museum map is more useful than a promise to see everything. If members of the group have different interests, agree a meeting point and a break. Consult the museum’s own accessibility and facilities information for individual needs."
+          ],
+          "sourceIds": [
+            "ams-rijks-official"
+          ]
+        },
+        {
+          "h": "Make the canal walk a route rather than a theme",
+          "p": [
+            "I amsterdam describes the central Canal Ring as a network of overlapping neighbourhoods. That is a reason to select a small stretch, not to attempt every canal in one afternoon. Save a start near your arrival stop and an endpoint close to lunch or your next transfer.",
+            "For an unbooked outing, follow a short route and stop where the street scene interests you. Keep the public pavement clear when taking photographs and choose places to pause away from active crossings. If you prefer a boat perspective, compare a specific operator’s departure pier, duration and vessel details. Walking beside the water and buying a canal cruise are separate products."
+          ],
+          "sourceIds": [
+            "ams-canals-official"
+          ]
+        },
+        {
+          "h": "Cross to NDSM with a reason to stay",
+          "p": [
+            "NDSM is a separate neighbourhood outing across the IJ. Choose an exhibition, venue or a short waterfront exploration before leaving the centre. Use the neighbourhood’s current listings to decide what interests you; an event or exhibition in a tourism calendar is not a guarantee that every venue is open whenever the ferry arrives.",
+            "GVB’s ferry information names the NDSM connection from Centraal Station. Check the live journey planner for the route, departure point and return service on your day. Allow waiting and the walk from the landing in the outing, especially if you have an admission time. A ferry timetable is not the same thing as a venue’s opening timetable."
+          ],
+          "sourceIds": [
+            "ams-ndsm-official",
+            "ams-ferry-official"
+          ]
+        },
+        {
+          "h": "Compare a pass with your actual admissions",
+          "p": [
+            "List the attractions you intend to enter before considering a city pass. Record admission products and reservation requirements separately; having a pass does not necessarily remove the need to choose a starting time. Add the journeys you will use, rather than counting every advertised benefit as money saved.",
+            "A single museum plus a walk may be a very different purchase from several paid attractions over multiple days. Keep the calculation small and personal. If the museum takes most of the afternoon, let the canal or ferry option move to tomorrow. Leave space for a meal and the return to your accommodation so the day finishes as comfortably as it starts."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "faq": [
+        [
+          "Can a city pass replace a Rijksmuseum start-time reservation?",
+          "Read the museum’s current pass conditions. Its practical page requires starting-time reservations for most visitors, with stated exceptions."
+        ],
+        [
+          "Is NDSM a stop on the central canal walk?",
+          "No. It is a separate outing across the IJ, with its own transport and venue planning."
+        ],
+        [
+          "Do I need both a canal cruise and a ferry trip?",
+          "No. Decide whether you want a sightseeing product or transport to a neighbourhood; they serve different purposes."
+        ]
+      ],
+      "planTable": {
+        "caption": "Three Amsterdam formats",
+        "headers": [
+          "Main interest",
+          "Commitment",
+          "Optional extra"
+        ],
+        "rows": [
+          [
+            "Museum collections",
+            "Admission and start time",
+            "A small canal walk"
+          ],
+          [
+            "Canal neighbourhoods",
+            "A chosen start and finish",
+            "A separately selected cruise"
+          ],
+          [
+            "NDSM",
+            "Venue plan and ferry return",
+            "Food near the destination"
+          ]
+        ]
+      },
+      "tips": [
+        "Save the pier or landing name, not only the neighbourhood.",
+        "Compare passes using the places you will actually enter."
+      ],
+      "items": [],
+      "places": [
+        "ams-rijksmuseum",
+        "ams-canal-ring",
+        "ams-ndsm"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "mins": 4
+    },
+    {
+      "id": "berlin-history-museum-park",
+      "slug": "berlin-history-museum-park",
+      "city": "ber",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Berlin first visit: city history, one museum and a Tiergarten break",
+      "dek": "Build an afternoon around the Brandenburg Gate area or Museum Island without turning the whole city into one walking checklist.",
+      "img": "ber-gate-photo",
+      "src": [
+        "ber-gate-official",
+        "ber-museums-official",
+        "ber-tiergarten-official"
+      ],
+      "quickPlan": [
+        [
+          "History-led option",
+          "Brandenburg Gate area, a focused public-space visit and a Tiergarten pause."
+        ],
+        [
+          "Collection-led option",
+          "One Museum Island institution, with its own ticket and access check."
+        ],
+        [
+          "Suggested time",
+          "Allow half a day for either format; another district needs a separate journey."
+        ]
+      ],
+      "body": [
+        "Berlin rewards a clear subject. An afternoon about civic history, a museum collection and a park walk can feel connected when one of them leads the plan. It can also become tiring if every nearby landmark turns into a compulsory detour. Start by deciding whether the main interest is the city outside or the objects inside a museum.",
+        "The Brandenburg Gate area and Museum Island are useful anchors, but neither is a substitute for choosing what you want to understand. Keep one substantial visit, make the next stop optional and give the return journey a place in the afternoon. A shorter route leaves time to read, look and talk."
+      ],
+      "sections": [
+        {
+          "h": "Start with the meaning of the Brandenburg Gate area",
+          "p": [
+            "Berlin’s official city page describes the gate’s relationship to division and reunification. Use the public-space visit as a starting point for that history, rather than only a location for a photograph. Look at the surrounding streets and choose one next point that supports the subject you want to explore.",
+            "Any indoor tour, parliament visit or paid attraction nearby is a separate arrangement. Do not assume that being in the square gives access to those buildings. If a guided explanation is important to you, compare a specific tour’s language, starting point and route before booking. If not, a focused outdoor stop can still form a complete part of the day."
+          ],
+          "sourceIds": [
+            "ber-gate-official"
+          ]
+        },
+        {
+          "h": "Museum Island needs a museum choice",
+          "p": [
+            "Museum Island groups several institutions with different collections. Read the current visitor page for the particular museum that interests you and choose a ticket on that basis. A walk around the island’s buildings is an exterior outing; it should not be counted as seeing every collection.",
+            "The visitBerlin page consulted for this guide describes a future Pergamon Museum reopening in June 2027. For an October 2026 plan, do not promise an interior visit based on an older list of Berlin highlights. Check the institution’s current opening information at booking time, and choose an available collection rather than treating a future reopening announcement as present access."
+          ],
+          "sourceIds": [
+            "ber-museums-official"
+          ]
+        },
+        {
+          "h": "Use Tiergarten for a bounded break",
+          "p": [
+            "Tiergarten offers a park setting to place between city visits. Choose a short loop, a seated pause or an exit that leads towards your next transport connection. You do not need to cover the whole park to make the stop worthwhile, and a green area on the map does not identify the route that suits every visitor.",
+            "Set the turnaround point before leaving the main path you have chosen. If the weather or group energy changes, shorten the walk and keep the museum or history visit as the day’s main achievement. Save your departure stop before entering the park. This makes the break part of a practical route instead of another uncertain journey."
+          ],
+          "sourceIds": [
+            "ber-tiergarten-official"
+          ]
+        },
+        {
+          "h": "Keep other districts outside the half-day promise",
+          "p": [
+            "A neighbourhood elsewhere in Berlin may be the best next outing, but it needs travel and a reason to go. Adding a district solely to make the itinerary appear comprehensive usually removes the time intended for the museum, meal or park. Keep it as a second plan with its own start and finish.",
+            "For spending, separate collection admission, any guided explanation and local transport. Check the appropriate fare zone and the actual ticket validity for your journeys. Before a final evening reservation, leave enough room for getting back to your accommodation if you want a break. A coherent history or collection afternoon is more useful than a route that claims to cover Berlin in a few hours."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "faq": [
+        [
+          "Can I see all of Museum Island in one short visit?",
+          "Choose one institution or an exterior walk. Each collection has its own visitor arrangements and needs time."
+        ],
+        [
+          "Should this guide promise Pergamon Museum entry in 2026?",
+          "No. The consulted visitBerlin page describes a June 2027 reopening; confirm the current institution notice for your travel date."
+        ],
+        [
+          "Does the Brandenburg Gate stop include nearby indoor tours?",
+          "No. Indoor access and guided products must be arranged separately."
+        ]
+      ],
+      "planTable": {
+        "caption": "A focused Berlin half-day",
+        "headers": [
+          "Priority",
+          "Main stop",
+          "Useful flexible finish"
+        ],
+        "rows": [
+          [
+            "Civic history",
+            "Brandenburg Gate area",
+            "A bounded Tiergarten walk"
+          ],
+          [
+            "Museum collection",
+            "One Museum Island institution",
+            "Meal and an exterior island stroll"
+          ]
+        ]
+      },
+      "tips": [
+        "Check the individual museum rather than a generic attraction list.",
+        "Give another district its own transport allowance."
+      ],
+      "items": [],
+      "places": [
+        "ber-brandenburg-gate",
+        "ber-museum-island",
+        "ber-tiergarten"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "mins": 4
+    },
+    {
+      "id": "dubai-creek-al-fahidi-outing",
+      "slug": "dubai-creek-al-fahidi-outing",
+      "city": "dxb",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Dubai Creek afternoon: Al Fahidi, Al Seef or an abra crossing",
+      "dek": "Choose a compact creek-side outing, compare the boat products and protect time for a seated break.",
+      "img": "dxb-creek-photo",
+      "src": [
+        "dxb-burdubai-official",
+        "dxb-seef-official",
+        "dxb-abra-official",
+        "dxb-rta-official"
+      ],
+      "quickPlan": [
+        [
+          "Walking option",
+          "Al Fahidi public lanes followed by a selected creek-side meal."
+        ],
+        [
+          "Waterfront option",
+          "Al Seef browsing and dining without requiring a crossing."
+        ],
+        [
+          "Boat option",
+          "A confirmed shared Creek route, with a plan on the opposite bank."
+        ]
+      ],
+      "body": [
+        "Dubai’s Creek area offers a different kind of outing from a skyline observation deck. The decision here is how much walking, browsing and boat travel you want, not how many districts can be crossed before dinner. Al Fahidi, Al Seef and a shared abra journey can work as separate choices as well as parts of a longer afternoon.",
+        "Begin with the bank where you intend to spend most of your time. Choose a meal or a cultural stop there, then decide whether a crossing adds something you want. A short boat journey does not remove the walking, waiting and return arrangements around it. Keep the afternoon small enough that sitting down remains part of the experience."
+      ],
+      "sections": [
+        {
+          "h": "Al Fahidi: choose the lanes and one cultural stop",
+          "p": [
+            "Visit Dubai places Al Fahidi Historical Neighbourhood in Bur Dubai and describes it as an area to explore on foot. Use its public lanes as the main outdoor visit and select any interior cultural venue separately. Check that venue’s own programme and access arrangements instead of assuming every building opens on a shared neighbourhood timetable.",
+            "Our suggested format is a short neighbourhood walk followed by a seated stop. Give the group a clear meeting point, and ask before entering spaces that appear private, ceremonial or part of a working business. If interpretation is the main interest, compare a specific cultural programme rather than treating a general walk as a guided experience."
+          ],
+          "sourceIds": [
+            "dxb-burdubai-official"
+          ]
+        },
+        {
+          "h": "Al Seef is a different waterfront setting",
+          "p": [
+            "Al Seef is a creek-side development with heritage-style and contemporary sections, rather than another name for Al Fahidi. Consider it for browsing, a meal or a short waterfront walk. The tourism description supports combining the areas, but the amount of walking and where to stop should remain your own decision.",
+            "Choose a restaurant using its current menu and location. A waterside photograph does not establish the view from every table, and a place name does not tell you the total bill. Ask about seating, booking and any minimum-spend conditions that matter to the visit you want. Leave enough room to finish there if everyone prefers a meal to another crossing."
+          ],
+          "sourceIds": [
+            "dxb-seef-official"
+          ]
+        },
+        {
+          "h": "For an abra, match the station to the product",
+          "p": [
+            "Visit Dubai describes shared traditional crossings between Bur Dubai and Deira. The RTA route page separately lists different Creek services, including routes that can be on hold. Consult the current route and station notice before relying on a particular departure. This guide deliberately does not promise a universal fare or timetable for every boat called an abra.",
+            "Write down the two banks and the landing names before boarding. A shared transport crossing, an electric service and private sightseeing hire have different purposes and prices. Ask which one is being offered, how payment works and where it finishes. If you only want to reach the opposite bank, do not compare that transfer with the advertised length of a sightseeing cruise."
+          ],
+          "sourceIds": [
+            "dxb-abra-official",
+            "dxb-rta-official"
+          ]
+        },
+        {
+          "h": "Make the return part of the afternoon",
+          "p": [
+            "On reaching the opposite bank, choose one reason to stay: a market browse, a meal or a defined walk. If none of those interests you, a crossing need not become a long excursion. Keep the return service or another departure route available on your phone before you move away from the landing.",
+            "For planning, separate transport, food and optional purchases. Allow for waiting, outdoor conditions and a rest; a boat’s sailing time is only one part of the outing. If the walk feels too long, finish at the nearer waterfront rather than forcing an additional district. The purpose is a Creek experience that fits your afternoon, with a clear route back to the rest of your trip."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "faq": [
+        [
+          "Are Al Fahidi and Al Seef the same place?",
+          "No. Al Fahidi is a historical neighbourhood; Al Seef is a separate creek-side development that can be paired with it."
+        ],
+        [
+          "Does every abra use the same fare and route?",
+          "No. Check the specific shared, electric or private service with RTA and the station before boarding."
+        ],
+        [
+          "Do I need a boat ride for a Creek outing?",
+          "No. A selected neighbourhood walk and a waterfront meal can be a complete outing on one bank."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the Creek experience you want",
+        "headers": [
+          "Format",
+          "Confirm first",
+          "Optional addition"
+        ],
+        "rows": [
+          [
+            "Al Fahidi walk",
+            "Any chosen cultural venue",
+            "A creek-side meal"
+          ],
+          [
+            "Al Seef afternoon",
+            "Restaurant or activity arrangements",
+            "A short neighbourhood walk"
+          ],
+          [
+            "Shared crossing",
+            "Route, stations and return",
+            "One stop on the other bank"
+          ]
+        ]
+      },
+      "tips": [
+        "Distinguish a transport crossing from private sightseeing hire.",
+        "Include outdoor breaks and the trip back in your time allowance."
+      ],
+      "items": [],
+      "places": [
+        "dxb-al-fahidi",
+        "dxb-al-seef",
+        "dxb-abra-creek"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "mins": 5
+    },
+    {
+      "id": "ubud-town-forest-ridge-planning",
+      "slug": "ubud-town-forest-ridge-planning",
+      "city": "ubd",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Ubud without a rushed circuit: palace area, Monkey Forest or Campuhan",
+      "dek": "Choose a town outing, a sanctuary visit or a ridge walk, with transport and sacred-space rules considered separately.",
+      "img": "ubd-forest-photo",
+      "src": [
+        "ubd-tourism-official",
+        "ubd-palace-official",
+        "ubd-forest-official",
+        "ubd-forest-rules"
+      ],
+      "quickPlan": [
+        [
+          "Town-led option",
+          "Palace area, one selected stop and a meal in central Ubud."
+        ],
+        [
+          "Sanctuary option",
+          "Monkey Forest after reading the map and current visitor guidelines."
+        ],
+        [
+          "Walking option",
+          "Campuhan out-and-back with a chosen turnaround and a separate collection plan."
+        ]
+      ],
+      "body": [
+        "Ubud is easier to enjoy when a town walk, a sanctuary visit and a ridge outing are treated as choices rather than a single compulsory circuit. The main question is what kind of attention you want to give the place: looking at a central landmark, spending time in a forest setting or taking a defined outdoor walk.",
+        "Choose one main outing before arranging a driver or several ticket purchases. A road transfer, a meeting point and a meal can take more planning than the map suggests. Leave room to stop or change direction so the day does not depend on completing every photograph you have saved."
+      ],
+      "sections": [
+        {
+          "h": "Use the palace area for a small town outing",
+          "p": [
+            "Indonesia’s tourism ministry identifies Ubud Palace, also called Puri Saren Agung, as a central Ubud landmark. Consider the palace area as an anchor for a meal and a selected town walk. Check which spaces welcome visitors, and treat any performance programme as a separate current listing rather than a guaranteed nightly event.",
+            "Decide whether the group wants architectural detail, a cultural programme or simply a short central outing. Those goals need different amounts of time and different permissions. Ask before entering areas that are private or ceremonial, and do not assume that a landmark name turns every adjoining doorway into an attraction. Keep the finish near the place where you plan to meet transport."
+          ],
+          "sourceIds": [
+            "ubd-palace-official"
+          ]
+        },
+        {
+          "h": "Monkey Forest is an optional sanctuary visit",
+          "p": [
+            "The Sacred Monkey Forest Sanctuary publishes a visitor map and animal-interaction guidelines. Read them before choosing the outing, especially if the group includes anyone who does not want to be around macaques. Its instructions include keeping a distance, not touching the animals and respecting restricted sacred areas. Follow staff directions on site.",
+            "Choose this visit for the sanctuary environment, not for a promised animal interaction or photograph. The operator’s rules should lead the plan rather than an image seen on social media. If the setting does not suit someone in the group, select the town outing instead; there is no need to make entry a condition of having a worthwhile day in Ubud."
+          ],
+          "sourceIds": [
+            "ubd-forest-official",
+            "ubd-forest-rules"
+          ]
+        },
+        {
+          "h": "Campuhan needs a turnaround point",
+          "p": [
+            "Indonesia’s Ubud destination page includes Campuhan as a walking option. Our suggestion is an out-and-back outing with a turnaround decided according to the day’s weather, route information and group energy. Confirm the approach locally and check the current path conditions; this article has not inspected the surface or established step-free access.",
+            "Save the starting point and your collection arrangement before walking away from it. A driver booking should specify where you will meet again, not simply say “Ubud”. Keep enough time for the return portion of the walk and a break. A ridge photograph does not establish that a longer route is appropriate for every visitor or that the same views are available in every condition."
+          ],
+          "sourceIds": [
+            "ubd-tourism-official"
+          ]
+        },
+        {
+          "h": "Do not add a countryside circuit by default",
+          "p": [
+            "A plan advertised as an Ubud day may include several destinations outside the centre. Compare the actual locations, time in the vehicle and inclusions before booking. A town meal, sanctuary admission and a distant attraction should not become one package simply because they all appear under a broad destination label.",
+            "For a self-arranged outing, keep transport, admissions and food in separate budget lines. Agree a collection point and how to communicate any change, then leave the next activity optional. If the forest or ridge becomes the main visit, let the palace area move to another day. A clear choice lets you spend time where you intended, instead of using the afternoon to keep up with an unnecessarily large circuit."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "faq": [
+        [
+          "Must I visit Monkey Forest to enjoy Ubud?",
+          "No. A central town outing or a selected ridge walk can be the main experience; choose according to the group’s interests."
+        ],
+        [
+          "Does this guide guarantee a step-free Campuhan route?",
+          "No. Check the approach and current path conditions for your needs before choosing the walk."
+        ],
+        [
+          "Can I assume a palace performance happens every night?",
+          "No. Read the current local programme and booking information for the date you intend to attend."
+        ]
+      ],
+      "planTable": {
+        "caption": "Three separate Ubud outings",
+        "headers": [
+          "Option",
+          "Prepare",
+          "Keep optional"
+        ],
+        "rows": [
+          [
+            "Palace-area town visit",
+            "Visitor areas and collection point",
+            "A current cultural programme"
+          ],
+          [
+            "Monkey Forest",
+            "Map and sanctuary guidelines",
+            "Another paid attraction"
+          ],
+          [
+            "Campuhan walk",
+            "Approach, turnaround and return",
+            "A longer countryside circuit"
+          ]
+        ]
+      },
+      "tips": [
+        "Give road transfers a named meeting point.",
+        "Read the sanctuary’s current rules before deciding to visit."
+      ],
+      "items": [],
+      "places": [
+        "ubd-monkey-forest",
+        "ubd-campuhan",
+        "ubd-palace"
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "mins": 4
     }
   ],
   "places": [
@@ -8881,6 +9859,246 @@
       "url": "https://istanbul.goturkiye.com/spice-bazaar",
       "verify": true,
       "img": "ist-spices-photo"
+    },
+    {
+      "id": "bcn-gothic-quarter",
+      "city": "bcn",
+      "name": "Gothic Quarter",
+      "area": "Ciutat Vella",
+      "kind": "see",
+      "blurb": "Begin with a short circuit around the old-city squares rather than a list of every church. Choose one interior visit separately and keep residential entrances clear.",
+      "src": [
+        "bcn-gothic-official"
+      ],
+      "url": "https://bid.barcelonaturisme.com/wv3/en/page/1052/gothic-quarter.html",
+      "verify": true
+    },
+    {
+      "id": "bcn-cathedral",
+      "city": "bcn",
+      "name": "Barcelona Cathedral",
+      "area": "Gothic Quarter",
+      "kind": "see",
+      "blurb": "Use the cathedral as a landmark for your old-city walk. Check the current visitor arrangements before deciding on an interior or rooftop visit; worship and sightseeing are different purposes.",
+      "src": [
+        "bcn-gothic-official"
+      ],
+      "url": "https://bid.barcelonaturisme.com/wv3/en/page/1052/gothic-quarter.html",
+      "verify": true,
+      "img": "bcn-cathedral-photo"
+    },
+    {
+      "id": "bcn-park-guell",
+      "city": "bcn",
+      "name": "Park Güell",
+      "area": "La Salut",
+      "kind": "see",
+      "blurb": "Plan this as a separate hillside visit with its own ticket and arrival route. The official website sells visits in advance online; read current disruption notices and ticket inclusions.",
+      "src": [
+        "bcn-guell-official"
+      ],
+      "url": "https://parkguell.barcelona/en",
+      "verify": true
+    },
+    {
+      "id": "rom-pantheon",
+      "city": "rom",
+      "name": "Pantheon",
+      "area": "Piazza della Rotonda",
+      "kind": "see",
+      "blurb": "Choose a focused interior visit or an exterior square stop. Check the current admission arrangements and religious-service notices rather than treating a public square as access to the building.",
+      "src": [
+        "rom-pantheon-official"
+      ],
+      "url": "https://www.turismoroma.it/it/luoghi/pantheon",
+      "verify": true,
+      "img": "rom-pantheon-photo"
+    },
+    {
+      "id": "rom-colosseum",
+      "city": "rom",
+      "name": "Colosseum",
+      "area": "Colosseo",
+      "kind": "see",
+      "blurb": "Compare the exact archaeological-park ticket and reserved Colosseum entry time. Arena, underground and other access should only be expected when the purchased product explicitly includes it.",
+      "src": [
+        "rom-colosseum-official"
+      ],
+      "url": "https://colosseo.it/en/opening-times-and-tickets/",
+      "verify": true
+    },
+    {
+      "id": "rom-forum-palatine",
+      "city": "rom",
+      "name": "Roman Forum and Palatine",
+      "area": "Colosseo",
+      "kind": "see",
+      "blurb": "Give the archaeological landscape its own energy and time allowance. Read the ticket coverage and route information, then choose a shorter visit if a full site circuit does not suit your group.",
+      "src": [
+        "rom-forum-official"
+      ],
+      "url": "https://turismoroma.it/en/places/roman-forum-and-palatine",
+      "verify": true
+    },
+    {
+      "id": "ams-rijksmuseum",
+      "city": "ams",
+      "name": "Rijksmuseum",
+      "area": "Museumplein",
+      "kind": "see",
+      "blurb": "Book the appropriate starting time and select a few galleries to prioritise. The museum lists admission, access information and payment arrangements on its own practical-information page.",
+      "src": [
+        "ams-rijks-official"
+      ],
+      "url": "https://www.rijksmuseum.nl/en/visit/practical-info/opening-hours-and-prices",
+      "verify": true,
+      "img": "ams-rijksmuseum-photo"
+    },
+    {
+      "id": "ams-canal-ring",
+      "city": "ams",
+      "name": "Canal Ring",
+      "area": "Centrum",
+      "kind": "see",
+      "blurb": "Choose a short stretch with a clear start and finish instead of trying to walk the whole centre. A canal-side walk and a booked boat trip offer different views and need separate planning.",
+      "src": [
+        "ams-canals-official"
+      ],
+      "url": "https://www.iamsterdam.com/en/explore/neighbourhoods/centrum",
+      "verify": true
+    },
+    {
+      "id": "ams-ndsm",
+      "city": "ams",
+      "name": "NDSM neighbourhood",
+      "area": "Amsterdam Noord",
+      "kind": "see",
+      "blurb": "Cross the IJ for a specific exhibition, venue or neighbourhood outing. Confirm the current ferry destination and return service; arrival at a waterfront is not admission to every cultural venue.",
+      "src": [
+        "ams-ndsm-official"
+      ],
+      "url": "https://www.iamsterdam.com/ontdek/buurten/ndsm",
+      "verify": true
+    },
+    {
+      "id": "ber-brandenburg-gate",
+      "city": "ber",
+      "name": "Brandenburg Gate",
+      "area": "Mitte",
+      "kind": "see",
+      "blurb": "Make the gate a starting point for understanding the surrounding civic area. Separate a public-space stop from any indoor tour or attraction booking nearby.",
+      "src": [
+        "ber-gate-official"
+      ],
+      "url": "https://www.berlin.de/en/attractions-and-sights/3560266-3104052-brandenburg-gate.en.html",
+      "verify": true,
+      "img": "ber-gate-photo"
+    },
+    {
+      "id": "ber-museum-island",
+      "city": "ber",
+      "name": "Museum Island",
+      "area": "Mitte",
+      "kind": "see",
+      "blurb": "Choose an individual collection and check that museum’s opening and ticket details. The island is a group of institutions, so one exterior walk should not be described as visiting all its museums.",
+      "src": [
+        "ber-museums-official"
+      ],
+      "url": "https://www.visitberlin.de/en/museum-island-in-berlin",
+      "verify": true
+    },
+    {
+      "id": "ber-tiergarten",
+      "city": "ber",
+      "name": "Tiergarten",
+      "area": "Tiergarten",
+      "kind": "see",
+      "blurb": "Use the park for a deliberately bounded walking loop or a pause between visits. Save an exit close to the transport you intend to use rather than aiming to cover the entire park.",
+      "src": [
+        "ber-tiergarten-official"
+      ],
+      "url": "https://www.berlin.de/en/attractions-and-sights/3560778-3104052-tiergarten.en.html",
+      "verify": true
+    },
+    {
+      "id": "dxb-al-fahidi",
+      "city": "dxb",
+      "name": "Al Fahidi Historical Neighbourhood",
+      "area": "Bur Dubai",
+      "kind": "see",
+      "blurb": "Explore the public lanes and choose any cultural venue separately. Current opening arrangements vary by building; a neighbourhood walk does not require treating every doorway as a visitor entrance.",
+      "src": [
+        "dxb-burdubai-official"
+      ],
+      "url": "https://www.visitdubai.com/en/explore-dubai/dubai-neighbourhoods/bur-dubai",
+      "verify": true
+    },
+    {
+      "id": "dxb-al-seef",
+      "city": "dxb",
+      "name": "Souk Al Seef",
+      "area": "Dubai Creek waterfront",
+      "kind": "market",
+      "blurb": "Consider the waterfront for a meal and a short walk. Its heritage-style development is distinct from Al Fahidi; compare restaurant menus and boat services by the actual business or route.",
+      "src": [
+        "dxb-seef-official"
+      ],
+      "url": "https://www.visitdubai.com/en/articles/old-meets-new-at-al-seef-district",
+      "verify": true
+    },
+    {
+      "id": "dxb-abra-creek",
+      "city": "dxb",
+      "name": "Dubai Creek abra crossing",
+      "area": "Bur Dubai / Deira",
+      "kind": "see",
+      "blurb": "Use the current RTA route listing and station notices to choose a crossing. A shared Creek transfer, an electric-boat service and a private sightseeing hire are different products.",
+      "src": [
+        "dxb-rta-official"
+      ],
+      "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
+      "verify": true,
+      "img": "dxb-creek-photo"
+    },
+    {
+      "id": "ubd-monkey-forest",
+      "city": "ubd",
+      "name": "Sacred Monkey Forest Sanctuary",
+      "area": "Padangtegal",
+      "kind": "see",
+      "blurb": "Read the sanctuary map and animal-interaction rules before booking. Follow staff instructions, keep away from restricted sacred areas and make this an optional visit if a macaque environment does not suit the group.",
+      "src": [
+        "ubd-forest-official"
+      ],
+      "url": "https://monkeyforestubud.com/visit/",
+      "verify": true,
+      "img": "ubd-forest-photo"
+    },
+    {
+      "id": "ubd-campuhan",
+      "city": "ubd",
+      "name": "Campuhan Ridge Walk",
+      "area": "Campuhan",
+      "kind": "see",
+      "blurb": "Choose an out-and-back walk with a turnaround point matched to the weather and your group. Confirm the approach and current path conditions; photographs do not establish a step-free route.",
+      "src": [
+        "ubd-tourism-official"
+      ],
+      "url": "https://www.indonesia.travel/th/en/destination/bali-nusa-tenggara/bali/ubud",
+      "verify": true
+    },
+    {
+      "id": "ubd-palace",
+      "city": "ubd",
+      "name": "Ubud Palace (Puri Saren Agung)",
+      "area": "Central Ubud",
+      "kind": "see",
+      "blurb": "A central landmark to pair with a meal or a small town walk. Visitor areas and any performance programme should be checked locally; the palace is not a promise of unrestricted access to private or ceremonial spaces.",
+      "src": [
+        "ubd-palace-official"
+      ],
+      "url": "https://www.indonesia.travel/gb/en/destination/bali-nusa-tenggara/bali/istana-ubud",
+      "verify": true
     }
   ],
   "events": [
@@ -11770,6 +12988,137 @@
           "w": 960
         }
       ]
+    },
+    "bcn-cathedral-photo": {
+      "src": "/images/bcn-cathedral-photo.jpg",
+      "by": "Tony Hisgett from Birmingham, UK",
+      "lic": "CC BY 2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Barcelona_Cathedral_10_(5832764266).jpg",
+      "title": "Barcelona Cathedral 10 (5832764266).jpg",
+      "w": 1580,
+      "h": 2400,
+      "variants": [
+        {
+          "src": "/images/bcn-cathedral-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bcn-cathedral-photo-960.jpg",
+          "w": 960
+        }
+      ],
+      "alt": "Barcelona Cathedral exterior",
+      "note": "Reference photograph; not evidence of current visitor access or a recent site visit.",
+      "licUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "rom-pantheon-photo": {
+      "src": "/images/rom-pantheon-photo.jpg",
+      "by": "John Samuel",
+      "lic": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Exterior_01.jpg",
+      "title": "Pantheon (Rome) - Exterior 01.jpg",
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/rom-pantheon-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rom-pantheon-photo-960.jpg",
+          "w": 960
+        }
+      ],
+      "alt": "Exterior of the Pantheon in Rome",
+      "note": "Reference photograph; not evidence of current visitor access or a recent site visit.",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "ams-rijksmuseum-photo": {
+      "src": "/images/ams-rijksmuseum-photo.jpg",
+      "by": "Suicasmo",
+      "lic": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:South_facade_of_the_Rijksmuseum_Amsterdam_20180702.jpg",
+      "title": "South facade of the Rijksmuseum Amsterdam 20180702.jpg",
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/ams-rijksmuseum-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ams-rijksmuseum-photo-960.jpg",
+          "w": 960
+        }
+      ],
+      "alt": "South facade of the Rijksmuseum in Amsterdam",
+      "note": "Reference photograph; not evidence of current visitor access or a recent site visit.",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "ber-gate-photo": {
+      "src": "/images/ber-gate-photo.jpg",
+      "by": "Norbert Nagel",
+      "lic": "CC BY-SA 3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_-_Brandenburger_Tor_-_Berlin_-_Germany_-_02.jpg",
+      "title": "Brandenburg Gate - Brandenburger Tor - Berlin - Germany - 02.jpg",
+      "w": 1600,
+      "h": 1083,
+      "variants": [
+        {
+          "src": "/images/ber-gate-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ber-gate-photo-960.jpg",
+          "w": 960
+        }
+      ],
+      "alt": "Brandenburg Gate in Berlin",
+      "note": "Reference photograph; not evidence of current visitor access or a recent site visit.",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "dxb-creek-photo": {
+      "src": "/images/dxb-creek-photo.jpg",
+      "by": "CT Cooper",
+      "lic": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:Dubai_Creek_from_an_abra_3.jpg",
+      "title": "Dubai Creek from an abra 3.jpg",
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/dxb-creek-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/dxb-creek-photo-960.jpg",
+          "w": 960
+        }
+      ],
+      "alt": "Dubai Creek viewed from an abra",
+      "note": "Reference photograph; not evidence of current visitor access or a recent site visit."
+    },
+    "ubd-forest-photo": {
+      "src": "/images/ubd-forest-photo.jpg",
+      "by": "Jakub Hałun",
+      "lic": "CC BY-SA 4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Macaca_fascicularis,_Ubud_Monkey_Forest,_Bali,_20220822_1053_0056.jpg",
+      "title": "Macaca fascicularis, Ubud Monkey Forest, Bali, 20220822 1053 0056.jpg",
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/ubd-forest-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ubd-forest-photo-960.jpg",
+          "w": 960
+        }
+      ],
+      "alt": "Long-tailed macaque in Ubud Monkey Forest",
+      "note": "Reference photograph; not evidence of current visitor access or a recent site visit.",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   }
 }

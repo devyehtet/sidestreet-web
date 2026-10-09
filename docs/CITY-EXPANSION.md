@@ -59,3 +59,11 @@ Guide: /guides/istanbul-neighbourhoods-ferry
 - https://goturkiye.com/tr/istanbul/destinations
 
 End-to-end public-domain metadata requires the actual publishing origin at build time. Editorial review remains pending; source consultation is not a claim of a complete venue inspection. The Paris tourism article contains older entry statements, which were deliberately not adopted as current access information.
+
+## Six additional countries — 2026-10-10
+
+Added Barcelona (Spain), Rome (Italy), Amsterdam (Netherlands), Berlin (Germany), Dubai (United Arab Emirates) and Ubud (Indonesia): six original planning guides, 18 place listings and 20 official tourism/operator references. Each new guide has roughly 760–810 words including planning tables and FAQs. The homepage Fresh Dispatches and city atlas expose the new destinations; city, search, topic, canonical and sitemap data use the shared inventory.
+
+Sources were checked for key place identity and visit-planning facts. Numerical prices, fixed transfer times and unverified events were not added. The guides distinguish editorial route suggestions from operator conditions and do not claim firsthand visits. Colosseum and GVB source content was available through indexed official results but direct fetches did not succeed; consult the operator before booking. Complete site-wide editorial clearance remains false.
+
+Six credited Wikimedia reference photographs added with high-resolution files and responsive variants. Source metadata and licence records are in NEW-DESTINATION-PHOTOS.json; source images are not represented as recent site inspections.
