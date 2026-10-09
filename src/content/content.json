@@ -14,7 +14,9 @@
     "eat": "Eat & drink",
     "night": "Bars & views",
     "beach": "Beaches",
-    "stay": "Hotels"
+    "stay": "Hotels",
+    "shop": "Shops",
+    "service": "Services"
   },
   "regions": [
     "Asia",
@@ -821,6 +823,78 @@
       "name": "Moroccan National Tourist Office — Marrakech medina",
       "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
       "consultedAt": "2026-10-10"
+    },
+    "thipsamai-official": {
+      "name": "Thipsamai — menu and contact",
+      "url": "https://thipsamai.com/",
+      "consultedAt": "2026-10-10"
+    },
+    "supanniga-tha-tien": {
+      "name": "Supanniga Eating Room — Tha Tien",
+      "url": "https://supannigaeatingroom.com/contact_riva.html",
+      "consultedAt": "2026-10-10"
+    },
+    "mae-sai-michelin": {
+      "name": "MICHELIN Guide — Khao Soi Mae Sai",
+      "url": "https://guide.michelin.com/en/chiang-mai-region/chiang-mai/restaurant/khao-soi-mae-sai",
+      "consultedAt": "2026-10-10"
+    },
+    "huen-muan-jai-michelin": {
+      "name": "MICHELIN Guide — Huen Muan Jai",
+      "url": "https://guide.michelin.com/sg/en/chiang-mai-region/chiang-mai/restaurant/huen-muan-jai",
+      "consultedAt": "2026-10-10"
+    },
+    "one-chun-michelin": {
+      "name": "MICHELIN Guide — One Chun",
+      "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun",
+      "consultedAt": "2026-10-10"
+    },
+    "go-benz-michelin": {
+      "name": "MICHELIN Guide — Go Benz",
+      "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-benz",
+      "consultedAt": "2026-10-10"
+    },
+    "iconsiam-official": {
+      "name": "ICONSIAM — visitor directory",
+      "url": "https://www.iconsiam.com/en",
+      "consultedAt": "2026-10-10"
+    },
+    "jim-retail-official": {
+      "name": "Jim Thompson — store locator",
+      "url": "https://www.jimthompson.com/pages/stores",
+      "consultedAt": "2026-10-10"
+    },
+    "jing-jai-official": {
+      "name": "Central Group — Jing Jai Central",
+      "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
+      "consultedAt": "2026-10-10"
+    },
+    "central-phuket-official": {
+      "name": "Central Phuket — directory",
+      "url": "https://www.centralphuket.com/en",
+      "consultedAt": "2026-10-10"
+    },
+    "thai-farm-official": {
+      "name": "Thai Farm Cooking School — classes and pickup",
+      "url": "https://thaifarmcooking.net/",
+      "consultedAt": "2026-10-10"
+    },
+    "dragon-line-official": {
+      "name": "Phuket Smart Bus — Dragon Line guidance",
+      "url": "https://phuketsmartbus.com/blog/dragon-line-explore-phuket-old-town-by-free-bus",
+      "consultedAt": "2026-10-10",
+      "publishedAt": "2026-09-18"
+    },
+    "cmdw-2026-official": {
+      "name": "Chiang Mai Design Week 2026 — organiser",
+      "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about",
+      "consultedAt": "2026-10-10"
+    },
+    "bab-government-2026": {
+      "name": "Thailand government — Bangkok Art Biennale 2026",
+      "url": "https://thailand.go.th/public/event-detail/bangkok-art-biennale-2026-bab-2026",
+      "consultedAt": "2026-10-10",
+      "publishedAt": "2026-08-07"
     }
   },
   "cities": [
@@ -2273,10 +2347,11 @@
       "title": "Bangkok Art Biennale: make a route from the venue list",
       "dek": "Choose a small exhibition circuit for the 2026–27 edition, with venue rules and breaks considered separately.",
       "src": [
-        "bab-organiser"
+        "bab-organiser",
+        "bab-government-2026"
       ],
       "body": [
-        "The organiser announces Bangkok Art Biennale for 29 October 2026–28 February 2027 under the theme Angels and Mara. Use that edition’s venue list to build your visit, rather than reusing a circuit from a previous year.",
+        "Thailand’s government event announcement confirms Bangkok Art Biennale 2026 for 29 October 2026–28 February 2027, under the theme Angels and Mara. Build your visit from the current edition’s venue programme rather than repeating an earlier circuit.",
         "A citywide exhibition is easier to enjoy when you choose one part of the city and a few works you want to spend time with. This suggested approach leaves room to read labels, sit down and change direction when one venue holds your attention."
       ],
       "sections": [
@@ -2316,7 +2391,7 @@
       ],
       "slug": "bangkok-biennale",
       "img": "bkk-bacc",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-10",
       "quickPlan": [
         [
           "Edition",
@@ -2336,7 +2411,7 @@
         "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
         "scope": "Article prose; selected operational facts remain subject to the linked sources."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking."
+      "researchNote": "Dates cross-checked against the Thailand government event announcement on 10 October 2026. Venue-specific access and exhibition programmes must be confirmed separately."
     },
     {
       "id": "bkk-gigs",
@@ -9233,6 +9308,687 @@
       "dateModified": "2026-10-10",
       "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
       "mins": 3
+    },
+    {
+      "id": "bangkok-restaurants-best-for-first-visit",
+      "slug": "bangkok-restaurants-best-for-first-visit",
+      "city": "bkk",
+      "cat": "food",
+      "kind": "guide",
+      "title": "Bangkok restaurants: best for a focused pad Thai stop or a reserved meal",
+      "dek": "Choose between a specialist noodle stop and a branch-specific sit-down dinner near Bangkok’s historic district.",
+      "img": "bkk-wat-arun",
+      "src": [
+        "thipsamai-official",
+        "supanniga-tha-tien"
+      ],
+      "body": [
+        "Choose between a specialist noodle stop and a branch-specific sit-down dinner near Bangkok’s historic district."
+      ],
+      "sections": [
+        {
+          "h": "Thipsamai: best for a pad Thai-focused stop",
+          "p": [
+            "Thipsamai’s official menu is centred on pad Thai, with several versions rather than a broad all-purpose dinner menu. Choose it when your group already wants that dish and would rather make one focused food stop than compare dozens of cuisines. Check each version’s ingredients: a vegetarian option on a menu does not make every noodle preparation suitable for your diet.",
+            "The Maha Chai Road location works as a deliberate stop in the old-town area. It is not the same location as a riverside meal near Wat Arun. The official contact page currently lists a Tuesday closure, so check your day before building an evening around it. Read the current menu for prices rather than relying on an old guide’s estimate."
+          ],
+          "sourceIds": [
+            "thipsamai-official"
+          ]
+        },
+        {
+          "h": "Supanniga Tha Tien: best for planning a sit-down meal",
+          "p": [
+            "Choose the Tha Tien branch when a reserved table and a shared Thai meal matter more than a quick single dish. The operator identifies this branch near Riva Arun on Maharaj Road. Use that specific branch’s booking contact; a reservation at another Supanniga location would change your transport plan.",
+            "This is a useful meal format for a group finishing nearby sightseeing. Ask the restaurant about table availability, your preferred time and any seating request. A river location does not guarantee a particular view from every table. Discuss dietary requirements before ordering shared plates, and allow a separate budget for drinks and any service charges shown on the menu."
+          ],
+          "sourceIds": [
+            "supanniga-tha-tien"
+          ]
+        },
+        {
+          "h": "How to use this shortlist",
+          "p": [
+            "These are purpose-based selections, not a citywide ranking. Start with your meal format, dietary needs and route, then compare the current menu and total cost. Independent inspector listings help establish business identity and cuisine; the planning recommendations here are editorial choices.",
+            "Save the exact restaurant name and location, confirm the opening day and keep a backup nearby. For a booked meal, read cancellation conditions. For a walk-in meal, leave spare time and avoid making the next activity depend on an unverified waiting-time estimate."
+          ],
+          "sourceIds": [
+            "thipsamai-official",
+            "supanniga-tha-tien"
+          ]
+        }
+      ],
+      "places": [
+        "bkk-thipsamai",
+        "bkk-supanniga-tha-tien"
+      ],
+      "items": [],
+      "faq": [
+        [
+          "Are these the objectively best restaurants?",
+          "No. “Best for” describes a visitor need, not a universal ranking or firsthand taste test."
+        ],
+        [
+          "Where can I find current prices?",
+          "Use the restaurant’s current menu or ask directly; old price estimates can mislead."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Choose by",
+          "Meal format, diet and location"
+        ],
+        [
+          "Before going",
+          "Confirm opening, menu and payment"
+        ],
+        [
+          "Budget",
+          "Check current menu and booking terms"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "mins": 2,
+      "relatedGuides": [
+        "bangkok-shops-services-best-for-city-visit"
+      ]
+    },
+    {
+      "id": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "slug": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "city": "cnx",
+      "cat": "food",
+      "kind": "guide",
+      "title": "Chiang Mai restaurants: best for a noodle lunch or a shared northern Thai meal",
+      "dek": "Khao Soi Mae Sai and Huen Muan Jai serve different meal plans; choose the format that fits your group.",
+      "img": "cnx-doi-suthep",
+      "src": [
+        "mae-sai-michelin",
+        "huen-muan-jai-michelin"
+      ],
+      "body": [
+        "Khao Soi Mae Sai and Huen Muan Jai serve different meal plans; choose the format that fits your group."
+      ],
+      "sections": [
+        {
+          "h": "Khao Soi Mae Sai: best for a focused noodle meal",
+          "p": [
+            "Choose Khao Soi Mae Sai when your main aim is a khao soi stop rather than a long restaurant session. The MICHELIN Guide lists it on Ratchaphruek Road in Chang Phueak. Save the listing’s location before leaving: this is a named business, not a recommendation to enter any shop selling the same dish.",
+            "Check the available meat and broth options directly. A curry noodle dish can contain ingredients that are not obvious from its name, so explain allergies or dietary restrictions before ordering. The current listing indicates cash payment; bring a suitable payment option and check opening on your chosen day. Do not plan a tight onward departure on an assumed queue length."
+          ],
+          "sourceIds": [
+            "mae-sai-michelin"
+          ]
+        },
+        {
+          "h": "Huen Muan Jai: best for sharing regional dishes",
+          "p": [
+            "Huen Muan Jai is the more useful choice when the group wants to order several northern Thai dishes and compare them over one meal. The inspector listing places it on Ratchaphruek Road and identifies its regional cooking. That meal format, rather than an invented taste score, is the reason for including it here.",
+            "Agree how many shared dishes you want before ordering, particularly when some diners prefer mild food or avoid certain meats. Ask staff which preparations fit those needs and whether portions suit the group. Check booking and opening arrangements directly. If your group is small, choose a few dishes carefully rather than treating a long menu as a checklist to complete."
+          ],
+          "sourceIds": [
+            "huen-muan-jai-michelin"
+          ]
+        },
+        {
+          "h": "How to use this shortlist",
+          "p": [
+            "These are purpose-based selections, not a citywide ranking. Start with your meal format, dietary needs and route, then compare the current menu and total cost. Independent inspector listings help establish business identity and cuisine; the planning recommendations here are editorial choices.",
+            "Save the exact restaurant name and location, confirm the opening day and keep a backup nearby. For a booked meal, read cancellation conditions. For a walk-in meal, leave spare time and avoid making the next activity depend on an unverified waiting-time estimate."
+          ],
+          "sourceIds": [
+            "mae-sai-michelin",
+            "huen-muan-jai-michelin"
+          ]
+        }
+      ],
+      "places": [
+        "cnx-mae-sai",
+        "cnx-huen-muan-jai"
+      ],
+      "items": [],
+      "faq": [
+        [
+          "Are these the objectively best restaurants?",
+          "No. “Best for” describes a visitor need, not a universal ranking or firsthand taste test."
+        ],
+        [
+          "Where can I find current prices?",
+          "Use the restaurant’s current menu or ask directly; old price estimates can mislead."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Choose by",
+          "Meal format, diet and location"
+        ],
+        [
+          "Before going",
+          "Confirm opening, menu and payment"
+        ],
+        [
+          "Budget",
+          "Check current menu and booking terms"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "mins": 2,
+      "relatedGuides": [
+        "chiang-mai-shops-services-best-for-gifts-and-cooking",
+        "chiang-mai-design-week-2026-dates"
+      ]
+    },
+    {
+      "id": "phuket-restaurants-best-for-old-town-meals",
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "city": "hkt",
+      "cat": "food",
+      "kind": "guide",
+      "title": "Phuket town restaurants: best for a shared Thai meal or a pork noodle stop",
+      "dek": "One Chun and Go Benz offer two distinct reasons to eat in Phuket town; a beach stay still needs a separate transport plan.",
+      "img": "hkt-promthep",
+      "src": [
+        "one-chun-michelin",
+        "go-benz-michelin"
+      ],
+      "body": [
+        "One Chun and Go Benz offer two distinct reasons to eat in Phuket town; a beach stay still needs a separate transport plan."
+      ],
+      "sections": [
+        {
+          "h": "One Chun: best for a shared southern Thai meal",
+          "p": [
+            "Choose One Chun when your group wants a sit-down meal built around southern Thai dishes. The MICHELIN Guide lists the restaurant in Talat Yai on Thep Krasatti Road. Use the current business location when arranging transport rather than assuming every Old Town restaurant is on the same walking street.",
+            "Read the menu with your group before committing to several shared plates. Ask about spice, seafood and other ingredients, then choose a balance everyone can eat. Check current booking arrangements and payment options. This selection reflects a regional shared-meal format; it does not claim that every visitor will prefer the same dishes or that a guide listing guarantees a table."
+          ],
+          "sourceIds": [
+            "one-chun-michelin"
+          ]
+        },
+        {
+          "h": "Go Benz: best for a focused pork rice or noodle meal",
+          "p": [
+            "Go Benz is a different choice: the current inspector listing describes pork-focused rice and noodle dishes on Krabi Road in Talat Nuea. Choose it when those dishes fit your appetite and diet, rather than as a default restaurant for a mixed group needing vegetarian alternatives.",
+            "Confirm evening opening before travelling and bring a cash option, as indicated by the listing. Do not promise your group a short queue or a particular dish remaining available. If you are returning to a beach hotel, decide how you will get back before eating. A town food stop can be worthwhile without adding an unrelated beach transfer and a long sightseeing list to the same outing."
+          ],
+          "sourceIds": [
+            "go-benz-michelin"
+          ]
+        },
+        {
+          "h": "How to use this shortlist",
+          "p": [
+            "These are purpose-based selections, not a citywide ranking. Start with your meal format, dietary needs and route, then compare the current menu and total cost. Independent inspector listings help establish business identity and cuisine; the planning recommendations here are editorial choices.",
+            "Save the exact restaurant name and location, confirm the opening day and keep a backup nearby. For a booked meal, read cancellation conditions. For a walk-in meal, leave spare time and avoid making the next activity depend on an unverified waiting-time estimate."
+          ],
+          "sourceIds": [
+            "one-chun-michelin",
+            "go-benz-michelin"
+          ]
+        }
+      ],
+      "places": [
+        "hkt-one-chun",
+        "hkt-go-benz"
+      ],
+      "items": [],
+      "faq": [
+        [
+          "Are these the objectively best restaurants?",
+          "No. “Best for” describes a visitor need, not a universal ranking or firsthand taste test."
+        ],
+        [
+          "Where can I find current prices?",
+          "Use the restaurant’s current menu or ask directly; old price estimates can mislead."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Choose by",
+          "Meal format, diet and location"
+        ],
+        [
+          "Before going",
+          "Confirm opening, menu and payment"
+        ],
+        [
+          "Budget",
+          "Check current menu and booking terms"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "mins": 2,
+      "relatedGuides": [
+        "phuket-shops-services-best-for-town-and-transfers",
+        "phuket-dragon-line-free-town-bus"
+      ]
+    },
+    {
+      "id": "bangkok-shops-services-best-for-city-visit",
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "city": "bkk",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Bangkok shops and services: best for gifts, mall browsing and rail planning",
+      "dek": "Compare ICONSIAM for a multi-store outing, Jim Thompson for a focused gift and BTS information for the journey between stops.",
+      "img": "bkk-wat-arun",
+      "src": [
+        "iconsiam-official",
+        "jim-retail-official",
+        "bkk-bts-official"
+      ],
+      "body": [
+        "Compare ICONSIAM for a multi-store outing, Jim Thompson for a focused gift and BTS information for the journey between stops."
+      ],
+      "sections": [
+        {
+          "h": "ICONSIAM: best for a planned mall visit",
+          "p": [
+            "Use ICONSIAM when you want to compare several shops and dining choices in one complex. Start with its official directory and choose a small set of stores; the size of a mall is not a reason to walk every floor. Its craft shopping options can make sense for gift browsing, but compare the actual item’s material, size and price before buying.",
+            "The complex is in Khlong San on the Charoen Nakhon side of the river. Check the operator’s current Getting Here information and the final approach from your chosen transport. Keep shopping separate from a strict sightseeing deadline, especially if your next stop is across the river."
+          ],
+          "sourceIds": [
+            "iconsiam-official"
+          ]
+        },
+        {
+          "h": "Jim Thompson: best for a specific textile or accessory gift",
+          "p": [
+            "Jim Thompson’s retail range gives you a more focused shopping task: clothing, accessories or home gifts. Use the official store locator to choose a Bangkok retail branch, then check that branch’s current hours and stock. A brand website does not guarantee every product will be available in every store.",
+            "This retail recommendation is separate from the Jim Thompson House Museum. If you intend to visit the museum as well, plan that admission and journey independently. For gifts, ask about care instructions and returns, and consider luggage space before purchasing fragile or bulky home items."
+          ],
+          "sourceIds": [
+            "jim-retail-official"
+          ]
+        },
+        {
+          "h": "BTS: best for checking a rail journey before leaving",
+          "p": [
+            "Use the BTS operator’s route and fare information for journeys served by its network. Check the destination station, transfers and the walk from the exit to the shop. A mall’s name alone is not enough to identify the easiest arrival route.",
+            "This is a transport planning service, not a claim that every Bangkok destination is reachable directly by BTS. Compare the complete trip for your group, including walking, weather and any additional transport. Keep your return plan available offline."
+          ],
+          "sourceIds": [
+            "bkk-bts-official"
+          ]
+        }
+      ],
+      "places": [
+        "bkk-iconsiam",
+        "bkk-jim-retail",
+        "bkk-bts-service"
+      ],
+      "items": [],
+      "faq": [
+        [
+          "Are these sponsored placements?",
+          "No. These selections were added through independent desk research; no paid placement is included."
+        ],
+        [
+          "Does “best for” guarantee quality or availability?",
+          "No. It explains why a service format suits a particular task. Check current terms and availability directly."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Shopping",
+          "Choose an item and budget first"
+        ],
+        [
+          "Services",
+          "Confirm inclusions and booking terms"
+        ],
+        [
+          "Selection basis",
+          "Visitor purpose, location and published service format"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "mins": 2,
+      "relatedGuides": [
+        "bangkok-restaurants-best-for-first-visit"
+      ]
+    },
+    {
+      "id": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "slug": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "city": "cnx",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Chiang Mai shops and services: best for creative browsing, markets and a cooking class",
+      "dek": "Choose Jing Jai for creative browsing, Warorot for a market stop or a booked Thai Farm cooking session with pickup checked separately.",
+      "img": "cnx-doi-suthep",
+      "src": [
+        "jing-jai-official",
+        "thai-farm-official"
+      ],
+      "body": [
+        "Choose Jing Jai for creative browsing, Warorot for a market stop or a booked Thai Farm cooking session with pickup checked separately."
+      ],
+      "sections": [
+        {
+          "h": "Jing Jai Central: best for a deliberate creative-shopping visit",
+          "p": [
+            "Jing Jai Central combines market, village and gallery areas according to the operator. Choose it when you want to browse a creative district and compare gifts with time to ask questions. Confirm the particular market or programme on your date; a recurring event schedule should not be treated as the opening hours for the entire district.",
+            "Ask sellers about materials, maker information and care requirements. A market setting alone does not establish that every product is locally made. Give the visit a spending budget and a manageable finish time, leaving room to return to accommodation before the next outing."
+          ],
+          "sourceIds": [
+            "jing-jai-official"
+          ]
+        },
+        {
+          "h": "Warorot Market: best for a market stop on your city route",
+          "p": [
+            "Warorot is an alternative if your existing city plan already includes the market area. Choose a shopping purpose before entering: ingredients, a practical item or a small gift. Compare stalls for the item you actually need rather than assuming a whole market has one price or one standard of quality.",
+            "For packaged food, read labels and consider storage, allergies and your onward journey. Keep purchases modest until you know what you can carry. Use the city listing to locate the market, and check individual businesses directly when you need a specific product or opening time."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Thai Farm Cooking School: best for a booked hands-on session",
+          "p": [
+            "The operator offers classes of different lengths and describes market and cooking activities. Choose a session by the time you have available, the dishes offered and your dietary needs. Ask which parts of the class can be adapted before paying rather than assuming every course suits every diet.",
+            "Pickup is conditional on the operator’s zone. Send your accommodation location and confirm pickup, return timing, inclusions and cancellation terms. A cooking class is a separate half-day or longer plan, not a quick add-on between distant temples. This shortlist compares the service format; it does not invent participant ratings or a personal class review."
+          ],
+          "sourceIds": [
+            "thai-farm-official"
+          ]
+        }
+      ],
+      "places": [
+        "cnx-jing-jai",
+        "cnx-warorot",
+        "cnx-thai-farm-class"
+      ],
+      "items": [],
+      "faq": [
+        [
+          "Are these sponsored placements?",
+          "No. These selections were added through independent desk research; no paid placement is included."
+        ],
+        [
+          "Does “best for” guarantee quality or availability?",
+          "No. It explains why a service format suits a particular task. Check current terms and availability directly."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Shopping",
+          "Choose an item and budget first"
+        ],
+        [
+          "Services",
+          "Confirm inclusions and booking terms"
+        ],
+        [
+          "Selection basis",
+          "Visitor purpose, location and published service format"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "mins": 2,
+      "relatedGuides": [
+        "chiang-mai-restaurants-best-for-noodles-and-sharing",
+        "chiang-mai-design-week-2026-dates"
+      ]
+    },
+    {
+      "id": "phuket-shops-services-best-for-town-and-transfers",
+      "slug": "phuket-shops-services-best-for-town-and-transfers",
+      "city": "hkt",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Phuket shops and services: best for mall errands, a town market and bus planning",
+      "dek": "Use Central Phuket for specific mall errands, Lard Yai for a dated market outing and route-specific bus information for transport.",
+      "img": "hkt-promthep",
+      "src": [
+        "central-phuket-official",
+        "phuket-bus-official"
+      ],
+      "body": [
+        "Use Central Phuket for specific mall errands, Lard Yai for a dated market outing and route-specific bus information for transport."
+      ],
+      "sections": [
+        {
+          "h": "Central Phuket: best for directory-led shopping",
+          "p": [
+            "Choose Central Phuket when you have a specific store, shopping category or visitor-service enquiry. Use the Festival and Floresta directories to identify the correct building. That avoids arriving at one entrance and spending your limited time searching for a business in the other part of the complex.",
+            "Ask visitor services about the assistance you actually require; do not assume an unlisted facility will be available. Compare prices and return terms at the store. A mall can be a useful practical stop, but it does not need to replace the town outing you came to Phuket to enjoy."
+          ],
+          "sourceIds": [
+            "central-phuket-official"
+          ]
+        },
+        {
+          "h": "Lard Yai: best when a walking-market visit fits your date",
+          "p": [
+            "Use the city’s Lard Yai listing as a starting point for a town market visit, then confirm the current market session before travelling. Choose it for browsing and small purchases rather than for a guaranteed list of stalls. Individual sellers, products and food availability can change.",
+            "Plan the return journey before buying more than you can comfortably carry. Check ingredients with food vendors and agree prices clearly. If you are staying at a beach, treat the town journey as its own outing instead of assuming the market is next to your accommodation."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Phuket Smart Bus: best for checking a specific route",
+          "p": [
+            "Consult the operator’s timetable for the route you need. The paid airport service and the free Dragon Line town shuttle serve different travel decisions; seeing a free service mentioned does not make an airport-to-hotel journey free. Check stop locations against your accommodation and the last walking or taxi leg.",
+            "Timetables are planning information, not a guarantee of arrival through traffic. Leave a buffer for a flight or timed booking, confirm the current last service and keep a fallback. For a group with luggage, compare the whole trip rather than only the bus fare."
+          ],
+          "sourceIds": [
+            "phuket-bus-official"
+          ]
+        }
+      ],
+      "places": [
+        "hkt-central-phuket",
+        "hkt-lard-yai",
+        "hkt-smart-bus-service"
+      ],
+      "items": [],
+      "faq": [
+        [
+          "Are these sponsored placements?",
+          "No. These selections were added through independent desk research; no paid placement is included."
+        ],
+        [
+          "Does “best for” guarantee quality or availability?",
+          "No. It explains why a service format suits a particular task. Check current terms and availability directly."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Shopping",
+          "Choose an item and budget first"
+        ],
+        [
+          "Services",
+          "Confirm inclusions and booking terms"
+        ],
+        [
+          "Selection basis",
+          "Visitor purpose, location and published service format"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "mins": 2,
+      "relatedGuides": [
+        "phuket-restaurants-best-for-old-town-meals",
+        "phuket-dragon-line-free-town-bus"
+      ]
+    },
+    {
+      "id": "chiang-mai-design-week-2026-dates",
+      "slug": "chiang-mai-design-week-2026-dates",
+      "city": "cnx",
+      "cat": "news",
+      "kind": "news",
+      "title": "Chiang Mai Design Week 2026: 5–13 December dates confirmed",
+      "dek": "The organiser lists a nine-day December edition. Use the programme to choose a small set of design visits rather than treating the whole city as one event venue.",
+      "img": "cnx-doi-suthep",
+      "src": [
+        "cmdw-2026-official"
+      ],
+      "body": [
+        "The organiser lists a nine-day December edition. Use the programme to choose a small set of design visits rather than treating the whole city as one event venue."
+      ],
+      "sections": [
+        {
+          "h": "What the organiser has confirmed",
+          "p": [
+            "The official Chiang Mai Design Week 2026 page lists 5–13 December 2026 and the theme “Local Thunders, Global Transformation”. Those dates establish the festival window; they do not mean every exhibition or workshop runs for all nine days.",
+            "Check the specific programme entry for each visit. Venue, daily opening, registration and participation conditions belong to that entry. A festival announcement is not a reservation for a workshop or a guarantee that a programme item still has space."
+          ],
+          "sourceIds": [
+            "cmdw-2026-official"
+          ]
+        },
+        {
+          "h": "How to make a useful day plan",
+          "p": [
+            "Choose one exhibition area or a small cluster before adding a workshop. Save the locations and leave time between sessions. If a programme involves a booking, complete that with the organiser rather than assuming arrival at the festival is sufficient.",
+            "For a first Chiang Mai visit, keep ordinary sightseeing and festival sessions distinguishable. You can enjoy a design-focused morning without committing every day of the trip to the event. Check your accommodation-to-venue journey and keep a meal break outside any timed session."
+          ],
+          "sourceIds": [
+            "cmdw-2026-official"
+          ]
+        }
+      ],
+      "places": [],
+      "items": [],
+      "faq": [
+        [
+          "When is Chiang Mai Design Week 2026?",
+          "The organiser lists 5–13 December 2026. Check individual programme dates separately."
+        ],
+        [
+          "Does this article include admission?",
+          "No. Consult the organiser for each venue’s entry or registration requirements."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Festival window",
+          "5–13 December 2026"
+        ],
+        [
+          "Confirm next",
+          "Individual programme, venue and registration"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent summary of the linked organiser or operator announcement, consulted on 10 October 2026. Source publication dates and event dates are distinct from this article’s publication date. Recheck the linked programme or timetable before travelling.",
+      "mins": 2,
+      "relatedGuides": [
+        "chiang-mai-restaurants-best-for-noodles-and-sharing",
+        "chiang-mai-shops-services-best-for-gifts-and-cooking"
+      ]
+    },
+    {
+      "id": "phuket-dragon-line-free-town-bus",
+      "slug": "phuket-dragon-line-free-town-bus",
+      "city": "hkt",
+      "cat": "news",
+      "kind": "news",
+      "title": "Phuket Dragon Line: official guidance for the free town shuttle",
+      "dek": "Phuket Smart Bus describes Dragon Line as a free city shuttle. It is a town transport option, separate from its paid airport routes.",
+      "img": "hkt-promthep",
+      "src": [
+        "dragon-line-official",
+        "phuket-bus-official"
+      ],
+      "body": [
+        "Phuket Smart Bus describes Dragon Line as a free city shuttle. It is a town transport option, separate from its paid airport routes."
+      ],
+      "sections": [
+        {
+          "h": "What the operator says",
+          "p": [
+            "Phuket Smart Bus published Dragon Line guidance on 18 September 2026. Its current information describes a free town shuttle and a route connecting town destinations, including the Central shopping area and Old Town. The publication date is the date of that guidance, not evidence that the route first launched that day.",
+            "Use the operator’s current timetable to check your stop, direction and departure. A stop serving a district may still leave a walk to the exact shop or restaurant. This article does not promise a door-to-door ride or a particular arrival time through traffic."
+          ],
+          "sourceIds": [
+            "dragon-line-official",
+            "phuket-bus-official"
+          ]
+        },
+        {
+          "h": "When it helps a visitor",
+          "p": [
+            "Consider the shuttle for a town outing when its stops match the places you want to visit. Pick one main stop, save the return information and compare the final walk. For visitors arriving from a beach hotel, reaching the town route is a separate transport decision.",
+            "Do not confuse Dragon Line with the operator’s airport services. Check the route-specific fare and boarding point for those journeys. For a flight, leave a larger time buffer and a fallback. Recheck the timetable on your travel day rather than relying on the schedule quoted in an older article."
+          ],
+          "sourceIds": [
+            "phuket-bus-official"
+          ]
+        }
+      ],
+      "places": [
+        "hkt-smart-bus-service"
+      ],
+      "items": [],
+      "faq": [
+        [
+          "Is Dragon Line an airport transfer?",
+          "It is described as a free town shuttle. Consult the separate airport route information for an airport journey."
+        ],
+        [
+          "Is this a new-launch announcement?",
+          "No. It summarises operator guidance published on 18 September 2026; that is not a confirmed launch date."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Service",
+          "Free town shuttle — check current route"
+        ],
+        [
+          "Separate journey",
+          "Airport services have their own fares and stops"
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "tips": [
+        "The lead photograph shows the destination, not every business in this shortlist."
+      ],
+      "researchNote": "Independent summary of the linked organiser or operator announcement, consulted on 10 October 2026. Source publication dates and event dates are distinct from this article’s publication date. Recheck the linked programme or timetable before travelling.",
+      "mins": 2,
+      "relatedGuides": [
+        "phuket-restaurants-best-for-old-town-meals",
+        "phuket-shops-services-best-for-town-and-transfers"
+      ]
     }
   ],
   "places": [
@@ -9490,14 +10246,14 @@
       "kind": "eat",
       "name": "Thip Samai",
       "area": "Maha Chai Road, old town",
-      "hours": "5pm to midnight",
-      "price": "฿70 to ฿250",
+      "hours": "Official listing: 9am–midnight; closed Tuesday. Confirm before visiting.",
       "src": [
-        "aufood"
+        "thipsamai-official"
       ],
       "blurb": "A pad-thai listing to compare with your meal plan. Use the current menu and ordering arrangements, without assuming a particular queue or preparation is always available.",
       "img": "bkk-thipsamai",
-      "verify": true
+      "verify": true,
+      "url": "https://thipsamai.com/"
     },
     {
       "id": "bkk-jay-fai",
@@ -11447,6 +12203,162 @@
       ],
       "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
       "verify": true
+    },
+    {
+      "id": "bkk-supanniga-tha-tien",
+      "city": "bkk",
+      "name": "Supanniga Eating Room — Tha Tien",
+      "area": "Maharaj Road / Riva Arun",
+      "kind": "eat",
+      "blurb": "A branch-specific sit-down meal near the historic river district. Check the menu and request a reservation directly.",
+      "src": [
+        "supanniga-tha-tien"
+      ],
+      "url": "https://supannigaeatingroom.com/contact_riva.html",
+      "verify": true
+    },
+    {
+      "id": "cnx-mae-sai",
+      "city": "cnx",
+      "name": "Khao Soi Mae Sai",
+      "area": "Ratchaphruek Road, Chang Phueak",
+      "kind": "eat",
+      "blurb": "A focused noodle stop listed by the MICHELIN Guide. Check current opening and bring a cash payment option.",
+      "src": [
+        "mae-sai-michelin"
+      ],
+      "url": "https://guide.michelin.com/en/chiang-mai-region/chiang-mai/restaurant/khao-soi-mae-sai",
+      "verify": true
+    },
+    {
+      "id": "cnx-huen-muan-jai",
+      "city": "cnx",
+      "name": "Huen Muan Jai",
+      "area": "Ratchaphruek Road, Chang Phueak",
+      "kind": "eat",
+      "blurb": "Northern Thai dishes suited to a shared meal. Ask about spice, ingredients and booking arrangements.",
+      "src": [
+        "huen-muan-jai-michelin"
+      ],
+      "url": "https://guide.michelin.com/sg/en/chiang-mai-region/chiang-mai/restaurant/huen-muan-jai",
+      "verify": true
+    },
+    {
+      "id": "hkt-one-chun",
+      "city": "hkt",
+      "name": "One Chun",
+      "area": "Thep Krasatti Road, Talat Yai",
+      "kind": "eat",
+      "blurb": "Southern Thai cooking in Phuket town; compare the actual menu before choosing a shared group meal.",
+      "src": [
+        "one-chun-michelin"
+      ],
+      "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun",
+      "verify": true
+    },
+    {
+      "id": "hkt-go-benz",
+      "city": "hkt",
+      "name": "Go Benz",
+      "area": "Krabi Road, Talat Nuea",
+      "kind": "eat",
+      "blurb": "A pork-focused rice and noodle stop. Check evening opening and dietary suitability before travelling.",
+      "src": [
+        "go-benz-michelin"
+      ],
+      "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-benz",
+      "verify": true
+    },
+    {
+      "id": "bkk-iconsiam",
+      "city": "bkk",
+      "name": "ICONSIAM",
+      "area": "Charoen Nakhon, Khlong San",
+      "kind": "shop",
+      "blurb": "A directory-led shopping outing for brands, dining and craft browsing. Choose stores before crossing the river.",
+      "src": [
+        "iconsiam-official"
+      ],
+      "url": "https://www.iconsiam.com/en",
+      "verify": true
+    },
+    {
+      "id": "bkk-jim-retail",
+      "city": "bkk",
+      "name": "Jim Thompson retail stores",
+      "area": "Bangkok — select a branch",
+      "kind": "shop",
+      "blurb": "Clothing, accessories and home gifts; use the official locator to choose a retail branch. This listing is separate from the House Museum.",
+      "src": [
+        "jim-retail-official"
+      ],
+      "url": "https://www.jimthompson.com/pages/stores",
+      "verify": true
+    },
+    {
+      "id": "cnx-jing-jai",
+      "city": "cnx",
+      "name": "Jing Jai Central",
+      "area": "Chiang Mai",
+      "kind": "shop",
+      "blurb": "A shopping and creative district incorporating market, village and gallery areas. Confirm the particular market session you intend to visit.",
+      "src": [
+        "jing-jai-official"
+      ],
+      "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
+      "verify": true
+    },
+    {
+      "id": "hkt-central-phuket",
+      "city": "hkt",
+      "name": "Central Phuket",
+      "area": "Festival / Floresta",
+      "kind": "shop",
+      "blurb": "A mall shopping option with separate building directories. Locate the required store and ask visitor services about practical assistance.",
+      "src": [
+        "central-phuket-official"
+      ],
+      "url": "https://www.centralphuket.com/en",
+      "verify": true
+    },
+    {
+      "id": "cnx-thai-farm-class",
+      "city": "cnx",
+      "name": "Thai Farm Cooking School",
+      "area": "Chiang Mai — confirm pickup zone",
+      "kind": "service",
+      "blurb": "Bookable cooking classes with different durations. Pickup depends on the operator’s zone; confirm diet and return arrangements.",
+      "src": [
+        "thai-farm-official"
+      ],
+      "url": "https://thaifarmcooking.net/",
+      "verify": true
+    },
+    {
+      "id": "bkk-bts-service",
+      "city": "bkk",
+      "name": "BTS Skytrain",
+      "area": "Bangkok route network",
+      "kind": "service",
+      "blurb": "Use the official route and fare information to choose a station and transfer; check the final walking leg.",
+      "src": [
+        "bkk-bts-official"
+      ],
+      "url": "https://www.bts.co.th/eng/",
+      "verify": true
+    },
+    {
+      "id": "hkt-smart-bus-service",
+      "city": "hkt",
+      "name": "Phuket Smart Bus",
+      "area": "Phuket route network",
+      "kind": "service",
+      "blurb": "Check the route-specific timetable: paid airport services and the free Dragon Line have different purposes.",
+      "src": [
+        "phuket-bus-official"
+      ],
+      "url": "https://www.phuketsmartbus.com/timetable/",
+      "verify": true
     }
   ],
   "events": [
@@ -11846,6 +12758,21 @@
         "sxs"
       ],
       "verifiedAt": "2026-10-09"
+    },
+    {
+      "id": "cnx-design-week-2026",
+      "city": "cnx",
+      "cat": "Design",
+      "title": "Chiang Mai Design Week 2026",
+      "date": "2026-12-05",
+      "end": "2026-12-13",
+      "where": "Various Chiang Mai venues — check the programme",
+      "blurb": "Choose individual exhibitions and workshops from the official programme; registration conditions vary.",
+      "src": [
+        "cmdw-2026-official"
+      ],
+      "verifiedAt": "2026-10-10",
+      "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about"
     }
   ],
   "images": {

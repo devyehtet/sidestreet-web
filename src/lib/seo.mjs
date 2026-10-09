@@ -11,7 +11,7 @@ export function breadcrumbSchema(origin,crumbs){
 export function articleSchema(story,{origin,brand,publisher,image,category,sources=[]}){
  if(!origin)return null;
  const url=absoluteUrl(origin,'/guides/'+story.slug);
- return {'@context':'https://schema.org','@type':'Article','@id':url+'#article',url,mainEntityOfPage:{'@type':'WebPage','@id':url},headline:story.title,description:story.dek,inLanguage:'en',articleSection:category,author:{'@type':'Organization',name:brand,url:absoluteUrl(origin,'/about')},publisher:{'@type':'Organization',name:publisher||brand,url:origin},...(image?{image:[absoluteUrl(origin,image)]}:{}),...(story.dateModified?{dateModified:story.dateModified}:{}),...(sources.length?{citation:sources}:{})};
+ return {'@context':'https://schema.org','@type':story.kind==='news'?'NewsArticle':'Article','@id':url+'#article',url,mainEntityOfPage:{'@type':'WebPage','@id':url},headline:story.title,description:story.dek,inLanguage:'en',articleSection:category,author:{'@type':'Organization',name:brand,url:absoluteUrl(origin,'/about')},publisher:{'@type':'Organization',name:publisher||brand,url:origin},...(image?{image:[absoluteUrl(origin,image)]}:{}),...(story.datePublished?{datePublished:story.datePublished}:{}),...(story.dateModified?{dateModified:story.dateModified}:{}),...(sources.length?{citation:sources}:{})};
 }
 export function collectionSchema(origin,name,path,items){
  if(!origin)return null;

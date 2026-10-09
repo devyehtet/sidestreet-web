@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-10",
+  "newGuides": [
+    "bangkok-restaurants-best-for-first-visit",
+    "chiang-mai-restaurants-best-for-noodles-and-sharing",
+    "phuket-restaurants-best-for-old-town-meals",
+    "bangkok-shops-services-best-for-city-visit",
+    "chiang-mai-shops-services-best-for-gifts-and-cooking",
+    "phuket-shops-services-best-for-town-and-transfers",
+    "chiang-mai-design-week-2026-dates",
+    "phuket-dragon-line-free-town-bus"
+  ],
+  "newPlaces": 12,
+  "selectionBasis": "Purpose-based independent desk research; not sponsored, ranked awards or firsthand reviews.",
+  "refreshed": [
+    "bangkok-biennale",
+    "bkk-thipsamai"
+  ],
+  "sources": [
+    "thipsamai-official",
+    "supanniga-tha-tien",
+    "mae-sai-michelin",
+    "huen-muan-jai-michelin",
+    "one-chun-michelin",
+    "go-benz-michelin",
+    "iconsiam-official",
+    "jim-retail-official",
+    "jing-jai-official",
+    "central-phuket-official",
+    "thai-farm-official",
+    "dragon-line-official",
+    "cmdw-2026-official",
+    "bab-government-2026"
+  ],
+  "totalGuides": 83,
+  "totalPlaces": 173
+}
