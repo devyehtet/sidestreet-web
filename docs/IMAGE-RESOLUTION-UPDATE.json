@@ -1,0 +1,606 @@
+{
+  "date": "2026-10-10",
+  "targetWidth": 1600,
+  "results": [
+    {
+      "id": "bkk-asiatique",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-chatuchak",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-grand-palace",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-jim-thompson",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-lumphini",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-mandarin-oriental",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-pak-khlong",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-talat-noi",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-wat-arun",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-wat-pho",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-wat-saket",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bue-ateneo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bue-tortoni",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-chedi-luang",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-doi-suthep",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-phra-singh",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-tha-phae",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-warorot",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cpt-bo-kaap",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cpt-kirstenbosch",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cpt-table-mountain",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-town",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-patong",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-wat-chalong",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "kul-batu-caves",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "kul-skyline",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "lis-pasteis",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "lis-tram-28",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "lon-borough",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "lon-british-museum",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "lon-tate-modern",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "mex-anthropology",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "mex-bellas-artes",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "nyc-central-park",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "nyc-high-line",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sel-gwangjang",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sgn-ben-thanh",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sgn-post-office",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sin-botanic",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sin-gardens",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sin-lau-pa-sat",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "syd-icebergs",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "syd-opera-house",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-ayutthaya",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-khao-soi",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-lord-mayor",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-loy-krathong",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-mohinga",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-nasi-lemak",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-pad-thai",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-thadingyut",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-yaowarat",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "tyo-meiji",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "tyo-sensoji",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "tyo-tsukiji",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ygn-bogyoke",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ygn-chaukhtatgyi",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ygn-circular",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ygn-kandawgyi",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ygn-shwedagon",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ygn-strand",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ygn-sule",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-bacc",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-jay-fai",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-mahanakhon",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-ong-ang",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-peninsula",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-sky-bar",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-thipsamai",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bkk-train-ratchada",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "bue-san-telmo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-night-bazaar",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-sunday-walking-street",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "cnx-wualai",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "d-boat-noodles",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "d-khao-kha-mu",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "d-mango-sticky-rice",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-big-buddha",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-freedom",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-kata",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-mai-khao",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-nai-harn",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-old-town",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-thalang",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkt-promthep",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "kul-petronas",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "lis-senhora-do-monte",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "mex-coyoacan-market",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "nyc-joes",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "nyc-met",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sel-euljiro",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sel-gyeongbokgung",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sgn-war-remnants",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sin-maxwell",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "sin-national-gallery",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "syd-bondi-coogee",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "syd-botanic",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-concert",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-deepavali",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-jazz-kissa",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-ny-pizza",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-nyc-marathon",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-rajamangala",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-sleeper",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-viet-coffee",
+      "updated": false,
+      "detail": "source already at maximum resolution"
+    },
+    {
+      "id": "t-yipeng",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "tyo-shibuya-sky",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "t-bkk-night",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "tpe-beitou-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "han-literature-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "rep-artisans-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkg-tram-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "par-carnavalet-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ist-spices-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "han-quarter-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "rep-angkor-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "tpe-dihua-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "hkg-ferry-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "par-islands-photo",
+      "updated": true,
+      "detail": null
+    },
+    {
+      "id": "ist-square-photo",
+      "updated": true,
+      "detail": null
+    }
+  ]
+}

@@ -9290,8 +9290,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Asiatique_(II).jpg",
       "title": "Asiatique (II)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/bkk-asiatique-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-asiatique-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-chatuchak": {
       "src": "/images/bkk-chatuchak.jpg",
@@ -9300,8 +9310,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Bangkok_-_Jatujak_Market_02.JPG",
       "title": "Bangkok - Jatujak Market 02",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/bkk-chatuchak-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-chatuchak-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-grand-palace": {
       "src": "/images/bkk-grand-palace.jpg",
@@ -9310,8 +9330,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:0005574_-_Wat_Phra_Kaew_006.jpg",
       "title": "0005574 - Wat Phra Kaew 006",
-      "w": 640,
-      "h": 426
+      "w": 1600,
+      "h": 1065,
+      "variants": [
+        {
+          "src": "/images/bkk-grand-palace-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-grand-palace-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-jim-thompson": {
       "src": "/images/bkk-jim-thompson.jpg",
@@ -9320,8 +9350,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Main_House_of_Jim_Thompson_photo_Don_Ramey_Logan.jpg",
       "title": "Main House of Jim Thompson photo Don Ramey Logan",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/bkk-jim-thompson-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-jim-thompson-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-lumphini": {
       "src": "/images/bkk-lumphini.jpg",
@@ -9330,8 +9370,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.5",
       "page": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Lumphini_Park.jpg",
       "title": "Aerial view of Lumphini Park",
-      "w": 640,
-      "h": 432
+      "w": 1362,
+      "h": 920,
+      "variants": [
+        {
+          "src": "/images/bkk-lumphini-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-lumphini-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-mandarin-oriental": {
       "src": "/images/bkk-mandarin-oriental.jpg",
@@ -9340,8 +9390,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Mandarin_Oriental_Bangkok_Bang_Rak.jpg",
       "title": "Mandarin Oriental Bangkok Bang Rak",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/bkk-mandarin-oriental-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-mandarin-oriental-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-pak-khlong": {
       "src": "/images/bkk-pak-khlong.jpg",
@@ -9350,8 +9410,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Flowermarket.jpg",
       "title": "Flowermarket",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/bkk-pak-khlong-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-pak-khlong-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-talat-noi": {
       "src": "/images/bkk-talat-noi.jpg",
@@ -9360,8 +9430,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Rong_Kuak_Shrine_Talat_Noi_%E0%B8%A8%E0%B8%B2%E0%B8%A5%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B9%82%E0%B8%A3%E0%B8%87%E0%B9%80%E0%B8%81%E0%B8%B7%E0%B8%AD%E0%B8%81_%E0%B8%95%E0%B8%A5%E0%B8%B2%E0%B8%94%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2_2021_June.jpg",
       "title": "Rong Kuak Shrine Talat Noi ศาลเจ้าโรงเกือก ตลาดน้อย 2021 June",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/bkk-talat-noi-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-talat-noi-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-wat-arun": {
       "src": "/images/bkk-wat-arun.jpg",
@@ -9370,8 +9450,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%84%E0%B9%8C%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AD%E0%B8%A3%E0%B8%B8%E0%B8%932.jpg",
       "title": "เจดีย์ประธานทรงปรางค์วัดอรุณ2",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/bkk-wat-arun-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-wat-arun-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-wat-pho": {
       "src": "/images/bkk-wat-pho.jpg",
@@ -9380,8 +9470,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%9E%E0%B8%B8%E0%B8%97%E0%B8%98%E0%B9%84%E0%B8%AA%E0%B8%A2%E0%B8%B2%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%8A%E0%B8%95%E0%B8%B8%E0%B8%9E%E0%B8%99.jpg",
       "title": "พระพุทธไสยาสวัดพระเชตุพน",
-      "w": 640,
-      "h": 960
+      "w": 1600,
+      "h": 2400,
+      "variants": [
+        {
+          "src": "/images/bkk-wat-pho-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-wat-pho-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-wat-saket": {
       "src": "/images/bkk-wat-saket.jpg",
@@ -9390,8 +9490,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%AA%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%81%E0%B8%A8-2.jpg",
       "title": "วัดสระเกศ-2",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1069,
+      "variants": [
+        {
+          "src": "/images/bkk-wat-saket-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-wat-saket-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bue-ateneo": {
       "src": "/images/bue-ateneo.jpg",
@@ -9400,8 +9510,18 @@
       "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "page": "https://commons.wikimedia.org/wiki/File:Yenny_Ateneo_Grand_Splendid.jpg",
       "title": "Yenny Ateneo Grand Splendid",
-      "w": 640,
-      "h": 479
+      "w": 1600,
+      "h": 1198,
+      "variants": [
+        {
+          "src": "/images/bue-ateneo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bue-ateneo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bue-tortoni": {
       "src": "/images/bue-tortoni.jpg",
@@ -9410,8 +9530,18 @@
       "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "page": "https://commons.wikimedia.org/wiki/File:Avenida_de_Mayo_Caf%C3%A9_Tortoni.jpg",
       "title": "Avenida de Mayo Café Tortoni",
-      "w": 640,
-      "h": 479
+      "w": 1600,
+      "h": 1199,
+      "variants": [
+        {
+          "src": "/images/bue-tortoni-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bue-tortoni-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-chedi-luang": {
       "src": "/images/cnx-chedi-luang.jpg",
@@ -9420,8 +9550,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:%E0%B9%80%E0%B8%88%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B9%8C%E0%B8%AB%E0%B8%A5%E0%B8%A7%E0%B8%87.jpg",
       "title": "เจดีย์หลวง",
-      "w": 640,
-      "h": 424
+      "w": 1600,
+      "h": 1060,
+      "variants": [
+        {
+          "src": "/images/cnx-chedi-luang-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-chedi-luang-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-doi-suthep": {
       "src": "/images/cnx-doi-suthep.jpg",
@@ -9430,8 +9570,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Wat_Phra_That_Doi_Suthep_-_Chiang_Mai.jpg",
       "title": "Wat Phra That Doi Suthep - Chiang Mai",
-      "w": 640,
-      "h": 512
+      "w": 1600,
+      "h": 1280,
+      "variants": [
+        {
+          "src": "/images/cnx-doi-suthep-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-doi-suthep-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-phra-singh": {
       "src": "/images/cnx-phra-singh.jpg",
@@ -9440,8 +9590,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Wat_Phra_Sing,_Chiang_Mai_(I).jpg",
       "title": "Wat Phra Sing, Chiang Mai (I)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/cnx-phra-singh-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-phra-singh-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-tha-phae": {
       "src": "/images/cnx-tha-phae.jpg",
@@ -9450,8 +9610,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_-_East_gate_of_the_city_wall_-_0001.jpg",
       "title": "Chiang Mai - East gate of the city wall - 0001",
-      "w": 640,
-      "h": 387
+      "w": 1600,
+      "h": 968,
+      "variants": [
+        {
+          "src": "/images/cnx-tha-phae-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-tha-phae-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-warorot": {
       "src": "/images/cnx-warorot.jpg",
@@ -9460,8 +9630,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Warorot_Market_01.jpg",
       "title": "Warorot Market 01",
-      "w": 640,
-      "h": 426
+      "w": 1238,
+      "h": 824,
+      "variants": [
+        {
+          "src": "/images/cnx-warorot-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-warorot-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cpt-bo-kaap": {
       "src": "/images/cpt-bo-kaap.jpg",
@@ -9470,8 +9650,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Boe-Kaap.jpg",
       "title": "Boe-Kaap",
-      "w": 640,
-      "h": 261
+      "w": 1600,
+      "h": 653,
+      "variants": [
+        {
+          "src": "/images/cpt-bo-kaap-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cpt-bo-kaap-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cpt-kirstenbosch": {
       "src": "/images/cpt-kirstenbosch.jpg",
@@ -9480,8 +9670,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Kirstenbosch_National_Botanical_Garden_2024_7th_batch_09.jpg",
       "title": "Kirstenbosch National Botanical Garden 2024 7th batch 09",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/cpt-kirstenbosch-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cpt-kirstenbosch-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cpt-table-mountain": {
       "src": "/images/cpt-table-mountain.jpg",
@@ -9490,8 +9690,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Table_Mountain_DanieVDM.jpg",
       "title": "Table Mountain DanieVDM",
-      "w": 640,
-      "h": 419
+      "w": 1600,
+      "h": 1047,
+      "variants": [
+        {
+          "src": "/images/cpt-table-mountain-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cpt-table-mountain-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-town": {
       "src": "/images/hkt-town.jpg",
@@ -9500,8 +9710,18 @@
       "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:Phuket_City.jpg",
       "title": "Phuket City",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/hkt-town-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-town-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-patong": {
       "src": "/images/hkt-patong.jpg",
@@ -9510,10 +9730,20 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "page": "https://commons.wikimedia.org/wiki/File:Patong_Beach.jpg",
       "title": "Patong Beach",
-      "w": 640,
-      "h": 480,
+      "w": 1600,
+      "h": 1200,
       "note": "Archive photograph taken on 27 December 2004, shortly after the tsunami. It does not show current beach conditions.",
-      "alt": "Archive view of Patong Beach and waterfront buildings after the December 2004 tsunami"
+      "alt": "Archive view of Patong Beach and waterfront buildings after the December 2004 tsunami",
+      "variants": [
+        {
+          "src": "/images/hkt-patong-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-patong-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-wat-chalong": {
       "src": "/images/hkt-wat-chalong.jpg",
@@ -9522,8 +9752,14 @@
       "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "page": "https://commons.wikimedia.org/wiki/File:Wat_chalong_pagoda.jpg",
       "title": "Wat chalong pagoda",
-      "w": 640,
-      "h": 853
+      "w": 900,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/hkt-wat-chalong-480.jpg",
+          "w": 480
+        }
+      ]
     },
     "kul-batu-caves": {
       "src": "/images/kul-batu-caves.jpg",
@@ -9532,8 +9768,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Batu_Caves_stairs_2022-05.jpg",
       "title": "Batu Caves stairs 2022-05",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/kul-batu-caves-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kul-batu-caves-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "kul-skyline": {
       "src": "/images/kul-skyline.jpg",
@@ -9542,8 +9788,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Sky_Deck_at_Kuala_Lumpur_Tower_(Menara_KL),_Malaysia_on_28_July_2020_at_172828.jpg",
       "title": "Sky Deck at Kuala Lumpur Tower (Menara KL), Malaysia on 28 July 2020 at 172828",
-      "w": 640,
-      "h": 475
+      "w": 1600,
+      "h": 1187,
+      "variants": [
+        {
+          "src": "/images/kul-skyline-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kul-skyline-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "lis-pasteis": {
       "src": "/images/lis-pasteis.jpg",
@@ -9552,8 +9808,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Pasteis_de_Belem.jpg",
       "title": "Pasteis de Belem",
-      "w": 640,
-      "h": 640
+      "w": 1600,
+      "h": 1600,
+      "variants": [
+        {
+          "src": "/images/lis-pasteis-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/lis-pasteis-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "lis-tram-28": {
       "src": "/images/lis-tram-28.jpg",
@@ -9562,8 +9828,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Lisbon-Day3-1_(34184431096).jpg",
       "title": "Lisbon-Day3-1 (34184431096)",
-      "w": 640,
-      "h": 400
+      "w": 1600,
+      "h": 1000,
+      "variants": [
+        {
+          "src": "/images/lis-tram-28-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/lis-tram-28-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "lon-borough": {
       "src": "/images/lon-borough.jpg",
@@ -9572,8 +9848,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:London_2018_March_IMG_0663.jpg",
       "title": "London 2018 March IMG 0663",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/lon-borough-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/lon-borough-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "lon-british-museum": {
       "src": "/images/lon-british-museum.jpg",
@@ -9582,8 +9868,18 @@
       "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "page": "https://commons.wikimedia.org/wiki/File:British_Museum_from_NE_2.JPG",
       "title": "British Museum from NE 2",
-      "w": 640,
-      "h": 459
+      "w": 1600,
+      "h": 1148,
+      "variants": [
+        {
+          "src": "/images/lon-british-museum-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/lon-british-museum-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "lon-tate-modern": {
       "src": "/images/lon-tate-modern.jpg",
@@ -9592,8 +9888,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Tate_Modern_-_Bankside_Power_Station.jpg",
       "title": "Tate Modern - Bankside Power Station",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/lon-tate-modern-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/lon-tate-modern-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "mex-anthropology": {
       "src": "/images/mex-anthropology.jpg",
@@ -9602,8 +9908,14 @@
       "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
       "page": "https://commons.wikimedia.org/wiki/File:Musee_National_Anthropologie-Entree.jpg",
       "title": "Musee National Anthropologie-Entree",
-      "w": 640,
-      "h": 480
+      "w": 800,
+      "h": 600,
+      "variants": [
+        {
+          "src": "/images/mex-anthropology-480.jpg",
+          "w": 480
+        }
+      ]
     },
     "mex-bellas-artes": {
       "src": "/images/mex-bellas-artes.jpg",
@@ -9612,8 +9924,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Bellas_Artes_01.jpg",
       "title": "Bellas Artes 01",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/mex-bellas-artes-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/mex-bellas-artes-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "nyc-central-park": {
       "src": "/images/nyc-central-park.jpg",
@@ -9622,8 +9944,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Global_Citizen_Festival_Central_Park_New_York_City_from_NYonAir_(15351915006).jpg",
       "title": "Global Citizen Festival Central Park New York City from NYonAir (15351915006)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/nyc-central-park-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/nyc-central-park-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "nyc-high-line": {
       "src": "/images/nyc-high-line.jpg",
@@ -9632,8 +9964,18 @@
       "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:High_Line_Park,_Section_1a.jpg",
       "title": "High Line Park, Section 1a",
-      "w": 640,
-      "h": 443
+      "w": 1600,
+      "h": 1107,
+      "variants": [
+        {
+          "src": "/images/nyc-high-line-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/nyc-high-line-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sel-gwangjang": {
       "src": "/images/sel-gwangjang.jpg",
@@ -9642,8 +9984,18 @@
       "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_01.jpg",
       "title": "Gwangjang Market, Seoul 01",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/sel-gwangjang-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sel-gwangjang-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sgn-ben-thanh": {
       "src": "/images/sgn-ben-thanh.jpg",
@@ -9652,8 +10004,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Ben_Thanh,_Ciudad_Ho_Chi_Minh,_Vietnam,_2013-08-14,_DD_01.JPG",
       "title": "Ben Thanh, Ciudad Ho Chi Minh, Vietnam, 2013-08-14, DD 01",
-      "w": 640,
-      "h": 462
+      "w": 1600,
+      "h": 1154,
+      "variants": [
+        {
+          "src": "/images/sgn-ben-thanh-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sgn-ben-thanh-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sgn-post-office": {
       "src": "/images/sgn-post-office.jpg",
@@ -9662,8 +10024,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Saigon_Central_Post_Office_(52681461470).jpg",
       "title": "Saigon Central Post Office (52681461470)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/sgn-post-office-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sgn-post-office-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sin-botanic": {
       "src": "/images/sin-botanic.jpg",
@@ -9672,8 +10044,18 @@
       "licUrl": "",
       "page": "https://commons.wikimedia.org/wiki/File:Symphony_Lake,_Singapore_Botanic_Gardens_-_20041025.jpg",
       "title": "Symphony Lake, Singapore Botanic Gardens - 20041025",
-      "w": 640,
-      "h": 480
+      "w": 1296,
+      "h": 972,
+      "variants": [
+        {
+          "src": "/images/sin-botanic-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sin-botanic-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sin-gardens": {
       "src": "/images/sin-gardens.jpg",
@@ -9682,8 +10064,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore_-_20120712-02.jpg",
       "title": "Supertree Grove, Gardens by the Bay, Singapore - 20120712-02",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/sin-gardens-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sin-gardens-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sin-lau-pa-sat": {
       "src": "/images/sin-lau-pa-sat.jpg",
@@ -9692,8 +10084,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_Singapore_2.jpg",
       "title": "Lau Pa Sat Singapore 2",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/sin-lau-pa-sat-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sin-lau-pa-sat-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "syd-icebergs": {
       "src": "/images/syd-icebergs.jpg",
@@ -9702,8 +10104,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Bondi_Icebergs_pools.jpg",
       "title": "Bondi Icebergs pools",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/syd-icebergs-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/syd-icebergs-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "syd-opera-house": {
       "src": "/images/syd-opera-house.jpg",
@@ -9712,8 +10124,18 @@
       "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._(21339175489).jpg",
       "title": "Sydney Australia. (21339175489)",
-      "w": 640,
-      "h": 393
+      "w": 1600,
+      "h": 983,
+      "variants": [
+        {
+          "src": "/images/syd-opera-house-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/syd-opera-house-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-ayutthaya": {
       "src": "/images/t-ayutthaya.jpg",
@@ -9722,8 +10144,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Ayutthaya_World_Heritage_sign.jpg",
       "title": "Ayutthaya World Heritage sign",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/t-ayutthaya-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-ayutthaya-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-khao-soi": {
       "src": "/images/t-khao-soi.jpg",
@@ -9732,9 +10164,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Khao_Soi_Northern_Thai_food_%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%8B%E0%B8%AD%E0%B8%A2_%E0%B8%9C%E0%B8%B1%E0%B8%81%E0%B8%94%E0%B8%AD%E0%B8%87.jpg",
       "title": "Khao Soi Northern Thai food ข้าวซอย ผักดอง",
-      "w": 640,
-      "h": 512,
-      "note": "Pictured: a bowl of khao soi."
+      "w": 1600,
+      "h": 1279,
+      "note": "Pictured: a bowl of khao soi.",
+      "variants": [
+        {
+          "src": "/images/t-khao-soi-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-khao-soi-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-lord-mayor": {
       "src": "/images/t-lord-mayor.jpg",
@@ -9743,8 +10185,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:2011_Lord_Mayor_emerging_from_Royal_Courts_of_Justice_2011.jpg",
       "title": "2011 Lord Mayor emerging from Royal Courts of Justice 2011",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/t-lord-mayor-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-lord-mayor-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-loy-krathong": {
       "src": "/images/t-loy-krathong.jpg",
@@ -9753,8 +10205,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Thai_people_setting_their_candle-lit_krathongs_in_the_Ping_river_at_night_during_Loy_Krathong_2015-10_(22715933524).jpg",
       "title": "Thai people setting their candle-lit krathongs in the Ping river at night during",
-      "w": 640,
-      "h": 481
+      "w": 1200,
+      "h": 901,
+      "variants": [
+        {
+          "src": "/images/t-loy-krathong-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-loy-krathong-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-mohinga": {
       "src": "/images/t-mohinga.jpg",
@@ -9763,9 +10225,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Mohnga.jpg",
       "title": "Mohnga",
-      "w": 640,
-      "h": 427,
-      "note": "Pictured: a bowl of mohinga."
+      "w": 1024,
+      "h": 683,
+      "note": "Pictured: a bowl of mohinga.",
+      "variants": [
+        {
+          "src": "/images/t-mohinga-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-mohinga-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-nasi-lemak": {
       "src": "/images/t-nasi-lemak.jpg",
@@ -9774,8 +10246,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Nasi_Lemak_dengan_Chili_Nasi_Lemak_dan_Sotong_Pedas,_di_Penang_Summer_Restaurant.jpg",
       "title": "Nasi Lemak dengan Chili Nasi Lemak dan Sotong Pedas, di Penang Summer Restaurant",
-      "w": 640,
-      "h": 813
+      "w": 1600,
+      "h": 2032,
+      "variants": [
+        {
+          "src": "/images/t-nasi-lemak-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-nasi-lemak-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-pad-thai": {
       "src": "/images/t-pad-thai.jpg",
@@ -9784,8 +10266,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg",
       "title": "Phat Thai kung Chang Khien street stall",
-      "w": 640,
-      "h": 640
+      "w": 1600,
+      "h": 1600,
+      "variants": [
+        {
+          "src": "/images/t-pad-thai-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-pad-thai-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-thadingyut": {
       "src": "/images/t-thadingyut.jpg",
@@ -9794,8 +10286,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Lighting_Festival.jpg",
       "title": "Lighting Festival",
-      "w": 640,
-      "h": 457
+      "w": 1600,
+      "h": 1143,
+      "variants": [
+        {
+          "src": "/images/t-thadingyut-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-thadingyut-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-yaowarat": {
       "src": "/images/t-yaowarat.jpg",
@@ -9804,9 +10306,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:(2022)_%E0%B8%95%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%96%E0%B8%A7%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%96%E0%B8%99%E0%B8%99%E0%B9%80%E0%B8%A2%E0%B8%B2%E0%B8%A7%E0%B8%A3%E0%B8%B2%E0%B8%8A_%E0%B9%80%E0%B8%82%E0%B8%95%E0%B8%AA%E0%B8%B1%E0%B8%A1%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%A7%E0%B8%87%E0%B8%A8%E0%B9%8C_%E0%B8%81%E0%B8%A3%E0%B8%B8%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%9E%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%99%E0%B8%84%E0%B8%A3_(4).jpg",
       "title": "(2022) ตึกแถวริมถนนเยาวราช เขตสัมพันธวงศ์ กรุงเทพมหานคร (4)",
-      "w": 640,
-      "h": 481,
-      "note": "Pictured: Yaowarat Road."
+      "w": 1600,
+      "h": 1202,
+      "note": "Pictured: Yaowarat Road.",
+      "variants": [
+        {
+          "src": "/images/t-yaowarat-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-yaowarat-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "tyo-meiji": {
       "src": "/images/tyo-meiji.jpg",
@@ -9815,8 +10327,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Meiji_Jingu_2023-3.jpg",
       "title": "Meiji Jingu 2023-3",
-      "w": 640,
-      "h": 360
+      "w": 1600,
+      "h": 900,
+      "variants": [
+        {
+          "src": "/images/tyo-meiji-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/tyo-meiji-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "tyo-sensoji": {
       "src": "/images/tyo-sensoji.jpg",
@@ -9825,8 +10347,18 @@
       "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:Sensoji_2023.jpg",
       "title": "Sensoji 2023",
-      "w": 640,
-      "h": 457
+      "w": 1600,
+      "h": 1143,
+      "variants": [
+        {
+          "src": "/images/tyo-sensoji-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/tyo-sensoji-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "tyo-tsukiji": {
       "src": "/images/tyo-tsukiji.jpg",
@@ -9835,8 +10367,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:2018_Tsukiji_fish_market.jpg",
       "title": "2018 Tsukiji fish market",
-      "w": 640,
-      "h": 411
+      "w": 1600,
+      "h": 1029,
+      "variants": [
+        {
+          "src": "/images/tyo-tsukiji-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/tyo-tsukiji-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ygn-bogyoke": {
       "src": "/images/ygn-bogyoke.jpg",
@@ -9845,8 +10387,18 @@
       "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:Bogyoke_Aung_San_Market.JPG",
       "title": "Bogyoke Aung San Market",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/ygn-bogyoke-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-bogyoke-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ygn-chaukhtatgyi": {
       "src": "/images/ygn-chaukhtatgyi.jpg",
@@ -9855,8 +10407,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.5/es/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:01-yangon-chaukhtatgyi-paya-d01.jpg",
       "title": "01-yangon-chaukhtatgyi-paya-d01",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/ygn-chaukhtatgyi-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-chaukhtatgyi-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ygn-circular": {
       "src": "/images/ygn-circular.jpg",
@@ -9865,8 +10427,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:CAF_YCR_DEMU.jpg",
       "title": "CAF YCR DEMU",
-      "w": 640,
-      "h": 528
+      "w": 1129,
+      "h": 932,
+      "variants": [
+        {
+          "src": "/images/ygn-circular-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-circular-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ygn-kandawgyi": {
       "src": "/images/ygn-kandawgyi.jpg",
@@ -9875,8 +10447,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Kandawgyilakecentralfountain.jpg",
       "title": "Kandawgyilakecentralfountain",
-      "w": 640,
-      "h": 473
+      "w": 1600,
+      "h": 1184,
+      "variants": [
+        {
+          "src": "/images/ygn-kandawgyi-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-kandawgyi-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ygn-shwedagon": {
       "src": "/images/ygn-shwedagon.jpg",
@@ -9885,8 +10467,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Shwedagon_Pagoda_2017.jpg",
       "title": "Shwedagon Pagoda 2017",
-      "w": 640,
-      "h": 411
+      "w": 1600,
+      "h": 1028,
+      "variants": [
+        {
+          "src": "/images/ygn-shwedagon-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-shwedagon-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ygn-strand": {
       "src": "/images/ygn-strand.jpg",
@@ -9895,8 +10487,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Yangon,_Strand_Hotel,_Myanmar.jpg",
       "title": "Yangon, Strand Hotel, Myanmar",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/ygn-strand-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-strand-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ygn-sule": {
       "src": "/images/ygn-sule.jpg",
@@ -9905,8 +10507,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Sule_Pagoda_Yangoon.jpg",
       "title": "Sule Pagoda Yangoon",
-      "w": 640,
-      "h": 426
+      "w": 1600,
+      "h": 1065,
+      "variants": [
+        {
+          "src": "/images/ygn-sule-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-sule-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-bacc": {
       "src": "/images/bkk-bacc.jpg",
@@ -9915,8 +10527,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:BKK_Art_and_Culture_Centre_(II).jpg",
       "title": "BKK Art and Culture Centre (II)",
-      "w": 640,
-      "h": 457
+      "w": 1600,
+      "h": 1143,
+      "variants": [
+        {
+          "src": "/images/bkk-bacc-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-bacc-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-jay-fai": {
       "src": "/images/bkk-jay-fai.jpg",
@@ -9925,8 +10547,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Jay_Fai,_bangkok_20180406.jpg",
       "title": "Jay Fai, bangkok 20180406",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/bkk-jay-fai-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-jay-fai-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-mahanakhon": {
       "src": "/images/bkk-mahanakhon.jpg",
@@ -9935,9 +10567,19 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Panorama_from_top_of_King_Power_Maha_Nakhon_Tower.jpg",
       "title": "Panorama from top of King Power Maha Nakhon Tower",
-      "w": 640,
-      "h": 218,
-      "note": "The view from the top of the tower."
+      "w": 1600,
+      "h": 546,
+      "note": "The view from the top of the tower.",
+      "variants": [
+        {
+          "src": "/images/bkk-mahanakhon-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-mahanakhon-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-ong-ang": {
       "src": "/images/bkk-ong-ang.jpg",
@@ -9946,8 +10588,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:%E0%B8%AA%E0%B8%B0%E0%B8%9E%E0%B8%B2%E0%B8%99%E0%B8%AB%E0%B8%B1%E0%B8%99_2564_Saphan_Han_(October_2021)_-_img_02.jpg",
       "title": "สะพานหัน 2564 Saphan Han (October 2021) - img 02",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/bkk-ong-ang-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-ong-ang-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-peninsula": {
       "src": "/images/bkk-peninsula.jpg",
@@ -9956,8 +10608,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.5",
       "page": "https://commons.wikimedia.org/wiki/File:The_Peninsula_Bangkok.JPG",
       "title": "The Peninsula Bangkok",
-      "w": 640,
-      "h": 837
+      "w": 1075,
+      "h": 1406,
+      "variants": [
+        {
+          "src": "/images/bkk-peninsula-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-peninsula-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-sky-bar": {
       "src": "/images/bkk-sky-bar.jpg",
@@ -9966,9 +10628,15 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Lebua_at_state_tower_(8468453666).jpg",
       "title": "Lebua at state tower (8468453666)",
-      "w": 640,
-      "h": 962,
-      "note": "State Tower, the building that houses the bar."
+      "w": 798,
+      "h": 1200,
+      "note": "State Tower, the building that houses the bar.",
+      "variants": [
+        {
+          "src": "/images/bkk-sky-bar-480.jpg",
+          "w": 480
+        }
+      ]
     },
     "bkk-thipsamai": {
       "src": "/images/bkk-thipsamai.jpg",
@@ -9977,8 +10645,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Thipsamai_(September_2016).jpeg",
       "title": "Thipsamai (September 2016)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/bkk-thipsamai-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-thipsamai-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bkk-train-ratchada": {
       "src": "/images/bkk-train-ratchada.jpg",
@@ -9987,9 +10665,19 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Train_Night_Market_Ratchada_(34079339800).jpg",
       "title": "Train Night Market Ratchada (34079339800)",
-      "w": 640,
-      "h": 417,
-      "note": "The market before it closed and reopened."
+      "w": 1600,
+      "h": 1043,
+      "note": "The market before it closed and reopened.",
+      "variants": [
+        {
+          "src": "/images/bkk-train-ratchada-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-train-ratchada-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "bue-san-telmo": {
       "src": "/images/bue-san-telmo.jpg",
@@ -9998,8 +10686,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Feria_de_San_Telmo,_Buenos_Aires.jpg",
       "title": "Feria de San Telmo, Buenos Aires",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/bue-san-telmo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bue-san-telmo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-night-bazaar": {
       "src": "/images/cnx-night-bazaar.jpg",
@@ -10008,8 +10706,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:CHIANG_MAI_NIGHT_BAZAAR_THAILAND_FEB_2012_(6869571256).jpg",
       "title": "CHIANG MAI NIGHT BAZAAR THAILAND FEB 2012 (6869571256)",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/cnx-night-bazaar-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-night-bazaar-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-sunday-walking-street": {
       "src": "/images/cnx-sunday-walking-street.jpg",
@@ -10018,8 +10726,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_sunday_evening_walking_street.jpg",
       "title": "Chiang Mai sunday evening walking street",
-      "w": 640,
-      "h": 284
+      "w": 1600,
+      "h": 711,
+      "variants": [
+        {
+          "src": "/images/cnx-sunday-walking-street-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-sunday-walking-street-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "cnx-wualai": {
       "src": "/images/cnx-wualai.jpg",
@@ -10028,8 +10746,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Chiangmai_walking_street_(Saturday_only,_Wualai_Rd.)_-_panoramio_(2).jpg",
       "title": "Chiangmai walking street (Saturday only, Wualai Rd.) - panoramio (2)",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/cnx-wualai-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-wualai-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "d-boat-noodles": {
       "src": "/images/d-boat-noodles.jpg",
@@ -10038,9 +10766,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Boat_noodles.jpg",
       "title": "Boat noodles",
-      "w": 640,
-      "h": 428,
-      "note": "Pictured: a bowl of boat noodles, not this particular shop."
+      "w": 1600,
+      "h": 1070,
+      "note": "Pictured: a bowl of boat noodles, not this particular shop.",
+      "variants": [
+        {
+          "src": "/images/d-boat-noodles-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/d-boat-noodles-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "d-khao-kha-mu": {
       "src": "/images/d-khao-kha-mu.jpg",
@@ -10049,9 +10787,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Khao_kha_mu_thailand.jpg",
       "title": "Khao kha mu thailand",
-      "w": 640,
-      "h": 643,
-      "note": "Pictured: khao kha mu, not this particular stall."
+      "w": 1600,
+      "h": 1608,
+      "note": "Pictured: khao kha mu, not this particular stall.",
+      "variants": [
+        {
+          "src": "/images/d-khao-kha-mu-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/d-khao-kha-mu-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "d-mango-sticky-rice": {
       "src": "/images/d-mango-sticky-rice.jpg",
@@ -10060,9 +10808,19 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Mango_sticy_rice_(3859549574).jpg",
       "title": "Mango sticy rice (3859549574)",
-      "w": 640,
-      "h": 427,
-      "note": "Pictured: mango sticky rice, not this particular shop."
+      "w": 1600,
+      "h": 1067,
+      "note": "Pictured: mango sticky rice, not this particular shop.",
+      "variants": [
+        {
+          "src": "/images/d-mango-sticky-rice-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/d-mango-sticky-rice-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-big-buddha": {
       "src": "/images/hkt-big-buddha.jpg",
@@ -10071,8 +10829,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:The_Big_Buddha,_Phuket.jpg",
       "title": "The Big Buddha, Phuket",
-      "w": 640,
-      "h": 425
+      "w": 1600,
+      "h": 1064,
+      "variants": [
+        {
+          "src": "/images/hkt-big-buddha-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-big-buddha-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-freedom": {
       "src": "/images/hkt-freedom.jpg",
@@ -10081,8 +10849,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:20221108_Freedom_Beach_auf_Phuket_(3).jpg",
       "title": "20221108 Freedom Beach auf Phuket (3)",
-      "w": 640,
-      "h": 360
+      "w": 1600,
+      "h": 901,
+      "variants": [
+        {
+          "src": "/images/hkt-freedom-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-freedom-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-kata": {
       "src": "/images/hkt-kata.jpg",
@@ -10091,8 +10869,18 @@
       "licUrl": "",
       "page": "https://commons.wikimedia.org/wiki/File:Phuket_-_Kata_Beach_001.jpg",
       "title": "Phuket - Kata Beach 001",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/hkt-kata-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-kata-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-mai-khao": {
       "src": "/images/hkt-mai-khao.jpg",
@@ -10101,8 +10889,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Mai_Khao_Beach_-_panoramio.jpg",
       "title": "Mai Khao Beach - panoramio",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/hkt-mai-khao-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-mai-khao-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-nai-harn": {
       "src": "/images/hkt-nai-harn.jpg",
@@ -10111,8 +10909,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Nai_harn_beach_phuket_(63).jpg",
       "title": "Nai harn beach phuket (63)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/hkt-nai-harn-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-nai-harn-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-old-town": {
       "src": "/images/hkt-old-town.jpg",
@@ -10121,8 +10929,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Thalang_Road,_Old_Phuket_Town.jpg",
       "title": "Thalang Road, Old Phuket Town",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/hkt-old-town-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-old-town-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-thalang": {
       "src": "/images/hkt-thalang.jpg",
@@ -10131,9 +10949,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Thalang_Road_in_Old_Phuket_Town.jpg",
       "title": "Thalang Road in Old Phuket Town",
-      "w": 640,
-      "h": 480,
-      "note": "Thalang Road by day."
+      "w": 1600,
+      "h": 1200,
+      "note": "Thalang Road by day.",
+      "variants": [
+        {
+          "src": "/images/hkt-thalang-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-thalang-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkt-promthep": {
       "src": "/images/hkt-promthep.jpg",
@@ -10142,8 +10970,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Laem_Phromthep_in_Phuket_(5733622568).jpg",
       "title": "Laem Phromthep in Phuket (5733622568)",
-      "w": 640,
-      "h": 425
+      "w": 1600,
+      "h": 1064,
+      "variants": [
+        {
+          "src": "/images/hkt-promthep-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-promthep-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "kul-petronas": {
       "src": "/images/kul-petronas.jpg",
@@ -10152,8 +10990,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:The_Twins_SE_Asia_2019_(49171985716).jpg",
       "title": "The Twins SE Asia 2019 (49171985716)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/kul-petronas-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kul-petronas-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "lis-senhora-do-monte": {
       "src": "/images/lis-senhora-do-monte.jpg",
@@ -10162,8 +11010,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Miradouro_Nossa_Senhora_do_Monte_II.jpg",
       "title": "Miradouro Nossa Senhora do Monte II",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/lis-senhora-do-monte-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/lis-senhora-do-monte-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "mex-coyoacan-market": {
       "src": "/images/mex-coyoacan-market.jpg",
@@ -10172,8 +11030,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Mercado_de_Coyoac%C3%A1n_(33806059262).jpg",
       "title": "Mercado de Coyoacán (33806059262)",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/mex-coyoacan-market-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/mex-coyoacan-market-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "nyc-joes": {
       "src": "/images/nyc-joes.jpg",
@@ -10182,8 +11050,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Joe%27s_Pizza,_Greenwich_Village,_NYC.jpg",
       "title": "Joe's Pizza, Greenwich Village, NYC",
-      "w": 640,
-      "h": 853
+      "w": 1600,
+      "h": 2133,
+      "variants": [
+        {
+          "src": "/images/nyc-joes-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/nyc-joes-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "nyc-met": {
       "src": "/images/nyc-met.jpg",
@@ -10192,8 +11070,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Metropolitan_Museum_of_Art_(The_Met)_-_Central_Park,_NYC.jpg",
       "title": "Metropolitan Museum of Art (The Met) - Central Park, NYC",
-      "w": 640,
-      "h": 357
+      "w": 1600,
+      "h": 893,
+      "variants": [
+        {
+          "src": "/images/nyc-met-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/nyc-met-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sel-euljiro": {
       "src": "/images/sel-euljiro.jpg",
@@ -10202,8 +11090,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:LED_shop_in_Euljiro_Seoul.jpg",
       "title": "LED shop in Euljiro Seoul",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/sel-euljiro-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sel-euljiro-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sel-gyeongbokgung": {
       "src": "/images/sel-gyeongbokgung.jpg",
@@ -10212,8 +11110,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
       "title": "Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace wit",
-      "w": 640,
-      "h": 360
+      "w": 1600,
+      "h": 900,
+      "variants": [
+        {
+          "src": "/images/sel-gyeongbokgung-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sel-gyeongbokgung-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sgn-war-remnants": {
       "src": "/images/sgn-war-remnants.jpg",
@@ -10222,8 +11130,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:War_Remnants_Museum,_HCMC,_front.JPG",
       "title": "War Remnants Museum, HCMC, front",
-      "w": 640,
-      "h": 475
+      "w": 1600,
+      "h": 1187,
+      "variants": [
+        {
+          "src": "/images/sgn-war-remnants-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sgn-war-remnants-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sin-maxwell": {
       "src": "/images/sin-maxwell.jpg",
@@ -10232,8 +11150,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Maxwell_Food_Centre.jpg",
       "title": "Maxwell Food Centre",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/sin-maxwell-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sin-maxwell-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "sin-national-gallery": {
       "src": "/images/sin-national-gallery.jpg",
@@ -10242,8 +11170,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Interior_of_the_National_Gallery_Singapore.jpg",
       "title": "Interior of the National Gallery Singapore",
-      "w": 640,
-      "h": 481
+      "w": 1600,
+      "h": 1202,
+      "variants": [
+        {
+          "src": "/images/sin-national-gallery-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sin-national-gallery-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "syd-bondi-coogee": {
       "src": "/images/syd-bondi-coogee.jpg",
@@ -10252,8 +11190,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Waverley_Cemetery_and_the_boardwalk_for_the_Bondi_to_Coogee_Coastal_Walk_in_July_2018.jpg",
       "title": "Waverley Cemetery and the boardwalk for the Bondi to Coogee Coastal Walk in July",
-      "w": 640,
-      "h": 480
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/syd-bondi-coogee-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/syd-bondi-coogee-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "syd-botanic": {
       "src": "/images/syd-botanic.jpg",
@@ -10262,8 +11210,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0/au/deed.en",
       "page": "https://commons.wikimedia.org/wiki/File:Gates_at_Royal_Botanic_Gardens_viewed_from_Art_Gallery_Road.jpg",
       "title": "Gates at Royal Botanic Gardens viewed from Art Gallery Road",
-      "w": 640,
-      "h": 427
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/syd-botanic-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/syd-botanic-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-concert": {
       "src": "/images/t-concert.jpg",
@@ -10272,9 +11230,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:Beach-Please-2022-crowd-stage-lights-night-performance.jpg",
       "title": "Beach-Please-2022-crowd-stage-lights-night-performance",
-      "w": 640,
-      "h": 427,
-      "note": "Illustrative photo."
+      "w": 1600,
+      "h": 1068,
+      "note": "Illustrative photo.",
+      "variants": [
+        {
+          "src": "/images/t-concert-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-concert-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-deepavali": {
       "src": "/images/t-deepavali.jpg",
@@ -10283,9 +11251,19 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Little_India_Singapore_Deepavali_2013.jpg",
       "title": "Little India Singapore Deepavali 2013",
-      "w": 640,
-      "h": 427,
-      "note": "The 2013 light-up in Little India."
+      "w": 1600,
+      "h": 1067,
+      "note": "The 2013 light-up in Little India.",
+      "variants": [
+        {
+          "src": "/images/t-deepavali-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-deepavali-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-jazz-kissa": {
       "src": "/images/t-jazz-kissa.jpg",
@@ -10294,9 +11272,19 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Jazz_%26_Coffee_Masako_10_-_Shimokitazawa,_2009-09-24_20.21.01_(by_Guwashi999)_-_cropped.jpg",
       "title": "Jazz & Coffee Masako 10 - Shimokitazawa, 2009-09-24 20.21.01 (by Guwashi999) - c",
-      "w": 640,
-      "h": 506,
-      "note": "A jazz cafe in Shimokitazawa, Tokyo."
+      "w": 1600,
+      "h": 1265,
+      "note": "A jazz cafe in Shimokitazawa, Tokyo.",
+      "variants": [
+        {
+          "src": "/images/t-jazz-kissa-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-jazz-kissa-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-ny-pizza": {
       "src": "/images/t-ny-pizza.jpg",
@@ -10305,8 +11293,18 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:NYPizzaPie.jpg",
       "title": "NYPizzaPie",
-      "w": 640,
-      "h": 428
+      "w": 1024,
+      "h": 685,
+      "variants": [
+        {
+          "src": "/images/t-ny-pizza-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-ny-pizza-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-nyc-marathon": {
       "src": "/images/t-nyc-marathon.jpg",
@@ -10315,9 +11313,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:2024_New_York_City_Marathon_Elite_Men_Leaders.jpg",
       "title": "2024 New York City Marathon Elite Men Leaders",
-      "w": 640,
-      "h": 427,
-      "note": "The 2024 race."
+      "w": 1600,
+      "h": 1068,
+      "note": "The 2024 race.",
+      "variants": [
+        {
+          "src": "/images/t-nyc-marathon-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-nyc-marathon-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-rajamangala": {
       "src": "/images/t-rajamangala.jpg",
@@ -10326,9 +11334,19 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Rajamangala_Stadium_in_Bangkok.jpg",
       "title": "Rajamangala Stadium in Bangkok",
-      "w": 640,
-      "h": 480,
-      "note": "Rajamangala National Stadium."
+      "w": 1024,
+      "h": 768,
+      "note": "Rajamangala National Stadium.",
+      "variants": [
+        {
+          "src": "/images/t-rajamangala-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-rajamangala-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-sleeper": {
       "src": "/images/t-sleeper.jpg",
@@ -10337,9 +11355,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:THAI_RAILWAYS_NIGHT_SLEEPER_TRAIN_BUTTERWORTH(PENANG_SENTRAL)MALAYSIA_TO_BANGKOK_THAILAND_JAN_2012_(7190001346).jpg",
       "title": "THAI RAILWAYS NIGHT SLEEPER TRAIN BUTTERWORTH(PENANG SENTRAL)MALAYSIA TO BANGKOK",
-      "w": 640,
-      "h": 482,
-      "note": "A Thai Railways sleeper carriage."
+      "w": 1600,
+      "h": 1205,
+      "note": "A Thai Railways sleeper carriage.",
+      "variants": [
+        {
+          "src": "/images/t-sleeper-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-sleeper-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-viet-coffee": {
       "src": "/images/t-viet-coffee.jpg",
@@ -10358,9 +11386,19 @@
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Yi_Peng_lanterns_in_Chiang_Mai_(11067469754).jpg",
       "title": "Yi Peng lanterns in Chiang Mai (11067469754)",
-      "w": 640,
-      "h": 427,
-      "note": "A mass lantern release in an earlier year."
+      "w": 1600,
+      "h": 1068,
+      "note": "A mass lantern release in an earlier year.",
+      "variants": [
+        {
+          "src": "/images/t-yipeng-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-yipeng-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "tyo-shibuya-sky": {
       "src": "/images/tyo-shibuya-sky.jpg",
@@ -10369,9 +11407,19 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
       "page": "https://commons.wikimedia.org/wiki/File:SHIBUYA_SCRAMBLE_SQUARE_East_Tower.jpg",
       "title": "SHIBUYA SCRAMBLE SQUARE East Tower",
-      "w": 640,
-      "h": 960,
-      "note": "Shibuya Scramble Square, the building the deck sits on."
+      "w": 1600,
+      "h": 2400,
+      "note": "Shibuya Scramble Square, the building the deck sits on.",
+      "variants": [
+        {
+          "src": "/images/tyo-shibuya-sky-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/tyo-shibuya-sky-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "t-bkk-night": {
       "src": "/images/t-bkk-night.jpg",
@@ -10380,8 +11428,18 @@
       "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
       "page": "https://commons.wikimedia.org/wiki/File:Bangkok_Night_Wikimedia_Commons.jpg",
       "title": "Bangkok Night Wikimedia Commons",
-      "w": 640,
-      "h": 187
+      "w": 1600,
+      "h": 468,
+      "variants": [
+        {
+          "src": "/images/t-bkk-night-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/t-bkk-night-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "han-atlas": {
       "src": "/images/han-atlas.png",
@@ -10458,8 +11516,18 @@
       "title": "Beitou Hot Spring Museum 北投溫泉博物館 - panoramio.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Exterior of Beitou Hot Spring Museum and its surrounding lawn in Taipei",
-      "w": 1200,
-      "h": 900
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/tpe-beitou-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/tpe-beitou-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "han-literature-photo": {
       "src": "/images/han-literature-photo.jpg",
@@ -10470,8 +11538,18 @@
       "title": "Main gate of the Temple of Literature, Hanoi, Vietnam, 20240123 0929 3068.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Main gate of Hanoi’s Temple of Literature, viewed from within the complex",
-      "w": 1200,
-      "h": 801
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/han-literature-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/han-literature-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "rep-artisans-photo": {
       "src": "/images/rep-artisans-photo.jpg",
@@ -10482,8 +11560,18 @@
       "title": "Artisans Angkor en 2014.- Stung Thmey Street (8).jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Carved stone artwork in the garden of Artisans Angkor on Stung Thmey Street",
-      "w": 1200,
-      "h": 800
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/rep-artisans-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rep-artisans-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkg-tram-photo": {
       "src": "/images/hkg-tram-photo.jpg",
@@ -10494,8 +11582,18 @@
       "title": "Hong Kong Tramways Double Decker Tram (Ank Kumar) 03.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Double-decker Hong Kong tram travelling along a city street",
-      "w": 1200,
-      "h": 800
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/hkg-tram-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkg-tram-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "par-carnavalet-photo": {
       "src": "/images/par-carnavalet-photo.jpg",
@@ -10506,8 +11604,18 @@
       "title": "Musée Carnavalet - exterior view.JPG",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Courtyard and exterior façade of Musée Carnavalet in Paris",
-      "w": 1200,
-      "h": 900
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/par-carnavalet-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/par-carnavalet-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ist-spices-photo": {
       "src": "/images/ist-spices-photo.jpg",
@@ -10518,8 +11626,18 @@
       "title": "Spices on Spice Bazaar in Istanbul 02.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Colourful piles of spices at Istanbul’s Spice Bazaar",
-      "w": 1200,
-      "h": 801
+      "w": 1600,
+      "h": 1068,
+      "variants": [
+        {
+          "src": "/images/ist-spices-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ist-spices-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "han-quarter-photo": {
       "src": "/images/han-quarter-photo.jpg",
@@ -10530,8 +11648,18 @@
       "title": "2024-11-03 Hanoi's Old Quarter 7.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Shophouses and street traffic in Hanoi’s Old Quarter",
-      "w": 1200,
-      "h": 800
+      "w": 1600,
+      "h": 1067,
+      "variants": [
+        {
+          "src": "/images/han-quarter-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/han-quarter-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "rep-angkor-photo": {
       "src": "/images/rep-angkor-photo.jpg",
@@ -10542,8 +11670,18 @@
       "title": "Angkor Wat with its reflection (cropped).jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Angkor Wat reflected in its pond near Siem Reap",
-      "w": 1200,
-      "h": 605
+      "w": 1600,
+      "h": 806,
+      "variants": [
+        {
+          "src": "/images/rep-angkor-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rep-angkor-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "tpe-dihua-photo": {
       "src": "/images/tpe-dihua-photo.jpg",
@@ -10554,8 +11692,18 @@
       "title": "Dadaocheng, Taipei - Dadaocheng5109.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Historic red-brick shophouse façades on Dihua Street in Taipei",
-      "w": 1200,
-      "h": 900
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/tpe-dihua-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/tpe-dihua-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "hkg-ferry-photo": {
       "src": "/images/hkg-ferry-photo.jpg",
@@ -10566,8 +11714,18 @@
       "title": "Star Ferry Hong Kong. (14143932945).jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Star Ferry crossing Victoria Harbour with Hong Kong buildings behind it",
-      "w": 1200,
-      "h": 656
+      "w": 1600,
+      "h": 876,
+      "variants": [
+        {
+          "src": "/images/hkg-ferry-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkg-ferry-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "par-islands-photo": {
       "src": "/images/par-islands-photo.jpg",
@@ -10578,8 +11736,18 @@
       "title": "Paris ile Cite ile Saint Louis pont Tournelle.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "The Seine, Île de la Cité and Île Saint-Louis viewed from above in Paris",
-      "w": 1200,
-      "h": 600
+      "w": 1600,
+      "h": 800,
+      "variants": [
+        {
+          "src": "/images/par-islands-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/par-islands-photo-960.jpg",
+          "w": 960
+        }
+      ]
     },
     "ist-square-photo": {
       "src": "/images/ist-square-photo.jpg",
@@ -10590,8 +11758,18 @@
       "title": "Sultan Ahmed Mosque 2022 2.jpg",
       "note": "Reference photograph from Wikimedia Commons; resized and cropped for display. Not a claim of a recent on-site visit.",
       "alt": "Sultan Ahmed Mosque seen from the park in Istanbul’s Sultanahmet area",
-      "w": 1200,
-      "h": 782
+      "w": 1600,
+      "h": 1043,
+      "variants": [
+        {
+          "src": "/images/ist-square-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ist-square-photo-960.jpg",
+          "w": 960
+        }
+      ]
     }
   }
 }

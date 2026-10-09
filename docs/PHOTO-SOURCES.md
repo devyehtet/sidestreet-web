@@ -86,3 +86,7 @@ Twelve real photographs added on 2026-10-09. Licence and creator metadata were r
 - Licence: CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
 - Local file: public/images/ist-square-photo.jpg
 
+
+## Resolution update — 2026-10-10
+
+Re-downloaded 119 existing photographs from the same credited Wikimedia source files, resized to at most 1600 pixels wide and 2400 pixels tall, with progressive JPEG compression. Added 480/960-pixel variants where the source allowed them. One existing photograph (t-viet-coffee) is already at its source resolution and was retained. Original atlas artwork and all creator/licence/source notes remain unchanged. This resolution change does not represent a new factual or rights clearance. Machine-readable results: IMAGE-RESOLUTION-UPDATE.json.
