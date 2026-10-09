@@ -895,6 +895,21 @@
       "url": "https://thailand.go.th/public/event-detail/bangkok-art-biennale-2026-bab-2026",
       "consultedAt": "2026-10-10",
       "publishedAt": "2026-08-07"
+    },
+    "your-thai-guide-booking": {
+      "name": "Your Thai Guide — bookings",
+      "url": "https://yourthaiguide.com/contact-and-bookings/",
+      "consultedAt": "2026-10-10"
+    },
+    "ais-tourist-official": {
+      "name": "AIS — tourist SIM plans",
+      "url": "https://www.ais.th/en/consumers/package/international/tourist-plan",
+      "consultedAt": "2026-10-10"
+    },
+    "bounce-bangkok-official": {
+      "name": "Bounce — Bangkok locations",
+      "url": "https://bounce.com/luggage-storage/bangkok",
+      "consultedAt": "2026-10-10"
     }
   },
   "cities": [
@@ -12359,6 +12374,45 @@
       ],
       "url": "https://www.phuketsmartbus.com/timetable/",
       "verify": true
+    },
+    {
+      "id": "bkk-private-guide",
+      "city": "bkk",
+      "name": "Your Thai Guide",
+      "area": "Bangkok — agree a meeting point",
+      "kind": "service",
+      "src": [
+        "your-thai-guide-booking"
+      ],
+      "url": "https://yourthaiguide.com/contact-and-bookings/",
+      "verify": true,
+      "blurb": "Custom private guiding enquiries. Agree the route, duration, language, inclusions and quote directly before booking."
+    },
+    {
+      "id": "bkk-tourist-sim",
+      "city": "bkk",
+      "name": "AIS tourist SIM",
+      "area": "Bangkok — choose a sales or activation option",
+      "kind": "service",
+      "src": [
+        "ais-tourist-official"
+      ],
+      "url": "https://www.ais.th/en/consumers/package/international/tourist-plan",
+      "verify": true,
+      "blurb": "Compare tourist data plans and phone compatibility. Check registration, activation and validity with the operator."
+    },
+    {
+      "id": "bkk-luggage-bounce",
+      "city": "bkk",
+      "name": "Bounce luggage storage",
+      "area": "Bangkok — select a partner location",
+      "kind": "service",
+      "src": [
+        "bounce-bangkok-official"
+      ],
+      "url": "https://bounce.com/luggage-storage/bangkok",
+      "verify": true,
+      "blurb": "Compare individual storage locations for your route. Check baggage limits, opening, retrieval time and booking terms."
     }
   ],
   "events": [

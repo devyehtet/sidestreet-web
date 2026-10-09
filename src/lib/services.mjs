@@ -1,0 +1,12 @@
+export function publicPlacements(placements,categories,cities,now=new Date()){
+ const date=now.toISOString().slice(0,10);
+ return placements.filter(p=>typeof p.id==='string'&&p.id.trim()&&validDate(p.startsAt)&&validDate(p.endsAt)&&p.status==='published'&&p.sponsorshipConfirmed===true&&p.startsAt<=date&&p.endsAt>=date&&p.startsAt<=p.endsAt&&categories.some(c=>c.id===p.category)&&cities.some(c=>c.id===p.city)&&typeof p.name==='string'&&p.name.trim()&&typeof p.bestFor==='string'&&p.bestFor.trim()&&typeof p.description==='string'&&p.description.trim()&&validLink(p.url));
+}
+function validLink(value){try{const url=new URL(value);return url.protocol==='https:'&&!url.username&&!url.password;}catch{return false;}}
+export function directoryListings(places){
+ const named={'bkk-thipsamai':['restaurants','A focused pad Thai stop'],'bkk-supanniga-tha-tien':['restaurants','A planned sit-down Thai meal near Tha Tien'],'cnx-mae-sai':['restaurants','A focused khao soi meal'],'cnx-huen-muan-jai':['restaurants','Sharing northern Thai dishes'],'hkt-one-chun':['restaurants','A shared southern Thai meal in town'],'hkt-go-benz':['restaurants','A pork-focused rice or noodle stop'],'bkk-iconsiam':['shopping','Comparing stores and gifts in one complex'],'bkk-jim-retail':['shopping','A focused clothing, accessory or home gift'],'cnx-jing-jai':['shopping','Creative shopping and market browsing'],'hkt-central-phuket':['shopping','Specific mall shopping and practical enquiries'],'bkk-bts-service':['transport','Rail journey planning'],'hkt-smart-bus-service':['transport','Route-specific Phuket bus planning'],'cnx-thai-farm-class':['classes','A booked hands-on cooking session'],'bkk-private-guide':['tours','A custom private guiding enquiry'],'bkk-tourist-sim':['connectivity','Comparing tourist mobile data plans'],'bkk-luggage-bounce':['luggage','Choosing a storage location near your route']};
+ const kinds={eat:['restaurants','A meal in this area'],shop:['shopping','A focused shopping visit'],market:['shopping','A market browsing stop'],stay:['stays','Comparing a stay in this area']};
+ return places.flatMap(p=>{const match=named[p.id]||kinds[p.kind];return match?[{...p,category:match[0],bestFor:match[1],sponsored:false}]:[];}).sort((a,b)=>a.name.localeCompare(b.name));
+}
+
+function validDate(value){return typeof value==='string'&&/^\d{4}-\d{2}-\d{2}$/.test(value)&&!Number.isNaN(Date.parse(value+'T00:00:00Z'))&&new Date(value+'T00:00:00Z').toISOString().slice(0,10)===value;}

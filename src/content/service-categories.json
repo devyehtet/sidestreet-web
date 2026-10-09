@@ -1,0 +1,50 @@
+[
+  {
+    "id": "transport",
+    "name": "Airport & city transport",
+    "description": "Reach your accommodation and move between places.",
+    "check": "Compare the full route, luggage rules, operating hours and final connection."
+  },
+  {
+    "id": "tours",
+    "name": "Private guides & tours",
+    "description": "Arrange a guided outing around your interests.",
+    "check": "Confirm guide arrangements, language, itinerary, inclusions and cancellation terms."
+  },
+  {
+    "id": "classes",
+    "name": "Cooking & experiences",
+    "description": "Book a hands-on activity with a clear schedule.",
+    "check": "Confirm dietary needs, pickup zone, class size, duration and what is included."
+  },
+  {
+    "id": "connectivity",
+    "name": "SIM & mobile data",
+    "description": "Stay connected during your trip.",
+    "check": "Check device compatibility, registration, activation, plan validity and data limits."
+  },
+  {
+    "id": "luggage",
+    "name": "Luggage storage",
+    "description": "Leave bags between check-out and departure.",
+    "check": "Check the exact location, opening and retrieval time, baggage limits and terms."
+  },
+  {
+    "id": "stays",
+    "name": "Hotels & stays",
+    "description": "Compare accommodation by the trip you want.",
+    "check": "Check room category, total cost, location and cancellation policy."
+  },
+  {
+    "id": "restaurants",
+    "name": "Restaurants & dining",
+    "description": "Choose a meal by cuisine, group needs and location.",
+    "check": "Read the current menu, dietary options, booking terms and payment methods."
+  },
+  {
+    "id": "shopping",
+    "name": "Shops & local markets",
+    "description": "Find gifts, craft browsing and practical purchases.",
+    "check": "Check the branch or market session, product details, prices and returns."
+  }
+]
