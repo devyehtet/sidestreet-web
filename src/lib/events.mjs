@@ -4,7 +4,7 @@ export function localDate(timezone, now = new Date()) {
   return `${value('year')}-${value('month')}-${value('day')}`;
 }
 export function isUpcoming(event, cities, now = new Date()) {
-  if (event.sample) return false;
+  if (event.sample || event.publicationStatus === 'research') return false;
   if (event.recur) return true;
   const timezone = cities.find(c => c.id === event.city)?.timezone || 'UTC';
   return (event.end || event.date) >= localDate(timezone, now);

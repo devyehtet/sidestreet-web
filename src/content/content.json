@@ -521,6 +521,161 @@
       "name": "Seoul Metropolitan Government — Gyeongbokgung Palace",
       "url": "https://english.seoul.go.kr/gyeongbokgung-palace/",
       "consultedAt": "2026-10-09"
+    },
+    "pak-khlong-bma": {
+      "name": "Bangkok Metropolitan Administration — flower-market history",
+      "url": "https://webportal.bangkok.go.th/upload/user/00000086/Innovation/PAK%20KLONG%20MARKET.pdf",
+      "consultedAt": "2026-10-09"
+    },
+    "doi-suthep-tat": {
+      "name": "Tourism Authority of Thailand — Wat Phra That Doi Suthep",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep",
+      "consultedAt": "2026-10-09"
+    },
+    "phuket-beaches-government": {
+      "name": "Phuket Provincial Office — beach directory",
+      "url": "https://www.phuket.go.th/eng/Attractions-Beaches.php",
+      "consultedAt": "2026-10-09"
+    },
+    "freedom-government": {
+      "name": "Thailand government — Freedom Beach background (2023)",
+      "url": "https://thailand.go.th/public/visit-thailand-detail/001_02_290",
+      "consultedAt": "2026-10-09"
+    },
+    "batu-malaysia": {
+      "name": "Tourism Malaysia — Batu Caves",
+      "url": "https://www.malaysia.travel/explore/batu-caves",
+      "consultedAt": "2026-10-09"
+    },
+    "kl-malaysia": {
+      "name": "Tourism Malaysia — Kuala Lumpur places",
+      "url": "https://www.malaysia.travel/explore/top-places-to-visit-in-kuala-lumpur",
+      "consultedAt": "2026-10-09"
+    },
+    "hcm-tourism": {
+      "name": "Ho Chi Minh City Tourism — visitor directory",
+      "url": "https://visithcmc.net/en/page/ke-hoach-chuyen-di",
+      "consultedAt": "2026-10-09"
+    },
+    "gwangjang-seoul": {
+      "name": "Seoul Tourism Organization — Gwangjang Market",
+      "url": "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286",
+      "consultedAt": "2026-10-09"
+    },
+    "senhora-lisboa": {
+      "name": "Visit Lisboa — Senhora do Monte viewpoint",
+      "url": "https://www.visitlisboa.com/en/places/miradouro-da-senhora-do-monte",
+      "consultedAt": "2026-10-09"
+    },
+    "lx-lisboa": {
+      "name": "Visit Lisboa — industrial heritage route",
+      "url": "https://www.visitlisboa.com/en/lisbon-stories/5-itinerario-dell-industria",
+      "consultedAt": "2026-10-09"
+    },
+    "centralpark-operator": {
+      "name": "Central Park Conservancy — visitor information",
+      "url": "https://www.centralparknyc.org/",
+      "consultedAt": "2026-10-09"
+    },
+    "joes-operator": {
+      "name": "Joe’s Pizza — shop website",
+      "url": "https://www.joespizzanyc.com/",
+      "consultedAt": "2026-10-09"
+    },
+    "bellas-inba": {
+      "name": "INBAL — Museo del Palacio de Bellas Artes",
+      "url": "https://inba.gob.mx/recinto/67/museo-del-palacio-de-bellas-artes",
+      "consultedAt": "2026-10-09"
+    },
+    "coyoacan-tourism": {
+      "name": "Mexico City tourism — Mercado de Coyoacán",
+      "url": "https://www.mexicocity.cdmx.gob.mx/venues/coyoacan-market/",
+      "consultedAt": "2026-10-09"
+    },
+    "ateneo-tourism": {
+      "name": "Buenos Aires tourism — El Ateneo Grand Splendid",
+      "url": "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/el-ateneo-grand-splendid",
+      "consultedAt": "2026-10-09"
+    },
+    "santelmo-tourism": {
+      "name": "Buenos Aires tourism — Feria de San Telmo",
+      "url": "https://turismo.buenosaires.gob.ar/es/atractivo/feria-de-san-telmo",
+      "consultedAt": "2026-10-09"
+    },
+    "bondi-tourism": {
+      "name": "Destination NSW — Bondi to Coogee coastal walk",
+      "url": "https://www.sydney.com/things-to-do/nature-and-parks/walks/bondi-to-coogee-coastal-walk",
+      "consultedAt": "2026-10-09"
+    },
+    "sydneygarden-operator": {
+      "name": "Botanic Gardens of Sydney — Royal Botanic Garden",
+      "url": "https://www.botanicgardens.org.au/royal-botanic-garden-sydney",
+      "consultedAt": "2026-10-09"
+    },
+    "bokaap-tourism": {
+      "name": "Cape Town Tourism — Bo-Kaap neighbourhood",
+      "url": "https://www.capetown.travel/neighbourhood/bo-kaap/",
+      "consultedAt": "2026-10-09"
+    },
+    "sanparks-hiking": {
+      "name": "SANParks — Table Mountain safe hiking",
+      "url": "https://www.sanparks.org/parks/table-mountain/useful-information/safe-hiking",
+      "consultedAt": "2026-10-09"
+    },
+    "weeknd-promoter": {
+      "name": "Live Nation Tero — The Weeknd Bangkok dates",
+      "url": "https://www.livenationtero.co.th/en/event/the-weeknd-after-hours-til-dawn-tour-bangkok-tickets-edp1672772",
+      "consultedAt": "2026-10-09"
+    },
+    "mraz-venue": {
+      "name": "BITEC — Jason Mraz Asia 2026 Tour",
+      "url": "https://www.bitec.co.th/event/jason-mraz-asia-2026-tour",
+      "consultedAt": "2026-10-09"
+    },
+    "babymonster-ticket": {
+      "name": "ThaiTicketMajor — BABYMONSTER Bangkok",
+      "url": "https://www.thaiticketmajor.com/concert/2026-27-babymonster-world-tour-choom-in-bangkok.html",
+      "consultedAt": "2026-10-09"
+    },
+    "mcr-ticket": {
+      "name": "Megatix — My Chemical Romance Bangkok",
+      "url": "https://megatix.in.th/events/my-chemical-romance",
+      "consultedAt": "2026-10-09"
+    },
+    "bts-ticket": {
+      "name": "ThaiTicketMajor — BTS Bangkok dates",
+      "url": "https://www.thaiticketmajor.com/concert/bts-world-tour-arirang-in-bangkok.html",
+      "consultedAt": "2026-10-09"
+    },
+    "wonderfruit-organiser": {
+      "name": "Wonderfruit — organiser information",
+      "url": "https://www.wonderfruit.co/faq",
+      "consultedAt": "2026-10-09"
+    },
+    "bab-organiser": {
+      "name": "Bangkok Art Biennale Foundation — 2026 announcement",
+      "url": "https://www.bkkartbiennale.com/press/bangkok-art-biennale-bab-2026-a-year-away",
+      "consultedAt": "2026-10-09"
+    },
+    "edc-organiser": {
+      "name": "EDC Thailand — organiser website",
+      "url": "https://thailand.edc.com/en/",
+      "consultedAt": "2026-10-09"
+    },
+    "halloween-organiser": {
+      "name": "Village Halloween Parade — organiser website",
+      "url": "https://halloween-nyc.com/",
+      "consultedAt": "2026-10-09"
+    },
+    "nationalgallery-operator": {
+      "name": "National Gallery London — plan your visit",
+      "url": "https://www.nationalgallery.org.uk/visiting/plan-your-visit",
+      "consultedAt": "2026-10-09"
+    },
+    "borough-operator": {
+      "name": "Borough Market — plan your visit",
+      "url": "https://boroughmarket.org.uk/visit-us/",
+      "consultedAt": "2026-10-09"
     }
   },
   "cities": [
@@ -1466,14 +1621,16 @@
       "city": "bkk",
       "cat": "food",
       "kind": "list",
-      "mins": 3,
+      "mins": 2,
       "title": "Bangkok from above: four rooftops",
       "dek": "Where to go for the view, and how high each one actually is.",
       "src": [
-        "tagmk"
+        "tagmk",
+        "octave-marriott"
       ],
       "body": [
-        "Rooftop bars are one of the things Bangkok does better than almost anywhere. Drinks cost several times what they do at street level, and most venues ask for closed shoes and long trousers for men. Arrive before sunset for a seat at the rail."
+        "Decide whether you want an observation ticket, a restaurant table or a bar visit before comparing Bangkok rooftops. Those are different purchases, with different booking and access rules.",
+        "Choose one venue and leave time for the return journey. A sunset view is optional; a reservation does not guarantee a particular table or weather."
       ],
       "items": [
         {
@@ -1495,57 +1652,46 @@
       ],
       "sections": [
         {
-          "h": "Why Bangkok does this so well",
+          "h": "Choose the kind of visit",
           "p": [
-            "The city is flat, dense and warm after dark all year, so a bar on a roof needs no heating and has nothing to block the view. Hotels started opening their rooftops to drinkers in the early 2000s and the idea spread quickly."
+            "Mahanakhon has a ticketed observation product, while the linked hotels offer rooftop dining or drinks. Read the exact product description before paying and check what areas the booking includes."
           ]
         },
         {
-          "h": "Dress codes and what it costs",
+          "h": "Read the total price and house rules",
           "p": [
-            "The big hotel bars ask for smart casual clothes. For men that usually means long trousers and closed shoes. Sleeveless shirts, sportswear and flip-flops are turned away at the lift.",
-            "Menus normally show prices before a 10 per cent service charge and 7 per cent tax, so the bill is about 17 per cent higher than the list price. Expect to pay several times what the same drink costs at street level. You are paying for the view."
+            "Check the current menu, taxes, service charges and any minimum spend before ordering. Do not apply one hotel’s dress code or child policy to another. Contact the venue about your actual group and reservation."
           ]
         },
         {
-          "h": "When to go",
+          "h": "Give the weather a place in the plan",
           "p": [
-            "Sunset in Bangkok falls between about 6pm and 6.45pm depending on the time of year. Arrive 45 minutes before for a seat at the rail and stay as the city lights come on. In the rainy season, open-air decks close at short notice when storms pass through, so have a second plan."
-          ]
-        },
-        {
-          "h": "About the tallest one",
-          "p": [
-            "King Power Mahanakhon, designed by the architect Ole Scheeren, was the tallest building in Thailand when it was completed in 2016 and remains one of the two tallest. Its pixelated outline, as though a ribbon of blocks had been removed, makes it easy to pick out from anywhere in the city. The SkyWalk is a ticketed observation deck rather than a bar, though there is a bar at the top."
+            "Check the forecast and the venue’s outdoor-area policy. Ask what happens to your reservation if the deck closes, and keep an indoor meal or a shorter evening available. No storm duration or guaranteed sunset seat is assumed."
           ]
         }
       ],
       "tips": [
-        "Some venues require a booking for rail-side tables at sunset.",
-        "Tripods and professional cameras are often not allowed.",
-        "If heights bother you, skip the glass floor at Mahanakhon and stay on the main deck.",
-        "For a cheaper view, the Golden Mount in the old town looks over the low-rise city at sunset."
+        "Check the venue’s dress code before leaving.",
+        "Ask about camera and tripod rules.",
+        "Choose a comfortable area if a glass floor does not appeal to you."
       ],
       "faq": [
         [
-          "Is there a minimum age?",
-          "The legal drinking age in Thailand is 20, and hotel bars check identification. Some rooftops do not admit children in the evening at all, so check before bringing a family."
+          "Can children visit?",
+          "Check the rules for your exact product and visiting time. An observation deck and a bar can have different age and admission policies."
         ],
         [
           "Do I need a reservation?",
-          "For a table at the rail around sunset, yes, at the best-known bars. Standing room at the bar is usually available without one."
-        ],
-        [
-          "Can I go up just for the view?",
-          "Bars expect you to order at least one drink, and a few set a minimum spend. If you only want the view, the Mahanakhon SkyWalk is a ticketed observation deck with no need to buy anything else."
+          "Check the venue’s current arrangement. Ask separately about table location, minimum spend and walk-in availability."
         ],
         [
           "What happens if it rains?",
-          "Open-air sections close during storms and staff move guests under cover. Storms usually pass within an hour, and the air afterwards is clearer for photographs."
+          "Consult the venue’s closure, cancellation and refund rules before paying. Outdoor access is subject to actual conditions."
         ]
       ],
       "slug": "bangkok-rooftops",
-      "img": "bkk-mahanakhon"
+      "img": "bkk-mahanakhon",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "bkk-chatuchak",
@@ -1745,7 +1891,9 @@
         ]
       ],
       "slug": "bangkok-loy-krathong",
-      "img": "t-loy-krathong"
+      "img": "t-loy-krathong",
+      "researchNote": "Cultural background and calendar references; municipal programmes and lantern-release permissions must be checked separately for your date.",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "bkk-biennale",
@@ -1756,11 +1904,11 @@
       "title": "Bangkok Art Biennale opens on 29 October",
       "dek": "Four months of contemporary art in temples, galleries and riverside venues.",
       "src": [
-        "thgcal"
+        "bab-organiser"
       ],
       "body": [
-        "The Bangkok Art Biennale runs from 29 October 2026 to 28 February 2027. Works are shown across the city, including inside working temples, which makes it a good reason to revisit the old town.",
-        "Temple venues keep their usual dress code and entry fees."
+        "The organiser announces Bangkok Art Biennale 2026 for 29 October 2026–28 February 2027 under the theme Angels and Mara. Start with the current venue list rather than a map from an earlier edition.",
+        "Check each participating venue’s access, admission and dress rules separately. A citywide exhibition does not create a single ticket or a shared opening time."
       ],
       "sections": [
         {
@@ -1773,40 +1921,33 @@
         {
           "h": "How to plan a visit",
           "p": [
-            "Venues are spread across the city, so group them. The old-town temple venues fit into one day on foot and by ferry. The central venues around Pathum Wan fit into another and are linked by the BTS Skytrain.",
-            "Entry to the Bangkok Art and Culture Centre is free. Temples charge their normal admission and keep their usual dress code."
+            "Choose one venue cluster and save the entrances you intend to use. The organiser’s current visit pages are the source for this edition’s participating sites.",
+            "Our suggestion is one area and a break for a half-day; add another area only after checking travel and opening times. These are planning allowances, not a promise that every work will be accessible."
           ]
         }
       ],
       "tips": [
-        "Pick up the printed venue map at the first site you visit.",
-        "Weekday mornings are quietest.",
-        "Temple venues close earlier than galleries, so do those first."
+        "Use the current organiser map.",
+        "Check individual venues before travelling.",
+        "Follow photography and worship-space notices."
       ],
       "faq": [
         [
           "Is the Biennale free?",
-          "Many venues are, including the Bangkok Art and Culture Centre. Temples that host works charge their usual admission."
+          "Admission depends on the venue and visit type. Confirm current conditions for each stop."
         ],
         [
-          "How much time do I need?",
-          "Two days covers the main clusters comfortably: one for the old-town and riverside venues, one for the central galleries. With a single day, pick one area and do it properly."
-        ],
-        [
-          "Is it suitable for children?",
-          "The large, colourful installations in the galleries tend to delight children. Temple venues ask for quiet and modest dress, which suits older children better."
+          "How much time should I allow?",
+          "Our suggestion is a half-day in one area with a break. Add another cluster as a separate outing."
         ],
         [
           "Can I take photographs?",
-          "Usually, without flash, unless a sign beside the work says otherwise. Inside temple chapels, follow the temple's own rules."
-        ],
-        [
-          "When is the best time to go?",
-          "The exhibition overlaps Bangkok's cool season. From November to February the weather is at its best for walking between venues."
+          "Follow the notices for the work and venue. Public display does not imply permission for every use of a photograph."
         ]
       ],
       "slug": "bangkok-biennale",
-      "img": "t-biennale"
+      "img": "bkk-bacc",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "bkk-gigs",
@@ -1817,12 +1958,19 @@
       "title": "Big shows in Bangkok before the year ends",
       "dek": "The Weeknd, Baby Monster, My Chemical Romance and BTS are all on the calendar.",
       "src": [
-        "bklist"
+        "bklist",
+        "weeknd-promoter",
+        "mraz-venue",
+        "babymonster-ticket",
+        "mcr-ticket",
+        "bts-ticket",
+        "wonderfruit-organiser"
       ],
       "body": [
         "The last quarter of 2026 is a heavy one for stadium shows. The Weeknd plays Rajamangala National Stadium from 11 to 13 October. Jason Mraz is at BITEC Bangna on 29 October.",
         "November brings Baby Monster to Impact Arena on the 7th and 8th and My Chemical Romance to Impact Challenger Hall on the 17th. BTS play Rajamangala on 3, 5 and 6 December.",
-        "Out of town, Wonderfruit returns to The Fields at Siam Country Club near Pattaya from 3 to 7 December."
+        "Out of town, Wonderfruit returns to The Fields at Siam Country Club near Pattaya from 3 to 7 December.",
+        "Dates were compared with the linked promoter, venue and ticketing pages on 9 October 2026. Confirm the specific show and current ticket conditions before buying; listing a show does not establish availability."
       ],
       "sections": [
         {
@@ -1835,42 +1983,40 @@
         {
           "h": "Getting to Rajamangala",
           "p": [
-            "No train stops at the stadium gate. Most people ride the Airport Rail Link to Ramkhamhaeng station and continue by taxi, motorcycle taxi or bus. After a show, tens of thousands of people leave at once, and taxis are scarce for an hour or more. Walking ten to fifteen minutes away from the stadium before calling a car usually works better than waiting at the gate."
+            "Save the venue’s actual entrance and the journey from your accommodation. Allow a broad arrival buffer rather than treating a train station as the stadium gate.",
+            "Arrange a pickup or return connection you can use after the show. Follow the organiser’s designated pickup instructions; do not assume a short walk will guarantee a taxi."
           ]
         },
         {
           "h": "Getting to Impact",
           "p": [
-            "Muang Thong Thani used to be reachable only by road. A branch of the Pink Line monorail now runs into the complex, which makes the trip from the city much more predictable. Leave early anyway. Security checks and merchandise queues are long on show nights."
+            "Check current rail connections, venue entrances and service notices for Muang Thong Thani. Include transfers and the walk from the station in your plan.",
+            "Read the promoter’s arrival and security instructions before setting out. A ticketed start time is not a guarantee that entry queues will be short."
           ]
         }
       ],
       "tips": [
-        "Buy tickets only from the promoter's official seller. Resale at inflated prices is common for big tours.",
-        "Open-air stadium shows go ahead in rain. Bring a poncho, since umbrellas are usually banned.",
-        "Large bags and professional cameras are generally not allowed inside.",
-        "Agree a meeting point with friends before the show. Mobile data slows to a crawl in the crowd."
+        "Follow the promoter’s link to the authorised seller.",
+        "Check the specific bag, umbrella, camera and weather policy.",
+        "Agree a meeting point before entering."
       ],
       "faq": [
         [
           "How early should I arrive?",
-          "For a stadium show, two to three hours before the start. Security checks, ticket scanning and merchandise queues all take longer than you expect."
+          "Use the promoter’s published gate time and entry instructions, then add time for travel and your group’s needs."
         ],
         [
-          "Are the shows seated or standing?",
-          "Stadium concerts usually have standing zones on the pitch and numbered seats in the stands. Your ticket will name a zone. Arena shows vary by tour."
+          "Are shows seated or standing?",
+          "Check the zone on your actual ticket and the show’s seating plan."
         ],
         [
-          "What can I bring in?",
-          "Rules are set by each promoter and are published before the show. Small bags are normally fine. Large backpacks, umbrellas, professional cameras and outside drinks are commonly refused."
-        ],
-        [
-          "How do I get home afterwards?",
-          "The BTS and MRT stop running around midnight. If the show ends late, arrange a ride in advance or be prepared to walk away from the venue before finding a taxi."
+          "How do I get home?",
+          "Check the last service on your exact route and keep an alternative if the performance ends after it."
         ]
       ],
       "slug": "bangkok-gigs",
-      "img": "t-rajamangala"
+      "img": "t-rajamangala",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "bkk-talatnoi",
@@ -2280,7 +2426,7 @@
       "city": "cnx",
       "cat": "news",
       "kind": "news",
-      "mins": 4,
+      "mins": 3,
       "title": "Yi Peng 2026: the lantern rules, and where to watch",
       "dek": "The festival is on 24 and 25 November. Releasing a sky lantern in the city can land you in court.",
       "src": [
@@ -2290,7 +2436,7 @@
       "body": [
         "Yi Peng, the northern lantern festival, coincides with Loy Krathong on 24 and 25 November 2026. The free celebrations are in the old city: Tha Phae Gate, the Three Kings Monument, Wat Phan Tao and Wat Chedi Luang, which fill with candles and paper lanterns.",
         "Krathongs are floated on the Ping River near Nawarat Bridge and on the old city moat.",
-        "Sky lanterns are tightly controlled because of fire and air-traffic risk. Unlicensed releases are banned across Mueang Chiang Mai district and neighbouring areas, with penalties of up to five years in prison and a fine of up to ฿200,000. The mass releases you see in photographs happen at licensed, ticketed venues outside the city."
+        "Sky-lantern releases can affect fire safety and aviation. Check the current provincial, municipal and organiser notices for the place and time you intend to attend; this guide does not establish permission to release one."
       ],
       "sections": [
         {
@@ -2303,34 +2449,33 @@
         {
           "h": "The paid lantern releases",
           "p": [
-            "The photographs of thousands of lanterns rising together are taken at organised events outside the city. These are ticketed, often expensive and usually sell out months ahead. Tickets normally include transport from town, dinner and lanterns.",
-            "Buy from the organiser or a licensed agent, and be cautious of resellers on social media. If an offer appears in the last week at a bargain price, treat it with suspicion."
+            "A paid release is a separate event from the city’s religious celebrations. Before buying, compare the organiser, actual location, transfer, meal and lantern inclusions.",
+            "Read cancellation and change terms. Do not assume a photograph of a previous release describes the current programme or confirms permission."
           ]
         },
         {
           "h": "Seeing it for free",
           "p": [
-            "You do not need a ticket to enjoy the festival. On both evenings the old city fills with candles set along temple walls and the moat. Monks hold chanting ceremonies at several temples, and a parade of illuminated floats usually passes along Tha Phae Road.",
-            "Down at the river, families launch krathongs from the banks near Nawarat Bridge. It is crowded, smoky from fireworks and thoroughly good-natured."
+            "Use the municipality’s current programme to find public displays or ceremonies. Temple access and participating venues may differ from earlier editions.",
+            "Choose one confirmed stop and follow staff directions around candles, water and crowds. Public celebrations and commercial releases should not be treated as the same booking."
           ]
         },
         {
           "h": "Flights and crowds",
           "p": [
-            "Because of the lanterns, Chiang Mai airport adjusts its schedule on festival nights and some evening flights are moved or cancelled. If you are flying in or out, check with your airline a few days before. Hotels in and around the old city fill early, so book well ahead."
+            "Confirm your actual flight with the airline and transport arrangements with your accommodation. A lantern festival does not by itself prove a particular flight has been cancelled."
           ]
         }
       ],
       "tips": [
-        "Do not release a sky lantern in town. The penalties are severe and are enforced.",
-        "Wear clothes you do not mind getting marked by candle wax or ash.",
-        "Carry cash for krathongs and street food. ATMs near the river run dry on the night.",
-        "Agree a meeting point. Mobile networks slow down in the crowds around Tha Phae Gate."
+        "Check current permissions; do not release a lantern on your own assumption.",
+        "Ask the organiser about transport and inclusions.",
+        "Keep return transport and a meeting point arranged."
       ],
       "faq": [
         [
           "Can I release a sky lantern myself?",
-          "Not inside the city. Releases are banned across central Chiang Mai and nearby districts and are allowed only at licensed venues. The penalties include prison and a heavy fine."
+          "Do not assume permission. Check current local notices and the organiser’s specific rules; a paid ticket alone is not a substitute for authorised arrangements."
         ],
         [
           "Is Yi Peng the same as Loy Krathong?",
@@ -2346,7 +2491,9 @@
         ]
       ],
       "slug": "chiang-mai-yi-peng",
-      "img": "t-yipeng"
+      "img": "t-yipeng",
+      "researchNote": "Cultural background and calendar references; municipal programmes and lantern-release permissions must be checked separately for your date.",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "cnx-markets",
@@ -2850,7 +2997,7 @@
       "city": "hkt",
       "cat": "news",
       "kind": "news",
-      "mins": 3,
+      "mins": 2,
       "title": "Phuket's Big Buddha is open again",
       "dek": "The hilltop landmark reopened in March after 18 months closed.",
       "src": [
@@ -2860,8 +3007,8 @@
         "hkt-big-buddha"
       ],
       "body": [
-        "The Big Buddha on Nakkerd Hill closed on 23 August 2024 after a landslide below the site killed 13 people. It reopened on 3 March 2026 and has stayed open since.",
-        "Visiting hours are 9am to 6pm, with last entry at 5.30pm. Entry is free. Shoulders and knees must be covered, and sarongs are lent at the entrance."
+        "The Nakkerd Hill Big Buddha is a landmark with a changing access history. A secondary visitor guide reports reopening on 3 March 2026 after the 2024 closure, but that report does not establish continuous access on your travel date.",
+        "Before travelling up the hill, confirm current access, visitor hours and the return journey locally. Do not rely on an old opening notice as permission to use a road or footpath."
       ],
       "sections": [
         {
@@ -2880,37 +3027,33 @@
         {
           "h": "Getting there",
           "p": [
-            "The road up leaves the main route near Chalong and climbs for about six kilometres. Most visitors come by taxi, hired car or scooter. The road is steep and winding, so inexperienced riders should think twice. There is no regular public bus to the top.",
-            "Go early in the morning for cooler air and fewer tour groups, or about an hour before sunset. Remember that last entry is half an hour before closing."
+            "Arrange the journey to and from the actual permitted entrance before leaving. Discuss the road conditions and pickup point with your driver rather than assuming a regular bus or an unrestricted walking route.",
+            "For a shorter cultural outing, consider Wat Chalong separately. The hill visit is optional; do not keep travelling towards a closed route because it appeared in a saved itinerary."
           ]
         }
       ],
       "tips": [
-        "This is an active place of worship. Speak quietly and do not climb on the statue's base.",
-        "Monkeys live along the road. Do not feed them and keep bags closed.",
-        "Combine the visit with Wat Chalong, at the foot of the hill.",
-        "Bring water. There are a few stalls at the top but prices are higher."
+        "Follow worship-space dress and photography notices.",
+        "Confirm current access before leaving.",
+        "Arrange a return pickup."
       ],
       "faq": [
         [
-          "Is there an entrance fee?",
-          "No. Entry is free, and donations towards the upkeep of the site are welcome."
+          "Is admission free?",
+          "The secondary guide reports free entry. Confirm current terms and any separate transport costs before travelling."
         ],
         [
-          "How long does a visit take?",
-          "About an hour at the top, plus the drive up and down."
-        ],
-        [
-          "What should I wear?",
-          "Cover your shoulders and knees. Sarongs are lent free at the entrance if you arrive in beachwear."
+          "How long should I allow?",
+          "Our suggestion is around an hour at the site, plus the journey, if current access is confirmed."
         ],
         [
           "Can I walk up?",
-          "There are steep footpaths from the Kata and Karon side. They take an hour or more in full heat and are best attempted early in the morning with plenty of water."
+          "Do not assume any footpath is open or suitable. Check permitted access and current conditions with local authorities or the site."
         ]
       ],
       "slug": "phuket-big-buddha",
-      "img": "hkt-big-buddha"
+      "img": "hkt-big-buddha",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "hkt-beaches",
@@ -3207,7 +3350,8 @@
       "title": "Thadingyut 2026: the Festival of Lights is on 25 to 27 October",
       "dek": "Three days of candles, lanterns and visits to elders mark the end of Buddhist Lent.",
       "src": [
-        "calmm"
+        "calmm",
+        "fcdo"
       ],
       "body": [
         "Thadingyut falls on the full moon of the seventh Burmese month. In 2026 the public holidays run from Sunday 25 to Tuesday 27 October, with the full-moon day on the 26th.",
@@ -3260,7 +3404,8 @@
         ]
       ],
       "slug": "yangon-thadingyut",
-      "img": "t-thadingyut"
+      "img": "t-thadingyut",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "ygn-shwedagon",
@@ -3272,7 +3417,8 @@
       "dek": "When to go, what to wear and how to find your birthday corner.",
       "src": [
         "nomax",
-        "totygn"
+        "totygn",
+        "fcdo"
       ],
       "places": [
         "ygn-shwedagon"
@@ -3329,87 +3475,84 @@
         ]
       ],
       "slug": "yangon-shwedagon",
-      "img": "ygn-shwedagon"
+      "img": "ygn-shwedagon",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "ygn-circular",
       "city": "ygn",
       "cat": "travel",
       "kind": "feature",
-      "mins": 3,
+      "mins": 2,
       "title": "Three hours on the Yangon Circular Railway",
       "dek": "A 45.9 km commuter loop that doubles as the best cheap tour of the city.",
       "src": [
         "ppygn",
-        "totygn"
+        "totygn",
+        "fcdo"
       ],
       "places": [
         "ygn-circular"
       ],
       "body": [
-        "The Circular Railway opened in 1954 and loops through 39 stations from Yangon Central. A full circuit takes about three hours.",
-        "You do not need to ride all of it. Many visitors go as far as Danyingon, where a produce market spills across the platform, and return the same way.",
-        "Our most recent source for timetables and fares dates from 2024. Confirm both at Yangon Central before you set out."
+        "The Circular Railway is a working commuter service, not a guaranteed sightseeing circuit. Older guides describe a full loop and market stops, but those descriptions do not establish the current operating section, journey time or return service.",
+        "Start with a station enquiry: confirm the actual departure, destination, ticket requirements and how you will return. Leave the outing out if that information cannot be confirmed."
       ],
       "sections": [
         {
-          "h": "What the ride is like",
+          "h": "Ask about the actual service",
           "p": [
-            "This is a working commuter line, not a tourist train. Carriages have bench seats along the sides, windows that open and vendors who walk the aisle selling fruit, boiled eggs and betel. People board with sacks of vegetables, live chickens and bicycles.",
-            "The train rarely moves faster than a bicycle, so you have time to watch the city thin out into market gardens and villages and then gather itself again."
+            "Tell staff the destination you intend to reach and ask whether that train goes there. Check the last return and any changes before paying. Do not assume every service completes a loop."
           ]
         },
         {
-          "h": "Stations worth noticing",
+          "h": "Make the return part of the first decision",
           "p": [
-            "Yangon Central Station, where most visitors start, was rebuilt in 1954 with tiered roofs in traditional Burmese style. Insein, in the north-west, is a busy junction. Danyingon, at the top of the loop, is the highlight: a wholesale produce market spreads across the platforms and the tracks, and the train noses through it at walking pace."
+            "Save the starting station and a contact method for your accommodation. A market stop is optional; do not get off without a confirmed way back. Include waiting and transfers in your own time allowance."
           ]
         },
         {
-          "h": "Doing half the loop",
+          "h": "Travel with the carriage you have booked",
           "p": [
-            "Three hours on a hard bench is a long time. A common plan is to ride from Yangon Central to Danyingon, get off to look around the market, and take a train or taxi back. Trains run in both directions, so ask at the ticket window which one is leaving next."
+            "Ask about seating, toilets and any food or drink restrictions for the actual train. Older photographs and descriptions may show a different carriage type. Keep aisles and doorways clear and follow staff directions."
           ]
         }
       ],
       "tips": [
-        "Bring water, a hat and small change for snacks.",
-        "Sit on the shaded side. It changes as the train turns.",
-        "Older carriages have no air conditioning and basic toilets.",
-        "Timetables change. Confirm departure times at the station on the day."
+        "Confirm the operating section and return on the day.",
+        "Bring only what you can carry comfortably.",
+        "Check current travel advice before considering the outing."
       ],
       "faq": [
         [
-          "Where do I buy a ticket?",
-          "At the ticket office on the platform at Yangon Central Station, shortly before departure. Carry your passport, as it has sometimes been asked for."
+          "How long does the loop take?",
+          "This guide does not establish a current full-loop duration. Confirm the actual service and operating section at the station."
         ],
         [
-          "What is the best time to ride?",
-          "A morning departure. The market at Danyingon is busiest early, and the carriages are cooler."
+          "Are toilets and refreshments available?",
+          "Ask about the actual carriage and service; an older travel account is not a facilities guarantee."
         ],
         [
-          "Are there toilets and food on board?",
-          "Toilets are basic. Vendors sell fruit, snacks and drinks in the aisle, but bring your own water."
-        ],
-        [
-          "Is it safe?",
-          "Ride in daylight, keep your belongings close and read current travel advice for Myanmar before you go."
+          "Is this a current travel recommendation?",
+          "It is transport background. Check the travel advice and conditions relevant to your own visit before making a plan."
         ]
       ],
       "slug": "yangon-circular",
-      "img": "ygn-circular"
+      "img": "ygn-circular",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "ygn-teashops",
       "city": "ygn",
       "cat": "food",
       "kind": "feature",
-      "mins": 4,
+      "mins": 3,
       "title": "How to order in a Yangon tea shop",
       "dek": "Low stools, sweet milk tea and the national breakfast.",
       "src": [
         "locygn",
-        "timeout-ygn"
+        "timeout-ygn",
+        "fcdo"
       ],
       "places": [
         "ygn-lucky-seven",
@@ -3417,7 +3560,7 @@
       ],
       "body": [
         "The tea shop is Yangon's living room. People come for a cup of strong tea with condensed milk and stay for the news, the football and a second breakfast.",
-        "Order your tea by sweetness and strength, then look at what is coming out of the kitchen. Mohinga, a fish and rice-noodle soup, is the national breakfast and is often finished by nine. Fried dough sticks are for dunking. A pot of plain green tea on the table is free.",
+        "Ask for the sweetness and strength you prefer, then check the current menu. Mohinga is a fish-based rice-noodle soup associated with breakfast; availability and included drinks depend on the shop.",
         "The shops we list were last confirmed by sources from 2020 to 2024. Check that they are open before you make a special trip."
       ],
       "sections": [
@@ -3425,7 +3568,7 @@
           "h": "Ordering tea",
           "p": [
             "Burmese tea is black, brewed strong and mixed with condensed and evaporated milk. You order by how sweet and how strong you want it. Asking for the regular blend gets a balanced cup. There are names for sweeter, milkier versions and for stronger, more bitter ones, and regulars are particular about theirs.",
-            "A flask of plain Chinese tea sits on every table and is free. People drink it between sips of the sweet tea and to rinse their cups."
+            "Ask whether plain tea is included before assuming any drink is free. Use the menu and staff explanation to understand what you have ordered."
           ]
         },
         {
@@ -3438,7 +3581,7 @@
         {
           "h": "Tea shop manners",
           "p": [
-            "Sit wherever there is space. Snacks are often placed on the table without being ordered, and you pay only for what you eat. To call a waiter, customers traditionally make a short kissing sound, which is not rude here. Tea shops open before dawn and many are busiest between six and nine in the morning."
+            "Choose an available seat and ask how ordering and payment work. A snack placed on the table is not automatically complimentary, so agree what you will pay for before eating."
           ]
         },
         {
@@ -3452,31 +3595,27 @@
         }
       ],
       "tips": [
-        "Go early. Mohinga is a breakfast dish and the pot is often empty by nine.",
-        "Carry small kyat notes. Tea shops do not take cards.",
-        "Street-side shops use low plastic stools. Indoor ones have proper tables.",
-        "If you have a delicate stomach, choose hot, freshly cooked items over salads."
+        "Ask about ingredients and payment before ordering.",
+        "Confirm the shop is operating before a special trip.",
+        "Use current travel advice alongside cultural background."
       ],
       "faq": [
         [
-          "Are tea shops welcoming to solo travellers and women?",
-          "Yes. Early-morning street shops are mostly full of men on their way to work, but families and groups of friends use them all day and nobody minds a visitor."
-        ],
-        [
-          "Is there vegetarian food?",
-          "Potato samosas, boiled peas with flatbread and several noodle salads are meat-free. Ask for tea leaf salad without dried shrimp."
+          "Can I find vegetarian food?",
+          "Ask about every ingredient, including stock, sauces and dried shrimp. A dish description does not confirm preparation or cross-contact."
         ],
         [
           "What are the opening hours?",
-          "Most open before dawn and close in the early evening. A few city-centre shops stay open late."
+          "Check the actual shop; the older sources used here do not confirm today’s hours."
         ],
         [
           "How do I know what I owe?",
-          "Staff count the plates and cups on your table when you ask to pay. Snacks you did not touch are taken back and not charged."
+          "Check the menu and agree which snacks or drinks are chargeable before consuming them."
         ]
       ],
       "slug": "yangon-teashops",
-      "img": "t-mohinga"
+      "img": "t-mohinga",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "ygn-walk",
@@ -3572,7 +3711,7 @@
         "momsg"
       ],
       "body": [
-        "Deepavali falls on Sunday 8 November 2026. Because it lands on a Sunday, Monday 9 November is a public holiday as well, according to the Ministry of Manpower.",
+        "The Ministry of Manpower lists Deepavali on Sunday 8 November 2026. Monday 9 November is a public holiday for those whose rest day falls on Sunday. Check the separate community programme for light-up and bazaar dates.",
         "Serangoon Road in Little India is decorated with light arches for several weeks before the day, and a festive bazaar sets up in the side streets."
       ],
       "sections": [
@@ -3626,7 +3765,8 @@
         ]
       ],
       "slug": "singapore-deepavali",
-      "img": "t-deepavali"
+      "img": "t-deepavali",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "sin-hawker",
@@ -3682,34 +3822,32 @@
         }
       ],
       "tips": [
-        "Return your tray and crockery to the racks. It is required by law.",
-        "A packet of tissues on a table means it is taken.",
-        "Many stalls close one or two days a week, and some sell out by early afternoon.",
-        "Most stalls take cash and local QR payments. Cards are rarely accepted."
+        "Return trays and crockery to the designated point and follow posted rules.",
+        "Check whether a table is occupied before sitting.",
+        "Check individual stall hours and payment methods."
       ],
       "faq": [
         [
-          "Is hawker food hygienic?",
-          "Stalls are licensed and regularly inspected. Food is cooked to order in open view, and standards are high."
+          "Does a busy stall guarantee food safety?",
+          "No. A queue or a general centre listing does not establish the handling of a particular meal. Explain dietary needs and choose a venue able to answer them."
         ],
         [
-          "Are there halal and vegetarian options?",
-          "Yes. Halal stalls display their certification, and most centres have at least one Indian vegetarian stall."
-        ],
-        [
-          "When are hawker centres busiest?",
-          "From noon to 1.30pm and from 6.30pm to 8pm. Go a little before or after to find a table easily."
+          "Are halal or vegetarian dishes available?",
+          "Look for the specific stall’s current certification or menu and ask about ingredients and preparation. Do not infer this from the centre’s name."
         ],
         [
           "How much does a meal cost?",
-          "A plate at a hawker stall costs a fraction of a restaurant main course, which is why locals of every income eat there."
+          "Read the displayed portion, inclusions and price at the stall. Food, drinks and extras are separate unless the menu says otherwise."
         ]
       ],
       "slug": "singapore-hawker",
       "img": "sin-lau-pa-sat",
       "src": [
-        "timeout-sin"
-      ]
+        "timeout-sin",
+        "maxwell-heritage",
+        "laupasat-operator"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "tyo-listening",
@@ -3957,7 +4095,7 @@
       "dek": "Coconut rice, flaky flatbread and pulled tea.",
       "body": [
         "Kuala Lumpur takes breakfast seriously. Nasi lemak is rice cooked in coconut milk, served with sambal, peanuts, fried anchovies and a boiled egg, often wrapped in a banana leaf. Roti canai is flatbread stretched thin, folded and served with dhal.",
-        "Wash both down with teh tarik, tea poured from a height until it froths. Any neighbourhood mamak stall will do all three."
+        "Teh tarik is tea pulled between vessels to create a frothy drink. Compare the actual menu at your chosen café or stall; not every business offers every dish."
       ],
       "sections": [
         {
@@ -3991,10 +4129,9 @@
         }
       ],
       "tips": [
-        "Say kurang manis if you want your drink less sweet.",
-        "Mamak restaurants often stay open around the clock.",
-        "Eat with your right hand if you eat with your fingers.",
-        "The best nasi lemak stalls sell out by mid-morning."
+        "Ask for the sweetness you prefer.",
+        "Check the actual opening time before travelling.",
+        "Ask about ingredients and payment methods."
       ],
       "faq": [
         [
@@ -4003,7 +4140,7 @@
         ],
         [
           "Is it halal?",
-          "Malay stalls and mamak restaurants are halal. Chinese coffee shops may serve pork, and say so on their signs."
+          "Check the specific business’s current certification and preparation arrangements. A Malay, mamak or kopitiam label alone does not certify your meal."
         ],
         [
           "What time should I go?",
@@ -4011,14 +4148,16 @@
         ],
         [
           "Are there vegetarian options?",
-          "Roti canai with dhal is the easiest. Nasi lemak sambal usually contains shrimp paste and dried anchovies, so ask before ordering."
+          "Ask about the dough, cooking fat, curry, stock, anchovies and shrimp paste. A meat-free appearance does not establish ingredients or cross-contact."
         ]
       ],
       "slug": "kuala-lumpur-breakfast",
       "img": "t-nasi-lemak",
       "src": [
-        "timeout-kul"
-      ]
+        "timeout-kul",
+        "kl-malaysia"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "sgn-coffee",
@@ -4036,7 +4175,7 @@
         {
           "h": "Why the coffee is different",
           "p": [
-            "The French brought coffee to Vietnam in the nineteenth century. The country is now the second-largest producer in the world and the largest grower of robusta, a bean with more caffeine and a stronger, more bitter taste than arabica. Fresh milk was scarce in the tropics, so condensed milk became the standard partner.",
+            "Vietnamese coffee menus often distinguish a dark filter coffee from milkier drinks. Choose by preparation and taste rather than assuming the bean variety or caffeine content from the drink’s name.",
             "Coffee is brewed in a small metal filter called a phin that sits on top of the glass. It drips slowly, and waiting for it is part of the ritual."
           ]
         },
@@ -4065,8 +4204,8 @@
         }
       ],
       "tips": [
-        "Ask for less sugar with it ngot, and less ice with it da.",
-        "Pavement coffee is cash only and costs a fraction of cafe prices."
+        "Ask for the sweetness and ice you prefer.",
+        "Check the menu, ingredients and payment methods."
       ],
       "faq": [
         [
@@ -4075,7 +4214,7 @@
         ],
         [
           "How strong is it?",
-          "Very. Robusta has roughly twice the caffeine of arabica. Let the ice melt a little, or choose a milkier style."
+          "The recipe, bean and portion vary. Ask about the preparation and choose a smaller or milkier drink if that fits your preference."
         ],
         [
           "When do people drink it?",
@@ -4172,8 +4311,8 @@
       ],
       "body": [
         "Most of London's national museums charge nothing for their permanent collections, which makes a short visit easy to justify.",
-        "The British Museum in Bloomsbury opens late on Fridays, when the galleries are calmer. Tate Modern, in a former power station on the south bank, has free collection displays and a view of St Paul's from the upper floors.",
-        "Borough Market is a ten-minute walk along the river from Tate Modern. It is closed on Mondays."
+        "Choose one main collection first, then check its current visitor page for admission, booking and room closures. The National Gallery lists free general admission with some charged exhibitions.",
+        "Treat Borough Market as a separate food stop. Check its current visit page and individual trader schedules rather than assuming every stall operates when the market opens."
       ],
       "sections": [
         {
@@ -4221,15 +4360,15 @@
       "faq": [
         [
           "Do I need to book?",
-          "Booking a free timed ticket is advised for the British Museum at busy times. Walk-in entry is usually possible outside school holidays."
+          "Check the current visitor page for the museum and visit type. Free general admission does not guarantee walk-in availability for every exhibition or group."
         ],
         [
           "How long should I allow?",
           "Two to three hours for each museum. Longer than that and the objects start to blur."
         ],
         [
-          "Can I bring a bag?",
-          "Small bags are fine. Large luggage is not admitted, and cloakroom space is limited and sometimes charged."
+          "Can I bring luggage?",
+          "Check each venue’s bag policy. The National Gallery does not accept suitcases or wheeled luggage; arrange storage separately."
         ],
         [
           "Are they good for children?",
@@ -4239,8 +4378,11 @@
       "slug": "london-free",
       "img": "lon-british-museum",
       "src": [
-        "timeout-lon"
-      ]
+        "timeout-lon",
+        "nationalgallery-operator",
+        "borough-operator"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "lis-views",
@@ -4255,14 +4397,14 @@
         "lis-tram-28"
       ],
       "body": [
-        "Lisbon's miradouros are public terraces on the hilltops, most with a kiosk selling cold drinks. Senhora do Monte, in Graça, is the highest.",
-        "Take Tram 28 or a funicular up and walk down. Go late in the day, when the rooftops turn orange and the river goes silver."
+        "Choose one Lisbon viewpoint and a nearby break instead of linking every hilltop. Senhora do Monte in Graça offers a panorama over the city and Tagus.",
+        "Check the actual transport service and final walking approach. A tram or funicular mentioned in an older guide may not be operating on your date."
       ],
       "sections": [
         {
           "h": "The main viewpoints",
           "p": [
-            "Senhora do Monte, in Graça, is the highest and gives the widest view. A few minutes downhill, the Graça viewpoint has a kiosk cafe under pine trees and looks straight at the castle.",
+            "Start with Senhora do Monte if the Graça area fits your day. Save the exact approach and consider the climb, steps and return separately; there is no single best viewpoint for every visitor.",
             "In Alfama, the terraces of Portas do Sol and Santa Luzia sit side by side above a tumble of red roofs and the river. On the opposite hill, São Pedro de Alcântara is a formal garden with a view back across the valley to the castle and the cathedral."
           ]
         },
@@ -4301,23 +4443,26 @@
           "Senhora do Monte and São Pedro de Alcântara both look towards the evening light. Portas do Sol faces east and is better in the morning."
         ],
         [
-          "Are they free?",
-          "Yes. They are public terraces, open at all hours."
+          "Are the viewpoints always open?",
+          "Check current local access and notices. A public terrace can have temporary restrictions."
         ],
         [
           "Can I reach them without climbing?",
           "Taxis and ride-hailing cars can drop you close to most of them. Tram 28 stops near several."
         ],
         [
-          "Are they safe at night?",
-          "They stay busy until late in summer. Keep an eye on bags and phones, as you would in any crowded place."
+          "Can I visit at night?",
+          "Check current access, lighting and the return route for the actual place. This guide does not provide a safety rating."
         ]
       ],
       "slug": "lisbon-views",
       "img": "lis-senhora-do-monte",
       "src": [
-        "timeout-lis"
-      ]
+        "timeout-lis",
+        "senhora-lisboa",
+        "lisboa-tram"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "nyc-autumn",
@@ -4328,7 +4473,8 @@
       "title": "New York's autumn in three dates",
       "dek": "A parade, a marathon and another parade.",
       "src": [
-        "nyrr"
+        "nyrr",
+        "halloween-organiser"
       ],
       "body": [
         "On Saturday 31 October the Village Halloween Parade heads up Sixth Avenue from 7pm. Anyone in costume can walk in it.",
@@ -4353,7 +4499,7 @@
         {
           "h": "Thanksgiving morning",
           "p": [
-            "Macy's has held its parade every Thanksgiving since 1924, and the giant character balloons first appeared in 1927. On the afternoon before, the balloons are inflated in the streets beside the American Museum of Natural History, and the public can walk past and watch."
+            "Thanksgiving parade access, balloon inflation and viewing areas are organised separately. Use the current Macy’s programme before planning either activity; an earlier edition’s route does not establish this year’s access."
           ]
         }
       ],
@@ -4365,8 +4511,8 @@
       ],
       "faq": [
         [
-          "Do I need tickets?",
-          "No. All three events are free to watch from the pavement. Grandstand seats at the Thanksgiving parade are by invitation only."
+          "Do I need a ticket?",
+          "Check the organiser’s current spectator information for the area you intend to use. Public street viewing and restricted seating are different arrangements."
         ],
         [
           "Where is the best place to watch the marathon?",
@@ -4382,7 +4528,8 @@
         ]
       ],
       "slug": "new-york-autumn",
-      "img": "t-nyc-marathon"
+      "img": "t-nyc-marathon",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "nyc-slices",
@@ -4430,10 +4577,9 @@
         }
       ],
       "tips": [
-        "Ask for your slice well done if you like a crisper base.",
-        "A plain slice and a drink is a full lunch.",
-        "The best shops have a queue at midday and at 2am. Both move fast.",
-        "Some shops still take cash only. Carry a few dollars."
+        "Check whether the shop sells slices or whole pies.",
+        "Read the current menu and ask about ingredients.",
+        "Choose a portion and payment method that suit you."
       ],
       "faq": [
         [
@@ -4449,8 +4595,8 @@
           "Nobody will stop you, but you will stand out. Fold it and eat with your hands."
         ],
         [
-          "Where do I find a good one?",
-          "Every neighbourhood has slice shops, often near subway stations. A steady queue of local people is the best sign."
+          "How should I choose a shop?",
+          "Use a current menu, address and ordering format. A queue alone does not guarantee taste, price or food handling."
         ],
         [
           "What do people drink with it?",
@@ -4460,8 +4606,10 @@
       "slug": "new-york-slices",
       "img": "t-ny-pizza",
       "src": [
-        "timeout-nyc"
-      ]
+        "timeout-nyc",
+        "joes-operator"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "mex-markets",
@@ -4475,7 +4623,7 @@
         "mex-coyoacan-market"
       ],
       "body": [
-        "Every neighbourhood market in Mexico City has a row of kitchen counters, and breakfast is when they are at their best.",
+        "A market meal can be a useful way to organise one neighbourhood outing. Choose the actual market and a meal time that fits the businesses you want to visit.",
         "Look for fresh juice pressed to order, chilaquiles drowned in green or red salsa, and tamales steaming in a tall pot by the entrance."
       ],
       "sections": [
@@ -4520,27 +4668,29 @@
           "Between eight and eleven in the morning, when the kitchens are in full swing and everything is fresh."
         ],
         [
-          "Is market food safe to eat?",
-          "Choose busy counters where food is cooked to order. If your stomach is sensitive, skip raw garnishes for the first few days and drink bottled water."
+          "Does a busy counter guarantee safe food?",
+          "No. Ask about ingredients and preparation and choose a venue able to answer your needs. This guide does not assess a stall’s food handling."
         ],
         [
           "Do I need Spanish?",
           "A little helps. Para aquí means to eat in, para llevar means to take away, sin picante means not spicy, and la cuenta is the bill. Pointing does the rest."
         ],
         [
-          "Are there vegetarian dishes?",
-          "Yes. Look for quesadillas filled with squash blossom or mushrooms, and chilaquiles without chicken. In Mexico City a quesadilla does not always include cheese, so ask for it con queso."
+          "Can I find vegetarian dishes?",
+          "Ask about filling, stock, fat and sauces before ordering. A dish name or a request to omit chicken does not establish the whole preparation."
         ],
         [
           "How much does it cost?",
-          "Very little. A full market breakfast with juice and coffee costs less than a coffee-shop breakfast in a tourist district."
+          "Compare the displayed meal, drink and extras at the actual counter. No citywide price or cheapest-market claim is assumed."
         ]
       ],
       "slug": "mexico-city-markets",
       "img": "mex-coyoacan-market",
       "src": [
-        "timeout-mex"
-      ]
+        "timeout-mex",
+        "coyoacan-tourism"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "bue-cafes",
@@ -4556,7 +4706,7 @@
       ],
       "body": [
         "The old cafes of Buenos Aires have marble tables, waiters in waistcoats and no interest in turning your seat. Café Tortoni on Avenida de Mayo has been at it since 1858.",
-        "Order a cortado and three small croissants, known as medialunas, and stay as long as you like. Dinner here is rarely before nine."
+        "Order a coffee and pastries if that is what you want, then ask about the café’s seating or laptop policy before treating the table as an all-afternoon stay."
       ],
       "sections": [
         {
@@ -4576,7 +4726,7 @@
         {
           "h": "The rhythm of the day",
           "p": [
-            "People here eat late. There is a snack called merienda around five or six in the afternoon, and restaurants fill for dinner from nine. Cafes bridge the long gap, which is why nobody minds how long you sit."
+            "Use the café as the break that fits your day. Check its actual kitchen and closing hours if you are planning a meal rather than a quick coffee."
           ]
         },
         {
@@ -4590,10 +4740,9 @@
         }
       ],
       "tips": [
-        "Ask for the bill when you want it. It will not be brought until you do.",
-        "A tip of about ten per cent, left in cash, is customary.",
-        "Sparkling water often arrives with your coffee at no charge.",
-        "El Ateneo Grand Splendid, the bookshop in an old theatre, has a cafe on the former stage."
+        "Ask for the bill when ready.",
+        "Confirm any service charge and included water.",
+        "Check the seating policy before opening a laptop."
       ],
       "faq": [
         [
@@ -4601,23 +4750,25 @@
           "No, except for the tango shows held in some cafes in the evening."
         ],
         [
-          "Can I sit for hours with one coffee?",
-          "Yes. It is the custom, and nobody will hurry you."
+          "Can I stay for hours with one coffee?",
+          "Ask the café. Seating limits, laptop policies and minimum orders differ between businesses and busy periods."
         ],
         [
-          "Do cafes serve food?",
-          "All day. Toasted ham and cheese sandwiches, pastries, cakes and simple hot dishes are standard."
+          "Do cafés serve meals all day?",
+          "Check the current kitchen menu and hours. Coffee service does not establish all-day food availability."
         ],
         [
           "When are they open?",
-          "From early morning until late at night. Some of the historic bars stay open past midnight."
+          "Confirm the specific café’s current schedule before making a special journey."
         ]
       ],
       "slug": "buenos-aires-cafes",
       "img": "bue-tortoni",
       "src": [
-        "timeout-bue"
-      ]
+        "timeout-bue",
+        "ateneo-tourism"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "syd-sculpture",
@@ -4657,10 +4808,9 @@
         }
       ],
       "tips": [
-        "Go just after sunrise for empty paths and the best light.",
-        "There is almost no shade. Bring a hat, sunscreen and water.",
-        "Do not climb on the sculptures unless a sign invites you to.",
-        "A catalogue sold on site helps fund the exhibition, which is free to enter."
+        "Check current visitor access and weather notices.",
+        "Follow the artwork’s handling and photography rules.",
+        "Allow rest stops and a return journey."
       ],
       "faq": [
         [
@@ -4672,8 +4822,8 @@
           "The coastal path has steps and narrow sections. Marks Park, on the clifftop, can be reached from the street and is the easiest part to visit on wheels."
         ],
         [
-          "Can I swim along the way?",
-          "Bondi and Tamarama are both patrolled beaches. Tamarama is known for strong rips, so swim only between the flags."
+          "Can I add a swim?",
+          "Treat swimming as a separate decision based on current beach patrol advice, flags and conditions. Exhibition access does not establish safe water conditions."
         ],
         [
           "When is it least crowded?",
@@ -4681,11 +4831,13 @@
         ],
         [
           "What happens in bad weather?",
-          "The exhibition stays open in most weather. The path is slippery when wet, so wear proper shoes."
+          "Check the organiser’s access notices and local conditions before travelling. Do not assume the path stays open."
         ]
       ],
       "slug": "sydney-sculpture",
-      "img": "t-sculpture"
+      "img": "syd-bondi-coogee",
+      "researchNote": "The organiser’s dates were consulted 9 October 2026. The cover shows the coastal setting, not this year’s sculpture programme.",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "syd-pools",
@@ -4701,13 +4853,13 @@
       ],
       "body": [
         "Sydney's ocean pools are cut into the rock at the edge of the sea and refilled by the tide. Several sit along the six-kilometre cliff path between Bondi and Coogee.",
-        "Start at Bondi Icebergs, then walk south to Bronte Baths and on to Wylie's Baths at Coogee, which opened in 1907. Bring a towel and swim at each."
+        "Choose one pool or a shorter coastal section first, then check the operator’s admission and current conditions. A swim at every stop is optional, and an ocean pool is not an assurance of safe conditions."
       ],
       "sections": [
         {
           "h": "Why Sydney has so many",
           "p": [
-            "New South Wales has about a hundred ocean pools, more than anywhere else in the world. Most were built between the 1880s and the 1930s, cut into rock platforms so that people could swim in seawater without facing the surf or the sharks. Waves refill them at high tide."
+            "Ocean pools provide a different setting from an open-beach swim, but waves and water conditions still affect access. Treat each pool as a separate stop with its own rules."
           ]
         },
         {
@@ -4720,7 +4872,7 @@
         {
           "h": "The walk itself",
           "p": [
-            "The path from Bondi to Coogee is six kilometres and takes two to three hours with swims. It passes Tamarama, Bronte and Clovelly beaches and runs along a boardwalk beside Waverley Cemetery, where the headstones look out over the Pacific."
+            "The full coastal walk is a different undertaking from a short pool visit. Allow travel, breaks and any swim separately rather than relying on one fixed duration."
           ]
         },
         {
@@ -4734,10 +4886,9 @@
         }
       ],
       "tips": [
-        "Pools are emptied and scrubbed about once a week. Check the day before you go.",
-        "In a big swell, waves break over the walls. Stay out if signs say the pool is closed.",
-        "The rocks are slippery. Wear sandals to the edge.",
-        "Buses run from Coogee back to the city and to Bondi Junction."
+        "Check maintenance, closures and current conditions with the operator.",
+        "Follow all on-site access and water-safety notices.",
+        "Plan the actual return connection."
       ],
       "faq": [
         [
@@ -4745,23 +4896,25 @@
           "Bronte Baths is free. Bondi Icebergs and Wylie's Baths charge a small entry fee."
         ],
         [
-          "How cold is the water?",
-          "Around 18 or 19 degrees in winter and up to about 23 or 24 at the end of summer."
+          "How warm is the water?",
+          "Check a current local report; a seasonal estimate does not establish conditions on your day."
         ],
         [
-          "Are there changing rooms?",
-          "Most pools have changing rooms and showers. Bondi Icebergs also has a sauna."
+          "Are changing facilities available?",
+          "Check the operator for the exact pool and current access."
         ],
         [
-          "Are they suitable for children?",
-          "Yes, in calm conditions. Bondi Icebergs has a separate shallow pool, and Bronte has a sheltered rock pool beside the baths."
+          "Can children swim?",
+          "Follow current operator and beach-patrol advice and choose an activity suited to the child and conditions. A general guide cannot establish suitability."
         ]
       ],
       "slug": "sydney-pools",
       "img": "syd-icebergs",
       "src": [
-        "timeout-syd"
-      ]
+        "timeout-syd",
+        "bondi-tourism"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "cpt-hikes",
@@ -4776,7 +4929,7 @@
       ],
       "body": [
         "The most direct path up Table Mountain is Platteklip Gorge, a steep stone staircase that climbs to the plateau at about 1,000 metres.",
-        "Start early to beat the heat, carry more water than you think you need and check the wind forecast. The cableway closes in high wind, and it is your easy way down."
+        "Choose a route for your experience and actual conditions, and arrange the descent before starting. Do not depend on the cableway as a guaranteed way down: its service is weather-dependent."
       ],
       "sections": [
         {
@@ -4789,9 +4942,8 @@
         {
           "h": "Choosing a route",
           "p": [
-            "Platteklip Gorge is the most direct way up: a steep, well-built path of stone steps with no scrambling. Fit walkers take about two hours. The trail starts on Tafelberg Road, a little beyond the lower cableway station, and is in full sun for most of the morning.",
-            "Skeleton Gorge starts in Kirstenbosch garden and climbs through shaded forest, with wooden ladders on the steepest sections. India Venster, on the front face, involves real scrambling and is not for beginners.",
-            "Lion's Head, the pointed peak beside the mountain, is a shorter walk of about an hour to the top and is popular at sunrise."
+            "Compare a summit ascent with a shorter walk using SANParks’ current route and safety information. Assess the full ascent and descent, daylight and weather before committing.",
+            "Platteklip, Skeleton Gorge, India Venster and Lion’s Head are different routes with different terrain. This general guide does not establish that a route is open or suitable for an inexperienced group. Seek qualified local guidance when needed."
           ]
         },
         {
@@ -4811,23 +4963,22 @@
         }
       ],
       "tips": [
-        "Hike in a group of at least three or four and tell someone your route.",
-        "Carry at least two litres of water each, a warm layer and a charged phone.",
-        "Start early. There is little shade on Platteklip after 9am.",
-        "Check the cableway's website on the morning for its operating status."
+        "Follow SANParks’ group hiking advice and tell someone your route and return time.",
+        "Take water, food, weather protection and a charged phone appropriate to the outing.",
+        "Check current park notices, forecast and cableway status."
       ],
       "faq": [
         [
           "Do I need a guide?",
-          "Not for Platteklip Gorge, which is clear and well used. First-timers on Skeleton Gorge or India Venster will be safer and happier with one."
+          "Choose for your experience and the actual route, and ask the park or qualified local guide. A well-used path is not a guarantee that independent hiking is suitable."
         ],
         [
           "Is there a fee to hike?",
           "Walking up Platteklip Gorge is free. Skeleton Gorge starts inside Kirstenbosch, which charges garden admission. The cableway is ticketed."
         ],
         [
-          "Is it safe?",
-          "Robberies have happened on quieter trails. Hike in a group, choose busy routes and times, and check the national park's safety advice."
+          "Can safety be guaranteed?",
+          "No. Read SANParks’ current hiking and personal-security guidance, check local notices and reconsider the route if conditions or your group’s experience do not fit."
         ],
         [
           "When is the best season?",
@@ -4837,15 +4988,17 @@
       "slug": "cape-town-hikes",
       "img": "cpt-table-mountain",
       "src": [
-        "timeout-cpt"
-      ]
+        "timeout-cpt",
+        "sanparks-hiking"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "g-festivals",
       "city": "world",
       "cat": "news",
       "kind": "news",
-      "mins": 3,
+      "mins": 2,
       "title": "Festivals of light: where to be in October and November",
       "dek": "Four full-moon festivals and a holiday, with confirmed dates.",
       "src": [
@@ -4863,7 +5016,7 @@
         {
           "h": "Why they cluster now",
           "p": [
-            "Across South and Southeast Asia the monsoon rains ease in October. In Buddhist countries this is also the end of the three-month rains retreat, and in the lunar calendars of the region the full moons of October and November carry special weight. The result is a run of festivals built around lamps, candles and lanterns."
+            "Religious calendars and local traditions bring several celebrations into these months, but climate and programmes differ by place. A regional overview should not be read as a shared dry-weather forecast."
           ]
         },
         {
@@ -4882,15 +5035,15 @@
         }
       ],
       "tips": [
-        "Confirm dates with a local source a week or two before you travel.",
-        "Dress modestly at temples and pagodas, and follow what local people do.",
-        "Carry cash. ATMs near festival sites often run out.",
-        "Check your government's travel advice, particularly for Myanmar."
+        "Check the actual local programme before booking.",
+        "Follow worship-space and event rules.",
+        "Keep transport and return arrangements confirmed.",
+        "Read current travel advice for your destination."
       ],
       "faq": [
         [
-          "Which festival is easiest for a first-time visitor?",
-          "Loy Krathong in Thailand. It is celebrated everywhere, visitors are encouraged to take part and transport and hotels are easy to arrange."
+          "Which should I choose first?",
+          "Choose by your interests and a confirmed local programme, then compare transport, access and accommodation. No festival is universally easiest for every traveller."
         ],
         [
           "Can I take part if I am not Buddhist or Hindu?",
@@ -4906,7 +5059,8 @@
         ]
       ],
       "slug": "world-festivals",
-      "img": "t-thadingyut"
+      "img": "t-thadingyut",
+      "dateModified": "2026-10-09"
     },
     {
       "id": "g-neighbourhoods",
@@ -6476,7 +6630,8 @@
         "ytg"
       ],
       "blurb": "A gilded chedi on top of an artificial hill. More than 300 steps wind up past bells and gongs to a terrace with an open view over the old city.",
-      "img": "bkk-wat-saket"
+      "img": "bkk-wat-saket",
+      "verify": true
     },
     {
       "id": "bkk-jim-thompson",
@@ -6491,7 +6646,8 @@
         "jth"
       ],
       "blurb": "Six traditional teak houses joined into one home by the American who revived the Thai silk trade and vanished in Malaysia in 1967. The main house is seen by guided tour only, offered in five languages. Address: 6 Soi Kasemsan 2, Rama 1 Road, a short walk from BTS National Stadium.",
-      "img": "bkk-jim-thompson"
+      "img": "bkk-jim-thompson",
+      "verify": true
     },
     {
       "id": "bkk-bacc",
@@ -6506,7 +6662,8 @@
         "ytg"
       ],
       "blurb": "A spiral of free contemporary art galleries opposite MBK Center, linked directly to BTS National Stadium. The lower floors hold small design shops and cafes.",
-      "img": "bkk-bacc"
+      "img": "bkk-bacc",
+      "verify": true
     },
     {
       "id": "bkk-lumphini",
@@ -6520,7 +6677,8 @@
         "ytg"
       ],
       "blurb": "Bangkok's central park, laid out in the 1920s. Joggers circle the lake at dawn and dusk, and large monitor lizards sun themselves on the banks. MRT Silom and Lumphini are at the corners.",
-      "img": "bkk-lumphini"
+      "img": "bkk-lumphini",
+      "verify": true
     },
     {
       "id": "bkk-talat-noi",
@@ -6533,7 +6691,8 @@
       "img": "bkk-talat-noi",
       "src": [
         "talatnoi-tat"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "bkk-pak-khlong",
@@ -6544,7 +6703,11 @@
       "hours": "Open 24 hours, busiest before dawn",
       "price": "Free",
       "blurb": "The city's wholesale flower market, near Memorial Bridge and MRT Sanam Chai. Marigold garlands, orchids and jasmine are sold by the armful around the clock.",
-      "img": "bkk-pak-khlong"
+      "img": "bkk-pak-khlong",
+      "src": [
+        "pak-khlong-bma"
+      ],
+      "verify": true
     },
     {
       "id": "bkk-chatuchak",
@@ -6552,13 +6715,15 @@
       "kind": "market",
       "name": "Chatuchak Weekend Market",
       "area": "Chatuchak",
-      "hours": "Saturday and Sunday 9am to 6pm · Friday 6pm to midnight",
+      "hours": "Weekend general market; midweek plant and Friday wholesale sessions differ. Check the visitor website for your day.",
       "price": "Free",
       "src": [
-        "p101nm"
+        "p101nm",
+        "chatuchak-hours"
       ],
-      "blurb": "More than 15,000 stalls selling clothes, ceramics, plants, antiques and food. Take BTS to Mo Chit or MRT to Chatuchak Park or Kamphaeng Phet. Arrive early: by midday the lanes are hot and crowded.",
-      "img": "bkk-chatuchak"
+      "blurb": "A large market for clothes, ceramics, plants, antiques and food. Choose the general weekend market if you want the broadest browsing; plant and wholesale sessions are different outings. Save your entrance and return station.",
+      "img": "bkk-chatuchak",
+      "verify": true
     },
     {
       "id": "bkk-or-tor-kor",
@@ -6572,7 +6737,8 @@
         "aufood"
       ],
       "blurb": "A clean, covered fresh market across the road from Chatuchak, known for top-grade fruit and a row of ready-to-eat curry stalls. MRT Kamphaeng Phet opens straight into it.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "bkk-jodd-fairs",
@@ -6661,7 +6827,8 @@
         "aufood"
       ],
       "blurb": "The most famous pad thai in the city, cooked over charcoal since the 1960s. The premium version comes wrapped in a thin omelette. Expect a queue. MRT Sam Yot.",
-      "img": "bkk-thipsamai"
+      "img": "bkk-thipsamai",
+      "verify": true
     },
     {
       "id": "bkk-jay-fai",
@@ -6693,7 +6860,8 @@
         "aufood"
       ],
       "blurb": "A small shophouse that does one thing: oyster omelette, fried crisp or soft. MRT Wat Mangkon.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "bkk-ouan-pochana",
@@ -6706,7 +6874,8 @@
         "aufood"
       ],
       "blurb": "Rolled rice noodles in a clear pork broth that is heavy with white pepper, served on Yaowarat Road.",
-      "img": "t-yaowarat"
+      "img": "t-yaowarat",
+      "verify": true
     },
     {
       "id": "bkk-boat-noodle-alley",
@@ -6720,7 +6889,8 @@
         "aufood"
       ],
       "blurb": "A canal-side row of shops selling boat noodles in bowls that hold three mouthfuls. Stack the empties and count them at the end. BTS Victory Monument.",
-      "img": "d-boat-noodles"
+      "img": "d-boat-noodles",
+      "verify": true
     },
     {
       "id": "bkk-go-ang",
@@ -6734,7 +6904,8 @@
         "aufood"
       ],
       "blurb": "Hainanese chicken rice served by staff in pink shirts on Phetchaburi Road. BTS Chit Lom.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "bkk-prachak",
@@ -6747,7 +6918,8 @@
         "aufood"
       ],
       "blurb": "Roast duck over rice from a shop that has traded since 1909. BTS Saphan Taksin.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "bkk-jok-prince",
@@ -6761,7 +6933,8 @@
         "aufood"
       ],
       "blurb": "Smoky rice porridge with pork balls and a century egg, eaten at breakfast.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "bkk-mae-varee",
@@ -6775,7 +6948,8 @@
         "aufood"
       ],
       "blurb": "A fruit shop at the mouth of Sukhumvit Soi 55 that is known for mango sticky rice to take away.",
-      "img": "d-mango-sticky-rice"
+      "img": "d-mango-sticky-rice",
+      "verify": true
     },
     {
       "id": "bkk-mahanakhon",
@@ -6790,7 +6964,8 @@
         "tagmk"
       ],
       "blurb": "The city's highest observation deck: a glass floor at 310 metres and an open rooftop at 314 metres, with a bar at the top. Next to BTS Chong Nonsi.",
-      "img": "bkk-mahanakhon"
+      "img": "bkk-mahanakhon",
+      "verify": true
     },
     {
       "id": "bkk-sky-bar",
@@ -6800,7 +6975,8 @@
       "area": "Silom",
       "url": "https://lebua.com/",
       "blurb": "An open-air bar on the 63rd floor of State Tower, familiar from the 2011 film The Hangover Part II. A smart dress code applies.",
-      "img": "bkk-sky-bar"
+      "img": "bkk-sky-bar",
+      "verify": true
     },
     {
       "id": "bkk-vertigo",
@@ -6810,7 +6986,8 @@
       "area": "Sathorn",
       "url": "https://www.banyantree.com/thailand/bangkok",
       "blurb": "A rooftop grill and bar on the 61st floor of the Banyan Tree hotel, with no walls and a view over Lumphini Park.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "bkk-octave",
@@ -6822,7 +6999,8 @@
       "img": null,
       "src": [
         "octave-marriott"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "bkk-mandarin-oriental",
@@ -6832,7 +7010,8 @@
       "area": "Charoen Krung riverside",
       "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
       "blurb": "The city's oldest grand hotel, opened as The Oriental in 1876. The original Authors' Wing still serves afternoon tea.",
-      "img": "bkk-mandarin-oriental"
+      "img": "bkk-mandarin-oriental",
+      "verify": true
     },
     {
       "id": "bkk-peninsula",
@@ -6841,8 +7020,9 @@
       "name": "The Peninsula Bangkok",
       "area": "Thonburi riverside",
       "url": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
-      "blurb": "A W-shaped tower on the west bank, opened in 1998, built so that every room faces the river. A shuttle boat crosses to BTS Saphan Taksin.",
-      "img": "bkk-peninsula"
+      "blurb": "A riverside hotel on the Thonburi bank. Compare the room category, boat services and current dining arrangements directly with the hotel.",
+      "img": "bkk-peninsula",
+      "verify": true
     },
     {
       "id": "bkk-the-siam",
@@ -6851,8 +7031,9 @@
       "name": "The Siam",
       "area": "Dusit",
       "url": "https://www.thesiamhotel.com/",
-      "blurb": "A 39-suite riverside hotel designed by Bill Bensley, opened in 2012, filled with the owner's collection of antiques.",
-      "img": null
+      "blurb": "A riverside hotel in Dusit with an art and antiques focus. Compare current room categories, inclusions and transfers with the hotel.",
+      "img": null,
+      "verify": true
     },
     {
       "id": "bkk-capella",
@@ -6861,8 +7042,9 @@
       "name": "Capella Bangkok",
       "area": "Charoen Krung riverside",
       "url": "https://capellahotels.com/en/capella-bangkok",
-      "blurb": "Opened in 2020 and ranked first in The World's 50 Best Hotels in 2024. Every room faces the Chao Phraya.",
-      "img": null
+      "blurb": "A Chao Phraya riverside hotel. Check the actual room category and included services rather than assuming every booking has the same view or benefits.",
+      "img": null,
+      "verify": true
     },
     {
       "id": "cnx-doi-suthep",
@@ -6871,7 +7053,11 @@
       "name": "Wat Phra That Doi Suthep",
       "area": "Doi Suthep, 15 km from the old city",
       "blurb": "The mountain temple that watches over the city, founded in 1383. A staircase of 306 steps, flanked by naga serpents, leads to a golden chedi and a wide view. Red songthaews run up from the city.",
-      "img": "cnx-doi-suthep"
+      "img": "cnx-doi-suthep",
+      "src": [
+        "doi-suthep-tat"
+      ],
+      "verify": true
     },
     {
       "id": "cnx-chedi-luang",
@@ -6883,7 +7069,8 @@
       "img": "cnx-chedi-luang",
       "src": [
         "cm-government"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "cnx-phra-singh",
@@ -6895,7 +7082,8 @@
       "img": "cnx-phra-singh",
       "src": [
         "cm-government"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "cnx-tha-phae",
@@ -6908,7 +7096,8 @@
       "img": "cnx-tha-phae",
       "src": [
         "cm-government"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "cnx-sunday-walking-street",
@@ -6923,7 +7112,8 @@
         "expcm"
       ],
       "blurb": "About 1.1 km of stalls from Tha Phae Gate to Wat Phra Singh, with food courts set up in temple yards. At 6pm the national anthem plays and the whole street stands still. Most stalls take cash only.",
-      "img": "cnx-sunday-walking-street"
+      "img": "cnx-sunday-walking-street",
+      "verify": true
     },
     {
       "id": "cnx-wualai",
@@ -6938,7 +7128,8 @@
         "thgsws"
       ],
       "blurb": "A smaller, more local market of about 700 metres in the city's old silver-making quarter.",
-      "img": "cnx-wualai"
+      "img": "cnx-wualai",
+      "verify": true
     },
     {
       "id": "cnx-warorot",
@@ -6952,7 +7143,8 @@
         "thgcm"
       ],
       "blurb": "The city's biggest daily market. Come for northern pork sausage sold by weight, dried fruit, and the flower stalls along the river.",
-      "img": "cnx-warorot"
+      "img": "cnx-warorot",
+      "verify": true
     },
     {
       "id": "cnx-gate-market",
@@ -6965,7 +7157,8 @@
         "expcm"
       ],
       "blurb": "A working produce market by day that turns into one of the best-value places to eat in the evening.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "cnx-night-bazaar",
@@ -6978,7 +7171,8 @@
         "expcm"
       ],
       "blurb": "The big tourist market, spread along Chang Klan Road and through several covered arcades.",
-      "img": "cnx-night-bazaar"
+      "img": "cnx-night-bazaar",
+      "verify": true
     },
     {
       "id": "cnx-kad-chin-haw",
@@ -6991,7 +7185,8 @@
         "expcm"
       ],
       "blurb": "A small market run by the city's Yunnanese Muslim and Tai Yai communities, with food and produce that is rare elsewhere in Thailand.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "cnx-lam-duan",
@@ -7004,7 +7199,8 @@
         "thgcm"
       ],
       "blurb": "A khao soi shop that has traded for more than 70 years. The chicken curry noodle is the order. Address: 352/22 Charoen Rat Road.",
-      "img": "t-khao-soi"
+      "img": "t-khao-soi",
+      "verify": true
     },
     {
       "id": "cnx-khao-soi-islam",
@@ -7017,7 +7213,8 @@
         "thgcm"
       ],
       "blurb": "A halal restaurant known for beef khao soi, near the Friday morning market.",
-      "img": null
+      "img": null,
+      "verify": true
     },
     {
       "id": "cnx-cowboy-hat",
@@ -7030,7 +7227,8 @@
         "thgcm"
       ],
       "blurb": "Braised pork leg over rice, served by a cook known across the city for her cowboy hat. It often sells out early.",
-      "img": "d-khao-kha-mu"
+      "img": "d-khao-kha-mu",
+      "verify": true
     },
     {
       "id": "hkt-big-buddha",
@@ -7044,7 +7242,8 @@
         "p101bb"
       ],
       "blurb": "A 45-metre seated Buddha faced in white marble, visible from much of the south of the island. The site closed after a landslide in August 2024 and reopened on 3 March 2026. Cover shoulders and knees. Sarongs are lent at the entrance.",
-      "img": "hkt-big-buddha"
+      "img": "hkt-big-buddha",
+      "verify": true
     },
     {
       "id": "hkt-old-town",
@@ -7057,7 +7256,8 @@
         "thgpkt"
       ],
       "blurb": "A few streets of pastel Sino-Portuguese shophouses built on tin-mining money. Thalang Road, Dibuk Road and little Soi Romanee are the prettiest.",
-      "img": "hkt-old-town"
+      "img": "hkt-old-town",
+      "verify": true
     },
     {
       "id": "hkt-wat-chalong",
@@ -7070,7 +7270,8 @@
       "img": "hkt-wat-chalong",
       "src": [
         "phuket-tat-highlights"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "hkt-promthep",
@@ -7083,7 +7284,8 @@
       "img": "hkt-promthep",
       "src": [
         "phuket-tat-highlights"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "hkt-lard-yai",
@@ -7097,7 +7299,8 @@
         "thgpkt"
       ],
       "blurb": "Southern Thai snacks, grilled skewers and craft stalls under the shophouse arcades. Arrive near 4pm for photographs and shorter queues. It gets crowded from 6pm.",
-      "img": "hkt-thalang"
+      "img": "hkt-thalang",
+      "verify": true
     },
     {
       "id": "hkt-kata",
@@ -7105,8 +7308,12 @@
       "kind": "beach",
       "name": "Kata Beach",
       "area": "West coast",
-      "blurb": "A wide, family-friendly bay south of Karon. From about May to October the swell brings small surf, and red flags mean do not swim.",
-      "img": "hkt-kata"
+      "blurb": "Kata Yai and Kata Noi are south-west coast beach options. Check current flags, patrol advice and conditions before deciding whether to enter the water.",
+      "img": "hkt-kata",
+      "src": [
+        "phuket-beaches-government"
+      ],
+      "verify": true
     },
     {
       "id": "hkt-nai-harn",
@@ -7115,7 +7322,11 @@
       "name": "Nai Harn Beach",
       "area": "South",
       "blurb": "A compact bay between green headlands, popular with residents. A freshwater lagoon sits just behind the sand.",
-      "img": "hkt-nai-harn"
+      "img": "hkt-nai-harn",
+      "src": [
+        "phuket-beaches-government"
+      ],
+      "verify": true
     },
     {
       "id": "hkt-freedom",
@@ -7124,7 +7335,11 @@
       "name": "Freedom Beach",
       "area": "South of Patong",
       "blurb": "A beach south of Patong with more involved access than a roadside beach. Confirm the permitted route, any charges and your return transport before setting out.",
-      "img": "hkt-freedom"
+      "img": "hkt-freedom",
+      "src": [
+        "freedom-government"
+      ],
+      "verify": true
     },
     {
       "id": "hkt-mai-khao",
@@ -7132,8 +7347,12 @@
       "kind": "beach",
       "name": "Mai Khao Beach",
       "area": "North-west",
-      "blurb": "The island's longest beach, about 11 km and mostly empty, inside Sirinat National Park. The southern end is where planes come in low to land.",
-      "img": "hkt-mai-khao"
+      "blurb": "A northern Phuket beach listed by the provincial tourism office. Check permitted access and current local notices; do not approach restricted airport areas for photographs.",
+      "img": "hkt-mai-khao",
+      "src": [
+        "phuket-beaches-government"
+      ],
+      "verify": true
     },
     {
       "id": "hkt-patong",
@@ -7145,7 +7364,8 @@
       "img": "hkt-patong",
       "src": [
         "phuket-tat-highlights"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "hkt-old-town-breakfast",
@@ -7157,7 +7377,8 @@
       "img": null,
       "src": [
         "phuket-oldtown-tat"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "ygn-shwedagon",
@@ -7172,7 +7393,8 @@
         "totygn"
       ],
       "blurb": "A 99-metre gilded stupa and the most sacred Buddhist site in Myanmar. Four covered stairways climb the hill. Shoes and socks come off at the bottom, and shoulders and knees must be covered. Come an hour before sunset and stay as the lights come on.",
-      "img": "ygn-shwedagon"
+      "img": "ygn-shwedagon",
+      "verify": true
     },
     {
       "id": "ygn-sule",
@@ -7184,7 +7406,8 @@
         "nomax"
       ],
       "blurb": "An octagonal golden stupa, about 46 metres tall, standing in the middle of a roundabout at the centre of the downtown grid.",
-      "img": "ygn-sule"
+      "img": "ygn-sule",
+      "verify": true
     },
     {
       "id": "ygn-chaukhtatgyi",
@@ -7197,7 +7420,8 @@
         "nomax"
       ],
       "blurb": "A reclining Buddha about 65 metres long, housed in an open-sided iron shed. Look at the soles of the feet, which are covered in 108 sacred symbols.",
-      "img": "ygn-chaukhtatgyi"
+      "img": "ygn-chaukhtatgyi",
+      "verify": true
     },
     {
       "id": "ygn-kandawgyi",
@@ -7209,7 +7433,8 @@
         "nomax"
       ],
       "blurb": "A park and boardwalk around a lake east of Shwedagon. The Karaweik, a concrete replica of a royal barge, sits on the eastern shore.",
-      "img": "ygn-kandawgyi"
+      "img": "ygn-kandawgyi",
+      "verify": true
     },
     {
       "id": "ygn-circular",
@@ -7222,8 +7447,9 @@
         "totygn"
       ],
       "verify": true,
-      "blurb": "A commuter loop of 45.9 km and 39 stations that opened in 1954. A full circuit takes about three hours and passes markets, suburbs and rice fields.",
-      "img": "ygn-circular"
+      "blurb": "A working commuter railway around Yangon. Historical descriptions of the loop are not a current timetable. Confirm the operating section, departure, carriage facilities and return before boarding.",
+      "img": "ygn-circular",
+      "hours": "Confirm the actual operating section and return service at the station"
     },
     {
       "id": "ygn-bogyoke",
@@ -7248,8 +7474,11 @@
       "area": "Chinatown",
       "hours": "Evenings",
       "verify": true,
-      "blurb": "A narrow lane of open-air barbecue restaurants. Choose skewers from the fridge at the front, sit at a table in the street and order a cold Myanmar beer.",
-      "img": null
+      "blurb": "A downtown street historically associated with barbecue restaurants. This listing is cultural background; confirm current businesses and local conditions before making plans.",
+      "img": null,
+      "src": [
+        "totygn"
+      ]
     },
     {
       "id": "ygn-999-shan",
@@ -7301,7 +7530,8 @@
       "area": "Marina Bay",
       "url": "https://www.gardensbythebay.com.sg/",
       "blurb": "A waterfront park opened in 2012. The outdoor gardens and the Supertree Grove are free to enter, and the grove puts on a light and sound show after dark. The two cooled conservatories are ticketed.",
-      "img": "sin-gardens"
+      "img": "sin-gardens",
+      "verify": true
     },
     {
       "id": "sin-botanic",
@@ -7312,7 +7542,8 @@
       "price": "Free. The National Orchid Garden is ticketed",
       "url": "https://www.nparks.gov.sg/sbg",
       "blurb": "Founded in 1859 and listed by UNESCO in 2015, the country's first World Heritage Site.",
-      "img": "sin-botanic"
+      "img": "sin-botanic",
+      "verify": true
     },
     {
       "id": "sin-national-gallery",
@@ -7322,7 +7553,8 @@
       "area": "Civic District",
       "url": "https://www.nationalgallery.sg/",
       "blurb": "The former Supreme Court and City Hall, joined into one museum of Southeast Asian art in 2015.",
-      "img": "sin-national-gallery"
+      "img": "sin-national-gallery",
+      "verify": true
     },
     {
       "id": "sin-maxwell",
@@ -7334,7 +7566,8 @@
       "img": "sin-maxwell",
       "src": [
         "maxwell-heritage"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "sin-lau-pa-sat",
@@ -7346,7 +7579,8 @@
       "img": "sin-lau-pa-sat",
       "src": [
         "laupasat-operator"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "kul-petronas",
@@ -7356,7 +7590,8 @@
       "area": "KLCC",
       "url": "https://www.petronastwintowers.com.my/",
       "blurb": "At 452 metres, these were the world's tallest buildings from 1998 to 2004. Timed tickets cover the skybridge on levels 41 and 42 and an upper observation deck.",
-      "img": "kul-petronas"
+      "img": "kul-petronas",
+      "verify": true
     },
     {
       "id": "kul-batu-caves",
@@ -7365,7 +7600,11 @@
       "name": "Batu Caves",
       "area": "Gombak, north of the city",
       "blurb": "A Hindu shrine inside a limestone cave, reached by 272 painted steps beside a 42.7-metre golden statue of Lord Murugan. KTM Komuter trains run from KL Sentral.",
-      "img": "kul-batu-caves"
+      "img": "kul-batu-caves",
+      "src": [
+        "batu-malaysia"
+      ],
+      "verify": true
     },
     {
       "id": "kul-jalan-alor",
@@ -7375,7 +7614,11 @@
       "area": "Bukit Bintang",
       "hours": "Evenings",
       "blurb": "The city's best-known food street. After dark, tables fill the road and grills turn out satay, chicken wings and seafood.",
-      "img": null
+      "img": null,
+      "src": [
+        "kl-malaysia"
+      ],
+      "verify": true
     },
     {
       "id": "sgn-ben-thanh",
@@ -7384,7 +7627,11 @@
       "name": "Ben Thanh Market",
       "area": "District 1",
       "blurb": "The city's landmark covered market, built in 1914, with a clock tower over the south gate. Food stalls sit in the middle. Bargain for everything else.",
-      "img": "sgn-ben-thanh"
+      "img": "sgn-ben-thanh",
+      "src": [
+        "hcm-tourism"
+      ],
+      "verify": true
     },
     {
       "id": "sgn-post-office",
@@ -7394,7 +7641,11 @@
       "area": "District 1",
       "price": "Free",
       "blurb": "A working post office in a vaulted hall built between 1886 and 1891, opposite Notre-Dame Cathedral.",
-      "img": "sgn-post-office"
+      "img": "sgn-post-office",
+      "src": [
+        "hcm-tourism"
+      ],
+      "verify": true
     },
     {
       "id": "sgn-war-remnants",
@@ -7406,7 +7657,8 @@
       "img": "sgn-war-remnants",
       "src": [
         "warremnants-operator"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "tyo-sensoji",
@@ -7417,7 +7669,8 @@
       "price": "Free",
       "url": "https://www.senso-ji.jp/",
       "blurb": "Tokyo's oldest temple, said to date to 645. Enter under the giant lantern of the Kaminarimon gate and walk up Nakamise, a street of snack and souvenir stalls.",
-      "img": "tyo-sensoji"
+      "img": "tyo-sensoji",
+      "verify": true
     },
     {
       "id": "tyo-meiji",
@@ -7428,7 +7681,8 @@
       "price": "Free",
       "url": "https://www.meijijingu.or.jp/en/",
       "blurb": "A Shinto shrine dedicated in 1920, set inside a planted forest of about 100,000 donated trees beside Harajuku station.",
-      "img": "tyo-meiji"
+      "img": "tyo-meiji",
+      "verify": true
     },
     {
       "id": "tyo-tsukiji",
@@ -7443,7 +7697,8 @@
         "tsukiji-info",
         "tsukiji-calendar"
       ],
-      "hours": "Check the official calendar and individual shop hours"
+      "hours": "Check the official calendar and individual shop hours",
+      "verify": true
     },
     {
       "id": "tyo-shibuya-sky",
@@ -7453,7 +7708,8 @@
       "area": "Shibuya",
       "url": "https://www.shibuya-scramble-square.com/sky/",
       "blurb": "An open-air deck about 229 metres up on the roof of Shibuya Scramble Square, opened in 2019. Sunset slots sell out, so book ahead.",
-      "img": "tyo-shibuya-sky"
+      "img": "tyo-shibuya-sky",
+      "verify": true
     },
     {
       "id": "sel-gyeongbokgung",
@@ -7466,7 +7722,8 @@
       "img": "sel-gyeongbokgung",
       "src": [
         "gyeongbokgung-seoul"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "sel-gwangjang",
@@ -7475,7 +7732,11 @@
       "name": "Gwangjang Market",
       "area": "Jongno",
       "blurb": "A covered market that dates from 1905. The food alley is known for mung-bean pancakes fried to order and small seaweed rice rolls.",
-      "img": "sel-gwangjang"
+      "img": "sel-gwangjang",
+      "src": [
+        "gwangjang-seoul"
+      ],
+      "verify": true
     },
     {
       "id": "sel-euljiro",
@@ -7487,7 +7748,8 @@
       "img": "sel-euljiro",
       "src": [
         "euljiro-seoul"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "lon-british-museum",
@@ -7498,7 +7760,8 @@
       "price": "Free",
       "url": "https://www.britishmuseum.org/",
       "blurb": "Founded in 1753, with the Rosetta Stone and the Great Court's glass roof. Free to enter, with late opening on Fridays.",
-      "img": "lon-british-museum"
+      "img": "lon-british-museum",
+      "verify": true
     },
     {
       "id": "lon-tate-modern",
@@ -7509,7 +7772,8 @@
       "price": "Free",
       "url": "https://www.tate.org.uk/visit/tate-modern",
       "blurb": "Modern and contemporary art in a former power station on the Thames, opened in 2000. The collection displays are free.",
-      "img": "lon-tate-modern"
+      "img": "lon-tate-modern",
+      "verify": true
     },
     {
       "id": "lon-borough",
@@ -7520,7 +7784,8 @@
       "hours": "Closed Mondays",
       "url": "https://boroughmarket.org.uk/",
       "blurb": "London's best-known food market, on a site where traders have sold food for around a thousand years. It sits under the railway arches by London Bridge.",
-      "img": "lon-borough"
+      "img": "lon-borough",
+      "verify": true
     },
     {
       "id": "lis-senhora-do-monte",
@@ -7529,8 +7794,12 @@
       "name": "Miradouro da Senhora do Monte",
       "area": "Graça",
       "price": "Free",
-      "blurb": "The highest of the city's public viewpoints, looking across the castle, the river and the bridge. It is a steep walk. Take the tram up and walk down.",
-      "img": "lis-senhora-do-monte"
+      "blurb": "A Graça viewpoint overlooking Lisbon and the Tagus. Save the exact approach; hillside streets and steps affect how you reach it.",
+      "img": "lis-senhora-do-monte",
+      "src": [
+        "senhora-lisboa"
+      ],
+      "verify": true
     },
     {
       "id": "lis-tram-28",
@@ -7542,7 +7811,8 @@
       "img": "lis-tram-28",
       "src": [
         "lisboa-tram"
-      ]
+      ],
+      "verify": true
     },
     {
       "id": "lis-pasteis",
@@ -7552,7 +7822,8 @@
       "area": "Belém",
       "url": "https://pasteisdebelem.pt/",
       "blurb": "The bakery that has made its custard tarts to the same recipe since 1837. The queue for takeaway is long, so walk in and find a table instead.",
-      "img": "lis-pasteis"
+      "img": "lis-pasteis",
+      "verify": true
     },
     {
       "id": "lis-lx-factory",
@@ -7561,7 +7832,11 @@
       "name": "LX Factory",
       "area": "Alcântara",
       "blurb": "A former textile complex under the 25 de Abril Bridge, now shops, restaurants, studios and a large bookshop.",
-      "img": null
+      "img": null,
+      "src": [
+        "lx-lisboa"
+      ],
+      "verify": true
     },
     {
       "id": "nyc-high-line",
@@ -7572,7 +7847,8 @@
       "price": "Free",
       "url": "https://www.thehighline.org/",
       "blurb": "A park 1.45 miles long, planted on a disused elevated freight railway. The first section opened in 2009.",
-      "img": "nyc-high-line"
+      "img": "nyc-high-line",
+      "verify": true
     },
     {
       "id": "nyc-met",
@@ -7582,7 +7858,8 @@
       "area": "Upper East Side, Manhattan",
       "url": "https://www.metmuseum.org/",
       "blurb": "Founded in 1870 and set on the edge of Central Park. One of the largest art museums in the world, so pick two or three departments and leave the rest.",
-      "img": "nyc-met"
+      "img": "nyc-met",
+      "verify": true
     },
     {
       "id": "nyc-central-park",
@@ -7592,7 +7869,11 @@
       "area": "Manhattan",
       "price": "Free",
       "blurb": "843 acres in the middle of Manhattan. Enter at 72nd Street for Bethesda Terrace and the lake.",
-      "img": "nyc-central-park"
+      "img": "nyc-central-park",
+      "src": [
+        "centralpark-operator"
+      ],
+      "verify": true
     },
     {
       "id": "nyc-joes",
@@ -7601,7 +7882,11 @@
       "name": "Joe's Pizza",
       "area": "Carmine Street, Greenwich Village",
       "blurb": "A slice shop open since 1975 and a fair place to learn what a New York slice is: thin, crisp at the base and folded to eat.",
-      "img": "nyc-joes"
+      "img": "nyc-joes",
+      "src": [
+        "joes-operator"
+      ],
+      "verify": true
     },
     {
       "id": "mex-anthropology",
@@ -7612,7 +7897,8 @@
       "hours": "Closed Mondays",
       "url": "https://www.mna.inah.gob.mx/",
       "blurb": "The country's great museum of its pre-Hispanic civilisations, opened in 1964. The Aztec Sun Stone is in the Mexica hall.",
-      "img": "mex-anthropology"
+      "img": "mex-anthropology",
+      "verify": true
     },
     {
       "id": "mex-bellas-artes",
@@ -7621,7 +7907,11 @@
       "name": "Palacio de Bellas Artes",
       "area": "Centro Histórico",
       "blurb": "A white marble opera house and museum with murals by Diego Rivera and other Mexican masters on its upper floors.",
-      "img": "mex-bellas-artes"
+      "img": "mex-bellas-artes",
+      "src": [
+        "bellas-inba"
+      ],
+      "verify": true
     },
     {
       "id": "mex-coyoacan-market",
@@ -7630,7 +7920,11 @@
       "name": "Mercado de Coyoacán",
       "area": "Coyoacán",
       "blurb": "A neighbourhood market known for its tostada counters, a few blocks from the Frida Kahlo museum.",
-      "img": "mex-coyoacan-market"
+      "img": "mex-coyoacan-market",
+      "src": [
+        "coyoacan-tourism"
+      ],
+      "verify": true
     },
     {
       "id": "bue-tortoni",
@@ -7640,7 +7934,8 @@
       "area": "Avenida de Mayo",
       "url": "https://www.cafetortoni.com.ar/",
       "blurb": "The city's most famous cafe, founded in 1858, with marble tables, stained glass and waiters in waistcoats.",
-      "img": "bue-tortoni"
+      "img": "bue-tortoni",
+      "verify": true
     },
     {
       "id": "bue-ateneo",
@@ -7650,7 +7945,11 @@
       "area": "Recoleta",
       "price": "Free",
       "blurb": "A bookshop inside a theatre that opened in 1919. The stage is now a cafe and the boxes are reading nooks.",
-      "img": "bue-ateneo"
+      "img": "bue-ateneo",
+      "src": [
+        "ateneo-tourism"
+      ],
+      "verify": true
     },
     {
       "id": "bue-san-telmo",
@@ -7660,7 +7959,11 @@
       "area": "San Telmo",
       "hours": "Sundays",
       "blurb": "An antiques and street market that runs along Calle Defensa every Sunday, with tango dancers in Plaza Dorrego.",
-      "img": "bue-san-telmo"
+      "img": "bue-san-telmo",
+      "src": [
+        "santelmo-tourism"
+      ],
+      "verify": true
     },
     {
       "id": "syd-bondi-coogee",
@@ -7670,7 +7973,11 @@
       "area": "Eastern Suburbs",
       "price": "Free",
       "blurb": "Six kilometres of clifftop path linking beaches and ocean pools, including Bronte Baths and Wylie's Baths, which opened in 1907.",
-      "img": "syd-bondi-coogee"
+      "img": "syd-bondi-coogee",
+      "src": [
+        "bondi-tourism"
+      ],
+      "verify": true
     },
     {
       "id": "syd-icebergs",
@@ -7680,7 +7987,8 @@
       "area": "Bondi Beach",
       "url": "https://icebergs.com.au/",
       "blurb": "A 50-metre ocean pool at the south end of Bondi, home to a winter swimming club founded in 1929. Casual swimmers pay a small entry fee.",
-      "img": "syd-icebergs"
+      "img": "syd-icebergs",
+      "verify": true
     },
     {
       "id": "syd-opera-house",
@@ -7690,7 +7998,8 @@
       "area": "Bennelong Point",
       "url": "https://www.sydneyoperahouse.com/",
       "blurb": "Jørn Utzon's building opened in 1973 and joined the UNESCO World Heritage list in 2007. Walk around it for free, or book a tour or a performance.",
-      "img": "syd-opera-house"
+      "img": "syd-opera-house",
+      "verify": true
     },
     {
       "id": "syd-botanic",
@@ -7700,7 +8009,11 @@
       "area": "Sydney Harbour",
       "price": "Free",
       "blurb": "Established in 1816 on the harbour's edge, with the classic view back to the Opera House and the bridge.",
-      "img": "syd-botanic"
+      "img": "syd-botanic",
+      "src": [
+        "sydneygarden-operator"
+      ],
+      "verify": true
     },
     {
       "id": "cpt-table-mountain",
@@ -7710,7 +8023,8 @@
       "area": "City Bowl",
       "url": "https://www.tablemountain.net/",
       "blurb": "The 1,086-metre flat-topped mountain behind the city. A cableway with rotating cars has run since 1929 and closes in high wind. The most direct walk up is the Platteklip Gorge path.",
-      "img": "cpt-table-mountain"
+      "img": "cpt-table-mountain",
+      "verify": true
     },
     {
       "id": "cpt-kirstenbosch",
@@ -7720,7 +8034,8 @@
       "area": "Newlands",
       "url": "https://www.sanbi.org/gardens/kirstenbosch/",
       "blurb": "Founded in 1913 on the mountain's eastern slope and devoted to South African plants. A curved treetop walkway crosses the arboretum.",
-      "img": "cpt-kirstenbosch"
+      "img": "cpt-kirstenbosch",
+      "verify": true
     },
     {
       "id": "cpt-bo-kaap",
@@ -7730,7 +8045,11 @@
       "area": "Signal Hill",
       "price": "Free to wander",
       "blurb": "Steep cobbled streets of brightly painted houses, the historic home of the city's Cape Malay community. People live here, so ask before photographing doorways.",
-      "img": "cpt-bo-kaap"
+      "img": "cpt-bo-kaap",
+      "src": [
+        "bokaap-tourism"
+      ],
+      "verify": true
     },
     {
       "id": "han-hoan-kiem",
@@ -8128,8 +8447,11 @@
       "where": "Rajamangala National Stadium",
       "blurb": "Three stadium nights. Allow extra time for the journey out.",
       "src": [
-        "bklist"
-      ]
+        "bklist",
+        "weeknd-promoter"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://www.livenationtero.co.th/en/event/the-weeknd-after-hours-til-dawn-tour-bangkok-tickets-edp1672772"
     },
     {
       "id": "bkk-mraz",
@@ -8137,11 +8459,14 @@
       "cat": "Music",
       "title": "Jason Mraz",
       "date": "2026-10-29",
-      "where": "BITEC Bangna",
+      "where": "BITEC LIVE, Bang Na",
       "blurb": "One night at the Bangkok International Trade and Exhibition Centre, beside BTS Bang Na.",
       "src": [
-        "bklist"
-      ]
+        "bklist",
+        "mraz-venue"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://www.bitec.co.th/event/jason-mraz-asia-2026-tour"
     },
     {
       "id": "bkk-biennale",
@@ -8153,21 +8478,27 @@
       "where": "Temples, galleries and riverside venues",
       "blurb": "Four months of contemporary art across the city, including installations inside working temples.",
       "src": [
-        "thgcal"
-      ]
+        "thgcal",
+        "bab-organiser"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://www.bkkartbiennale.com/press/bangkok-art-biennale-bab-2026-a-year-away"
     },
     {
       "id": "bkk-babymonster",
       "city": "bkk",
       "cat": "Music",
-      "title": "Baby Monster",
+      "title": "BABYMONSTER",
       "date": "2026-11-07",
       "end": "2026-11-08",
       "where": "Impact Arena, Muang Thong Thani",
       "blurb": "Two nights for the K-pop group.",
       "src": [
-        "bklist"
-      ]
+        "bklist",
+        "babymonster-ticket"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://www.thaiticketmajor.com/concert/2026-27-babymonster-world-tour-choom-in-bangkok.html"
     },
     {
       "id": "bkk-mcr",
@@ -8178,8 +8509,11 @@
       "where": "Impact Challenger Hall, Muang Thong Thani",
       "blurb": "One night only.",
       "src": [
-        "bklist"
-      ]
+        "bklist",
+        "mcr-ticket"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://megatix.in.th/events/my-chemical-romance"
     },
     {
       "id": "bkk-loy-krathong",
@@ -8193,7 +8527,9 @@
       "src": [
         "umelk",
         "thgcal"
-      ]
+      ],
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "bkk-bts",
@@ -8205,8 +8541,11 @@
       "where": "Rajamangala National Stadium",
       "blurb": "Shows on 3, 5 and 6 December.",
       "src": [
-        "bklist"
-      ]
+        "bklist",
+        "bts-ticket"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://www.thaiticketmajor.com/concert/bts-world-tour-arirang-in-bangkok.html"
     },
     {
       "id": "bkk-wonderfruit",
@@ -8219,8 +8558,11 @@
       "blurb": "A music, art and food festival about two hours from Bangkok.",
       "src": [
         "bklist",
-        "thgcal"
-      ]
+        "thgcal",
+        "wonderfruit-organiser"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://www.wonderfruit.co/faq"
     },
     {
       "id": "cnx-saturday",
@@ -8235,7 +8577,8 @@
       "p": "cnx-wualai",
       "src": [
         "expcm"
-      ]
+      ],
+      "verifiedAt": null
     },
     {
       "id": "cnx-sunday",
@@ -8250,7 +8593,8 @@
       "p": "cnx-sunday-walking-street",
       "src": [
         "thgsws"
-      ]
+      ],
+      "verifiedAt": null
     },
     {
       "id": "cnx-yi-peng",
@@ -8264,7 +8608,9 @@
       "src": [
         "thgyp",
         "umelk"
-      ]
+      ],
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "hkt-vegetarian",
@@ -8278,7 +8624,9 @@
       "src": [
         "p101veg",
         "thgcal"
-      ]
+      ],
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "hkt-sunday",
@@ -8293,7 +8641,8 @@
       "p": "hkt-lard-yai",
       "src": [
         "thgpkt"
-      ]
+      ],
+      "verifiedAt": null
     },
     {
       "id": "hkt-edc",
@@ -8302,11 +8651,14 @@
       "title": "EDC Thailand",
       "date": "2026-12-18",
       "end": "2026-12-20",
-      "where": "Phuket",
+      "where": "Rhythm Park, Phuket",
       "blurb": "A three-day electronic music festival.",
       "src": [
-        "thgcal"
-      ]
+        "thgcal",
+        "edc-organiser"
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://thailand.edc.com/en/"
     },
     {
       "id": "ygn-thadingyut",
@@ -8319,7 +8671,9 @@
       "blurb": "The end of Buddhist Lent. Homes, streets and pagodas are lit with candles and lanterns, and people pay respects to parents and teachers. The full-moon day is 26 October.",
       "src": [
         "calmm"
-      ]
+      ],
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "ygn-tazaungdaing",
@@ -8332,7 +8686,9 @@
       "blurb": "The second festival of lights, marking the end of the rainy season. Robe-weaving contests are traditionally held overnight at Shwedagon.",
       "src": [
         "calmm"
-      ]
+      ],
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "ygn-national-day",
@@ -8344,7 +8700,9 @@
       "blurb": "Offices and many shops close.",
       "src": [
         "calmm"
-      ]
+      ],
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "sin-deepavali",
@@ -8353,10 +8711,12 @@
       "title": "Deepavali",
       "date": "2026-11-08",
       "where": "Little India, Serangoon Road",
-      "blurb": "The Hindu festival of lights is a public holiday. Because it falls on a Sunday, Monday 9 November is a holiday too. Serangoon Road is lit up for weeks beforehand.",
+      "blurb": "Deepavali is listed as Sunday 8 November by the Ministry of Manpower. Monday 9 November is a public holiday for those whose rest day falls on Sunday. Check the separate Little India programme for light-up and bazaar dates.",
       "src": [
         "momsg"
-      ]
+      ],
+      "verifiedAt": "2026-10-09",
+      "url": "https://www.mom.gov.sg/employment-practices/public-holidays"
     },
     {
       "id": "tyo-shichigosan",
@@ -8366,7 +8726,9 @@
       "date": "2026-11-15",
       "where": "Shrines citywide, including Meiji Jingu",
       "blurb": "Families bring children aged three, five and seven to shrines in formal kimono. Weekends either side are just as busy.",
-      "p": "tyo-meiji"
+      "p": "tyo-meiji",
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "lon-bonfire",
@@ -8375,7 +8737,9 @@
       "title": "Bonfire Night",
       "date": "2026-11-05",
       "where": "Parks across London",
-      "blurb": "Fireworks displays mark Guy Fawkes Night. Most big displays are ticketed and fall on the nearest weekend."
+      "blurb": "Fireworks displays mark Guy Fawkes Night. Most big displays are ticketed and fall on the nearest weekend.",
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "lon-lord-mayor",
@@ -8389,7 +8753,8 @@
       "url": "https://lordmayorsshow.london/",
       "src": [
         "lms"
-      ]
+      ],
+      "verifiedAt": "2026-10-09"
     },
     {
       "id": "lis-sao-martinho",
@@ -8398,7 +8763,9 @@
       "title": "São Martinho",
       "date": "2026-11-11",
       "where": "Streets and squares citywide",
-      "blurb": "St Martin's Day is marked with roast chestnuts from street braziers and the first taste of the year's new wine."
+      "blurb": "St Martin's Day is marked with roast chestnuts from street braziers and the first taste of the year's new wine.",
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "nyc-halloween",
@@ -8409,7 +8776,11 @@
       "time": "7pm",
       "where": "Sixth Avenue, Greenwich Village",
       "blurb": "Giant puppets, bands and thousands of costumed marchers. Anyone in costume can join.",
-      "url": "https://halloween-nyc.com/"
+      "url": "https://halloween-nyc.com/",
+      "verifiedAt": "2026-10-09",
+      "src": [
+        "halloween-organiser"
+      ]
     },
     {
       "id": "nyc-marathon",
@@ -8421,7 +8792,9 @@
       "blurb": "Held on the first Sunday of November through all five boroughs. Watch from First Avenue or from Brooklyn's Fourth Avenue.",
       "src": [
         "nyrr"
-      ]
+      ],
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "nyc-thanksgiving",
@@ -8430,7 +8803,9 @@
       "title": "Macy's Thanksgiving Day Parade",
       "date": "2026-11-26",
       "where": "Central Park West to Herald Square",
-      "blurb": "Giant balloons and marching bands on Thanksgiving morning. Arrive before dawn for a kerbside spot."
+      "blurb": "Giant balloons and marching bands on Thanksgiving morning. Arrive before dawn for a kerbside spot.",
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "mex-muertos",
@@ -8440,7 +8815,9 @@
       "date": "2026-11-01",
       "end": "2026-11-02",
       "where": "Citywide",
-      "blurb": "Families build altars of marigolds, candles and food for relatives who have died. Public altars fill the Zócalo."
+      "blurb": "Families build altars of marigolds, candles and food for relatives who have died. Public altars fill the Zócalo.",
+      "verifiedAt": null,
+      "publicationStatus": "research"
     },
     {
       "id": "syd-sculpture",
@@ -8454,7 +8831,8 @@
       "url": "https://sculpturebythesea.com/bondi/",
       "src": [
         "sxs"
-      ]
+      ],
+      "verifiedAt": "2026-10-09"
     }
   ],
   "images": {
@@ -8962,16 +9340,6 @@
       "w": 640,
       "h": 640
     },
-    "t-sculpture": {
-      "src": "/images/t-sculpture.jpg",
-      "by": "Whats new?",
-      "lic": "Public domain",
-      "licUrl": "",
-      "page": "https://commons.wikimedia.org/wiki/File:Sculpture_by_the_Sea_01.JPG",
-      "title": "Sculpture by the Sea 01",
-      "w": 640,
-      "h": 480
-    },
     "t-thadingyut": {
       "src": "/images/t-thadingyut.jpg",
       "by": "Aung Myint Htwe",
@@ -9449,17 +9817,6 @@
       "title": "Gates at Royal Botanic Gardens viewed from Art Gallery Road",
       "w": 640,
       "h": 427
-    },
-    "t-biennale": {
-      "src": "/images/t-biennale.jpg",
-      "by": "Chainwit.",
-      "lic": "CC BY 4.0",
-      "licUrl": "https://creativecommons.org/licenses/by/4.0",
-      "page": "https://commons.wikimedia.org/wiki/File:Bangkok_Art_Biennale_2024_at_BACC_(2024-11-03)_-_img_12.jpg",
-      "title": "Bangkok Art Biennale 2024 at BACC (2024-11-03) - img 12",
-      "w": 640,
-      "h": 480,
-      "note": "The 2024 edition at the Bangkok Art and Culture Centre."
     },
     "t-concert": {
       "src": "/images/t-concert.jpg",

@@ -12,3 +12,8 @@ test('recurring events persist and sample products stay excluded',()=>{
  assert.equal(isUpcoming({recur:'Every Sunday'},cities),true);
  assert.equal(isUpcoming({sample:true,recur:'Every Sunday'},cities),false);
 });
+
+test('unconfirmed research never appears as an upcoming event',()=>{
+ assert.equal(isUpcoming({publicationStatus:'research',city:'bkk',date:'2099-01-01'},cities),false);
+ assert.equal(isUpcoming({publicationStatus:'research',recur:'Every Sunday'},cities),false);
+});

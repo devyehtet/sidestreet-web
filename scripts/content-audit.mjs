@@ -32,6 +32,8 @@ for (const place of data.places) {
 for (const event of data.events) {
   if (!cities.has(event.city)) errors.push(`${event.id}: unknown event city`);
   references(event.src, event.id); webUrl(event.url, event.id);
+  if (!event.sample && event.publicationStatus !== 'research' && !event.url && !event.src?.length) errors.push(`${event.id}: published event has no source`);
+  if (!event.sample && !event.recur && event.publicationStatus !== 'research' && !event.verifiedAt) errors.push(`${event.id}: dated public event needs a source-check date`);
 }
 const rows = data.stories.map(story => {
   if (story.city !== 'world' && !cities.has(story.city)) errors.push(`${story.id}: unknown city ${story.city}`);

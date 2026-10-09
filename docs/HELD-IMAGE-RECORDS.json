@@ -1,0 +1,27 @@
+[
+  {
+    "id": "t-biennale",
+    "src": "/images/t-biennale.jpg",
+    "by": "Chainwit.",
+    "lic": "CC BY 4.0",
+    "licUrl": "https://creativecommons.org/licenses/by/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Bangkok_Art_Biennale_2024_at_BACC_(2024-11-03)_-_img_12.jpg",
+    "title": "Bangkok Art Biennale 2024 at BACC (2024-11-03) - img 12",
+    "w": 640,
+    "h": 480,
+    "note": "The 2024 edition at the Bangkok Art and Culture Centre.",
+    "reason": "Underlying artwork permission not established; replaced with venue/coast photograph."
+  },
+  {
+    "id": "t-sculpture",
+    "src": "/images/t-sculpture.jpg",
+    "by": "Whats new?",
+    "lic": "Public domain",
+    "licUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Sculpture_by_the_Sea_01.JPG",
+    "title": "Sculpture by the Sea 01",
+    "w": 640,
+    "h": 480,
+    "reason": "Underlying artwork permission not established; replaced with venue/coast photograph."
+  }
+]

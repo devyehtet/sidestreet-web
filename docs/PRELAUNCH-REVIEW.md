@@ -18,7 +18,7 @@ All 122 Wikimedia photo records were compared against source API metadata on 202
 
 Public sitemap: HTTP 200, application/xml, valid XML, 96 URL entries. Public robots: HTTP 200, Allow /, correct absolute sitemap reference. Vercel firewall: no custom enforced rules, no denied IPs shown, bot protection inactive. Google Inspection Tool smartphone live test at 20:44 Bangkok time: Crawl allowed Yes, Page fetch Successful. Sitemap resubmitted after that result. The Sitemaps report still displayed Couldn't fetch at submission; live URL fetch does not confirm sitemap processing. No original failure cause was established. Do not disable security protections or rewrite a valid sitemap solely to change that status.
 
-Added nine place references to retrieved official operator/tourism/heritage listings. Some other place records still lack a venue or research link; these remain in the editorial inventory.
+Added nine place references to retrieved official operator/tourism/heritage listings. The remaining 23 place-source gaps were then closed; every place now has a venue or research reference. Current operations are not guaranteed by those links.
 
 ## Remaining application blockers
 
@@ -33,3 +33,11 @@ Added nine place references to retrieved official operator/tourism/heritage list
 Prioritise Bangkok, Chiang Mai and Phuket initially. Publish or substantially update two useful guides per week based on real reader questions, official source checks and Search Console queries when available. Compare organic landing pages, impressions, clicks and engaged visits by page and country each week. Consent-based GA4 counts exclude readers who reject analytics; QA visits are not evidence of an organic audience. Record baseline and weekly observations before drawing conclusions. Do not invent search volumes, backlinks or traffic projections.
 
 Potential revenue work comes after the content/contact gates: apply to relevant affiliate programmes only when the publisher chooses them, disclose commercial links at the point of use, then separately assess AdSense readiness. No affiliate account, paid placement or advertising activation is included here.
+
+## Final source and content pass
+
+- Substantive accuracy and writing edits to 24 guide records: rooftops, cultural festivals, concert planning, Yangon transport and food, Singapore and Kuala Lumpur food, coffee, free museums, viewpoints, New York outings, markets, cafes, Sydney outdoor outings and Cape Town hiking. Unsupported food-safety, halal, transport, venue-facility and hiking assurances were removed or replaced with precise planning questions.
+- Twelve dated events checked against official organiser, venue, ticketing or government public-holiday pages. Unconfirmed dated entries retained as research and excluded from the public calendar, with a regression test including recurring research entries.
+- Two modern-artwork photographs withdrawn; existing venue/coastal images used instead. Original records retained in HELD-IMAGE-RECORDS.json and deleted assets recoverable in Git history. Current public image count: 126 (120 Wikimedia photographs and six atlas illustrations).
+- All 59 guides / 135 places / 126 images pass the structural audit with no warnings. ESLint, all 10 tests and the production build pass. These checks do not certify every factual claim, copyright permission or Google approval.
+- Publisher requested that the planned email remain unchanged; no provider purchased, mailbox created or delivery claim made. Contact and complete editorial/rights review remain application blockers.
