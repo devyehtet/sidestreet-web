@@ -18,3 +18,8 @@ test('verification can be configured without enabling tracking or ads',()=>{
  assert.equal(canServeAds({...c,adsenseEnabled:true,consentConfigured:true}),true);
  assert.equal(canServeAds({...c,adsenseEnabled:true,consentConfigured:true,siteUrl:''}),false);
 });
+
+test('GA4 only accepts a measurement ID, never arbitrary script input',()=>{
+ assert.equal(resolvePublishing({}, {NEXT_PUBLIC_GA_MEASUREMENT_ID:'G-9G33152W7G'}).analyticsMeasurementId,'G-9G33152W7G');
+ for(const id of ['', 'UA-123-1', 'G-ABC<script>', 'G-ABC&secret=1'])assert.equal(resolvePublishing({}, {NEXT_PUBLIC_GA_MEASUREMENT_ID:id}).analyticsMeasurementId,'');
+});

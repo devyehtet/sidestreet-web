@@ -20,6 +20,7 @@ export function resolvePublishing(raw, env = {}) {
     siteUrl: publicOrigin(env.NEXT_PUBLIC_SITE_URL || raw.siteUrl),
     contactEmail: contactEmail(raw.contactEmail),
     adsenseClient: adsenseClient(env.ADSENSE_CLIENT || raw.adsenseClient),
+    analyticsMeasurementId: /^G-[A-Z0-9]+$/.test(env.NEXT_PUBLIC_GA_MEASUREMENT_ID || '') ? env.NEXT_PUBLIC_GA_MEASUREMENT_ID : '',
     googleSiteVerification: env.GOOGLE_SITE_VERIFICATION || raw.googleSiteVerification || '',
   };
 }
