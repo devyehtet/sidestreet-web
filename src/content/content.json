@@ -910,6 +910,56 @@
       "name": "Bounce — Bangkok locations",
       "url": "https://bounce.com/luggage-storage/bangkok",
       "consultedAt": "2026-10-10"
+    },
+    "tailor-on-ten-contact": {
+      "name": "Tailor On Ten — appointments and location",
+      "url": "https://www.tailoronten.com/pages/contact-us",
+      "consultedAt": "2026-10-10"
+    },
+    "jesse-son-faq": {
+      "name": "Jesse & Son — tailoring FAQ",
+      "url": "https://jesseandson.com/faq",
+      "consultedAt": "2026-10-10"
+    },
+    "empire-tailors-contact": {
+      "name": "The Empire Tailors — contact and storefront",
+      "url": "https://www.theempiretailors.com/contact-us",
+      "consultedAt": "2026-10-10"
+    },
+    "bidc-contact": {
+      "name": "BIDC — main centre and branch contacts",
+      "url": "https://www.bidc.dental/dentalclinic_EN/contact.html",
+      "consultedAt": "2026-10-10"
+    },
+    "bidh-official": {
+      "name": "Bangkok International Dental Hospital — official website",
+      "url": "https://dentalhospitalthailand.com/",
+      "consultedAt": "2026-10-10"
+    },
+    "bangkok-smile-asok-contact": {
+      "name": "Bangkok Inter Dental / Bangkok Smile Asok — contact",
+      "url": "https://www.bangkokinterdental.com/contact/",
+      "consultedAt": "2026-10-10"
+    },
+    "cdc-medical-tourism": {
+      "name": "CDC Yellow Book — medical tourism and follow-up care",
+      "url": "https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html",
+      "consultedAt": "2026-10-10"
+    },
+    "health-land-asoke": {
+      "name": "Health Land — Asoke branch",
+      "url": "https://www.healthlandspa.com/en/location/bangkok/asoke",
+      "consultedAt": "2026-10-10"
+    },
+    "lets-relax-thonglor": {
+      "name": "Let’s Relax — Thonglor Onsen & Spa",
+      "url": "https://letsrelaxspa.com/branches/bangkok-thonglor-onsen-and-spa/",
+      "consultedAt": "2026-10-10"
+    },
+    "divana-current-locations": {
+      "name": "Divana — current spa locations",
+      "url": "https://www.divanawellness.com/spa-location/",
+      "consultedAt": "2026-10-10"
     }
   },
   "cities": [
@@ -10004,6 +10054,393 @@
         "phuket-restaurants-best-for-old-town-meals",
         "phuket-shops-services-best-for-town-and-transfers"
       ]
+    },
+    {
+      "id": "bangkok-tailors-best-for-your-trip",
+      "slug": "bangkok-tailors-best-for-your-trip",
+      "city": "bkk",
+      "cat": "things",
+      "kind": "guide",
+      "serviceCategory": "tailoring",
+      "title": "Bangkok tailors: three shops to compare for your next suit or shirt",
+      "dek": "Compare Tailor On Ten, Jesse & Son and The Empire Tailors by appointment format, location and the fitting plan your trip can accommodate.",
+      "img": "bkk-chatuchak",
+      "imageNote": "Bangkok city reference photograph. The listed businesses are not pictured.",
+      "src": [
+        "tailor-on-ten-contact",
+        "jesse-son-faq",
+        "empire-tailors-contact"
+      ],
+      "body": [
+        "The useful question is not simply which Bangkok tailor has the most enthusiastic review. It is which shop can explain the garment you want, quote for its actual construction and fit it within your stay. This shortlist gives you three named businesses to contact and a common set of questions so their replies can be compared.",
+        "Start the enquiry before your arrival. Say whether you want a work suit, wedding outfit or a shirt, share a style reference and provide your departure date. A clear brief makes it easier to distinguish an available appointment from a promise to finish an unspecified garment quickly."
+      ],
+      "sections": [
+        {
+          "h": "Tailor On Ten: an appointment-led choice near Nana",
+          "p": [
+            "Tailor On Ten’s contact page places its Bangkok store at 93 Sukhumvit Soi 8 and strongly recommends making an appointment. That makes it a useful first enquiry for someone who wants to reserve time for a fitting rather than count on a walk-in slot. The published contact page lists Tuesday–Saturday opening, so a weekend arrival needs particular attention to the first available visit.",
+            "Ask the shop how many fittings your chosen garment needs, what will happen at each appointment and when it can be collected. Keep those visits in your itinerary as real appointments. A fabric consultation should leave you with the fabric specification, garment details and agreed total, not only a memorable description of the cloth."
+          ],
+          "sourceIds": [
+            "tailor-on-ten-contact"
+          ]
+        },
+        {
+          "h": "Jesse & Son: discuss a time-sensitive garment before travelling",
+          "p": [
+            "Jesse & Son lists its shop on Sukhumvit Soi 10 and publishes information about express tailoring enquiries. It is worth contacting when your departure date is a major constraint. A published express option is not confirmation that every fabric, design or order can be completed during your particular visit.",
+            "Explain the occasion, the number of pieces and the time you have for fittings. Ask for written confirmation of the schedule and whether delivery or shipping is part of the quote. If you cannot attend a final fitting, discuss how later adjustments will be handled before placing the order. Do not substitute a delivery promise for checking the finished fit."
+          ],
+          "sourceIds": [
+            "jesse-son-faq"
+          ]
+        },
+        {
+          "h": "The Empire Tailors: compare garment options on Sukhumvit Road",
+          "p": [
+            "The Empire Tailors identifies its storefront on Sukhumvit Road between Soi 4 and Soi 6, beside Nana Post Office. Its published garment categories include suits, shirts, jackets, tuxedos and trousers. This is a useful alternative enquiry when you want to discuss several garment types around the Nana area.",
+            "Choose the items you genuinely need and request a separate specification for each. Ask about lining, construction and any design detail important to you, rather than treating a package name as a complete description. Confirm the fitting and collection arrangements for an in-person commission; an online order process may use a different approach."
+          ],
+          "sourceIds": [
+            "empire-tailors-contact"
+          ]
+        },
+        {
+          "h": "Compare the replies before paying a deposit",
+          "p": [
+            "Use the same brief for each shop. Compare fabric, construction, fittings, total price, deposit conditions and the written adjustment policy. A low headline quote and a higher quote can refer to substantially different garments. Ask for clarification where an inclusion is missing rather than filling the gap with an assumption.",
+            "For collection, try the garment in the way you will use it: stand, sit and move comfortably, and check the details you agreed. If a last adjustment is needed, establish whether there is time to complete it before leaving. A smaller order with a workable fitting plan can be more useful than a larger package rushed into the final afternoon."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "places": [
+        "bkk-tailor-on-ten",
+        "bkk-jesse-son",
+        "bkk-empire-tailors"
+      ],
+      "items": [],
+      "quickPlan": [
+        [
+          "Best-fit decision",
+          "Garment specification plus a realistic fitting plan"
+        ],
+        [
+          "Before arrival",
+          "Send your brief and departure date"
+        ],
+        [
+          "Payment",
+          "Compare the written quote and deposit terms"
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the enquiry that matches your trip",
+        "headers": [
+          "Shop",
+          "Useful starting point",
+          "Confirm directly"
+        ],
+        "rows": [
+          [
+            "Tailor On Ten",
+            "Reserved consultation near Nana",
+            "Opening day and fitting slots"
+          ],
+          [
+            "Jesse & Son",
+            "A time-sensitive custom garment",
+            "Feasibility for your exact order"
+          ],
+          [
+            "The Empire Tailors",
+            "Comparing several garment types",
+            "Specification and fitting plan"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Are these ranked from best to worst?",
+          "No. The shops are compared by published service format and visitor planning needs; we have not inspected their workmanship or scored their garments."
+        ],
+        [
+          "Can I rely on an express offer for a short stay?",
+          "Only after the shop confirms your specific order and fitting schedule. A general express description is not a confirmed completion date."
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "mins": 3,
+      "researchNote": "Independent desk-researched shortlist checked on 10 October 2026. Inclusion is based on published service information and practical visitor needs, not a firsthand inspection, customer rating or paid placement. Businesses did not pay for inclusion.",
+      "tips": [
+        "Confirm the exact branch and current offer directly before booking."
+      ],
+      "relatedGuides": [
+        "bangkok-dental-clinics-for-visitors",
+        "bangkok-spas-best-for-your-trip",
+        "bangkok-shops-services-best-for-city-visit"
+      ]
+    },
+    {
+      "id": "bangkok-dental-clinics-for-visitors",
+      "slug": "bangkok-dental-clinics-for-visitors",
+      "city": "bkk",
+      "cat": "travel",
+      "kind": "guide",
+      "serviceCategory": "dental",
+      "title": "Bangkok dental clinics for visitors: three appointment options to compare",
+      "dek": "Compare BIDC Ratchada, BIDH Sukhumvit Soi 2 and Bangkok Smile Asok by location and appointment arrangements, with clinician assessment and follow-up kept central.",
+      "img": "bkk-mahanakhon",
+      "imageNote": "Bangkok city reference photograph. The listed businesses are not pictured.",
+      "src": [
+        "bidc-contact",
+        "bidh-official",
+        "bangkok-smile-asok-contact",
+        "cdc-medical-tourism"
+      ],
+      "body": [
+        "Finding a dental appointment during a Bangkok stay is different from choosing a restaurant. A convenient address can help you attend a consultation, but it cannot establish whether a treatment is suitable or which clinician is best for your condition. The three entries below are practical contact options, not a clinical ranking or a recommendation to undergo a particular procedure.",
+        "For planned care, discuss your situation with a qualified dentist and ask the Bangkok provider about the assessment process before booking treatment. Build the enquiry around the clinician, the proposed plan and the time available for follow-up. A clinic advertisement or a low package price cannot answer those questions on its own."
+      ],
+      "sections": [
+        {
+          "h": "BIDC Ratchada: a main-centre enquiry in Din Daeng",
+          "p": [
+            "Bangkok International Dental Center’s contact page identifies its main Ratchada centre on Ratchadaphisek Road in Din Daeng, with enquiry and booking contacts. It also lists other branches. Specify the Ratchada centre when making your enquiry so the appointment is not assigned to a different location unintentionally.",
+            "Ask which dentist will assess you, whether that appointment is a consultation only, what records to bring and what fee applies. If you need language assistance, confirm it directly for the appointment. The reason for including this centre is its identifiable location and published contact arrangements; this article does not independently verify its clinical outcomes or accreditation claims."
+          ],
+          "sourceIds": [
+            "bidc-contact"
+          ]
+        },
+        {
+          "h": "BIDH: a hospital-based appointment enquiry on Soi 2",
+          "p": [
+            "Bangkok International Dental Hospital identifies its location at 98 Sukhumvit Soi 2 and publishes outpatient appointment information. This provides a separate contact option for someone seeking a hospital-based dental consultation in the Sukhumvit area. BIDC and BIDH are distinct locations; their related names should not replace checking the address in your appointment confirmation.",
+            "Describe the reason for the consultation and ask which clinician or department will see you. A hospital setting does not by itself establish that you need a particular procedure, anaesthesia or admission. Treatment decisions and suitability belong to an individual clinical assessment. Request a written explanation of the proposed visits and costs before committing to planned treatment."
+          ],
+          "sourceIds": [
+            "bidh-official"
+          ]
+        },
+        {
+          "h": "Bangkok Smile Asok: confirm the Sukhumvit 21 branch",
+          "p": [
+            "The current Bangkok Inter Dental contact page identifies the Bangkok Smile Dental Asok location at 32/5 Sukhumvit 21. Use the current appointment contact and ask for the branch name and address in writing. The name on a search result, a clinic network or a map label may differ, so the appointment confirmation should remove any uncertainty about where you will be seen.",
+            "For an Asok-based stay, the location may make repeat appointments easier to plan. Confirm the actual clinician, available consultation time, language support and assessment fee. Do not infer that a specialist or a specific treatment will be available simply because it appears among the provider’s advertised services."
+          ],
+          "sourceIds": [
+            "bangkok-smile-asok-contact"
+          ]
+        },
+        {
+          "h": "Make follow-up part of the decision",
+          "p": [
+            "CDC guidance on medical tourism advises checking clinician qualifications and facility credentials, understanding included costs and arranging follow-up care. It also recommends obtaining copies of overseas medical records for continuity of care. Ask the provider how you will receive your dental records and who to contact if a problem occurs after you leave Bangkok.",
+            "For planned treatment, ask your dentist whether your travel schedule leaves sufficient time for the proposed care and any follow-up. Compare the complete written estimate, including assessments and later visits, and check what your insurance actually covers. This guide has no clinician review and provides appointment-planning information only; it does not diagnose a condition or establish a treatment plan."
+          ],
+          "sourceIds": [
+            "cdc-medical-tourism"
+          ]
+        }
+      ],
+      "places": [
+        "bkk-bidc-ratchada",
+        "bkk-bidh-sukhumvit",
+        "bkk-smile-asok"
+      ],
+      "items": [],
+      "quickPlan": [
+        [
+          "Purpose",
+          "Compare appointment locations and contact arrangements"
+        ],
+        [
+          "Clinical decision",
+          "Requires individual assessment by a qualified dentist"
+        ],
+        [
+          "Before committing",
+          "Clarify clinician, costs, records and follow-up"
+        ]
+      ],
+      "planTable": {
+        "caption": "Compare locations and appointment enquiries, not clinical quality",
+        "headers": [
+          "Provider",
+          "Location",
+          "Ask before booking"
+        ],
+        "rows": [
+          [
+            "BIDC main centre",
+            "Ratchada / Din Daeng",
+            "Correct branch, dentist and assessment fee"
+          ],
+          [
+            "BIDH",
+            "Sukhumvit Soi 2",
+            "Consultation format and proposed visits"
+          ],
+          [
+            "Bangkok Smile Asok",
+            "Sukhumvit 21",
+            "Branch confirmation and treating clinician"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Which clinic is medically the best for me?",
+          "This article cannot determine that. A qualified dentist must assess your individual needs; location and advertised services do not establish clinical suitability."
+        ],
+        [
+          "What should I ask about before planned care abroad?",
+          "Ask about the treating clinician, written plan and total costs, follow-up arrangements, records and insurance coverage. Discuss travel timing with your dentist."
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "mins": 3,
+      "researchNote": "Independent desk-researched shortlist checked on 10 October 2026. Inclusion is based on published service information and practical visitor needs, not a firsthand inspection, customer rating or paid placement. Businesses did not pay for inclusion.",
+      "tips": [
+        "Confirm the exact branch and current offer directly before booking."
+      ],
+      "relatedGuides": [
+        "bangkok-tailors-best-for-your-trip",
+        "bangkok-spas-best-for-your-trip",
+        "bangkok-shops-services-best-for-city-visit"
+      ]
+    },
+    {
+      "id": "bangkok-spas-best-for-your-trip",
+      "slug": "bangkok-spas-best-for-your-trip",
+      "city": "bkk",
+      "cat": "things",
+      "kind": "guide",
+      "serviceCategory": "spa",
+      "title": "Bangkok spas: three options for a massage, onsen or reserved spa session",
+      "dek": "Compare Health Land Asoke, Let’s Relax Thonglor Onsen & Spa and Divana Nurture by the session format and location you want.",
+      "img": "bkk-lumphini",
+      "imageNote": "Bangkok city reference photograph. The listed businesses are not pictured.",
+      "src": [
+        "health-land-asoke",
+        "lets-relax-thonglor",
+        "divana-current-locations"
+      ],
+      "body": [
+        "A useful Bangkok spa shortlist starts with the visit you want. A massage appointment, a bathing visit and a longer spa programme are different products, even when a booking platform puts them in the same category. The three businesses here give you those choices without pretending that one visitor’s preferred session is a universal winner.",
+        "Pick your format first, then compare the exact branch, duration, inclusions and total price. Keep enough time to arrive, check in and return comfortably. A spa booking should fit the day you are planning rather than becoming another rushed stop between distant attractions."
+      ],
+      "sections": [
+        {
+          "h": "Health Land Asoke: best for a menu-led massage enquiry",
+          "p": [
+            "Health Land’s official Asoke page places the branch at 55/5 Sukhumvit 21 and lists several massage and spa formats, including foot and aroma massage. It is a useful starting point when you want to compare session types around Asok rather than choose a package solely from a promotional photograph.",
+            "Ask which session matches your preferred duration and whether the requested time is available. Confirm any room arrangement for a group or couple instead of assuming adjacent bookings mean the same room. Read the branch’s current menu for the actual price and inclusions, and clarify how arrival or cancellation affects the reservation."
+          ],
+          "sourceIds": [
+            "health-land-asoke"
+          ]
+        },
+        {
+          "h": "Let’s Relax Thonglor: best for comparing onsen and spa formats",
+          "p": [
+            "Let’s Relax identifies its Thonglor Onsen & Spa on the fifth floor of Grande Centre Point Sukhumvit 55. This is the clearest enquiry of the three when bathing is part of the experience you want. Check whether your selected product includes onsen admission, a massage, or both; those are not interchangeable bookings.",
+            "Read the current bathing rules, access arrangements and package conditions before paying. Confirm what to bring and whether any restrictions affect your visit. Plan the final journey from Thong Lo station to the hotel rather than assuming the spa is immediately beside the station. Leave time for changing and check-in outside the advertised session duration."
+          ],
+          "sourceIds": [
+            "lets-relax-thonglor"
+          ]
+        },
+        {
+          "h": "Divana Nurture: best for a branch-specific spa reservation on Soi 11",
+          "p": [
+            "Divana’s current location page lists the Nurture branch at 71 Sukhumvit Soi 11. The operator’s booking links should be used to select that exact branch and the programme you want. Other Divana locations have different addresses; a reservation for the brand without a branch check is an incomplete plan.",
+            "Request the programme description, total duration and full price, including any extras, before confirming. If you are buying a session as a gift, check redemption, expiry and rescheduling terms. Treat the booking as a separate appointment with time to arrive calmly, rather than assuming it can be added to the last minutes before a flight."
+          ],
+          "sourceIds": [
+            "divana-current-locations"
+          ]
+        },
+        {
+          "h": "Choose by format, not an invented star score",
+          "p": [
+            "For a massage-focused outing, compare the actual treatment menus and appointments. For an onsen visit, compare bathing access and the specific visitor rules. For a longer spa session, compare all the steps included and how much of your day the full visit will take. The cheapest headline price may refer to a different duration or product.",
+            "Communicate your preferences and any relevant concerns with the provider before the session; if you are unsure whether massage or heat is suitable for a health condition, ask your clinician. These are leisure-service selections, not treatments prescribed by this publication. Keep the booking confirmation and cancellation terms available, and choose a manageable journey home."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "places": [
+        "bkk-health-land-asoke",
+        "bkk-lets-relax-thonglor",
+        "bkk-divana-nurture"
+      ],
+      "items": [],
+      "quickPlan": [
+        [
+          "Choose first",
+          "Massage, onsen or a spa programme"
+        ],
+        [
+          "Before payment",
+          "Check branch, duration, inclusions and terms"
+        ],
+        [
+          "Selection basis",
+          "Published service format and practical location"
+        ]
+      ],
+      "planTable": {
+        "caption": "Match the business to the session format",
+        "headers": [
+          "Spa",
+          "Useful starting point",
+          "Confirm directly"
+        ],
+        "rows": [
+          [
+            "Health Land Asoke",
+            "Comparing massage formats",
+            "Session, room arrangement and time"
+          ],
+          [
+            "Let’s Relax Thonglor",
+            "An onsen-focused visit",
+            "Bath admission and package inclusions"
+          ],
+          [
+            "Divana Nurture",
+            "A reserved spa programme on Soi 11",
+            "Correct branch and full duration"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Does a spa package always include every facility?",
+          "No. Read the exact product inclusions and visitor rules. Onsen admission, massage and other services can be separate purchases."
+        ],
+        [
+          "Are these firsthand-rated spas?",
+          "No. This is an independent comparison of published service formats and locations. We have not tested or scored individual therapists or sessions."
+        ]
+      ],
+      "datePublished": "2026-10-10",
+      "dateModified": "2026-10-10",
+      "mins": 3,
+      "researchNote": "Independent desk-researched shortlist checked on 10 October 2026. Inclusion is based on published service information and practical visitor needs, not a firsthand inspection, customer rating or paid placement. Businesses did not pay for inclusion.",
+      "tips": [
+        "Confirm the exact branch and current offer directly before booking."
+      ],
+      "relatedGuides": [
+        "bangkok-tailors-best-for-your-trip",
+        "bangkok-dental-clinics-for-visitors",
+        "bangkok-shops-services-best-for-city-visit"
+      ]
     }
   ],
   "places": [
@@ -12413,6 +12850,159 @@
       "url": "https://bounce.com/luggage-storage/bangkok",
       "verify": true,
       "blurb": "Compare individual storage locations for your route. Check baggage limits, opening, retrieval time and booking terms."
+    },
+    {
+      "id": "bkk-tailor-on-ten",
+      "city": "bkk",
+      "name": "Tailor On Ten",
+      "area": "93 Sukhumvit Soi 8",
+      "kind": "service",
+      "serviceCategory": "tailoring",
+      "bestFor": "An appointment-led fitting enquiry",
+      "guideSlug": "bangkok-tailors-best-for-your-trip",
+      "blurb": "Appointment-led tailoring near Nana. Confirm your first visit, fitting schedule and collection arrangements before commissioning a garment.",
+      "src": [
+        "tailor-on-ten-contact"
+      ],
+      "url": "https://www.tailoronten.com/pages/contact-us",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-jesse-son",
+      "city": "bkk",
+      "name": "Jesse & Son",
+      "area": "1/15 Sukhumvit Soi 10",
+      "kind": "service",
+      "serviceCategory": "tailoring",
+      "bestFor": "Discussing a time-sensitive custom garment",
+      "guideSlug": "bangkok-tailors-best-for-your-trip",
+      "blurb": "A Sukhumvit tailoring option with published information on fitting and express enquiries. Ask for a garment-specific timeline and written quote.",
+      "src": [
+        "jesse-son-faq"
+      ],
+      "url": "https://jesseandson.com/faq",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-empire-tailors",
+      "city": "bkk",
+      "name": "The Empire Tailors",
+      "area": "124–126 Sukhumvit Road, between Soi 4 and 6",
+      "kind": "service",
+      "serviceCategory": "tailoring",
+      "bestFor": "Comparing garment options near Nana",
+      "guideSlug": "bangkok-tailors-best-for-your-trip",
+      "blurb": "A main-road tailor with published garment categories and storefront details. Confirm construction, fittings and after-collection adjustments.",
+      "src": [
+        "empire-tailors-contact"
+      ],
+      "url": "https://www.theempiretailors.com/contact-us",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-bidc-ratchada",
+      "city": "bkk",
+      "name": "Bangkok International Dental Center — Ratchada",
+      "area": "Ratchadaphisek Road, Din Daeng",
+      "kind": "service",
+      "serviceCategory": "dental",
+      "bestFor": "A Ratchada-area appointment enquiry",
+      "guideSlug": "bangkok-dental-clinics-for-visitors",
+      "blurb": "The main BIDC centre has its own appointment contacts. Ask who will see you, the assessment fee, language arrangements and follow-up plan.",
+      "src": [
+        "bidc-contact"
+      ],
+      "url": "https://www.bidc.dental/dentalclinic_EN/contact.html",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-bidh-sukhumvit",
+      "city": "bkk",
+      "name": "Bangkok International Dental Hospital — BIDH",
+      "area": "98 Sukhumvit Soi 2",
+      "kind": "service",
+      "serviceCategory": "dental",
+      "bestFor": "Enquiring about a hospital-based consultation",
+      "guideSlug": "bangkok-dental-clinics-for-visitors",
+      "blurb": "A dental hospital appointment option on Sukhumvit Soi 2. Suitability, treatment, clinician qualifications and total costs require individual assessment.",
+      "src": [
+        "bidh-official"
+      ],
+      "url": "https://dentalhospitalthailand.com/",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-smile-asok",
+      "city": "bkk",
+      "name": "Bangkok Smile Dental — Asok / Bangkok Inter Dental",
+      "area": "32/5 Sukhumvit 21, Asok",
+      "kind": "service",
+      "serviceCategory": "dental",
+      "bestFor": "An Asok-area appointment enquiry",
+      "guideSlug": "bangkok-dental-clinics-for-visitors",
+      "blurb": "The current Bangkok Inter Dental contact page identifies the Bangkok Smile Asok location. Confirm the exact branch and treating dentist before booking.",
+      "src": [
+        "bangkok-smile-asok-contact"
+      ],
+      "url": "https://www.bangkokinterdental.com/contact/",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-health-land-asoke",
+      "city": "bkk",
+      "name": "Health Land — Asoke",
+      "area": "55/5 Sukhumvit 21, Asok",
+      "kind": "service",
+      "serviceCategory": "spa",
+      "bestFor": "A menu-led massage booking near Asok",
+      "guideSlug": "bangkok-spas-best-for-your-trip",
+      "blurb": "A branch-specific choice for comparing massage and spa session formats. Confirm the selected treatment, duration and available time directly.",
+      "src": [
+        "health-land-asoke"
+      ],
+      "url": "https://www.healthlandspa.com/en/location/bangkok/asoke",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-lets-relax-thonglor",
+      "city": "bkk",
+      "name": "Let’s Relax — Thonglor Onsen & Spa",
+      "area": "Grande Centre Point Sukhumvit 55, fifth floor",
+      "kind": "service",
+      "serviceCategory": "spa",
+      "bestFor": "Comparing an onsen visit with a massage session",
+      "guideSlug": "bangkok-spas-best-for-your-trip",
+      "blurb": "An onsen and spa option in Thonglor. Bath admission and massage packages can have different inclusions; check the exact product and visitor rules.",
+      "src": [
+        "lets-relax-thonglor"
+      ],
+      "url": "https://letsrelaxspa.com/branches/bangkok-thonglor-onsen-and-spa/",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-divana-nurture",
+      "city": "bkk",
+      "name": "Divana Nurture Spa",
+      "area": "71 Sukhumvit Soi 11",
+      "kind": "service",
+      "serviceCategory": "spa",
+      "bestFor": "A branch-specific spa reservation on Soi 11",
+      "guideSlug": "bangkok-spas-best-for-your-trip",
+      "blurb": "Use Divana’s current location and booking information to select the Nurture branch and a session suited to your schedule. Confirm the programme and full price.",
+      "src": [
+        "divana-current-locations"
+      ],
+      "url": "https://www.divanawellness.com/spa-location/",
+      "verify": true,
+      "imageNote": "Bangkok city reference photograph. This business is not pictured."
     }
   ],
   "events": [

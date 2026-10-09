@@ -46,5 +46,23 @@
     "name": "Shops & local markets",
     "description": "Find gifts, craft browsing and practical purchases.",
     "check": "Check the branch or market session, product details, prices and returns."
+  },
+  {
+    "id": "tailoring",
+    "name": "Tailoring & custom clothing",
+    "description": "Compare named shops for a suit, shirt or custom garment.",
+    "check": "Confirm fabric, construction, fittings, collection date and the written adjustment policy."
+  },
+  {
+    "id": "dental",
+    "name": "Dental appointment options",
+    "description": "Compare named clinic locations and appointment arrangements.",
+    "check": "Ask about the treating dentist, individual assessment, written costs, records and follow-up. Inclusion is not a clinical quality ranking."
+  },
+  {
+    "id": "spa",
+    "name": "Spa & massage",
+    "description": "Compare named branches for massage, onsen or a spa session.",
+    "check": "Confirm the exact branch, session duration, inclusions, visitor rules and cancellation terms."
   }
 ]

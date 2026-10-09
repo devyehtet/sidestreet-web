@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-10",
+  "newGuides": [
+    "bangkok-tailors-best-for-your-trip",
+    "bangkok-dental-clinics-for-visitors",
+    "bangkok-spas-best-for-your-trip"
+  ],
+  "newBusinesses": [
+    "bkk-tailor-on-ten",
+    "bkk-jesse-son",
+    "bkk-empire-tailors",
+    "bkk-bidc-ratchada",
+    "bkk-bidh-sukhumvit",
+    "bkk-smile-asok",
+    "bkk-health-land-asoke",
+    "bkk-lets-relax-thonglor",
+    "bkk-divana-nurture"
+  ],
+  "sources": [
+    "tailor-on-ten-contact",
+    "jesse-son-faq",
+    "empire-tailors-contact",
+    "bidc-contact",
+    "bidh-official",
+    "bangkok-smile-asok-contact",
+    "cdc-medical-tourism",
+    "health-land-asoke",
+    "lets-relax-thonglor",
+    "divana-current-locations"
+  ],
+  "selectionBasis": "Published service format, identifiable branch and practical appointment information. No personal visits, paid placements, clinical ranking or invented scores.",
+  "totalGuides": 86,
+  "totalPlaces": 185
+}
