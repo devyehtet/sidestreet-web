@@ -5,11 +5,12 @@ const config=resolvePublishing(raw,process.env);
 const rows=[
  ['Public HTTPS domain configured',Boolean(publicOrigin(config.siteUrl))],
  ['Publisher name supplied',Boolean(config.publisherName?.trim())],
- ['Working public contact email supplied',Boolean(contactEmail(config.contactEmail))],
- ['AdSense publisher ID supplied',Boolean(adsenseClient(config.adsenseClient))],
+ ['Working public contact email supplied',Boolean(contactEmail(config.contactEmail))&&config.contactEmailReady===true],
+ ...(!process.argv.includes('--pre-application')?[['AdSense publisher ID supplied',Boolean(adsenseClient(config.adsenseClient))]]:[]),
  ['Originality, facts and photo licences reviewed',config.editorialReviewComplete===true&&/^\d{4}-\d{2}-\d{2}$/.test(config.editorialReviewedAt||'')],
 ];
 console.log('AdSense application preparation — local configuration check');
+if(process.argv.includes('--pre-application'))console.log('Pre-application mode: an AdSense ID is not required yet.');
 for(const [label,ready] of rows)console.log(`${ready?'OK':'PENDING'}  ${label}`);
 console.log(`Ads: ${canServeAds(config)?'configured for public origin':'disabled'}`);
 console.log('Always pending here: deploy, verify public reachability and live HTTPS, then submit the site in your AdSense account.');

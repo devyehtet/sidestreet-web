@@ -14,7 +14,9 @@
     "lint": "eslint .",
     "test": "node --test tests/*.test.mjs",
     "check": "npm run lint && npm test && npm run build",
-    "adsense:check": "node --env-file-if-exists=.env.local scripts/adsense-readiness.mjs"
+    "adsense:check": "node --env-file-if-exists=.env.local scripts/adsense-readiness.mjs",
+    "content:audit": "node scripts/content-audit.mjs",
+    "prelaunch:check": "npm run content:audit -- --summary && npm run adsense:check -- --pre-application"
   },
   "dependencies": {
     "next": "16.4.0",

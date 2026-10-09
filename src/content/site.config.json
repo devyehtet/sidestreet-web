@@ -1,14 +1,15 @@
 {
-  "siteUrl": "",
+  "siteUrl": "https://sidestreetguides.com",
   "siteName": "Sidestreet",
-  "publisherName": "",
+  "publisherName": "Sidestreet Guides",
   "publisherAddress": "",
-  "contactEmail": "",
+  "contactEmail": "admin@sidestreetguides.com",
   "adsenseClient": "",
   "googleSiteVerification": "",
   "newsletterAction": "",
   "adsenseEnabled": false,
   "consentConfigured": false,
   "editorialReviewComplete": false,
-  "editorialReviewedAt": ""
+  "editorialReviewedAt": "",
+  "contactEmailReady": false
 }

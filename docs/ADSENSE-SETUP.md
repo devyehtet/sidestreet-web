@@ -1,21 +1,22 @@
 # AdSense preparation and launch
 
-The site is prepared for verification; it is not submitted or approved. No advertising or tracking is enabled by default. Missing publisher details are deliberately not invented.
+The site is prepared for verification; it is not submitted or approved. Google advertising is disabled. Production GA4 is consent-based; no Analytics script loads before acceptance. Missing publisher details are deliberately not invented.
 
-## 1. Before buying a domain
+## 1. Publisher and content preparation
 
-- Select the actual publisher name and a public email you can answer. Put them in `src/content/site.config.json` as `publisherName` and `contactEmail`. A public business address is optional; do not publish your private home address just for this setup.
+- Select the actual publisher name and a public email you can answer. Put them in `src/content/site.config.json` as `publisherName` and `contactEmail`. Set `contactEmailReady` true only after verifying real mailbox delivery. The current requested admin address is not active. A public business address is optional; do not publish your private home address just for this setup.
 - Review every guide for originality, facts and photograph permissions. Use `docs/EDITORIAL-REVIEW.md`. Existing text was migrated, not independently fact-checked. A reference or licence link alone is not proof that all obligations have been met.
 - Record `editorialReviewedAt` as the date the review actually occurred (YYYY-MM-DD), and set `editorialReviewComplete` only after the entire current collection has been reviewed. Do not use this flag as a substitute for reviewing content. A global date is shown on guides only after this recorded review.
 - Run `npm run check` and `npm run adsense:check`. Pending items are expected at this stage. `npm run adsense:check -- --strict` exits unsuccessfully while required configuration remains incomplete.
 
-## 2. After obtaining hosting and a domain
+## 2. Hosting and domain configuration
 
 Deploy with a Next.js-compatible Node host. Copy `.env.example` to `.env.local` for local launch tests, or configure the variables in the hosting dashboard:
 
 - `NEXT_PUBLIC_SITE_URL`: your actual HTTPS origin, without a subpath.
 - `ADSENSE_CLIENT`: your account's actual `ca-pub-` ID, followed by 16 digits.
-- `GOOGLE_SITE_VERIFICATION`: optional Search Console verification token.
+- `GOOGLE_SITE_VERIFICATION`: optional URL-prefix verification token. The current Domain property is verified via DNS; keep its TXT record.
+- `NEXT_PUBLIC_GA_MEASUREMENT_ID`: production GA4 measurement ID. Production currently uses G-9G33152W7G with reader consent.
 
 The same values can be entered as `siteUrl`, `adsenseClient` and `googleSiteVerification` in the JSON configuration. Environment values take precedence. Rebuild and redeploy after changing them.
 
@@ -44,3 +45,7 @@ Review the privacy policy with the actual hosting and email provider once select
 - [ads.txt guide](https://support.google.com/adsense/answer/12171612)
 
 Google decides approval after reviewing the live site. Passing a build or this local readiness check does not establish approval or content originality.
+
+## Current preparation record
+
+See `docs/PRELAUNCH-REVIEW.md` for actual work, crawl evidence and remaining blockers. `npm run prelaunch:check` checks preparation before an AdSense ID exists. Do not interpret a successful script exit as Google approval: pending review and mailbox items are printed separately.

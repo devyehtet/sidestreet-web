@@ -411,6 +411,116 @@
       "name": "Mexico City tourism — Mercado San Juan, Arcos de Belén",
       "url": "https://www.mexicocity.cdmx.gob.mx/venues/mercado-san-juan-arcos-de-belen/?lang=en",
       "consultedAt": "2026-10-09"
+    },
+    "chatuchak-hours": {
+      "name": "Chatuchak Market visitor website — opening days",
+      "url": "https://www.chatuchakmarket.org/contact/",
+      "consultedAt": "2026-10-09"
+    },
+    "talatnoi-tat": {
+      "name": "Tourism Authority of Thailand — one day in Talat Noi",
+      "url": "https://www.tourismthailand.org/Articles/1-day-in-talat-noi",
+      "consultedAt": "2026-10-09"
+    },
+    "srt-booking": {
+      "name": "State Railway of Thailand — D-Ticket",
+      "url": "https://dticket.railway.co.th/",
+      "consultedAt": "2026-10-09"
+    },
+    "cm-walking-government": {
+      "name": "Chiang Mai Tourism and Sports Office — walking streets (2012 archive)",
+      "url": "https://chiangmai.mots.go.th/news/542",
+      "consultedAt": "2026-10-09"
+    },
+    "cm-government": {
+      "name": "Chiang Mai Provincial Office — tourism landmarks",
+      "url": "https://www.chiangmai.go.th/english/index.php/welcome/tourism",
+      "consultedAt": "2026-10-09"
+    },
+    "cm-food-tat": {
+      "name": "Tourism Authority of Thailand — food and shopping directory",
+      "url": "https://www.tourismthailand.org/Experiences/9",
+      "consultedAt": "2026-10-09"
+    },
+    "phuket-oldtown-tat": {
+      "name": "Tourism Authority of Thailand — Phuket Old Town",
+      "url": "https://www.tourismthailand.org/Attraction/phuket-old-town",
+      "consultedAt": "2026-10-09"
+    },
+    "mo-bangkok": {
+      "name": "Mandarin Oriental Bangkok — hotel information",
+      "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+      "consultedAt": "2026-10-09"
+    },
+    "peninsula-bangkok": {
+      "name": "The Peninsula Bangkok — hotel information",
+      "url": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+      "consultedAt": "2026-10-09"
+    },
+    "siam-bangkok": {
+      "name": "The Siam — hotel information",
+      "url": "https://www.thesiamhotel.com/",
+      "consultedAt": "2026-10-09"
+    },
+    "capella-bangkok": {
+      "name": "Capella Bangkok — hotel information",
+      "url": "https://capellahotels.com/en/capella-bangkok",
+      "consultedAt": "2026-10-09"
+    },
+    "tsukiji-info": {
+      "name": "Tsukiji Outer Market — official visitor information",
+      "url": "https://www.tsukiji.or.jp/english/plattsukiji/",
+      "consultedAt": "2026-10-09"
+    },
+    "tsukiji-calendar": {
+      "name": "Tsukiji Outer Market — official operating calendar",
+      "url": "https://www.tsukiji.or.jp/calendar/",
+      "consultedAt": "2026-10-09"
+    },
+    "euljiro-seoul": {
+      "name": "Seoul Tourism Organization — Euljiro background",
+      "url": "https://english.visitseoul.net/City-Hall-Area/Eat-Drink-and-Rest-like-Seoulites-in-Euljiro_/31301",
+      "consultedAt": "2026-10-09"
+    },
+    "santa-maria-tourism": {
+      "name": "Mexico City tourism — Santa María la Ribera",
+      "url": "https://mexicocity.cdmx.gob.mx/tag/santa-maria-virtual/?lang=en",
+      "consultedAt": "2026-10-09"
+    },
+    "phuket-tat-highlights": {
+      "name": "Tourism Authority of Thailand — Phuket highlights (2024 background)",
+      "url": "https://www.tourismthailand.org/Articles/10-things-to-do-in-phuket",
+      "consultedAt": "2026-10-09"
+    },
+    "maxwell-heritage": {
+      "name": "Singapore National Heritage Board — Maxwell Road Food Centre",
+      "url": "https://www.roots.gov.sg/places/places-landing/Places/surveyed-sites/maxwell-road-food-centre",
+      "consultedAt": "2026-10-09"
+    },
+    "laupasat-operator": {
+      "name": "Lau Pa Sat — operator website",
+      "url": "https://www.laupasat.sg/",
+      "consultedAt": "2026-10-09"
+    },
+    "warremnants-operator": {
+      "name": "War Remnants Museum — museum website",
+      "url": "https://baotangchungtichchientranh.vn/en/",
+      "consultedAt": "2026-10-09"
+    },
+    "lisboa-tram": {
+      "name": "Visit Lisboa — No. 28 tram",
+      "url": "https://www.visitlisboa.com/en/places/no-28-tram",
+      "consultedAt": "2026-10-09"
+    },
+    "octave-marriott": {
+      "name": "Marriott — Octave Rooftop Lounge & Bar",
+      "url": "https://www.marriott.com/en-us/dining/restaurant-bar/bkkbp-marriott-executive-apartments-bangkok-sukhumvit-thonglor/5507490-octave-rooftop-lounge-bar.mi",
+      "consultedAt": "2026-10-09"
+    },
+    "gyeongbokgung-seoul": {
+      "name": "Seoul Metropolitan Government — Gyeongbokgung Palace",
+      "url": "https://english.seoul.go.kr/gyeongbokgung-palace/",
+      "consultedAt": "2026-10-09"
     }
   },
   "cities": [
@@ -908,7 +1018,7 @@
       "city": "bkk",
       "cat": "things",
       "kind": "list",
-      "mins": 3,
+      "mins": 4,
       "title": "Bangkok night markets: choose the right evening",
       "dek": "Five options for food, vintage browsing or a riverside outing, with a simple way to plan your evening.",
       "src": [
@@ -921,23 +1031,23 @@
       "items": [
         {
           "p": "bkk-jodd-fairs",
-          "text": "Check the listed hours and your return journey before making a special trip."
+          "text": "For a food-led evening: compare menus first, then choose a main dish and one extra rather than ordering at every stop."
         },
         {
           "p": "bkk-train-ratchada",
-          "text": "Check the listed hours and your return journey before making a special trip."
+          "text": "For a separate Ratchada outing: save the exact location pin so you do not confuse nearby markets with similar names."
         },
         {
           "p": "bkk-rot-fai-srinakarin",
-          "text": "Check the listed hours and your return journey before making a special trip."
+          "text": "For a vintage-focused trip: allow time to browse larger items and ask how a purchase will be packed or transported."
         },
         {
           "p": "bkk-ong-ang",
-          "text": "Check the listed hours and your return journey before making a special trip."
+          "text": "For a canal walk: check whether stalls or activities are operating on your date; a public walking route is not a guaranteed market event."
         },
         {
           "p": "bkk-asiatique",
-          "text": "Check the listed hours and your return journey before making a special trip."
+          "text": "For a riverside evening: separate meal costs from ticketed attractions and check the return boat or road journey."
         }
       ],
       "sections": [
@@ -960,6 +1070,13 @@
           "p": [
             "Use the current forecast and conditions at the market to decide whether to continue. A covered stall does not make every walkway sheltered. Keep a nearby indoor meal or an earlier return as your fallback.",
             "If your main goal is conversation or an unhurried meal, you can change the plan instead of queuing at a popular stall. Ask about the wait before ordering."
+          ]
+        },
+        {
+          "h": "When a market name has moved",
+          "p": [
+            "Save the current address from the source or operator, then compare it with your map destination. Bangkok market names have been reused and locations have changed; an old taxi destination or saved social post can take you to the wrong place. Check the current operating day before buying a transfer.",
+            "If the market cannot be confirmed, choose another established meal or walking destination near your accommodation. Avoid turning an uncertain listing into a long cross-city journey."
           ]
         }
       ],
@@ -1435,21 +1552,22 @@
       "city": "bkk",
       "cat": "things",
       "kind": "feature",
-      "mins": 3,
+      "mins": 4,
       "title": "How to do Chatuchak without getting lost",
-      "dek": "More than 15,000 stalls, open at weekends only. A plan helps.",
+      "dek": "Choose the right opening day, pick a few sections and leave room for a break.",
       "src": [
         "p101nm",
-        "aufood"
+        "aufood",
+        "chatuchak-hours"
       ],
       "places": [
         "bkk-chatuchak",
         "bkk-or-tor-kor"
       ],
       "body": [
-        "Chatuchak Weekend Market opens on Saturdays and Sundays from 9am to 6pm, with a smaller Friday evening session. On weekdays most stalls are shut.",
+        "The visitor website lists the main Chatuchak market on Saturdays and Sundays, 9am–6pm, with separate weekday plant and wholesale sessions. Choose your day according to what you want to buy.",
         "Arrive by 10am. Take the BTS to Mo Chit or the MRT to Chatuchak Park or Kamphaeng Phet. The market is divided into numbered sections: clothes, ceramics, plants, antiques and food each have their own area.",
-        "By midday the lanes are hot. Break for lunch across the road at Or Tor Kor Market, where the curry stalls are open daily until 8pm, then go back for a second pass."
+        "Plan a lunch break before the heat or shopping bags slow you down. Check the current opening hours of nearby food courts rather than assuming they match the market."
       ],
       "sections": [
         {
@@ -1476,6 +1594,22 @@
           "p": [
             "Food stalls are scattered through every section. Coconut ice cream, grilled pork skewers and Thai iced tea are the classics. When the heat gets too much, JJ Mall next door is air-conditioned, and Or Tor Kor Market across the road has a calmer food court."
           ]
+        },
+        {
+          "h": "Make the first hour count",
+          "p": [
+            "Save a map pin for the entrance you actually use and photograph the section number near it. Agree on that entrance as your meeting point; a landmark inside the market can be harder to reach once your group separates. Choose two shopping priorities before entering.",
+            "Before buying a fragile item, ask about packing, shipping, the total cost and the seller’s contact details. For clothing, check sizing and exchange terms rather than assuming there is a fitting room or a refund. Keep a photograph of the stall number with the receipt."
+          ]
+        },
+        {
+          "h": "A short visit and a rainy-day alternative",
+          "p": [
+            "With only an hour, stay near your arrival gate, browse one section and choose one snack. A full loop creates more walking than useful shopping. If heat or rain makes the visit uncomfortable, switch to a nearby indoor break or leave; covered lanes do not guarantee a dry, cool route."
+          ],
+          "sourceIds": [
+            "chatuchak-hours"
+          ]
         }
       ],
       "tips": [
@@ -1487,7 +1621,7 @@
       "faq": [
         [
           "Is Chatuchak open on weekdays?",
-          "The main market is a weekend event. A smaller Friday evening session runs for early shoppers. On other days most of the lanes are shuttered, although the surrounding malls and Or Tor Kor Market are open."
+          "The visitor website lists Wednesday and Thursday for plants, Friday for wholesale, and Saturday and Sunday for the full market. Confirm individual stall and session hours before a special trip."
         ],
         [
           "How long should I allow?",
@@ -1503,14 +1637,55 @@
         ]
       ],
       "slug": "bangkok-chatuchak",
-      "img": "bkk-chatuchak"
+      "img": "bkk-chatuchak",
+      "quickPlan": [
+        [
+          "Best for",
+          "A weekend shopping outing with a short list of things to find."
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: 3–4 hours including a meal and cooling-down break."
+        ],
+        [
+          "Spending plan",
+          "Keep purchases, food and the journey home in separate budgets. Ask the full price before paying."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Visit",
+          "What to expect",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Saturday or Sunday",
+            "Main market; visitor website lists 9am–6pm",
+            "Choose this for the broadest range of stalls"
+          ],
+          [
+            "Wednesday or Thursday",
+            "Plant section; visitor website lists 7am–6pm",
+            "Useful for plants, not a substitute for the weekend market"
+          ],
+          [
+            "Friday",
+            "Wholesale session",
+            "Check current hours directly; the website’s end-time wording is ambiguous"
+          ]
+        ]
+      },
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "bkk-loy-krathong",
       "city": "bkk",
       "cat": "news",
       "kind": "news",
-      "mins": 2,
+      "mins": 3,
       "title": "Loy Krathong 2026 falls on 24 to 25 November",
       "dek": "Where to float a krathong in Bangkok, and why the published dates differ by a day.",
       "src": [
@@ -1638,7 +1813,7 @@
       "city": "bkk",
       "cat": "music",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Big shows in Bangkok before the year ends",
       "dek": "The Weeknd, Baby Monster, My Chemical Romance and BTS are all on the calendar.",
       "src": [
@@ -1702,7 +1877,7 @@
       "city": "bkk",
       "cat": "things",
       "kind": "feature",
-      "mins": 3,
+      "mins": 4,
       "title": "A slow afternoon in Talat Noi",
       "dek": "Engine parts, shrine smoke and coffee by the river. Give this old neighbourhood four hours.",
       "places": [
@@ -1710,8 +1885,8 @@
       ],
       "body": [
         "Talat Noi is where Bangkok keeps its spare parts. Whole lanes are stacked with gearboxes and drive shafts, pulled from old cars and sold by families who have worked the same doorway for generations.",
-        "Start at the river and walk inland without a plan. The lanes are too narrow for cars, so you move at the speed of the neighbourhood: past Chinese shrines with coils of incense overhead, the old So Heng Tai mansion, and walls that street artists have been filling in for years.",
-        "By four the light turns gold on the river side. Find a cafe with a terrace and watch the express boats fight the current. Dinner in Chinatown is a fifteen-minute walk north."
+        "Use Soi Wanit 2 and a few saved map pins to explore the public lanes. Leave room for shrines, street details and a café, while respecting working shops and private homes.",
+        "Finish with a riverside break or continue towards Chinatown after checking your route. Walking times vary with the lanes you choose, heat, crossings and stops."
       ],
       "sections": [
         {
@@ -1733,6 +1908,22 @@
           "p": [
             "Families live and work in these lanes. Keep your voice down, do not photograph people at work without asking, and step aside for the motorbikes and handcarts that have right of way."
           ]
+        },
+        {
+          "h": "Choose two anchors, then leave room between them",
+          "p": [
+            "A useful small itinerary has a starting point and a finishing point, with one café or cultural stop in between. Save all three on a map before leaving your accommodation. The tourism board’s route includes public lanes and cultural stops; it does not mean every doorway along the way is open to visitors.",
+            "If your goal is photography, allow extra time without blocking an alley. Ask before photographing people, workshops or the inside of a business. View a shrine as a place of worship, and follow any posted access and photography notices."
+          ],
+          "sourceIds": [
+            "talatnoi-tat"
+          ]
+        },
+        {
+          "h": "When the afternoon needs changing",
+          "p": [
+            "During rain, choose an indoor stop that is actually open, or return to a larger public street. Do not assume a workshop or family courtyard is shelter for visitors. For anyone avoiding steps, ask the chosen café or exhibition about access before building the outing around it."
+          ]
         }
       ],
       "tips": [
@@ -1748,7 +1939,7 @@
         ],
         [
           "Can I go inside the So Heng Tai mansion?",
-          "It is a private family home. Visitors are generally welcome in the courtyard when the gate is open, and are expected to buy a drink from the small cafe there."
+          "It is a private family home. Check current visitor arrangements directly; an open gate is not permission to enter or use facilities."
         ],
         [
           "How do I get there?",
@@ -1760,20 +1951,69 @@
         ]
       ],
       "slug": "bangkok-talatnoi",
-      "img": "bkk-talat-noi"
+      "img": "bkk-talat-noi",
+      "quickPlan": [
+        [
+          "Best for",
+          "A neighbourhood walk with a café stop and time for street details."
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: 2–4 hours, with breaks."
+        ],
+        [
+          "Budget approach",
+          "Budget for drinks, food and transport; private homes, cafés and exhibitions set their own entry terms."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Stage",
+          "Plan",
+          "Keep in mind"
+        ],
+        "rows": [
+          [
+            "Arrive",
+            "Choose a public street as your starting point",
+            "Check the walking route from your station or pier"
+          ],
+          [
+            "Explore",
+            "Use Soi Wanit 2 as an orientation point",
+            "Lanes are working residential streets"
+          ],
+          [
+            "Pause",
+            "Choose a café after checking its menu",
+            "A purchase does not grant access to private areas"
+          ],
+          [
+            "Leave",
+            "Choose Chinatown or the riverside as your next stop",
+            "Check your actual route and last boat first"
+          ]
+        ]
+      },
+      "src": [
+        "talatnoi-tat"
+      ],
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "bkk-daytrips",
       "city": "bkk",
       "cat": "travel",
       "kind": "feature",
-      "mins": 3,
+      "mins": 4,
       "title": "Day trips from Bangkok you can do by train",
       "dek": "An ancient capital, a market on the tracks and a beach, all without a car.",
       "body": [
-        "Ayutthaya is the easy one. The capital of Siam from 1351 to 1767, now a UNESCO World Heritage Site, is under two hours north by train. Hire a bicycle outside the station.",
+        "Ayutthaya is a useful first option for a heritage outing from Bangkok. Compare the trains for your date and station, then plan how to travel between the sights.",
         "For something stranger, head south-west to Samut Songkhram, where stallholders at the Maeklong Railway Market pull back their awnings each time a train rolls through.",
-        "Beach people should start early for Hua Hin. It is a long day, but the old wooden station, with its royal waiting room, is one of the prettiest in the country."
+        "For a seaside outing, compare Hua Hin’s actual rail timings before committing. An overnight stay may fit better than a short visit between two long journeys."
       ],
       "sections": [
         {
@@ -1781,7 +2021,7 @@
           "p": [
             "Ayutthaya was one of the largest cities in the world in the 1600s, a trading capital on an island ringed by three rivers. A Burmese army sacked it in 1767 and the court never returned. What remains is a park of brick towers and headless Buddha statues spread among modern streets.",
             "Three sites make a satisfying day. Wat Mahathat has the stone Buddha head held in the roots of a fig tree. Wat Phra Si Sanphet has three bell-shaped chedis in a row, the image on most postcards. Wat Chaiwatthanaram, on the river to the west, is at its best in late afternoon light.",
-            "From the station, a small ferry crosses the river to the island for a few baht. Bicycle and scooter rental shops line the lane on the far side."
+            "Plan the station-to-sights transfer separately. Ask locally about available ferry, driver or rental arrangements and their prices; do not assume a particular ferry or rental shop will be operating."
           ]
         },
         {
@@ -1794,15 +2034,32 @@
         {
           "h": "Hua Hin by rail",
           "p": [
-            "Hua Hin became a royal seaside resort in the 1920s and still has a quieter, more old-fashioned feel than the island beaches. A new elevated station opened in 2023 beside the original red-and-cream wooden building, which has been kept. The beach is a ten-minute walk from the platform."
+            "For Hua Hin, check the arrival station, onward walking route and return departure before choosing activities. Leave time for a meal and the station transfer, rather than filling every available minute."
+          ]
+        },
+        {
+          "h": "Build the day backwards from the return ticket",
+          "p": [
+            "Start with the journey home. Record its departure station, train number and boarding time, then work backwards to your final sightseeing stop. Add a buffer for reaching the station; buying an outward ticket alone does not make a workable day trip.",
+            "Use the State Railway’s own booking system or station enquiry for current services. Not every local journey or ticket class will be available online. Check the station on the ticket instead of treating every Bangkok departure as Krung Thep Aphiwat."
+          ],
+          "sourceIds": [
+            "srt-booking"
+          ]
+        },
+        {
+          "h": "Keep the destination plan small",
+          "p": [
+            "For Ayutthaya, choose a few sites and agree the route and price with a driver, or assess whether cycling suits the weather and your confidence in traffic. Confirm admissions at the actual ticket office. For Maeklong, stay where market staff direct visitors and never use the railway as a photo position.",
+            "Hua Hin is the least forgiving option if a delayed outward journey leaves little time before returning. Compare an overnight stay with a rushed day trip. If services are disrupted, change the destination rather than relying on the last possible connection."
           ]
         }
       ],
       "tips": [
-        "Most long-distance trains now leave from Krung Thep Aphiwat Central Terminal, not the old Hua Lamphong station. Check your ticket.",
-        "Third-class tickets are very cheap and are sold at the station on the day.",
-        "Take the earliest train out and a mid-afternoon train back to avoid travelling in the dark.",
-        "Carry water. Ayutthaya has little shade."
+        "Check the departure and arrival station on each ticket.",
+        "Check return services before buying the outward journey.",
+        "Keep a transport buffer and money for an alternative return.",
+        "Check weather and official access notices before choosing outdoor sites."
       ],
       "faq": [
         [
@@ -1811,11 +2068,11 @@
         ],
         [
           "Is there an entrance fee at Ayutthaya?",
-          "The major temples each charge a small fee for foreign visitors, and a combined pass covering several of them is usually sold at the ticket booths."
+          "Check current charges and any multi-site ticket at the official ticket office. Budget admissions separately from transport."
         ],
         [
           "Is the train better than a minivan?",
-          "The train is slower, cheaper and more interesting, and it avoids Bangkok's traffic. Minivans are quicker door to door but less comfortable."
+          "Compare actual departure points, journey times, comfort and total transfers for your date. A train is not automatically quicker or cheaper door to door."
         ],
         [
           "What is the best time of year?",
@@ -1823,18 +2080,62 @@
         ]
       ],
       "slug": "bangkok-daytrips",
-      "img": "t-ayutthaya"
+      "img": "t-ayutthaya",
+      "quickPlan": [
+        [
+          "Best for",
+          "One destination outside Bangkok, chosen around a confirmed return journey."
+        ],
+        [
+          "Time to allow",
+          "Allow a full day; compare the actual outward and return trains first."
+        ],
+        [
+          "Budget approach",
+          "Add return rail fare, local transfers, food and admissions. No fixed total is quoted here."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Destination",
+          "Choose it for",
+          "What to verify first"
+        ],
+        "rows": [
+          [
+            "Ayutthaya",
+            "A focused heritage outing",
+            "Both trains, arrival station and transport between the ruins"
+          ],
+          [
+            "Maeklong",
+            "The railway-market setting",
+            "Local-line connections, ferry transfer and current train movements"
+          ],
+          [
+            "Hua Hin",
+            "A longer seaside outing",
+            "Whether the return train leaves enough useful time at the destination"
+          ]
+        ]
+      },
+      "src": [
+        "srt-booking"
+      ],
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "bkk-hotels",
       "city": "bkk",
       "cat": "hotels",
       "kind": "list",
-      "mins": 2,
+      "mins": 4,
       "title": "Four Bangkok hotels with a story",
       "dek": "A grand dame from 1876, a riverside tower and the hotel that topped a world ranking.",
       "body": [
-        "Bangkok's best-known hotels line the Chao Phraya. Staying on the river means slower travel and better evenings. These four are worth knowing even if you only visit for tea or a drink."
+        "These four riverside hotels offer different starting points for a Bangkok stay. Use the comparison to choose a location and booking terms, then verify the room and facilities directly with the hotel."
       ],
       "items": [
         {
@@ -1858,20 +2159,40 @@
         {
           "h": "Choosing an area",
           "p": [
-            "Where you sleep shapes the trip more than the hotel does. The river is slower and more scenic, with boats as your main transport. Sukhumvit Road is modern, crowded and convenient, with the BTS Skytrain overhead and restaurants open late. The old town puts you within walking distance of the temples but far from any train.",
-            "First-time visitors with three or four days often split the stay: two nights by the river for the sights, then two on Sukhumvit for food and shopping."
+            "Map your planned visits before choosing a district. Riverside stays can suit river-based outings, while proximity to a useful BTS or MRT station can simplify other journeys. The Old Town has MRT access in some areas; check your actual hotel-to-station walk.",
+            "Our suggestion is to choose one base for a short stay unless moving hotels solves a clear transport problem. A split stay adds packing, checkout and transfer time."
           ]
         },
         {
           "h": "Visiting without staying",
           "p": [
-            "You do not need a room key to enjoy the grand hotels. Afternoon tea in the Authors' Lounge at the Mandarin Oriental is a Bangkok tradition, and most riverside hotels welcome outside guests in their bars and restaurants. Hotel shuttle boats run from the pier beside Saphan Taksin BTS station and are free to use if you are heading to the hotel."
+            "Some hotel restaurants and bars accept non-resident reservations. Confirm access, dress requirements, pricing and boat arrangements directly; a booking for a meal does not include use of guest facilities."
           ]
         },
         {
           "h": "When to book",
           "p": [
-            "High season runs from November to February, when the weather is driest and coolest. Rates are at their highest then, and around Christmas and New Year in particular. Prices drop noticeably in the rainy months from June to October, when you can often get a river-view room for the price of a standard one."
+            "Compare your actual travel dates. Festivals, weekends, room categories and cancellation terms can change prices; no seasonal saving or river-view upgrade is guaranteed."
+          ]
+        },
+        {
+          "h": "Compare one identical set of dates",
+          "p": [
+            "Put the same dates, guest count and room category into each hotel’s own booking page. Check whether breakfast, taxes, service charges, an extra bed and transfers are included. A refundable rate can be more useful than a lower price if your trip is still uncertain.",
+            "Record the cancellation deadline in the hotel’s stated time zone. Check deposit and no-show terms before payment. The hotels’ official pages are the place to verify current facilities and offers; descriptions here are research, not an inspection of a particular room."
+          ],
+          "sourceIds": [
+            "mo-bangkok",
+            "peninsula-bangkok",
+            "siam-bangkok",
+            "capella-bangkok"
+          ]
+        },
+        {
+          "h": "Test the location against your trip",
+          "p": [
+            "Map your first morning’s destination and your likely evening return. Compare a riverside hotel with a hotel near the rail line you will actually use. A boat service can be helpful, but ask the hotel about operating hours, boarding points and eligibility before relying on it.",
+            "For a restaurant or afternoon-tea visit, book directly and ask about dress requirements, minimum spend and access for non-residents. Do not assume every hotel shuttle or facility is available to anyone arriving for a drink."
           ]
         }
       ],
@@ -1892,22 +2213,74 @@
         ],
         [
           "How do I get from the airport?",
-          "From Suvarnabhumi, the Airport Rail Link runs to the city in under half an hour and connects with the BTS and MRT. Metered taxis add an airport surcharge and motorway tolls to the fare."
+          "Compare the current rail route or a licensed airport taxi with the final hotel transfer included. Check operating hours, luggage requirements, any surcharge and toll arrangements."
         ],
         [
           "Should I tip at hotels?",
-          "A service charge is already added to hotel bills. Small tips for porters and housekeeping are appreciated but not required."
+          "Read the bill for included charges. Any additional tip is your choice; do not assume a service charge is included in every quoted rate."
         ]
       ],
       "slug": "bangkok-hotels",
-      "img": "bkk-mandarin-oriental"
+      "img": "bkk-mandarin-oriental",
+      "quickPlan": [
+        [
+          "Best for",
+          "Comparing four riverside hotels before choosing a location and room."
+        ],
+        [
+          "Time to allow",
+          "Compare transport and rate terms before booking; this guide is not a room inspection."
+        ],
+        [
+          "Budget approach",
+          "Use the total stay price, including taxes, service charges and extras, not just the headline nightly rate."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Hotel",
+          "Location emphasis",
+          "Compare before booking"
+        ],
+        "rows": [
+          [
+            "Mandarin Oriental",
+            "Charoen Krung riverside",
+            "Room category and restaurant reservation terms"
+          ],
+          [
+            "The Peninsula",
+            "Opposite riverbank",
+            "Your transfer route and room category"
+          ],
+          [
+            "The Siam",
+            "Dusit riverside",
+            "Travel to the places on your itinerary"
+          ],
+          [
+            "Capella",
+            "Charoen Krung riverside",
+            "Rate inclusions and cancellation terms"
+          ]
+        ]
+      },
+      "src": [
+        "mo-bangkok",
+        "peninsula-bangkok",
+        "siam-bangkok",
+        "capella-bangkok"
+      ],
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "cnx-yi-peng",
       "city": "cnx",
       "cat": "news",
       "kind": "news",
-      "mins": 3,
+      "mins": 4,
       "title": "Yi Peng 2026: the lantern rules, and where to watch",
       "dek": "The festival is on 24 and 25 November. Releasing a sky lantern in the city can land you in court.",
       "src": [
@@ -1980,12 +2353,13 @@
       "city": "cnx",
       "cat": "things",
       "kind": "list",
-      "mins": 2,
+      "mins": 4,
       "title": "Chiang Mai's markets, day by day",
       "dek": "Friday morning, Saturday night, Sunday night, and three that open every day.",
       "src": [
         "expcm",
-        "thgsws"
+        "thgsws",
+        "cm-walking-government"
       ],
       "body": [
         "Chiang Mai keeps a market calendar. Plan a weekend around it and you will eat well and carry home more than you meant to."
@@ -2020,7 +2394,7 @@
         {
           "h": "How to shop them",
           "p": [
-            "The walking streets are closed to traffic and laid out as one long lane with stalls on both sides and down the middle. Go with the flow of people on the way out and come back on the other side. Almost everything is paid for in cash, so bring small notes.",
+            "Bring smaller notes, but ask each seller about current payment options. Keep the public walkway clear when stopping to browse.",
             "Prices are fair to begin with and bargaining is gentle. Asking for a little off when you buy two or three things is fine. Haggling hard over a few baht is not the custom here."
           ]
         },
@@ -2042,13 +2416,30 @@
           "p": [
             "The cool season from November to February is the most pleasant time for an evening outdoors. From about February to April, smoke from agricultural burning often causes heavy haze across the north. If you are visiting then, check the air quality and carry a mask."
           ]
+        },
+        {
+          "h": "Start with the calendar, not the longest list",
+          "p": [
+            "The provincial tourism office’s archived guide identifies Wualai as the Saturday street and Ratchadamnoen as the Sunday street. That is useful orientation, but a 2012 notice cannot verify tonight’s hours or road closures. Check current local notices and allow for setup time.",
+            "Choose dinner or shopping as the main purpose. For dinner, look at a few menus first and ask how portions are priced. For crafts, ask about material, sizing, care and packing. You do not need to visit every market to have a worthwhile evening."
+          ],
+          "sourceIds": [
+            "cm-walking-government"
+          ]
+        },
+        {
+          "h": "Make the return ride easy",
+          "p": [
+            "Save a pickup point on a larger street outside the walking-street closure. Confirm the fare with the driver before boarding and ask whether it is per person or for the vehicle. A remembered price from a past visit is not a current quote.",
+            "If the market is too crowded for your group, finish after a meal or choose a quieter indoor alternative. Check accessible routes and toilets directly if those facilities are essential to your visit."
+          ]
         }
       ],
       "tips": [
-        "Arrive just after the stalls open for space to browse. By 7pm you will be shuffling.",
-        "When the national anthem plays at 6pm, stop and stand still like everyone else.",
-        "Public toilets are inside the temple grounds and ask for a small donation.",
-        "Red songthaews wait at both ends of each market for the ride home."
+        "Check the correct day and current road-closure notices.",
+        "Ask the portion price before ordering food sold by weight.",
+        "Agree a pickup point outside the closed street.",
+        "Carry water and take a break if crowds or heat become uncomfortable."
       ],
       "faq": [
         [
@@ -2069,18 +2460,60 @@
         ]
       ],
       "slug": "chiang-mai-markets",
-      "img": "cnx-sunday-walking-street"
+      "img": "cnx-sunday-walking-street",
+      "quickPlan": [
+        [
+          "Best for",
+          "Matching a food or shopping outing to the day you are in town."
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: 2–3 hours at one market."
+        ],
+        [
+          "Budget approach",
+          "Set separate limits for dinner, purchases and the return ride; ask prices before ordering."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Day or purpose",
+          "Starting choice",
+          "Check before leaving"
+        ],
+        "rows": [
+          [
+            "Saturday evening",
+            "Wualai walking street",
+            "Current municipal notices and stall hours"
+          ],
+          [
+            "Sunday evening",
+            "Ratchadamnoen walking street",
+            "Current municipal notices and entry route"
+          ],
+          [
+            "Other days",
+            "A listed daily market",
+            "The section and individual vendors you need are open"
+          ]
+        ]
+      },
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "cnx-khaosoi",
       "city": "cnx",
       "cat": "food",
       "kind": "list",
-      "mins": 2,
+      "mins": 4,
       "title": "Where to start with khao soi",
       "dek": "What makes a good bowl of the north's curry noodle, and where to order it.",
       "src": [
-        "thgcm"
+        "thgcm",
+        "cm-food-tat"
       ],
       "body": [
         "Khao soi is egg noodles in a coconut curry broth, topped with a nest of the same noodles fried crisp. It comes with a side plate of pickled mustard greens, raw shallot and lime. Add all three, then taste before you reach for the chilli.",
@@ -2104,8 +2537,7 @@
         {
           "h": "Where the dish comes from",
           "p": [
-            "Khao soi is thought to have arrived with Chin Haw traders, Muslim merchants from Yunnan who ran mule caravans between China, Burma and northern Thailand. That is why the oldest shops are halal and serve it with chicken or beef, never pork.",
-            "The name is probably related to the Burmese word for noodles, and the dish has a close cousin in Burma's coconut chicken noodle soup. The northern Thai version is richer in curry paste and always comes with the crown of fried noodles."
+            "Khao soi is closely associated with northern Thailand. Recipes differ between shops, communities and households; this guide focuses on choosing and ordering a bowl rather than asserting a single origin story."
           ]
         },
         {
@@ -2120,22 +2552,39 @@
           "p": [
             "If khao soi wins you over, try the rest of the northern table. Kaeng hang le is a mild, slightly sweet pork curry with ginger and tamarind that shows Burmese influence. Nam prik ong is a dip of minced pork and tomato, served with raw vegetables. Sticky rice, eaten with the fingers, comes with everything."
           ]
+        },
+        {
+          "h": "Order around your needs",
+          "p": [
+            "Ask which proteins are available and whether a meat-free option uses animal stock or other animal ingredients. For an allergy or dietary requirement, discuss the specific ingredients and preparation with the restaurant; a dish name alone cannot establish suitability.",
+            "Taste the bowl before adding chilli oil, lime or pickles. Ask for chilli separately if you want more control, while recognising that the curry itself can already be spicy. Start with one portion, then decide whether you want another dish."
+          ]
+        },
+        {
+          "h": "Use listings as a starting point",
+          "p": [
+            "The tourism board’s food directory lists Chiang Mai khao soi restaurants, including Lamduan and Khao Soi Islam. Use those names to find the right location, then confirm the branch and current opening day. This guide does not rank the bowls from a personal tasting.",
+            "Choose one lunch stop near the rest of your route. A second shop is useful only if comparison is your main goal; spending the afternoon crossing town can be less enjoyable than a meal followed by a nearby walk."
+          ],
+          "sourceIds": [
+            "cm-food-tat"
+          ]
         }
       ],
       "tips": [
-        "Go for an early lunch. The best-known shops close by mid-afternoon and sell out sooner.",
-        "A bowl is small by Western standards. Many people order two, or add a plate of satay.",
-        "Most khao soi shops take cash only.",
-        "Ask for mai phet if you want it mild. The chilli oil is always served on the side."
+        "Confirm the branch and opening day before travelling.",
+        "Ask about ingredients and preparation if you have dietary requirements.",
+        "Check portion size and side-dish charges on the menu.",
+        "Ask about payment methods before ordering."
       ],
       "faq": [
         [
           "Is khao soi spicy?",
-          "It is medium at most. The curry is rich and warming, and the fierce chilli oil is served separately for you to add."
+          "Spice levels vary. Ask for chilli separately, but remember the broth can already contain chilli."
         ],
         [
           "Is there a vegetarian version?",
-          "Traditional shops make it with meat and often shrimp paste. Several vegetarian and vegan cafes in the old city offer versions with tofu or mushrooms."
+          "Some restaurants offer meat-free versions. Ask about the stock, curry ingredients and preparation rather than assuming a tofu topping makes the dish vegetarian."
         ],
         [
           "Is it eaten for dinner?",
@@ -2147,14 +2596,55 @@
         ]
       ],
       "slug": "chiang-mai-khaosoi",
-      "img": "t-khao-soi"
+      "img": "t-khao-soi",
+      "quickPlan": [
+        [
+          "Best for",
+          "A first bowl and a short food outing, rather than a city-wide ranking."
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: 60–90 minutes for a meal and the local journey."
+        ],
+        [
+          "Budget approach",
+          "Check the menu for the bowl, sides and drinks; no current fixed restaurant price is claimed."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Decision",
+          "Ask or check",
+          "Why"
+        ],
+        "rows": [
+          [
+            "Choose a version",
+            "Chicken, beef or an explicitly vegetarian preparation",
+            "Broth and toppings vary"
+          ],
+          [
+            "Choose a shop",
+            "Current menu, opening day and location",
+            "A directory listing is not live confirmation"
+          ],
+          [
+            "Choose extras",
+            "Portion size and separate charges",
+            "Do not assume garnishes or sides are included"
+          ]
+        ]
+      },
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "cnx-oldcity",
       "city": "cnx",
       "cat": "things",
       "kind": "feature",
-      "mins": 3,
+      "mins": 5,
       "title": "Chiang Mai's old city on foot, gate to gate",
       "dek": "A square mile of temples, lanes and cafes, wrapped in a moat.",
       "places": [
@@ -2186,7 +2676,7 @@
         {
           "h": "Getting around",
           "p": [
-            "The old city is flat and small enough to walk, though the midday heat makes a bicycle a good idea. Red pickup trucks with two benches in the back, called songthaews, work as shared taxis. Flag one down, tell the driver where you are going and pay a set fare for short hops when you get out."
+            "Walk between a small number of stops, taking breaks when needed. For a songthaew journey, agree the destination and fare before boarding, including whether the charge is per person or for the vehicle."
           ]
         },
         {
@@ -2197,13 +2687,30 @@
           ],
           "sourceId": "timeout-cnx",
           "sourceNote": ""
+        },
+        {
+          "h": "A route with a useful stopping point",
+          "p": [
+            "Save Tha Phae Gate, Chedi Luang and Wat Phra Singh on your map and check the actual walking route. Treat that as a suggested sequence, not a claim that every pavement, crossing or temple entrance is step-free. Add a lunch stop before deciding whether to continue.",
+            "If you have only two hours, choose one temple and the streets around it. Doi Suthep and Wat Umong are separate excursions rather than quick extra stops within the walled centre. The provincial tourism overview gives background on city landmarks; confirm visitor arrangements directly."
+          ],
+          "sourceIds": [
+            "cm-government"
+          ]
+        },
+        {
+          "h": "Follow the temple’s own entry rules",
+          "p": [
+            "Carry a layer for shoulders and knees, remove shoes where requested and follow photography signs. Keep clear of worshippers and ceremonies. If an area is closed, adjust the route rather than treating it as access promised by a guide.",
+            "Ask about toilets, seating, steps and shaded waiting areas if these will determine whether your group can visit comfortably. A short map distance can still be demanding in heat."
+          ]
         }
       ],
       "tips": [
-        "Start at 8am. The temples are quiet and the light is soft.",
-        "Carry a scarf or sarong to cover shoulders and knees.",
-        "Shoes come off at every chapel, so wear sandals.",
-        "Sunday is the best day to visit. The walking street market takes over the main road from late afternoon."
+        "Choose a few landmarks and save the route before leaving.",
+        "Follow each temple’s dress and photography notices.",
+        "Take breaks and check the weather before a long walk.",
+        "Check Sunday street closures if combining the walk with the market."
       ],
       "faq": [
         [
@@ -2226,8 +2733,50 @@
       "slug": "chiang-mai-oldcity",
       "img": "cnx-tha-phae",
       "src": [
-        "timeout-cnx"
-      ]
+        "timeout-cnx",
+        "cm-government"
+      ],
+      "quickPlan": [
+        [
+          "Best for",
+          "An unhurried walk between a few Old City landmarks."
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: half a day with a café or lunch break."
+        ],
+        [
+          "Budget approach",
+          "Allow for individual temple charges or donations, food and a return ride. Confirm current admission rules at each site."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Stage",
+          "Suggested focus",
+          "Decision"
+        ],
+        "rows": [
+          [
+            "Begin",
+            "Tha Phae Gate and an orientation walk",
+            "Use a saved map route, not the whole moat as a checklist"
+          ],
+          [
+            "Middle",
+            "Chedi Luang and a break",
+            "Check areas open to visitors and posted fees"
+          ],
+          [
+            "Finish",
+            "Wat Phra Singh or a shorter return",
+            "Choose according to time, energy and access"
+          ]
+        ]
+      },
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "hkt-vegetarian",
@@ -2301,7 +2850,7 @@
       "city": "hkt",
       "cat": "news",
       "kind": "news",
-      "mins": 2,
+      "mins": 3,
       "title": "Phuket's Big Buddha is open again",
       "dek": "The hilltop landmark reopened in March after 18 months closed.",
       "src": [
@@ -2368,7 +2917,7 @@
       "city": "hkt",
       "cat": "travel",
       "kind": "list",
-      "mins": 2,
+      "mins": 4,
       "title": "Phuket beaches, sorted by mood",
       "dek": "One for families, one for quiet, one for doing nothing at all.",
       "body": [
@@ -2400,14 +2949,14 @@
         {
           "h": "The two seasons",
           "p": [
-            "From about November to April the Andaman Sea is calm and clear, and nearly every west-coast beach is safe for swimming. From May to October the south-west monsoon brings waves and strong rip currents. People drown on Phuket's beaches every year in these months.",
+            "Conditions vary through the year and from beach to beach. Seasonal patterns cannot establish that a beach is safe for swimming on a particular day. Follow posted warnings and lifeguard instructions.",
             "Lifeguards mark safe areas with red-and-yellow flags. A red flag means do not enter the water at all. Take the flags seriously, even when the sea looks inviting."
           ]
         },
         {
           "h": "Getting from beach to beach",
           "p": [
-            "The island is larger than it looks, about 50 kilometres from north to south, and the beaches are separated by steep headlands. The Phuket Smart Bus runs along the west coast between the airport and Rawai and is the cheapest way to move around. Taxis and ride-hailing cars are easy to find but cost far more than in Bangkok.",
+            "Compare the actual travel route between beaches. Check the transport operator’s current stops, timetable and fare, or agree a return transfer with a driver before leaving.",
             "Many visitors rent scooters. The roads over the headlands are steep and accidents are common, so wear a helmet and check that your travel insurance covers riding."
           ]
         },
@@ -2425,6 +2974,20 @@
           ],
           "sourceId": "timeout-hkt",
           "sourceNote": ""
+        },
+        {
+          "h": "A beach choice is not a swimming guarantee",
+          "p": [
+            "Weather, swell, currents and warning flags determine whether to enter the water. Do not treat a dry-season date or an attractive photograph as proof of safe conditions. Ask lifeguards about the designated area; if swimming is prohibited or conditions are uncertain, stay on shore.",
+            "Build a shore-only alternative into the plan: a walk where access is permitted, lunch or an earlier return. For a lesson or boat trip, use a qualified operator and ask about cancellation if conditions change."
+          ]
+        },
+        {
+          "h": "Get a complete transport quote",
+          "p": [
+            "Check a bus operator’s current route and timetable or obtain a taxi quote for both directions. Include the walk from the drop-off point, any return pickup arrangement and waiting time. Do not assume a remote beach has the same pickup availability as a resort frontage.",
+            "If hiring any vehicle, check licence requirements, insurance terms and your ability to drive the route. Compare a car or organised transfer if steep roads, rain or an unfamiliar vehicle would make the journey unsuitable."
+          ]
         }
       ],
       "tips": [
@@ -2436,15 +2999,15 @@
       "faq": [
         [
           "Which beach is best for children?",
-          "Kata and Nai Harn, in the dry season, when the water is calm and the slope into the sea is gentle. Always swim near the lifeguards."
+          "Choose a beach with appropriate facilities for your family, then check conditions and lifeguard advice on the day. No beach or season guarantees suitable swimming conditions."
         ],
         [
           "Can I walk from one beach to the next?",
-          "Kata and Karon are close enough to walk between in about twenty minutes. Most others are separated by steep headlands and need a vehicle."
+          "Check the actual pedestrian route. Some beaches are separated by steep headlands or roads with limited walking space; a short map distance is not proof of an easy walk."
         ],
         [
           "When is the sea clearest?",
-          "From December to March, when there is little rain and almost no swell on the west coast."
+          "Water clarity changes with weather and sea conditions. Do not use a seasonal expectation as a safety decision."
         ],
         [
           "Is there shade?",
@@ -2455,18 +3018,65 @@
       "img": "hkt-kata",
       "src": [
         "timeout-hkt"
-      ]
+      ],
+      "quickPlan": [
+        [
+          "Best for",
+          "Choosing one beach outing around access, transport and conditions."
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: half a day at one beach, including transfers."
+        ],
+        [
+          "Budget approach",
+          "Price the return transfer, meal and any equipment separately before committing."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Choice",
+          "Plan for",
+          "Keep in mind"
+        ],
+        "rows": [
+          [
+            "Kata or Nai Harn",
+            "A beach outing with a local meal",
+            "Check flags and lifeguard advice on arrival"
+          ],
+          [
+            "Freedom Beach",
+            "More involved access",
+            "Confirm the route, entry terms and return before setting out"
+          ],
+          [
+            "Mai Khao",
+            "A shore walk",
+            "Check park rules and access; aircraft viewing does not permit entering restricted areas"
+          ],
+          [
+            "Patong",
+            "A busier beach and town outing",
+            "Choose a meeting point and return pickup location"
+          ]
+        ]
+      },
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "hkt-oldtown",
       "city": "hkt",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 4,
       "title": "A morning in Phuket Old Town",
       "dek": "Pastel shophouses, dim sum at dawn and coffee poured through a cloth filter.",
       "src": [
-        "thgpkt"
+        "thgpkt",
+        "phuket-oldtown-tat"
       ],
       "places": [
         "hkt-old-town",
@@ -2498,6 +3108,26 @@
           "p": [
             "Local specialities are different from standard Thai restaurant food. Mee Hokkien is thick yellow noodles fried with pork and seafood. Moo hong is pork belly braised slowly with pepper and garlic. For something sweet, o-aew is a bowl of shaved ice with banana-seed jelly and red beans, found almost nowhere else in Thailand."
           ]
+        },
+        {
+          "h": "Choose a small loop with an indoor pause",
+          "p": [
+            "Use Thalang Road, Dibuk Road and Soi Romanee as orientation points, then choose a route that returns you to a convenient pickup area. The tourism board describes a wider historic street network; you do not need to cover every road to understand the shophouse setting.",
+            "Choose an indoor stop before the hottest part of your outing. Check the actual opening day and entry terms rather than assuming a museum or restored building welcomes walk-in visitors. A covered arcade does not mean every crossing is sheltered."
+          ],
+          "sourceIds": [
+            "phuket-oldtown-tat"
+          ]
+        },
+        {
+          "h": "Separate breakfast from the Sunday evening market",
+          "p": [
+            "A morning food walk and Lard Yai serve different plans. If you want both, leave room for a break elsewhere rather than expecting the same stalls all day. Confirm the current market notice and road closures before a dedicated evening trip.",
+            "For food, ask what is in the dish, whether portions are shared and how extras are charged. Photograph people and shop interiors only with permission. Keep entrances clear, especially when browsing under narrow arcades."
+          ],
+          "sourceIds": [
+            "thgpkt"
+          ]
         }
       ],
       "tips": [
@@ -2517,7 +3147,7 @@
         ],
         [
           "What if it rains?",
-          "The arcades in front of the shophouses were designed for exactly that. You can walk most of Thalang Road under cover, and the museums and cafes are good places to wait out a shower."
+          "Choose an open museum or café, or shorten the walk. Some arcades provide cover, but crossings and sections of the route remain exposed."
         ],
         [
           "Where does a taxi drop me?",
@@ -2525,14 +3155,55 @@
         ]
       ],
       "slug": "phuket-oldtown",
-      "img": "hkt-old-town"
+      "img": "hkt-old-town",
+      "quickPlan": [
+        [
+          "Best for",
+          "Architecture, a meal and a slower walk through the historic core."
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: 3–4 hours; treat a Sunday market as a separate evening outing."
+        ],
+        [
+          "Budget approach",
+          "Budget for food, transport and any museum entry; street browsing does not include private interiors."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose a plan that fits your day",
+        "headers": [
+          "Stage",
+          "Suggested plan",
+          "What to check"
+        ],
+        "rows": [
+          [
+            "Morning",
+            "A meal, then Thalang Road and nearby streets",
+            "Your chosen shop’s opening time"
+          ],
+          [
+            "Middle",
+            "A museum or café break",
+            "Current admission and indoor access"
+          ],
+          [
+            "Sunday option",
+            "Lard Yai on Thalang Road",
+            "Current event notice and return pickup outside the closure"
+          ]
+        ]
+      },
+      "dateModified": "2026-10-09",
+      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel."
     },
     {
       "id": "ygn-thadingyut",
       "city": "ygn",
       "cat": "news",
       "kind": "news",
-      "mins": 2,
+      "mins": 3,
       "title": "Thadingyut 2026: the Festival of Lights is on 25 to 27 October",
       "dek": "Three days of candles, lanterns and visits to elders mark the end of Buddhist Lent.",
       "src": [
@@ -2665,7 +3336,7 @@
       "city": "ygn",
       "cat": "travel",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Three hours on the Yangon Circular Railway",
       "dek": "A 45.9 km commuter loop that doubles as the best cheap tour of the city.",
       "src": [
@@ -2733,7 +3404,7 @@
       "city": "ygn",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 4,
       "title": "How to order in a Yangon tea shop",
       "dek": "Low stools, sweet milk tea and the national breakfast.",
       "src": [
@@ -2812,7 +3483,7 @@
       "city": "ygn",
       "cat": "things",
       "kind": "feature",
-      "mins": 2,
+      "mins": 4,
       "title": "Downtown Yangon on foot",
       "dek": "From Sule Pagoda to the river through a grid of grand old buildings.",
       "places": [
@@ -2826,6 +3497,16 @@
         "Finish on Strand Road by the river. Bogyoke Aung San Market, a few blocks north-west of Sule, is closed on Mondays."
       ],
       "sections": [
+        {
+          "h": "Check travel advice before planning a walk",
+          "p": [
+            "Read current official Myanmar travel advice, entry requirements and local restrictions before deciding to travel. The linked FCDO advice includes restrictions affecting parts of the country and notes that insurance can be affected by travelling against its advice. It is one government’s advice; also consult the authority relevant to your nationality.",
+            "This route is background reading, not confirmation that access, transport or security conditions are suitable today. Confirm local arrangements with your accommodation and relevant authorities; do not infer safety from a familiar street grid."
+          ],
+          "sourceIds": [
+            "fcdo"
+          ]
+        },
         {
           "h": "What you will pass",
           "p": [
@@ -2860,7 +3541,7 @@
         ],
         [
           "Can I go inside the old buildings?",
-          "Some. The Strand Hotel's lobby and cafe are open to visitors, and the General Post Office is a working building. Others are offices or are closed for restoration."
+          "Public access varies by building and current restrictions. Confirm directly; a historic landmark or working office is not automatically open to visitors."
         ],
         [
           "Where can I stop for a break?",
@@ -2868,18 +3549,23 @@
         ],
         [
           "Is it safe to walk?",
-          "Go in daylight, watch your footing on broken pavements and read current travel advice for Myanmar before you travel."
+          "This guide cannot establish current safety. Read official travel advice and local restrictions before deciding whether to travel or walk, and check conditions with your accommodation."
         ]
       ],
       "slug": "yangon-walk",
-      "img": "ygn-sule"
+      "img": "ygn-sule",
+      "src": [
+        "fcdo",
+        "ppygn"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "sin-deepavali",
       "city": "sin",
       "cat": "news",
       "kind": "news",
-      "mins": 2,
+      "mins": 3,
       "title": "Deepavali is on 8 November, with a Monday holiday",
       "dek": "Little India lights up for the Hindu festival of lights.",
       "src": [
@@ -2947,7 +3633,7 @@
       "city": "sin",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "One hungry day, two hawker centres",
       "dek": "A lunch, a supper and a plan for the queues.",
       "places": [
@@ -3030,7 +3716,7 @@
       "city": "tyo",
       "cat": "music",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Tokyo listening bars for beginners",
       "dek": "Where the record is the point and talking is optional.",
       "body": [
@@ -3103,7 +3789,7 @@
       "city": "tyo",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Tsukiji is still worth a morning",
       "dek": "The tuna auction moved in 2018. The market around it did not.",
       "places": [
@@ -3111,7 +3797,7 @@
       ],
       "body": [
         "When Tokyo's wholesale fish market moved to Toyosu in October 2018, many visitors assumed Tsukiji had closed. The outer market stayed where it was.",
-        "Its narrow lanes still hold hundreds of small shops selling seafood, dried goods, knives and kitchenware, along with counters for grilled fish and rolled omelette. Go before 10am. Many shops shut in the early afternoon, and a good number close on Sundays and some Wednesdays."
+        "Use the official shop directory and market calendar to choose your visit. The outer market’s businesses have individual hours; there is no single opening time that guarantees every stall will be trading."
       ],
       "sections": [
         {
@@ -3137,15 +3823,26 @@
         {
           "h": "If you want the tuna auction",
           "p": [
-            "The auction is now at Toyosu Market, a short train ride away. Visitors watch from an observation gallery, and you need to be there very early in the morning."
+            "Toyosu is a separate visit from Tsukiji’s outer market. Check Toyosu’s current official visitor and reservation information before planning to see an auction; this guide does not establish current viewing access."
+          ]
+        },
+        {
+          "h": "A useful first stop",
+          "p": [
+            "Plat Tsukiji provides visitor maps and English-language assistance. Ask about a shop you particularly want to visit, then plan a short route with a meal. Keep out of the way of professional buyers, use the designated eating space and ask before photographing a shop.",
+            "Check the published calendar for your date, then the individual shop’s hours. Bring only what you can carry comfortably in narrow lanes. If travelling with luggage, confirm available storage rather than assuming a restaurant can hold it."
+          ],
+          "sourceIds": [
+            "tsukiji-info",
+            "tsukiji-calendar"
           ]
         }
       ],
       "tips": [
-        "Arrive by 9am. By 11am the lanes are packed.",
-        "Many shops take cash only.",
-        "Tsukiji station on the Hibiya line and Tsukijishijo on the Oedo line are both a few minutes' walk away.",
-        "Check the market calendar before you go. Closing days are not the same every week."
+        "Check the official calendar and individual shop hours.",
+        "Ask each shop about payment methods.",
+        "Keep clear of delivery traffic and professional buyers.",
+        "Eat where the stall directs you and ask before taking photographs."
       ],
       "faq": [
         [
@@ -3154,7 +3851,7 @@
         ],
         [
           "Which days are best?",
-          "Weekday mornings other than Wednesday, and Saturdays. Many shops close on Sundays and public holidays."
+          "Check the official calendar and the individual shops you want to visit. Some closure days vary, and the visitor centre’s hours are not the same as every shop’s."
         ],
         [
           "Can I pay by card?",
@@ -3162,18 +3859,23 @@
         ],
         [
           "Do I need to book for the Toyosu tuna auction?",
-          "A general viewing gallery is open without booking. Places on the closer observation deck are allocated in advance by lottery."
+          "Check current official Toyosu viewing and reservation rules. Tsukiji’s outer market and the Toyosu auction are separate destinations."
         ]
       ],
       "slug": "tokyo-tsukiji",
-      "img": "tyo-tsukiji"
+      "img": "tyo-tsukiji",
+      "src": [
+        "tsukiji-info",
+        "tsukiji-calendar"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "sel-euljiro",
       "city": "sel",
       "cat": "things",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Euljiro after six",
       "dek": "Print shops close, shutters lift, and a different district appears.",
       "places": [
@@ -3250,7 +3952,7 @@
       "city": "kul",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "The KL breakfast worth setting an alarm for",
       "dek": "Coconut rice, flaky flatbread and pulled tea.",
       "body": [
@@ -3396,7 +4098,7 @@
       "city": "lon",
       "cat": "news",
       "kind": "news",
-      "mins": 2,
+      "mins": 3,
       "title": "The Lord Mayor's Show is on Saturday 14 November",
       "dek": "A free procession through the City of London, setting off at 11am.",
       "src": [
@@ -3460,7 +4162,7 @@
       "city": "lon",
       "cat": "things",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "London's big museums are free. Start with these two",
       "dek": "One on each side of the river.",
       "places": [
@@ -3545,7 +4247,7 @@
       "city": "lis",
       "cat": "travel",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Lisbon's viewpoints, and how to reach them without climbing",
       "dek": "The view is free. The price is the hill.",
       "places": [
@@ -3622,7 +4324,7 @@
       "city": "nyc",
       "cat": "news",
       "kind": "news",
-      "mins": 2,
+      "mins": 3,
       "title": "New York's autumn in three dates",
       "dek": "A parade, a marathon and another parade.",
       "src": [
@@ -3687,7 +4389,7 @@
       "city": "nyc",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "How to eat a New York slice",
       "dek": "Fold it, walk it, repeat.",
       "places": [
@@ -3766,7 +4468,7 @@
       "city": "mex",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Market breakfasts in Mexico City",
       "dek": "Find the busiest counter, take the last stool and point.",
       "places": [
@@ -3845,7 +4547,7 @@
       "city": "bue",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Buenos Aires cafes where nobody rushes you",
       "dek": "One coffee buys you the table for the afternoon.",
       "places": [
@@ -3990,7 +4692,7 @@
       "city": "syd",
       "cat": "things",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Ocean pools from Bondi to Coogee",
       "dek": "A coastal walk with a swim at every headland.",
       "places": [
@@ -4066,7 +4768,7 @@
       "city": "cpt",
       "cat": "travel",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "Table Mountain routes for normal people",
       "dek": "You do not need ropes. You do need water and an early start.",
       "places": [
@@ -4143,7 +4845,7 @@
       "city": "world",
       "cat": "news",
       "kind": "news",
-      "mins": 2,
+      "mins": 3,
       "title": "Festivals of light: where to be in October and November",
       "dek": "Four full-moon festivals and a holiday, with confirmed dates.",
       "src": [
@@ -4211,11 +4913,11 @@
       "city": "world",
       "cat": "travel",
       "kind": "list",
-      "mins": 2,
+      "mins": 3,
       "title": "Five neighbourhoods to walk this season",
       "dek": "Places where old trades and new openings share the same streets.",
       "body": [
-        "The best city walks are in districts that still work for a living. These five each reward a slow afternoon on foot."
+        "Choose a neighbourhood walk around one interest: local food, architecture, workshops or a café break. These five starting ideas are suggestions, not a ranked list or an assurance of current venue access."
       ],
       "items": [
         {
@@ -4248,20 +4950,20 @@
         {
           "h": "What these places share",
           "p": [
-            "None of the five was built for visitors. Each grew up around a trade, whether car parts, printing, shipping or a street market, and that trade is still going on beside the new cafes and galleries. That mix is what makes them interesting, and it is fragile. Rising rents have a way of pushing out the workshops that drew people there to begin with."
+            "Working districts mix residents, shops, deliveries and visitors. Look for what interests you without assuming a workshop, café or gallery is open. Plan your route around public streets and a confirmed stop, leaving entrances and delivery space clear."
           ]
         },
         {
           "h": "How to walk a working neighbourhood",
           "p": [
-            "Go on a weekday, when the workshops are open and the streets look as they normally do. Walk slowly, stay out of the way of deliveries, and buy something from a business that was there before the area became fashionable.",
-            "Ask before you photograph people at work. Most will say yes, and some will tell you about what they do."
+            "Check the opening day of a particular shop or workshop before planning around it. Walk at a pace that lets others pass and respect public and private boundaries.",
+            "Ask before photographing people at work. Accept a refusal and avoid interrupting a business for a picture."
           ]
         },
         {
           "h": "Getting your bearings",
           "p": [
-            "All five are close to public transport and small enough to cover on foot in two or three hours. Talat Noi is beside Bangkok's Chinatown. Euljiro has its own subway stations in central Seoul. Marvila lies along the river east of Lisbon's centre. Santa María la Ribera is north-west of Mexico City's historic core, and Peckham is in south-east London."
+            "Save the exact starting point, one stop and the return route on a map. Assess actual walking access and transport for the neighbourhood you choose; a general district label does not establish a short or step-free route."
           ]
         }
       ],
@@ -4274,7 +4976,7 @@
       "faq": [
         [
           "Are these neighbourhoods safe?",
-          "All five are busy urban districts and are comfortable to walk in during the day. Take the usual city precautions, and stay on main streets after dark."
+          "A guide cannot guarantee personal safety. Check current local advice, choose a route suited to your group and arrange a return journey you are comfortable with."
         ],
         [
           "How much time does each one need?",
@@ -4282,33 +4984,39 @@
         ],
         [
           "Which is best for food?",
-          "Peckham and Santa María la Ribera have the widest choice within the neighbourhood. Talat Noi is a short walk from Bangkok's Chinatown, which is hard to beat."
+          "Choose the type of food you want, then confirm a few actual businesses and their opening times. The guide does not establish an objective food ranking between the districts."
         ],
         [
           "Are they good with children?",
-          "Marvila and Santa María la Ribera have open squares and space to run. The lanes of Talat Noi and Euljiro are narrow and shared with motorbikes."
+          "Check the actual route for crossings, steps, toilets and places to rest. Residential lanes and parks vary; choose a plan that fits your children rather than assuming a whole district is suitable."
         ]
       ],
       "slug": "world-neighbourhoods",
-      "img": "bkk-talat-noi"
+      "img": "bkk-talat-noi",
+      "src": [
+        "talatnoi-tat",
+        "euljiro-seoul",
+        "santa-maria-tourism"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "g-trains",
       "city": "world",
       "cat": "travel",
       "kind": "feature",
-      "mins": 2,
+      "mins": 3,
       "title": "How to sleep on an Asian night train",
       "dek": "Fall asleep in one city, wake up in another.",
       "body": [
-        "A sleeper train saves you a hotel night and gives you a morning you would not get from a plane window. The best routes leave after dinner and arrive in time for breakfast. Bangkok to Chiang Mai is the classic first one to try.",
+        "A sleeper can combine a long-distance journey with overnight accommodation, but whether it saves time or money depends on your route, fare and sleep needs. Use Bangkok–Chiang Mai as a starting point and compare current services before booking.",
         "Book a lower berth if you can, bring a jumper for the air conditioning and pack your own supper."
       ],
       "sections": [
         {
           "h": "Bangkok to Chiang Mai, step by step",
           "p": [
-            "The line north from Bangkok covers about 750 kilometres and the overnight trains take between eleven and thirteen hours. They leave from Krung Thep Aphiwat Central Terminal, the large station that replaced Hua Lamphong for long-distance services in 2023.",
+            "Check the State Railway’s booking system for the actual train number, departure station, arrival time and berth class. Train timings and departure arrangements are service-specific; use the information on your ticket.",
             "In second class, the carriage is laid out with pairs of facing seats. After departure an attendant converts each pair into a lower berth and folds an upper berth down from the wall, then makes both up with sheets and a curtain. First class has private two-berth cabins."
           ]
         },
@@ -4321,13 +5029,13 @@
         {
           "h": "Food, drink and sleep",
           "p": [
-            "Staff take orders for dinner and breakfast, and vendors sell snacks at some stations, but many regulars bring their own food. Alcohol is not allowed on Thai trains. Carriages are kept cold, and the lights in the corridor stay on all night, so an eye mask and a warm layer make a real difference."
+            "Check the operator’s current food, drink and carriage rules. Pack food that is permitted and easy to carry, a warm layer and an eye mask if you need them. Do not assume a dining service or power socket is available in your booked carriage."
           ]
         },
         {
           "h": "Other routes to consider",
           "p": [
-            "Thailand's southern line carries sleeper trains towards the islands and the Malaysian border, and the north-eastern line now runs through to the Lao capital, Vientiane. Vietnam's main line links Hanoi and Ho Chi Minh City over more than 1,700 kilometres, and many travellers ride it in stages."
+            "Treat other international routes as separate research projects. Confirm the actual service, border formalities, booking channel and transfer arrangements with the relevant operator before comparing them with a Thai domestic sleeper."
           ]
         }
       ],
@@ -4340,27 +5048,31 @@
       "faq": [
         [
           "How far ahead should I book?",
-          "As early as you can around Thai New Year in mid-April and at the end of December. At quieter times a few days is usually enough."
+          "Check when your chosen service opens for booking, then reserve a suitable berth once your dates are firm. Availability varies; a few days ahead is not guaranteed."
         ],
         [
           "Is it safe to travel alone?",
-          "Generally yes. Attendants stay in each carriage overnight. Some services have had carriages reserved for women and children, so ask when you book."
+          "Consider the booked carriage, your comfort and current operator arrangements. Ask about assistance and any dedicated carriage options directly; this guide does not guarantee availability or personal safety."
         ],
         [
           "Are there washing facilities?",
-          "Every carriage has toilets and washbasins. Some newer first-class carriages also have a shower."
+          "Check the facilities for your exact carriage and class. A shower or other facility described for one train may not be present on another."
         ],
         [
           "What about luggage?",
-          "There are racks at the end of each bay and space under the lower berth. You keep your bags with you, and there is no check-in."
+          "Check the operator’s allowance and available storage for your class. Pack valuables where you can keep them with you, and avoid obstructing aisles or exits."
         ],
         [
           "Why not just fly?",
-          "Flying is faster. The train costs about the same as a budget flight, saves a night's accommodation and is an experience in its own right."
+          "Compare the total fare, airport or station transfers, luggage charges, accommodation implications and arrival time. A sleeper is not automatically the same price as a flight or a substitute for a comfortable hotel night."
         ]
       ],
       "slug": "world-trains",
-      "img": "t-sleeper"
+      "img": "t-sleeper",
+      "src": [
+        "srt-booking"
+      ],
+      "dateModified": "2026-10-09"
     },
     {
       "id": "g-hanoi-old-quarter",
@@ -4452,7 +5164,7 @@
         ]
       ],
       "dateModified": "2026-10-09",
-      "mins": 3
+      "mins": 4
     },
     {
       "id": "g-siem-reap-angkor",
@@ -4544,7 +5256,7 @@
         ]
       ],
       "dateModified": "2026-10-09",
-      "mins": 3
+      "mins": 4
     },
     {
       "id": "g-taipei-dadaocheng",
@@ -4638,7 +5350,7 @@
         ]
       ],
       "dateModified": "2026-10-09",
-      "mins": 3
+      "mins": 4
     },
     {
       "id": "g-hong-kong-harbour",
@@ -4730,7 +5442,7 @@
         ]
       ],
       "dateModified": "2026-10-09",
-      "mins": 3
+      "mins": 4
     },
     {
       "id": "g-paris-seine-islands",
@@ -4822,7 +5534,7 @@
         ]
       ],
       "dateModified": "2026-10-09",
-      "mins": 3
+      "mins": 4
     },
     {
       "id": "g-istanbul-neighbourhoods-ferry",
@@ -4916,7 +5628,7 @@
         ]
       ],
       "dateModified": "2026-10-09",
-      "mins": 3
+      "mins": 4
     },
     {
       "id": "g-hanoi-culture-choices",
@@ -5430,7 +6142,7 @@
       "tips": [],
       "researchNote": "Official sources consulted 9 October 2026. Visit durations are editorial planning allowances; no on-site inspection is claimed.",
       "dateModified": "2026-10-09",
-      "mins": 3
+      "mins": 4
     },
     {
       "kind": "guide",
@@ -5818,7 +6530,10 @@
       "area": "Samphanthawong",
       "price": "Free to wander",
       "blurb": "A riverside neighbourhood of Chinese shrines, car-part workshops and street art, between Chinatown and Charoen Krung. Landmarks include the So Heng Tai mansion and the Holy Rosary Church.",
-      "img": "bkk-talat-noi"
+      "img": "bkk-talat-noi",
+      "src": [
+        "talatnoi-tat"
+      ]
     },
     {
       "id": "bkk-pak-khlong",
@@ -6104,7 +6819,10 @@
       "name": "Octave Rooftop Lounge",
       "area": "Thong Lo",
       "blurb": "Three levels on floors 45 to 49 of the Bangkok Marriott Hotel Sukhumvit, with a 360-degree view from the top. A short walk from BTS Thong Lo.",
-      "img": null
+      "img": null,
+      "src": [
+        "octave-marriott"
+      ]
     },
     {
       "id": "bkk-mandarin-oriental",
@@ -6162,7 +6880,10 @@
       "name": "Wat Chedi Luang",
       "area": "Old City",
       "blurb": "A huge brick chedi begun in 1391 and partly brought down by an earthquake in 1545. It once housed the Emerald Buddha that now sits in Bangkok.",
-      "img": "cnx-chedi-luang"
+      "img": "cnx-chedi-luang",
+      "src": [
+        "cm-government"
+      ]
     },
     {
       "id": "cnx-phra-singh",
@@ -6171,7 +6892,10 @@
       "name": "Wat Phra Singh",
       "area": "Old City",
       "blurb": "Founded in 1345 at the west end of Ratchadamnoen Road. Its small Lai Kham chapel holds the revered Phra Buddha Sihing image.",
-      "img": "cnx-phra-singh"
+      "img": "cnx-phra-singh",
+      "src": [
+        "cm-government"
+      ]
     },
     {
       "id": "cnx-tha-phae",
@@ -6181,7 +6905,10 @@
       "area": "Old City",
       "price": "Free",
       "blurb": "The east gate of the square, moated old town and the city's meeting point. The whole old city is about a mile across and walkable.",
-      "img": "cnx-tha-phae"
+      "img": "cnx-tha-phae",
+      "src": [
+        "cm-government"
+      ]
     },
     {
       "id": "cnx-sunday-walking-street",
@@ -6340,7 +7067,10 @@
       "area": "Chalong",
       "price": "Free",
       "blurb": "The island's largest and most visited Buddhist temple, with a tall chedi that you can climb for a view.",
-      "img": "hkt-wat-chalong"
+      "img": "hkt-wat-chalong",
+      "src": [
+        "phuket-tat-highlights"
+      ]
     },
     {
       "id": "hkt-promthep",
@@ -6350,7 +7080,10 @@
       "area": "Rawai, southern tip",
       "price": "Free",
       "blurb": "The headland at the island's southern end and its most popular sunset spot. Come 45 minutes early for a place on the wall.",
-      "img": "hkt-promthep"
+      "img": "hkt-promthep",
+      "src": [
+        "phuket-tat-highlights"
+      ]
     },
     {
       "id": "hkt-lard-yai",
@@ -6390,7 +7123,7 @@
       "kind": "beach",
       "name": "Freedom Beach",
       "area": "South of Patong",
-      "blurb": "A quiet strip of white sand with no road access. Reach it by long-tail boat from Patong or by a steep jungle path.",
+      "blurb": "A beach south of Patong with more involved access than a roadside beach. Confirm the permitted route, any charges and your return transport before setting out.",
       "img": "hkt-freedom"
     },
     {
@@ -6409,7 +7142,10 @@
       "name": "Patong Beach",
       "area": "West coast",
       "blurb": "The busiest beach and the island's nightlife centre. Bangla Road, just behind it, closes to traffic every evening.",
-      "img": "hkt-patong"
+      "img": "hkt-patong",
+      "src": [
+        "phuket-tat-highlights"
+      ]
     },
     {
       "id": "hkt-old-town-breakfast",
@@ -6418,7 +7154,10 @@
       "name": "Old Town breakfast shops",
       "area": "Phuket Town",
       "blurb": "Phuket's cooking mixes Hokkien, Malay and southern Thai influences. In the old town, mornings mean dim sum from steamer baskets, yellow Hokkien noodles and strong kopi poured through a cloth filter.",
-      "img": null
+      "img": null,
+      "src": [
+        "phuket-oldtown-tat"
+      ]
     },
     {
       "id": "ygn-shwedagon",
@@ -6592,7 +7331,10 @@
       "name": "Maxwell Food Centre",
       "area": "Chinatown",
       "blurb": "One of the best-known hawker centres, opposite the Buddha Tooth Relic Temple. The longest queue is usually for Hainanese chicken rice.",
-      "img": "sin-maxwell"
+      "img": "sin-maxwell",
+      "src": [
+        "maxwell-heritage"
+      ]
     },
     {
       "id": "sin-lau-pa-sat",
@@ -6601,7 +7343,10 @@
       "name": "Lau Pa Sat",
       "area": "Downtown Core",
       "blurb": "A hawker centre under a Victorian cast-iron roof in the financial district. In the evening the street beside it closes to traffic and fills with satay stalls.",
-      "img": "sin-lau-pa-sat"
+      "img": "sin-lau-pa-sat",
+      "src": [
+        "laupasat-operator"
+      ]
     },
     {
       "id": "kul-petronas",
@@ -6658,7 +7403,10 @@
       "name": "War Remnants Museum",
       "area": "District 3",
       "blurb": "A sobering museum of the Vietnam War, told through photographs, documents and military hardware in the courtyard.",
-      "img": "sgn-war-remnants"
+      "img": "sgn-war-remnants",
+      "src": [
+        "warremnants-operator"
+      ]
     },
     {
       "id": "tyo-sensoji",
@@ -6690,7 +7438,12 @@
       "area": "Tsukiji",
       "url": "https://www.tsukiji.or.jp/english/",
       "blurb": "The wholesale fish auction moved to Toyosu in 2018, but the outer market's lanes of seafood, knife and tea shops are still here. Go in the morning. Many shops close in the early afternoon.",
-      "img": "tyo-tsukiji"
+      "img": "tyo-tsukiji",
+      "src": [
+        "tsukiji-info",
+        "tsukiji-calendar"
+      ],
+      "hours": "Check the official calendar and individual shop hours"
     },
     {
       "id": "tyo-shibuya-sky",
@@ -6710,7 +7463,10 @@
       "area": "Jongno",
       "hours": "Closed Tuesdays",
       "blurb": "The main royal palace of the Joseon dynasty, first built in 1395. Visitors wearing hanbok enter free, and the guard-changing ceremony takes place at the main gate.",
-      "img": "sel-gyeongbokgung"
+      "img": "sel-gyeongbokgung",
+      "src": [
+        "gyeongbokgung-seoul"
+      ]
     },
     {
       "id": "sel-gwangjang",
@@ -6728,7 +7484,10 @@
       "name": "Euljiro",
       "area": "Jung-gu",
       "blurb": "A district of print shops and hardware stores by day. In the evening, plastic tables fill the alleys for fried chicken and draught beer, and unmarked bars open upstairs.",
-      "img": "sel-euljiro"
+      "img": "sel-euljiro",
+      "src": [
+        "euljiro-seoul"
+      ]
     },
     {
       "id": "lon-british-museum",
@@ -6780,7 +7539,10 @@
       "name": "Tram 28",
       "area": "Martim Moniz to Campo de Ourique",
       "blurb": "A vintage yellow tram that grinds through Graça, Alfama and Estrela. Ride early or late to get a seat, and watch your pockets.",
-      "img": "lis-tram-28"
+      "img": "lis-tram-28",
+      "src": [
+        "lisboa-tram"
+      ]
     },
     {
       "id": "lis-pasteis",
@@ -7918,13 +8680,15 @@
     },
     "hkt-patong": {
       "src": "/images/hkt-patong.jpg",
-      "by": "See file page for author",
+      "by": "Thorfinn Stainforth",
       "lic": "CC BY-SA 3.0",
-      "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "page": "https://commons.wikimedia.org/wiki/File:Patong_Beach.jpg",
       "title": "Patong Beach",
       "w": 640,
-      "h": 480
+      "h": 480,
+      "note": "Archive photograph taken on 27 December 2004, shortly after the tsunami. It does not show current beach conditions.",
+      "alt": "Archive view of Patong Beach and waterfront buildings after the December 2004 tsunami"
     },
     "hkt-wat-chalong": {
       "src": "/images/hkt-wat-chalong.jpg",
@@ -8710,7 +9474,7 @@
     },
     "t-deepavali": {
       "src": "/images/t-deepavali.jpg",
-      "by": "See file page for author",
+      "by": "Public domain: Use these pix for any purpose (Flickr account)",
       "lic": "CC BY 2.0",
       "licUrl": "https://creativecommons.org/licenses/by/2.0",
       "page": "https://commons.wikimedia.org/wiki/File:Little_India_Singapore_Deepavali_2013.jpg",

@@ -28,6 +28,6 @@ function GuideContents({story}){
 
 function ResearchSources({story}) {
  const sections=story.sections||[];
- const ids=[...new Set([...(story.src||[]),...sections.map(s=>s.sourceId).filter(Boolean)])];
+ const ids=[...new Set([...(story.src||[]),...sections.map(s=>s.sourceId).filter(Boolean),...sections.flatMap(s=>s.sourceIds||[])])];
  return <details className="research-sources"><summary>Research references ({ids.length})</summary><ul>{ids.map(id=>{const source=data.sources[id];if(!source)return null;const notes=sections.filter(s=>s.sourceId===id&&s.sourceNote).map(s=>s.sourceNote);return <li key={id}><a href={source.url} target="_blank" rel="noopener noreferrer">{source.name} ↗</a>{source.author&&<small>{source.author}</small>}{source.publishedAt&&<small>Source published <time dateTime={source.publishedAt}>{source.publishedAt}</time></small>}{source.consultedAt&&<small>Consulted {source.consultedAt}</small>}{notes.map(note=><small key={note}>{note}</small>)}</li>})}</ul></details>;
 }
