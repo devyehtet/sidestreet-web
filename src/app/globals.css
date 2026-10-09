@@ -19,3 +19,6 @@
 .place-row figure { min-width: 0; }
 .place-row figcaption { font-size: 11px; line-height: 1.5; color: var(--muted); margin-top: 8px; overflow-wrap: anywhere; }
 .place-row figcaption a { text-decoration: underline; }
+
+.article-body { min-width: 0; }
+@media(max-width:760px) { .place-row { grid-template-columns: minmax(0,1fr) 100px; } }
