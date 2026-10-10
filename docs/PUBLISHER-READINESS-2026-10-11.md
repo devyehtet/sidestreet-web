@@ -27,6 +27,10 @@ No indexing request, sitemap resubmission, account deletion, payment/tax submiss
 - Information-page descriptions are specific to their actual purpose.
 - Local preparation check describes configuration accurately, rather than implying it verified mail delivery or Google approval.
 
+## Additional content and verification pass
+
+Two shared planning paragraphs across the Bangkok, Chiang Mai and Phuket restaurant guides were replaced with city- and meal-format-specific advice. Those three guides now record the actual prose-update date, 11 October. This is internal duplication reduction, not web-wide originality certification. Every image record has a creator, source-page and licence field; those fields are not a complete rights clearance. Public homepage, robots.txt and ads.txt returned HTTP 200 to a Mediapartners-Google user-agent check, and the expected publisher verification meta tag is present. This test does not prove a Google crawler has visited every URL.
+
 ## Remaining verification
 
 The editorialReviewComplete flag remains false. Automated reference/duplicate/credit checks do not establish web-wide originality, accuracy of every claim or complete photograph permission clearance. Do not flip this flag to make a report green.
