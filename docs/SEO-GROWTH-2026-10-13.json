@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-13",
+  "trigger": "Search Console visibility for Design Week and Dragon Line; historical exclusions for three city hubs.",
+  "sourceReviewedGuides": [
+    "chiang-mai-design-week-2026-dates",
+    "phuket-dragon-line-free-town-bus"
+  ],
+  "cityPlanningHubs": [
+    "chiang-mai",
+    "phuket",
+    "siem-reap",
+    "barcelona",
+    "kyoto"
+  ],
+  "officialSourcesReviewed": [
+    "https://www.chiangmaidesignweek.com/en/cmdw2026/about",
+    "https://www.chiangmaidesignweek.com/en/cmdw2026/program",
+    "https://phuketsmartbus.com/blog/dragon-line-explore-phuket-old-town-by-free-bus",
+    "https://www.phuketsmartbus.com/timetable/",
+    "https://phuketsmartbus.com/tracking?route=dragon"
+  ],
+  "changes": [
+    "Source-checked facts and original planning advice",
+    "Direct programme, timetable and tracking links",
+    "Destination photographs with clear context",
+    "Curated city introductions and starting guides",
+    "Reciprocal related reading",
+    "Page-specific city metadata and accurate sitemap lastmod for changed pages"
+  ],
+  "limits": [
+    "No claimed ranking or CTR uplift; impressions are still a small sample.",
+    "Historical GSC exclusions do not establish current index status.",
+    "No fabricated firsthand visits, festival tickets, ratings or timetable guarantees."
+  ]
+}

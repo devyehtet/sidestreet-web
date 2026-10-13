@@ -792,7 +792,7 @@
     "phuket-bus-official": {
       "name": "Phuket Smart Bus — timetable and routes",
       "url": "https://www.phuketsmartbus.com/timetable/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-13"
     },
     "phuket-bus-boarding": {
       "name": "Phuket Smart Bus — airport boarding point",
@@ -882,13 +882,13 @@
     "dragon-line-official": {
       "name": "Phuket Smart Bus — Dragon Line guidance",
       "url": "https://phuketsmartbus.com/blog/dragon-line-explore-phuket-old-town-by-free-bus",
-      "consultedAt": "2026-10-10",
+      "consultedAt": "2026-10-13",
       "publishedAt": "2026-09-18"
     },
     "cmdw-2026-official": {
       "name": "Chiang Mai Design Week 2026 — organiser",
       "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-13"
     },
     "bab-government-2026": {
       "name": "Thailand government — Bangkok Art Biennale 2026",
@@ -960,6 +960,16 @@
       "name": "Divana — current spa locations",
       "url": "https://www.divanawellness.com/spa-location/",
       "consultedAt": "2026-10-10"
+    },
+    "cmdw-2026-program": {
+      "name": "Chiang Mai Design Week 2026 — programme",
+      "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/program",
+      "consultedAt": "2026-10-13"
+    },
+    "dragon-line-tracking": {
+      "name": "Phuket Smart Bus — Dragon Line live tracking",
+      "url": "https://phuketsmartbus.com/tracking?route=dragon",
+      "consultedAt": "2026-10-13"
     }
   },
   "cities": [
@@ -1003,7 +1013,16 @@
       "id": "cnx",
       "slug": "chiang-mai",
       "img": "cnx-doi-suthep",
-      "timezone": "Asia/Bangkok"
+      "timezone": "Asia/Bangkok",
+      "startGuides": [
+        "chiang-mai-design-week-2026-dates",
+        "chiang-mai-two-day-itinerary",
+        "chiang-mai-oldcity"
+      ],
+      "planningIntro": "Choose a compact Old City walk or a two-day plan before adding a mountain visit. For a December festival trip, check the Design Week programme and build the day around the individual venue and session. Leave a meal break and a return journey in the plan.",
+      "seoTitle": "Chiang Mai City Guide: Itineraries & Design Week",
+      "description": "Plan Chiang Mai with Old City walks, a two-day itinerary and Design Week 2026 dates. Choose your route, meals and onward visits.",
+      "dateModified": "2026-10-13"
     },
     {
       "name": "Phuket",
@@ -1023,7 +1042,16 @@
       "id": "hkt",
       "slug": "phuket",
       "img": "hkt-promthep",
-      "timezone": "Asia/Bangkok"
+      "timezone": "Asia/Bangkok",
+      "startGuides": [
+        "phuket-dragon-line-free-town-bus",
+        "phuket-oldtown",
+        "phuket-airport-to-beach-transfer"
+      ],
+      "planningIntro": "Start by deciding whether this is a town day or a beach day. Dragon Line can help with a town outing, while the journey from a beach hotel or the airport needs its own plan. Use the Old Town guide for a compact walk and check your return transport before extending the evening.",
+      "seoTitle": "Phuket City Guide: Old Town, Beaches & Transport",
+      "description": "Plan Phuket Old Town, beach outings and airport transfers. Find the free Dragon Line bus guide, walking ideas and practical transport choices.",
+      "dateModified": "2026-10-13"
     },
     {
       "name": "Yangon",
@@ -1360,7 +1388,15 @@
         "Asia/Phnom_Penh"
       ],
       "timezone": "Asia/Phnom_Penh",
-      "img": "rep-angkor-photo"
+      "img": "rep-angkor-photo",
+      "startGuides": [
+        "siem-reap-angkor",
+        "siem-reap-craft-afternoon"
+      ],
+      "planningIntro": "Decide how much temple time you want before choosing transport and the rest of the day. Keep a shorter Angkor outing as an option, with space for a meal and a break. Use a craft-focused town afternoon as a separate choice rather than squeezing every visit into the same circuit.",
+      "seoTitle": "Siem Reap City Guide: Angkor & Craft Visits",
+      "description": "Plan a Siem Reap visit with Angkor temple choices and a craft afternoon. Compare the time, transport and breaks needed for your outing.",
+      "dateModified": "2026-10-13"
     },
     {
       "id": "tpe",
@@ -1470,7 +1506,14 @@
       "color": "#9b613d",
       "line": "Old-city squares, a hillside park and time to sit between architecture stops.",
       "code": "BCN",
-      "img": "bcn-cathedral-photo"
+      "img": "bcn-cathedral-photo",
+      "startGuides": [
+        "barcelona-first-visit-neighbourhoods"
+      ],
+      "planningIntro": "Choose an old-city outing or a hillside visit as your starting plan. Check any timed entry before adding the journey, and leave room for a seated meal. The guide below helps you choose a small route instead of treating distant architecture stops as one continuous walk.",
+      "seoTitle": "Barcelona City Guide: First-Visit Neighbourhoods",
+      "description": "Plan a first Barcelona visit around old-city squares or Park Güell. Choose a neighbourhood, prepare timed entry and allow for the journey.",
+      "dateModified": "2026-10-13"
     },
     {
       "id": "rom",
@@ -1602,7 +1645,14 @@
       "color": "#7c6756",
       "line": "Temple approaches, river pauses and neighbourhoods worth visiting with care.",
       "code": "KYO",
-      "img": "kyo-destination-photo"
+      "img": "kyo-destination-photo",
+      "startGuides": [
+        "kyoto-first-visit-two-area-plan"
+      ],
+      "planningIntro": "Choose Higashiyama or Arashiyama as the focus for one outing, then select a venue and a return connection. Leave room for a meal instead of filling every gap with another stop. Follow local access and photography notices as you move between public streets and individual venues.",
+      "seoTitle": "Kyoto City Guide: Higashiyama or Arashiyama",
+      "description": "Plan a first Kyoto visit around Higashiyama or Arashiyama. Choose temple visits, a meal and a return connection while respecting local notices.",
+      "dateModified": "2026-10-13"
     },
     {
       "id": "png",
@@ -3550,7 +3600,10 @@
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
         "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
       },
-      "seoTitle": "Chiang Mai Old City: A Flexible Temple Walk"
+      "seoTitle": "Chiang Mai Old City: A Flexible Temple Walk",
+      "relatedGuides": [
+        "chiang-mai-design-week-2026-dates"
+      ]
     },
     {
       "id": "hkt-vegetarian",
@@ -4016,7 +4069,10 @@
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
         "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
       },
-      "seoTitle": "Phuket Old Town: Walking, Food & Shopping Guide"
+      "seoTitle": "Phuket Old Town: Walking, Food & Shopping Guide",
+      "relatedGuides": [
+        "phuket-dragon-line-free-town-bus"
+      ]
     },
     {
       "id": "ygn-thadingyut",
@@ -8778,6 +8834,7 @@
       "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
       "mins": 3,
       "relatedGuides": [
+        "chiang-mai-design-week-2026-dates",
         "chiang-mai-oldcity",
         "chiang-mai-doi-suthep-visit",
         "chiang-mai-khaosoi"
@@ -8891,6 +8948,7 @@
       "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
       "mins": 3,
       "relatedGuides": [
+        "phuket-dragon-line-free-town-bus",
         "phuket-three-day-itinerary",
         "phuket-beaches",
         "phuket-oldtown"
@@ -9997,20 +10055,32 @@
       "cat": "news",
       "kind": "news",
       "title": "Chiang Mai Design Week 2026: 5–13 December dates confirmed",
-      "dek": "The organiser lists a nine-day December edition. Use the programme to choose a small set of design visits rather than treating the whole city as one event venue.",
-      "img": "cnx-doi-suthep",
+      "dek": "Chiang Mai Design Week runs 5–13 December 2026. Find the festival areas, official programme and a practical plan for exhibitions and workshops.",
+      "img": "cnx-tha-phae",
       "src": [
-        "cmdw-2026-official"
+        "cmdw-2026-official",
+        "cmdw-2026-program"
       ],
       "body": [
-        "The organiser lists a nine-day December edition. Use the programme to choose a small set of design visits rather than treating the whole city as one event venue."
+        "Start with a visit you can actually make: one exhibition area, one confirmed opening time and a way back to your accommodation. This planning guide separates the announced festival dates from the details you still need for an individual session."
       ],
       "sections": [
         {
           "h": "What the organiser has confirmed",
           "p": [
-            "The official Chiang Mai Design Week 2026 page lists 5–13 December 2026 and the theme “Local Thunders, Global Transformation”. Those dates establish the festival window; they do not mean every exhibition or workshop runs for all nine days.",
+            "The organiser confirms 5–13 December 2026. Its festival overview names Chiang Mai Old Town, the Tha Pae Gate–Chang Moi areas and TCDC Chiang Mai. These are starting areas for planning, rather than a promise that every location has an activity throughout the festival.",
             "Check the specific programme entry for each visit. Venue, daily opening, registration and participation conditions belong to that entry. A festival announcement is not a reservation for a workshop or a guarantee that a programme item still has space."
+          ],
+          "sourceIds": [
+            "cmdw-2026-official"
+          ]
+        },
+        {
+          "h": "Which festival area should you start with?",
+          "p": [
+            "If you are already staying near the Old Town, begin by looking for a programme item in that area. Choose a specific venue before building a walking route: being inside the moat does not establish how close two sessions are to each other.",
+            "For Tha Pae Gate and Chang Moi, keep your route focused on the venue addresses you have saved. A neighbourhood label is too broad to use as a meeting point. If TCDC is your main reason to go, plan the journey around that session instead of adding it as an uncertain final stop.",
+            "For each option, our suggestion is to choose one essential visit and one optional stop. A simple plan is easier to adjust if registration is full or the next activity starts later than expected."
           ],
           "sourceIds": [
             "cmdw-2026-official"
@@ -10025,6 +10095,16 @@
           "sourceIds": [
             "cmdw-2026-official"
           ]
+        },
+        {
+          "h": "Before you book or set off",
+          "p": [
+            "Use the official programme to confirm the date, venue, entry conditions and any booking instructions for the activity you want. Save that entry and your confirmation separately; a saved festival homepage is not a workshop booking.",
+            "If the session details you need are not yet visible, keep the day flexible rather than guessing the venue or paying for travel based on an assumed schedule. Our neighbourhood plan is a planning suggestion, not an organiser-issued itinerary."
+          ],
+          "sourceIds": [
+            "cmdw-2026-program"
+          ]
         }
       ],
       "places": [],
@@ -10032,35 +10112,60 @@
       "faq": [
         [
           "When is Chiang Mai Design Week 2026?",
-          "The organiser lists 5–13 December 2026. Check individual programme dates separately."
+          "The confirmed festival window is 5–13 December 2026. Individual activities can have different dates and opening times."
         ],
         [
-          "Does this article include admission?",
-          "No. Consult the organiser for each venue’s entry or registration requirements."
+          "Where should I look for festival venues?",
+          "The organiser names Old Town, Tha Pae Gate–Chang Moi and TCDC Chiang Mai. Use the programme entry for the exact venue address."
+        ],
+        [
+          "Is one festival booking enough for every workshop?",
+          "Do not assume so. Check the booking and entry instructions for each activity you want to attend."
+        ],
+        [
+          "Can I combine the festival with ordinary sightseeing?",
+          "Yes, as a planning choice: reserve time for one confirmed activity and keep other visits optional. Allow for the journey and a meal between timed sessions."
         ]
       ],
       "quickPlan": [
         [
-          "Festival window",
+          "Festival dates",
           "5–13 December 2026"
         ],
         [
-          "Confirm next",
-          "Individual programme, venue and registration"
+          "Areas named by the organiser",
+          "Old Town; Tha Pae Gate–Chang Moi; TCDC Chiang Mai"
+        ],
+        [
+          "Before travelling",
+          "Confirm the individual session date, address and entry or registration rules"
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-13",
       "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
+        "Save the programme entry and any booking confirmation before you leave.",
+        "Choose a venue address rather than a whole neighbourhood as your meeting point."
       ],
-      "researchNote": "Independent summary of the linked organiser or operator announcement, consulted on 10 October 2026. Source publication dates and event dates are distinct from this article’s publication date. Recheck the linked programme or timetable before travelling.",
-      "mins": 2,
+      "researchNote": "Festival dates and areas checked against the organiser’s overview on 13 October 2026. Session availability, admission and bookings must be checked in the individual programme. The day-planning advice is our editorial suggestion.",
+      "mins": 3,
       "relatedGuides": [
-        "chiang-mai-restaurants-best-for-noodles-and-sharing",
-        "chiang-mai-shops-services-best-for-gifts-and-cooking"
+        "chiang-mai-oldcity",
+        "chiang-mai-two-day-itinerary",
+        "chiang-mai-restaurants-best-for-noodles-and-sharing"
       ],
-      "seoTitle": "Chiang Mai Design Week 2026: 5–13 December"
+      "seoTitle": "Chiang Mai Design Week 2026: 5–13 December",
+      "imageNote": "Destination photograph of Tha Phae Gate; not a photograph of the 2026 festival.",
+      "planLinks": [
+        [
+          "Browse the official festival programme",
+          "https://www.chiangmaidesignweek.com/en/cmdw2026/program"
+        ],
+        [
+          "Plan a Chiang Mai Old City walk",
+          "/guides/chiang-mai-oldcity"
+        ]
+      ]
     },
     {
       "id": "phuket-dragon-line-free-town-bus",
@@ -10068,22 +10173,35 @@
       "city": "hkt",
       "cat": "news",
       "kind": "news",
-      "title": "Phuket Dragon Line: official guidance for the free town shuttle",
-      "dek": "Phuket Smart Bus describes Dragon Line as a free city shuttle. It is a town transport option, separate from its paid airport routes.",
-      "img": "hkt-promthep",
+      "title": "Phuket Dragon Line free bus: route, hours and how to plan a ride",
+      "dek": "Plan a free Dragon Line bus ride through Phuket Town: the operator’s published hours, route areas, timetable and live tracking, separate from airport buses.",
+      "img": "hkt-old-town",
       "src": [
         "dragon-line-official",
-        "phuket-bus-official"
+        "phuket-bus-official",
+        "dragon-line-tracking"
       ],
       "body": [
-        "Phuket Smart Bus describes Dragon Line as a free city shuttle. It is a town transport option, separate from its paid airport routes."
+        "Use Dragon Line for a town outing when its stops fit your day. First decide where you want to walk, then check the boarding point and return journey. A free fare helps with the ride, but does not remove the need to reach the route from your hotel."
       ],
       "sections": [
         {
           "h": "What the operator says",
           "p": [
-            "Phuket Smart Bus published Dragon Line guidance on 18 September 2026. Its current information describes a free town shuttle and a route connecting town destinations, including the Central shopping area and Old Town. The publication date is the date of that guidance, not evidence that the route first launched that day.",
+            "The operator describes Dragon Line as a free circular city shuttle serving Central Festival, Old Town and OTOP Market. Its Old Town guidance lists operating hours of 07:00–19:00 and a service interval of 30 minutes. Treat these as published operating information, not a guarantee of an exact arrival at your stop.",
             "Use the operator’s current timetable to check your stop, direction and departure. A stop serving a district may still leave a walk to the exact shop or restaurant. This article does not promise a door-to-door ride or a particular arrival time through traffic."
+          ],
+          "sourceIds": [
+            "dragon-line-official",
+            "phuket-bus-official"
+          ]
+        },
+        {
+          "h": "How to plan an Old Town ride",
+          "p": [
+            "Choose one main destination before opening the timetable. For an Old Town walk, work backwards from the street or place you want to visit to a suitable stop. Check the walk between them; a district name alone does not tell you where to get off.",
+            "Save a return option before boarding. If a meal or shopping visit may finish late, decide whether you can reach the route while it is still operating. Keep a separate return option for a delayed outing rather than relying on the last bus without checking.",
+            "Our suggested sequence is a ride, one compact walk and a meal, followed by a checked return journey. If you are staying near a beach, add the journey to and from the town route to your plan and budget."
           ],
           "sourceIds": [
             "dragon-line-official",
@@ -10099,6 +10217,17 @@
           "sourceIds": [
             "phuket-bus-official"
           ]
+        },
+        {
+          "h": "Check the bus before walking to the stop",
+          "p": [
+            "Open the operator’s timetable and select Dragon Line, then use its Dragon Line tracking page when you are ready to travel. The live map requires JavaScript; if it is not loading, the tracking page provides a link to open the map directly.",
+            "Allow extra time for the walk to the boarding point and for traffic. If you have a fixed appointment or flight, choose a connection with a time buffer and a backup; this town shuttle should not be treated as an airport transfer."
+          ],
+          "sourceIds": [
+            "dragon-line-tracking",
+            "phuket-bus-official"
+          ]
         }
       ],
       "places": [
@@ -10107,36 +10236,74 @@
       "items": [],
       "faq": [
         [
-          "Is Dragon Line an airport transfer?",
-          "It is described as a free town shuttle. Consult the separate airport route information for an airport journey."
+          "Is Phuket Dragon Line free?",
+          "Yes. The operator lists the Dragon Line city shuttle as free. This does not make its other bus routes free."
         ],
         [
-          "Is this a new-launch announcement?",
-          "No. It summarises operator guidance published on 18 September 2026; that is not a confirmed launch date."
+          "What are the published operating hours?",
+          "The operator’s Old Town guidance lists 07:00–19:00, with buses every 30 minutes. Confirm current service and allow for traffic."
+        ],
+        [
+          "Which areas does it connect?",
+          "The timetable identifies Central Festival, Old Town and OTOP Market. Check the route map for your exact boarding and return stops."
+        ],
+        [
+          "Does Dragon Line go to Phuket Airport?",
+          "Treat airport travel as a separate journey. Check the airport route timetable, fare and boarding information rather than using the town-shuttle schedule."
+        ],
+        [
+          "Where can I track the bus?",
+          "Use the operator’s Dragon Line live tracking page linked above. Its map requires JavaScript."
         ]
       ],
       "quickPlan": [
         [
-          "Service",
-          "Free town shuttle — check current route"
+          "Fare",
+          "Free on Dragon Line"
         ],
         [
-          "Separate journey",
-          "Airport services have their own fares and stops"
+          "Published hours and interval",
+          "07:00–19:00; every 30 minutes — confirm your travel-day service"
+        ],
+        [
+          "Route areas",
+          "Central Festival, Old Town and OTOP Market"
+        ],
+        [
+          "Airport travel",
+          "A separate service with its own fare and stops"
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-13",
       "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
+        "Save both your boarding point and return option.",
+        "Compare the hotel-to-route journey as well as the free bus fare.",
+        "The service guidance publication date is not a confirmed route launch date."
       ],
-      "researchNote": "Independent summary of the linked organiser or operator announcement, consulted on 10 October 2026. Source publication dates and event dates are distinct from this article’s publication date. Recheck the linked programme or timetable before travelling.",
-      "mins": 2,
+      "researchNote": "Fare, route areas, published hours and live-tracking instructions checked against the operator on 13 October 2026. Times can change or vary with traffic. The outing sequence is our editorial suggestion.",
+      "mins": 3,
       "relatedGuides": [
-        "phuket-restaurants-best-for-old-town-meals",
-        "phuket-shops-services-best-for-town-and-transfers"
+        "phuket-oldtown",
+        "phuket-airport-to-beach-transfer",
+        "phuket-restaurants-best-for-old-town-meals"
       ],
-      "seoTitle": "Phuket Dragon Line: Free Town Shuttle Guide"
+      "seoTitle": "Phuket Dragon Line Free Bus: Route & Timetable",
+      "imageNote": "Destination photograph of Phuket Old Town; not a photograph of a Dragon Line bus.",
+      "planLinks": [
+        [
+          "Check the operator’s route timetable",
+          "https://www.phuketsmartbus.com/timetable/"
+        ],
+        [
+          "Open Dragon Line live tracking",
+          "https://phuketsmartbus.com/tracking?route=dragon"
+        ],
+        [
+          "Plan your Phuket Old Town walk",
+          "/guides/phuket-oldtown"
+        ]
+      ]
     },
     {
       "id": "bangkok-tailors-best-for-your-trip",
