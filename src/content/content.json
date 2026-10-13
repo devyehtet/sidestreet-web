@@ -13464,7 +13464,10 @@
       "src": [
         "thgpkt"
       ],
-      "verifiedAt": null
+      "verifiedAt": null,
+      "img": "hkt-thalang",
+      "imageAlt": "Thalang Road in Phuket Old Town by day, the location of Lard Yai market",
+      "imageNote": "Market location: Thalang Road by day."
     },
     {
       "id": "hkt-edc",
@@ -13480,7 +13483,8 @@
         "edc-organiser"
       ],
       "verifiedAt": "2026-10-09",
-      "url": "https://thailand.edc.com/en/"
+      "url": "https://thailand.edc.com/en/",
+      "img": "edc-mainstage-archive"
     },
     {
       "id": "ygn-thadingyut",
@@ -16376,6 +16380,28 @@
         },
         {
           "src": "/images/rak-destination-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "edc-mainstage-archive": {
+      "src": "/images/edc-mainstage-archive.jpg",
+      "by": "DiegoVigueras",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:EDC_Mainstage_2018.jpg",
+      "title": "EDC Mainstage 2018",
+      "alt": "Stage lights, flames and a crowd at EDC Mexico City in 2018",
+      "w": 1600,
+      "h": 1066,
+      "note": "Archive: EDC Mexico City, 2018. Not the Thailand 2026 edition.",
+      "variants": [
+        {
+          "src": "/images/edc-mainstage-archive-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/edc-mainstage-archive-960.jpg",
           "w": 960
         }
       ]
