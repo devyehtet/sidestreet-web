@@ -5984,7 +5984,7 @@
         ]
       ],
       "slug": "world-neighbourhoods",
-      "img": "bkk-talat-noi",
+      "img": "bkk-talat-noi-street",
       "src": [
         "talatnoi-tat",
         "euljiro-seoul",
@@ -16402,6 +16402,27 @@
         },
         {
           "src": "/images/edc-mainstage-archive-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bkk-talat-noi-street": {
+      "src": "/images/bkk-talat-noi-street.jpg",
+      "by": "Headshop5",
+      "lic": "CC0 1.0",
+      "licUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Street_scene_in_Talad_Noi.jpg",
+      "title": "Street scene in Talad Noi",
+      "alt": "People and a tuk-tuk in a narrow Talat Noi lane in Bangkok",
+      "w": 2000,
+      "h": 1333,
+      "variants": [
+        {
+          "src": "/images/bkk-talat-noi-street-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-talat-noi-street-960.jpg",
           "w": 960
         }
       ]

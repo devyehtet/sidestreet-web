@@ -3,7 +3,7 @@ import {siteSchema} from '@/lib/seo.mjs';
 import Link from 'next/link';
 import {data,brand,config,guideUrl,topicUrl,metadata as pageMetadata} from '@/lib/content';
 import {Photo,SectionTitle,StoryCard,CityCard} from '@/components/editorial';
-export const metadata=pageMetadata('Sidestreet — City life & global culture','Independent city guides, local food, culture and discoveries from Bangkok to the world.',undefined,'/');
+export const metadata=pageMetadata('Sidestreet — City life & global culture','Independent city guides, local food, culture and discoveries from Bangkok to the world.','bkk-talat-noi-street','/');
 export default function Home(){
  const story=id=>data.stories.find(s=>s.id===id);const lead=story('g-neighbourhoods'),hotel=story('bkk-hotels'),escape=story('lis-views');
  const picks=['bkk-street-food','tyo-listening','bkk-rooftops','ygn-teashops'].map(story);const markets=['bkk-night-markets','cnx-markets','mex-markets'].map(story);
