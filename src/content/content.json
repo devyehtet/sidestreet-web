@@ -1080,7 +1080,8 @@
       "startGuides": [
         "chiang-mai-design-week-2026-dates",
         "chiang-mai-two-day-itinerary",
-        "chiang-mai-oldcity"
+        "chiang-mai-oldcity",
+        "chiang-mai-doi-suthep-visit"
       ],
       "planningIntro": "Choose a compact Old City walk or a two-day plan before adding a mountain visit. For a December festival trip, check the Design Week programme and build the day around the individual venue and session. Leave a meal break and a return journey in the plan.",
       "seoTitle": "Chiang Mai City Guide: Itineraries & Design Week",
@@ -1109,7 +1110,8 @@
       "startGuides": [
         "phuket-dragon-line-free-town-bus",
         "phuket-oldtown",
-        "phuket-airport-to-beach-transfer"
+        "phuket-airport-to-beach-transfer",
+        "phuket-thai-hua-museum-visit"
       ],
       "planningIntro": "Start by deciding whether this is a town day or a beach day. Dragon Line can help with a town outing, while the journey from a beach hotel or the airport needs its own plan. Use the Old Town guide for a compact walk and check your return transport before extending the evening.",
       "seoTitle": "Phuket City Guide: Old Town, Beaches & Transport",
@@ -1432,7 +1434,15 @@
         "Asia/Ho_Chi_Minh"
       ],
       "timezone": "Asia/Ho_Chi_Minh",
-      "img": "han-quarter-photo"
+      "img": "han-quarter-photo",
+      "startGuides": [
+        "hanoi-old-quarter",
+        "hanoi-culture-choices"
+      ],
+      "planningIntro": "Choose an Old Quarter walk when you want a compact first outing, or compare the cultural options before choosing a separate museum visit. Start with one main activity, leave room for a meal and check the journey back to your accommodation.",
+      "seoTitle": "Hanoi City Guide: Old Quarter Walks & Cultural Visits",
+      "description": "Plan a Hanoi visit with an Old Quarter walking guide and cultural outing choices. Find places, practical transport context and related reading.",
+      "dateModified": "2026-10-18"
     },
     {
       "id": "rep",
@@ -1550,7 +1560,15 @@
         "Europe/Istanbul"
       ],
       "timezone": "Europe/Istanbul",
-      "img": "ist-square-photo"
+      "img": "ist-square-photo",
+      "startGuides": [
+        "istanbul-neighbourhoods-ferry",
+        "istanbul-bazaar-shopping"
+      ],
+      "planningIntro": "Choose between a neighbourhood-and-ferry outing and a focused bazaar shopping visit before combining them. Save the addresses you actually need, give shopping its own time allowance and plan the journey back from your final stop.",
+      "seoTitle": "Istanbul City Guide: Neighbourhoods, Ferries & Bazaars",
+      "description": "Explore Istanbul with neighbourhood and ferry planning, a bazaar shopping guide and practical city information. Choose a manageable outing and the next stop.",
+      "dateModified": "2026-10-18"
     },
     {
       "id": "bcn",
@@ -1740,7 +1758,14 @@
       "color": "#317775",
       "line": "Shophouses, working heritage streets and a waterfront finish.",
       "code": "PNG",
-      "img": "png-destination-photo"
+      "img": "png-destination-photo",
+      "startGuides": [
+        "george-town-penang-heritage-walk"
+      ],
+      "planningIntro": "Start with the heritage walk and choose the part of the town you want to explore first. Keep time for a meal and a rest, then use the place listings below to decide what to add. A short route with a clear finish is easier to adapt than a full day of scattered stops.",
+      "seoTitle": "George Town Penang Guide: Heritage Walk & Local Stops",
+      "description": "Plan a George Town visit with a Penang heritage walk, local place listings and practical arrival context. Choose a compact route before adding extra stops.",
+      "dateModified": "2026-10-18"
     },
     {
       "id": "ktm",
@@ -3366,7 +3391,17 @@
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
         "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
       },
-      "seoTitle": "Chiang Mai Markets: Shopping & Visit Planning"
+      "seoTitle": "Chiang Mai Markets: Shopping & Visit Planning",
+      "planLinks": [
+        [
+          "December exhibitions: Design Week planning",
+          "/guides/chiang-mai-design-week-2026-dates"
+        ],
+        [
+          "Build a compact Old City walk",
+          "/guides/chiang-mai-oldcity"
+        ]
+      ]
     },
     {
       "id": "cnx-khaosoi",
@@ -3670,6 +3705,20 @@
       "relatedGuides": [
         "chiang-mai-national-museum-visit",
         "chiang-mai-design-week-2026-dates"
+      ],
+      "planLinks": [
+        [
+          "Visiting in December? Plan Design Week",
+          "/guides/chiang-mai-design-week-2026-dates"
+        ],
+        [
+          "Plan a separate Doi Suthep visit",
+          "/guides/chiang-mai-doi-suthep-visit"
+        ],
+        [
+          "Choose your airport transfer",
+          "/guides/chiang-mai-airport-to-old-town-transfer"
+        ]
       ]
     },
     {
@@ -4140,6 +4189,16 @@
       "relatedGuides": [
         "phuket-thai-hua-museum-visit",
         "phuket-dragon-line-free-town-bus"
+      ],
+      "planLinks": [
+        [
+          "Use the free Dragon Line town bus",
+          "/guides/phuket-dragon-line-free-town-bus"
+        ],
+        [
+          "Add Thai Hua Museum to your walk",
+          "/guides/phuket-thai-hua-museum-visit"
+        ]
       ]
     },
     {
@@ -6809,7 +6868,13 @@
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
         "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
       },
-      "seoTitle": "Istanbul: Old City & Ferry Outing Guide"
+      "seoTitle": "Istanbul: Old City & Ferry Outing Guide",
+      "planLinks": [
+        [
+          "Plan a separate bazaar shopping stop",
+          "/guides/istanbul-bazaar-shopping"
+        ]
+      ]
     },
     {
       "id": "g-hanoi-culture-choices",
@@ -7401,7 +7466,13 @@
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
         "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
       },
-      "seoTitle": "Istanbul Bazaars: A Shopping & Browsing Guide"
+      "seoTitle": "Istanbul Bazaars: A Shopping & Browsing Guide",
+      "planLinks": [
+        [
+          "Plan the rest of your Istanbul outing",
+          "/guides/istanbul-neighbourhoods-ferry"
+        ]
+      ]
     },
     {
       "kind": "guide",
@@ -8801,7 +8872,17 @@
         "chiang-mai-oldcity",
         "chiang-mai-markets"
       ],
-      "seoTitle": "Doi Suthep Chiang Mai: Temple & Return Planning"
+      "seoTitle": "Doi Suthep Chiang Mai: Temple & Return Planning",
+      "planLinks": [
+        [
+          "Fit the mountain visit into two days",
+          "/guides/chiang-mai-two-day-itinerary"
+        ],
+        [
+          "Keep your Old City walk separate",
+          "/guides/chiang-mai-oldcity"
+        ]
+      ]
     },
     {
       "id": "chiang-mai-two-day-itinerary",
@@ -8917,7 +8998,21 @@
         "chiang-mai-doi-suthep-visit",
         "chiang-mai-khaosoi"
       ],
-      "seoTitle": "Chiang Mai 2-Day Itinerary: Temples & Markets"
+      "seoTitle": "Chiang Mai 2-Day Itinerary: Temples & Markets",
+      "planLinks": [
+        [
+          "December festival dates and programme",
+          "/guides/chiang-mai-design-week-2026-dates"
+        ],
+        [
+          "Mountain temple visit planning",
+          "/guides/chiang-mai-doi-suthep-visit"
+        ],
+        [
+          "Airport arrival options",
+          "/guides/chiang-mai-airport-to-old-town-transfer"
+        ]
+      ]
     },
     {
       "id": "phuket-airport-to-beach-transfer",
@@ -9146,7 +9241,17 @@
         "phuket-beaches",
         "phuket-airport-to-beach-transfer"
       ],
-      "seoTitle": "Phuket 3-Day Itinerary: Town, Beaches & Outings"
+      "seoTitle": "Phuket 3-Day Itinerary: Town, Beaches & Outings",
+      "planLinks": [
+        [
+          "Plan the town leg with Dragon Line",
+          "/guides/phuket-dragon-line-free-town-bus"
+        ],
+        [
+          "Choose an airport-to-beach transfer",
+          "/guides/phuket-airport-to-beach-transfer"
+        ]
+      ]
     },
     {
       "id": "kyoto-first-visit-two-area-plan",
@@ -9365,7 +9470,17 @@
       "dateModified": "2026-10-10",
       "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
       "mins": 3,
-      "seoTitle": "George Town Penang: A Heritage Walking Guide"
+      "seoTitle": "George Town Penang: A Heritage Walking Guide",
+      "planLinks": [
+        [
+          "Explore the George Town city guide",
+          "/city/george-town"
+        ],
+        [
+          "Continue planning in Kuala Lumpur",
+          "/city/kuala-lumpur"
+        ]
+      ]
     },
     {
       "id": "kathmandu-swayambhu-boudha-first-visit",

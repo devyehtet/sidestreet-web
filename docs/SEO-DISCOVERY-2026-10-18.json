@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-18",
+  "reason": "GSC reports Doi Suthep as discovered but not indexed; live test confirms it is available to Google. Improve useful internal discovery without claiming a technical block was fixed.",
+  "guidePlanLinksAdded": 18,
+  "guidesChanged": [
+    "chiang-mai-oldcity",
+    "chiang-mai-two-day-itinerary",
+    "chiang-mai-markets",
+    "chiang-mai-doi-suthep-visit",
+    "phuket-oldtown",
+    "phuket-three-day-itinerary",
+    "george-town-penang-heritage-walk",
+    "istanbul-neighbourhoods-ferry",
+    "istanbul-bazaar-shopping"
+  ],
+  "newCityPlanningHubs": [
+    "Hanoi",
+    "George Town (Penang)",
+    "Istanbul"
+  ],
+  "existingCityPlanningHubsExpanded": [
+    "Chiang Mai",
+    "Phuket"
+  ],
+  "articleEditorialDatesChanged": false,
+  "notes": [
+    "No invented firsthand visits, ticket prices, publication dates or ratings.",
+    "An indexing request is not a guarantee of crawling, indexing or ranking."
+  ]
+}
