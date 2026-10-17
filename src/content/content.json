@@ -970,6 +970,26 @@
       "name": "Phuket Smart Bus — Dragon Line live tracking",
       "url": "https://phuketsmartbus.com/tracking?route=dragon",
       "consultedAt": "2026-10-13"
+    },
+    "cnx-national-museum-official": {
+      "name": "Fine Arts Department — Chiang Mai National Museum",
+      "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/about",
+      "consultedAt": "2026-10-18"
+    },
+    "phuket-thaihua-government": {
+      "name": "Phuket Provincial Government — Thai Hua Museum",
+      "url": "https://www.phuket.go.th/eng/Museums-Phuket%20Thai%20Hua%20Museum.php",
+      "consultedAt": "2026-10-18"
+    },
+    "cnx-airport-taxi-official": {
+      "name": "Chiang Mai Airport — Airport Taxi",
+      "url": "https://chiangmai.airportthai.co.th/service/transportation/detail/125",
+      "consultedAt": "2026-10-18"
+    },
+    "cnx-airport-transport-official": {
+      "name": "Chiang Mai Airport — transportation directory",
+      "url": "https://chiangmai.airportthai.co.th/service/transportation",
+      "consultedAt": "2026-10-18"
     }
   },
   "cities": [
@@ -1022,7 +1042,7 @@
       "planningIntro": "Choose a compact Old City walk or a two-day plan before adding a mountain visit. For a December festival trip, check the Design Week programme and build the day around the individual venue and session. Leave a meal break and a return journey in the plan.",
       "seoTitle": "Chiang Mai City Guide: Itineraries & Design Week",
       "description": "Plan Chiang Mai with Old City walks, a two-day itinerary and Design Week 2026 dates. Choose your route, meals and onward visits.",
-      "dateModified": "2026-10-13"
+      "dateModified": "2026-10-18"
     },
     {
       "name": "Phuket",
@@ -1051,7 +1071,7 @@
       "planningIntro": "Start by deciding whether this is a town day or a beach day. Dragon Line can help with a town outing, while the journey from a beach hotel or the airport needs its own plan. Use the Old Town guide for a compact walk and check your return transport before extending the evening.",
       "seoTitle": "Phuket City Guide: Old Town, Beaches & Transport",
       "description": "Plan Phuket Old Town, beach outings and airport transfers. Find the free Dragon Line bus guide, walking ideas and practical transport choices.",
-      "dateModified": "2026-10-13"
+      "dateModified": "2026-10-18"
     },
     {
       "name": "Yangon",
@@ -3602,6 +3622,7 @@
       },
       "seoTitle": "Chiang Mai Old City: A Flexible Temple Walk",
       "relatedGuides": [
+        "chiang-mai-national-museum-visit",
         "chiang-mai-design-week-2026-dates"
       ]
     },
@@ -4071,6 +4092,7 @@
       },
       "seoTitle": "Phuket Old Town: Walking, Food & Shopping Guide",
       "relatedGuides": [
+        "phuket-thai-hua-museum-visit",
         "phuket-dragon-line-free-town-bus"
       ]
     },
@@ -8834,6 +8856,7 @@
       "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
       "mins": 3,
       "relatedGuides": [
+        "chiang-mai-airport-to-old-town-transfer",
         "chiang-mai-design-week-2026-dates",
         "chiang-mai-oldcity",
         "chiang-mai-doi-suthep-visit",
@@ -10694,6 +10717,315 @@
         "bangkok-shops-services-best-for-city-visit"
       ],
       "seoTitle": "Bangkok Spas: Massage, Onsen & Spa Options"
+    },
+    {
+      "id": "chiang-mai-airport-to-old-town-transfer",
+      "slug": "chiang-mai-airport-to-old-town-transfer",
+      "city": "cnx",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Chiang Mai airport to the Old Town: choose a transfer that fits your arrival",
+      "seoTitle": "Chiang Mai Airport to Old Town: Transfer Options",
+      "dek": "Compare the airport taxi listing, current public transport information and hotel pickups, with a checklist for luggage, quotes and late arrivals.",
+      "img": "cnx-tha-phae",
+      "src": [
+        "cnx-airport-taxi-official",
+        "cnx-airport-transport-official"
+      ],
+      "body": [
+        "For a first arrival in Chiang Mai, the most useful transfer is the one that reaches your actual accommodation with a clear total cost. Start with the hotel entrance and your arrival time. Then compare a taxi quote, the currently operating public transport options and any hotel pickup you have arranged. An Old Town address alone is not a precise drop-off point."
+      ],
+      "sections": [
+        {
+          "h": "Airport taxi: confirm the destination and full quote",
+          "p": [
+            "The airport’s own listing describes a flat-rate taxi service at Entrance 1, on the main terminal’s first-floor public area. Use that listing to orient yourself, then follow current airport signs and ask staff if the meeting point has changed. We do not repeat older fares from blogs as a current guaranteed price.",
+            "Show the driver or counter the hotel name, map pin and entrance details. Before agreeing, confirm the total for your specific destination, passenger count and luggage. Ask which payment methods are accepted and retain the booking or receipt. If the quote is for a different accommodation or an additional stop, settle that difference before departure."
+          ],
+          "sourceIds": [
+            "cnx-airport-taxi-official"
+          ]
+        },
+        {
+          "h": "Public transport: verify a complete route before choosing it",
+          "p": [
+            "The airport transportation directory has separate public-bus and other transport categories. It is a starting point for checking current services, not evidence that every route runs at your arrival time or stops beside your hotel. Do not choose a bus solely because an old travel post quotes a cheap fare.",
+            "Check the current route, boarding location, operating window, luggage arrangements and walk from the stop. Compare the full journey for your group: several individual fares plus another vehicle may change the decision. If you cannot confirm a workable service when you land, keep a taxi or pre-arranged pickup as an alternative."
+          ],
+          "sourceIds": [
+            "cnx-airport-transport-official"
+          ]
+        },
+        {
+          "h": "Hotel pickup: agree what happens if your flight is delayed",
+          "p": [
+            "A pre-arranged pickup can simplify the meeting point, but only if the confirmation contains useful instructions. Send the hotel your flight number, arrival date, passenger count and luggage needs. Ask whether the quote includes waiting, how the driver identifies you, and how to make contact after landing.",
+            "Distinguish landing time from the time you will reach the public arrivals area. If you need a child seat or a vehicle with particular access arrangements, request confirmation before booking. A generic promise of a car is not the same as confirmation of the equipment or space your group needs."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Your first-hour arrival checklist",
+          "p": [
+            "Before flying, save the accommodation address in Thai if the hotel can supply it, the map pin, check-in instructions and a contact number. Keep those details available without mobile data. Choose one transfer plan and one fallback so that you are not comparing unfamiliar options while carrying all your bags.",
+            "For a late arrival, confirm transport availability and the hotel’s reception arrangements directly. We have not verified a 24-hour promise for every listed service. For the return flight, plan backwards from your airline’s check-in guidance and allow for the actual pickup journey; a short-looking route on a map is not a reliable departure buffer."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Choose by",
+          "Arrival time, exact hotel entrance and group luggage"
+        ],
+        [
+          "Taxi reference point",
+          "Entrance 1; main terminal, first-floor public area"
+        ],
+        [
+          "Fare",
+          "Get a current destination-specific total before agreeing"
+        ]
+      ],
+      "faq": [
+        [
+          "What is the guaranteed taxi fare to every Old Town hotel?",
+          "This guide does not quote one. Confirm a current total for your exact hotel, passengers and luggage before accepting the service."
+        ],
+        [
+          "Can I assume a bus will be running after a late flight?",
+          "No. Confirm the current operating window and a usable stop for your destination, and keep an alternative transfer plan."
+        ]
+      ],
+      "relatedGuides": [
+        "chiang-mai-two-day-itinerary",
+        "chiang-mai-oldcity",
+        "chiang-mai-national-museum-visit"
+      ],
+      "planLinks": [
+        [
+          "Official airport taxi listing",
+          "https://chiangmai.airportthai.co.th/service/transportation/detail/125"
+        ],
+        [
+          "Airport transport directory",
+          "https://chiangmai.airportthai.co.th/service/transportation"
+        ],
+        [
+          "Plan two days in Chiang Mai",
+          "/guides/chiang-mai-two-day-itinerary"
+        ]
+      ],
+      "items": [],
+      "places": [],
+      "tips": [],
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "researchNote": "Independent desk research checked on 18 October 2026. This is a planning guide, not a firsthand visit or paid placement. Suggested visit lengths are editorial allowances; confirm current access, charges and operating details with the venue or operator.",
+      "imageNote": "Tha Phae Gate in Chiang Mai, shown as destination context. This photograph does not show the airport or a pickup point.",
+      "mins": 3
+    },
+    {
+      "id": "chiang-mai-national-museum-visit",
+      "slug": "chiang-mai-national-museum-visit",
+      "city": "cnx",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Chiang Mai National Museum: a focused visit beyond the Old Town",
+      "seoTitle": "Chiang Mai National Museum: Visit Planning Guide",
+      "dek": "Plan a Chiang Mai National Museum visit with exhibition hours, a realistic reading plan and a separate journey from the Old Town.",
+      "img": "cnx-museum",
+      "src": [
+        "cnx-national-museum-official"
+      ],
+      "body": [
+        "If temple names and architectural details are beginning to blur together, leave space for a museum visit before adding another stop. Chiang Mai National Museum offers a way to put northern Thai art and history into context. Make it a deliberate outing with time to read, rather than a building you try to fit between a mountain trip and a dinner booking."
+      ],
+      "sections": [
+        {
+          "h": "What the museum helps you understand",
+          "p": [
+            "The Fine Arts Department describes a regional collection of archaeological objects and art from upper northern Thailand, with Lanna history central to its role. The museum opened in 1973. Its remit is broader than a single Chiang Mai monument, which makes it a useful choice when you want context for several places on your itinerary.",
+            "Choose one question to carry through the galleries: how religious art changes across periods, how objects reveal daily life, or how the region connects to the city you are visiting. This is a suggested reading approach, not a claim that a particular temporary exhibition is currently installed."
+          ],
+          "sourceIds": [
+            "cnx-national-museum-official"
+          ]
+        },
+        {
+          "h": "Check exhibition hours, not office hours",
+          "p": [
+            "The official page distinguishes the exhibition building’s Wednesday–Sunday schedule, 09:00–16:00, from weekday office hours. Use the exhibition schedule when planning admission and recheck for notices before leaving. The museum is in Chang Phueak on the Chiang Mai–Lampang Superhighway, outside the Old Town.",
+            "Save the museum’s full name and location for the driver. A citywide attraction list can make separate neighbourhoods look deceptively close. If you are travelling with a wheelchair, stroller or someone who needs step-free access, ask the museum about the current entrance and gallery arrangements before organising transport."
+          ],
+          "sourceIds": [
+            "cnx-national-museum-official"
+          ]
+        },
+        {
+          "h": "A suggested 60–90-minute gallery plan",
+          "p": [
+            "Allow roughly 60–90 minutes inside as an editorial starting point; this is not an official tour length. Spend the opening minutes finding the exhibition sequence, then give most of your time to one theme. Finish by revisiting an object whose context became clearer as you read.",
+            "For a group with different interests, agree a meeting point and a finish time before separating. For children, choosing a small number of objects to discuss can be more rewarding than trying to read every panel. Ask staff about photography rules rather than assuming every gallery permits the same use."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Build a day around one museum and one other outing",
+          "p": [
+            "Pair the visit with an unhurried meal or an Old Town walk later in the day. Budget the journey back separately from gallery time. If your priority is being outdoors, keep the museum as an alternative on a day when the exhibition building is open; it will not work as an automatic Monday or Tuesday fallback.",
+            "Before paying for transport, confirm admission charges and your preferred payment method directly. We have not verified a current ticket tariff and therefore do not quote one here. Keep a separate allowance for transport, admission and food so that an inexpensive-looking attraction does not hide the total outing cost."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Best for",
+          "Lanna art and regional history"
+        ],
+        [
+          "Published gallery hours",
+          "Wednesday–Sunday, 09:00–16:00; reconfirm notices"
+        ],
+        [
+          "Suggested visit",
+          "60–90 minutes inside, plus transport"
+        ]
+      ],
+      "faq": [
+        [
+          "Is Chiang Mai National Museum inside the Old Town?",
+          "No. The official address is in Chang Phueak on the Chiang Mai–Lampang Superhighway; plan a separate journey."
+        ],
+        [
+          "Can I use the weekday office hours for a museum visit?",
+          "No. The published exhibition schedule is Wednesday–Sunday, 09:00–16:00. Check current notices before setting off."
+        ]
+      ],
+      "relatedGuides": [
+        "chiang-mai-oldcity",
+        "chiang-mai-two-day-itinerary",
+        "chiang-mai-doi-suthep-visit"
+      ],
+      "planLinks": [
+        [
+          "Museum information",
+          "https://www.finearts.go.th/chiangmaimuseum/categorie/about"
+        ],
+        [
+          "Old Town walk",
+          "/guides/chiang-mai-oldcity"
+        ]
+      ],
+      "items": [],
+      "places": [],
+      "tips": [],
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "researchNote": "Independent desk research checked on 18 October 2026. This is a planning guide, not a firsthand visit or paid placement. Suggested visit lengths are editorial allowances; confirm current access, charges and operating details with the venue or operator.",
+      "mins": 3
+    },
+    {
+      "id": "phuket-thai-hua-museum-visit",
+      "slug": "phuket-thai-hua-museum-visit",
+      "city": "hkt",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Phuket Thai Hua Museum: add local history to an Old Town visit",
+      "seoTitle": "Phuket Thai Hua Museum: Old Town Visit Guide",
+      "dek": "Explore Phuket’s Chinese community and former school building, then plan a short Old Town walk without rushing a beach-to-town journey.",
+      "img": "hkt-thaihua",
+      "src": [
+        "phuket-thaihua-government"
+      ],
+      "body": [
+        "Phuket Old Town is easy to reduce to a set of colourful facades. Thai Hua Museum gives a town outing a different focus: the people and working lives behind that streetscape. Choose it when you want to understand something about the town before moving on to a meal, shops or a short walk."
+      ],
+      "sections": [
+        {
+          "h": "Why start with Thai Hua?",
+          "p": [
+            "The provincial government places the museum on Krabi Road in a former Chinese school. It describes exhibits on Phuket’s Chinese community, local figures, clothing, food and festivals, including the island’s transition from tin mining to tourism. The former school setting is part of the reason to visit, rather than simply a backdrop for photographs.",
+            "Use those subjects to choose your own focus. You might follow the relationship between migration and food, or look at the role of education in community life. These are suggested questions to explore, not a promise of a particular guided tour or an interpretation supplied by museum staff."
+          ],
+          "sourceIds": [
+            "phuket-thaihua-government"
+          ]
+        },
+        {
+          "h": "A manageable museum-and-walk plan",
+          "p": [
+            "Set aside about an hour for the museum as a planning allowance, with extra time if you enjoy reading exhibits. This is our suggested pacing, not an operator estimate. After the museum, choose a short Old Town route and a place to sit rather than trying to photograph every street in one afternoon.",
+            "If someone in your group mainly wants the street walk, agree how much indoor time you will spend before arriving. Keep the museum and meal as the fixed points, and treat shopping as optional. That structure makes it easier to finish comfortably when the weather or the group’s energy changes."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "What to check before leaving your hotel",
+          "p": [
+            "The government listing describes daily opening but does not establish a current admission price or precise daily hours. Confirm opening, last admission and ticket categories with the museum before travelling. A listing remaining online is not proof that there is no temporary closure.",
+            "Ask about the current accessible entrance, upper-floor access and toilets if those affect your visit. For a school group or a larger party, enquire about advance arrangements instead of assuming a walk-in visit will suit everyone. Save the confirmed venue location and the reply where you can retrieve them offline."
+          ],
+          "sourceIds": [
+            "phuket-thaihua-government"
+          ]
+        },
+        {
+          "h": "Keep beach transfers separate from the town walk",
+          "p": [
+            "If you are staying at a beach, plan the full return journey before extending the afternoon into dinner. The free Dragon Line is a town service; it should not be treated as a free transfer from every beach hotel. Consult its route information separately if you want to use it between town stops.",
+            "Allow a flexible end to your walk. On a wet day, being inside a museum for part of the visit does not remove the outdoor journey to a pickup point. Keep rain protection and your return details handy. Do not combine this outing with a tightly timed airport departure unless your transport plan leaves sufficient room for delays."
+          ],
+          "sourceIds": []
+        }
+      ],
+      "quickPlan": [
+        [
+          "Location",
+          "Krabi Road, Phuket Old Town"
+        ],
+        [
+          "Best for",
+          "Community history before a town walk"
+        ],
+        [
+          "Before travel",
+          "Confirm hours, admission and access directly"
+        ]
+      ],
+      "faq": [
+        [
+          "Is Thai Hua Museum the same outing as a beach visit?",
+          "No. It is in Phuket Town. A beach-based stay needs a separate journey to town and a return plan."
+        ],
+        [
+          "Is there a confirmed ticket price in this guide?",
+          "No. The government reference does not establish a current tariff. Confirm the applicable ticket category and price directly before visiting."
+        ]
+      ],
+      "relatedGuides": [
+        "phuket-oldtown",
+        "phuket-dragon-line-free-town-bus",
+        "phuket-restaurants-best-for-old-town-meals"
+      ],
+      "planLinks": [
+        [
+          "Government museum listing",
+          "https://www.phuket.go.th/eng/Museums-Phuket%20Thai%20Hua%20Museum.php"
+        ],
+        [
+          "Town bus route guide",
+          "/guides/phuket-dragon-line-free-town-bus"
+        ]
+      ],
+      "items": [],
+      "places": [],
+      "tips": [],
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "researchNote": "Independent desk research checked on 18 October 2026. This is a planning guide, not a firsthand visit or paid placement. Suggested visit lengths are editorial allowances; confirm current access, charges and operating details with the venue or operator.",
+      "mins": 3
     }
   ],
   "places": [
@@ -16423,6 +16755,50 @@
         },
         {
           "src": "/images/bkk-talat-noi-street-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "cnx-museum": {
+      "src": "/images/cnx-museum.jpg",
+      "by": "Zhou Guanhuai",
+      "lic": "CC0 1.0",
+      "licUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Chiang_Mai_National_Museum.jpg",
+      "title": "Entrance gates and sign at Chiang Mai National Museum",
+      "alt": "Entrance gates and sign at Chiang Mai National Museum",
+      "note": "Museum entrance photographed in February 2024.",
+      "w": 1600,
+      "h": 1200,
+      "variants": [
+        {
+          "src": "/images/cnx-museum-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/cnx-museum-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "hkt-thaihua": {
+      "src": "/images/hkt-thaihua.jpg",
+      "by": "Supanut Arunoprayote",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Phuket_Thai_Hua_School_(I).jpg",
+      "title": "Facade of Phuket Thai Hua Museum, formerly Thai Hua School",
+      "alt": "Facade of Phuket Thai Hua Museum, formerly Thai Hua School",
+      "note": "Museum exterior photographed in May 2019.",
+      "w": 1600,
+      "h": 1066,
+      "variants": [
+        {
+          "src": "/images/hkt-thaihua-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-thaihua-960.jpg",
           "w": 960
         }
       ]
