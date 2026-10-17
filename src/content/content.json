@@ -990,6 +990,49 @@
       "name": "Chiang Mai Airport — transportation directory",
       "url": "https://chiangmai.airportthai.co.th/service/transportation",
       "consultedAt": "2026-10-18"
+    },
+    "trends-jp-travel-oct18": {
+      "name": "Google Trends — Japan, past 7 days, Travel & Transportation",
+      "url": "https://trends.google.com/trending?geo=JP&hours=168&category=19",
+      "consultedAt": "2026-10-18"
+    },
+    "trends-sg-travel-oct18": {
+      "name": "Google Trends — Singapore, past 7 days, Travel & Transportation",
+      "url": "https://trends.google.com/trending?geo=SG&hours=168&category=19",
+      "consultedAt": "2026-10-18"
+    },
+    "trends-au-travel-oct18": {
+      "name": "Google Trends — Australia, past 7 days, Travel & Transportation",
+      "url": "https://trends.google.com/trending?geo=AU&hours=168&category=19",
+      "consultedAt": "2026-10-18"
+    },
+    "kyoto-autumn-2026-official": {
+      "name": "Kyoto City Official Travel Guide — autumn sightseeing update",
+      "url": "https://kyoto.travel/en/news/autumn-sightseeing-tips/",
+      "consultedAt": "2026-10-18",
+      "publishedAt": "2026-10-13"
+    },
+    "kyoto-autumn-calendar-official": {
+      "name": "Kyoto City Official Travel Guide — autumn leaves calendar",
+      "url": "https://kyoto.travel/en/seasonal-info/autumnleaves/",
+      "consultedAt": "2026-10-18"
+    },
+    "sia-amenities-oct2026-official": {
+      "name": "Singapore Airlines — new in-flight amenities announcement",
+      "url": "https://www.singaporeair.com/vi_VN/vn/corporate/newsroom/press-release/2026/oct-to-dec-2026/singapore-airlines-introduces-new-range-of-in-flight-amenities-a/",
+      "consultedAt": "2026-10-18",
+      "publishedAt": "2026-10-14"
+    },
+    "carnival-australia-oct2026-official": {
+      "name": "Carnival Cruise Line — Australia deployment change",
+      "url": "https://www.carnival-news.com/2026/10/15/carnival-cruise-line-announces-australia-deployment-change",
+      "consultedAt": "2026-10-18",
+      "publishedAt": "2026-10-15"
+    },
+    "gokl-klccc-official": {
+      "name": "Kuala Lumpur City Hall / KLCCC — GoKL fares and route maps",
+      "url": "https://klccc.dbkl.gov.my/gokl-2/",
+      "consultedAt": "2026-10-18"
     }
   },
   "cities": [
@@ -1120,7 +1163,8 @@
       "id": "sin",
       "slug": "singapore",
       "img": "sin-gardens",
-      "timezone": "Asia/Singapore"
+      "timezone": "Asia/Singapore",
+      "dateModified": "2026-10-18"
     },
     {
       "name": "Kuala Lumpur",
@@ -1142,7 +1186,8 @@
       "id": "kul",
       "slug": "kuala-lumpur",
       "img": "kul-batu-caves",
-      "timezone": "Asia/Kuala_Lumpur"
+      "timezone": "Asia/Kuala_Lumpur",
+      "dateModified": "2026-10-18"
     },
     {
       "name": "Ho Chi Minh City",
@@ -1342,7 +1387,8 @@
       "id": "syd",
       "slug": "sydney",
       "img": "syd-opera-house",
-      "timezone": "Australia/Sydney"
+      "timezone": "Australia/Sydney",
+      "dateModified": "2026-10-18"
     },
     {
       "name": "Cape Town",
@@ -1672,7 +1718,7 @@
       "planningIntro": "Choose Higashiyama or Arashiyama as the focus for one outing, then select a venue and a return connection. Leave room for a meal instead of filling every gap with another stop. Follow local access and photography notices as you move between public streets and individual venues.",
       "seoTitle": "Kyoto City Guide: Higashiyama or Arashiyama",
       "description": "Plan a first Kyoto visit around Higashiyama or Arashiyama. Choose temple visits, a meal and a return connection while respecting local notices.",
-      "dateModified": "2026-10-13"
+      "dateModified": "2026-10-18"
     },
     {
       "id": "png",
@@ -4661,7 +4707,10 @@
         "scope": "Article prose; selected operational facts remain subject to the linked sources."
       },
       "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Singapore Hawker Food: Maxwell or Lau Pa Sat?"
+      "seoTitle": "Singapore Hawker Food: Maxwell or Lau Pa Sat?",
+      "relatedGuides": [
+        "singapore-airlines-new-amenity-kits-november-2026"
+      ]
     },
     {
       "id": "tyo-listening",
@@ -4990,7 +5039,10 @@
         "scope": "Article prose; selected operational facts remain subject to the linked sources."
       },
       "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Kuala Lumpur Breakfast: Food & Coffee Guide"
+      "seoTitle": "Kuala Lumpur Breakfast: Food & Coffee Guide",
+      "relatedGuides": [
+        "kuala-lumpur-gokl-bus-foreign-visitors"
+      ]
     },
     {
       "id": "sgn-coffee",
@@ -5772,7 +5824,10 @@
         "scope": "Article prose; selected operational facts remain subject to the linked sources."
       },
       "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Sydney Ocean Pools: Pool & Coastal Walk Guide"
+      "seoTitle": "Sydney Ocean Pools: Pool & Coastal Walk Guide",
+      "relatedGuides": [
+        "sydney-carnival-australia-2028-deployment-update"
+      ]
     },
     {
       "id": "cpt-hikes",
@@ -9200,7 +9255,10 @@
       "dateModified": "2026-10-10",
       "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
       "mins": 3,
-      "seoTitle": "Kyoto First Visit: Higashiyama or Arashiyama?"
+      "seoTitle": "Kyoto First Visit: Higashiyama or Arashiyama?",
+      "relatedGuides": [
+        "kyoto-autumn-leaves-calendar-2026-update"
+      ]
     },
     {
       "id": "george-town-penang-heritage-walk",
@@ -11026,6 +11084,418 @@
       "dateModified": "2026-10-18",
       "researchNote": "Independent desk research checked on 18 October 2026. This is a planning guide, not a firsthand visit or paid placement. Suggested visit lengths are editorial allowances; confirm current access, charges and operating details with the venue or operator.",
       "mins": 3
+    },
+    {
+      "id": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "city": "kul",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Can foreign visitors ride GoKL buses? Kuala Lumpur fares and route checks",
+      "seoTitle": "Kuala Lumpur GoKL Bus: Fares for Foreign Visitors",
+      "dek": "GoKL is not universally free: check the official RM1 visitor fare, cashless payment and route maps before using Kuala Lumpur’s city buses.",
+      "img": "kul-skyline",
+      "src": [
+        "gokl-klccc-official",
+        "trends-sg-travel-oct18"
+      ],
+      "body": [
+        "Foreign visitors can use Kuala Lumpur’s GoKL service, but the word “free” in older descriptions can be misleading. The city’s current service page lists a visitor fare and payment methods. Identify the service you intend to board before assuming that a rule for one Malaysian bus network applies to every bus in the country."
+      ],
+      "sections": [
+        {
+          "h": "What GoKL currently publishes",
+          "p": [
+            "KLCCC lists RM1 per ride for foreign visitors, payable by Touch ’n Go, credit card or debit card. It also states that children aged 12 and under travel free regardless of citizenship. Malaysian citizens have a separate registration arrangement using MyKad with Touch ’n Go. Check the current official page if a fare or eligibility detail affects your trip."
+          ],
+          "sourceIds": [
+            "gokl-klccc-official"
+          ]
+        },
+        {
+          "h": "Choose a route for the stop you actually need",
+          "p": [
+            "The official maps identify GoKL 01 between KLCC and Bukit Bintang and GoKL 02 between Hab Pasar Seni and Bukit Bintang. Use the published map to identify your boarding stop and travel direction; an endpoint pair is not a promise that a bus stops outside every attraction between them.",
+            "For a first ride, save the destination name and the walk from the stop to your accommodation or attraction. Check the return direction separately. Getting to the correct neighbourhood is useful only if the final stretch is manageable for your group, luggage and weather."
+          ],
+          "sourceIds": [
+            "gokl-klccc-official"
+          ]
+        },
+        {
+          "h": "Keep GoKL separate from other Malaysian bus systems",
+          "p": [
+            "GoKL is a Kuala Lumpur City Hall service. This explainer does not establish payment rules, visitor eligibility or concessions for Rapid KL, Smart Selangor or an intercity coach. If a map offers several bus options, identify the operator and service before comparing fares.",
+            "Carry an accepted payment method and confirm the boarding instructions at the stop or with the operator if something is unclear. A phone wallet, a bank card and a transport card are different products; do not assume that a payment method supported on one service is accepted on another."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Why we added this explainer now",
+          "p": [
+            "Google Trends’ Singapore travel view, checked on 18 October, included the query “foreigners using public buses malaysia” in its past-seven-day results, labelled Lasted. That is evidence of a recent search question in Singapore, not an official announcement of a new Malaysian restriction. This article answers the narrower, verifiable GoKL question.",
+            "Use the fare information to plan a journey, rather than to infer a nationwide policy from a trending query. If your trip involves another Malaysian city, open that operator’s own visitor information before travelling."
+          ],
+          "sourceIds": [
+            "trends-sg-travel-oct18"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Service covered",
+          "GoKL in Kuala Lumpur"
+        ],
+        [
+          "Official visitor fare",
+          "RM1 per ride; reconfirm current terms"
+        ],
+        [
+          "Payment listed",
+          "Touch ’n Go, credit or debit card"
+        ]
+      ],
+      "planLinks": [
+        [
+          "Official fares and route maps",
+          "https://klccc.dbkl.gov.my/gokl-2/"
+        ],
+        [
+          "Kuala Lumpur breakfast guide",
+          "/guides/kuala-lumpur-breakfast"
+        ]
+      ],
+      "faq": [
+        [
+          "Is GoKL free for every tourist?",
+          "No. KLCCC lists a fare for foreign visitors and a separate free-travel rule for children aged 12 and under."
+        ],
+        [
+          "Does this explain all buses in Malaysia?",
+          "No. Check the named operator for Rapid KL, state services and intercity journeys."
+        ]
+      ],
+      "relatedGuides": [
+        "kuala-lumpur-breakfast",
+        "george-town-penang-heritage-walk"
+      ],
+      "items": [],
+      "places": [],
+      "tips": [],
+      "mins": 2,
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
+      "imageNote": "Kuala Lumpur skyline reference photograph; no bus or current boarding point is shown."
+    },
+    {
+      "id": "kyoto-autumn-leaves-calendar-2026-update",
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "city": "kyo",
+      "cat": "news",
+      "kind": "news",
+      "title": "Kyoto autumn update: the 2026 leaves calendar is due on 30 October",
+      "seoTitle": "Kyoto Autumn 2026: Leaves Calendar Due 30 October",
+      "dek": "Kyoto’s official 13 October update schedules its autumn leaves calendar for 30 October. Separate confirmed programme information from unverified peak-colour claims.",
+      "img": "kyo-destination-photo",
+      "src": [
+        "kyoto-autumn-2026-official",
+        "kyoto-autumn-calendar-official",
+        "trends-jp-travel-oct18"
+      ],
+      "body": [
+        "Kyoto’s official tourism update, published on 13 October, says this year’s autumn leaves calendar is scheduled to launch on 30 October. For anyone planning an autumn trip, that is a useful date to check for fresh observations. It is not a prediction that the whole city will reach peak colour that day."
+      ],
+      "sections": [
+        {
+          "h": "What the city has announced",
+          "p": [
+            "The same update points visitors to its 2026 autumn illumination list and an autumn stamp activity around Yamashina, Daigo and Okazaki, with collection desks scheduled from 1 October through 13 December. Each activity has its own locations and conditions; the overall season is not one all-access event.",
+            "As checked for this article, the linked English leaves-calendar page still carries a 2025 heading and previous-season information. Read the year and observation dates before treating a coloured marker or a historical viewing window as a current report."
+          ],
+          "sourceIds": [
+            "kyoto-autumn-2026-official",
+            "kyoto-autumn-calendar-official"
+          ]
+        },
+        {
+          "h": "Plan one area before choosing a second",
+          "p": [
+            "Start with the experience you want: a garden visit, a temple interior, an evening illumination or a short neighbourhood walk. Give one area the main part of your day. Keep a second area optional until you know the actual admission arrangements and travel time.",
+            "If you book an evening visit, plan where you will eat and how you will return to your accommodation. A daytime entrance ticket should not be assumed to cover a separate evening opening. Read the individual venue’s current terms before buying; this report does not verify availability for every illumination."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Use observations instead of a single guaranteed peak date",
+          "p": [
+            "After the new calendar becomes available, compare reports for the places you are considering. Previous-year timing can help frame a plan, but it cannot confirm the state of a tree or garden on your travel date. Keep an alternative outing that you would enjoy even if the leaves have not changed as hoped.",
+            "For a group, decide which bookings genuinely need a fixed time and which walks can remain flexible. That allows you to react to venue information without rebuilding the entire trip around an unverified peak-colour claim."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "The search signal behind this update",
+          "p": [
+            "Japan’s Google Trends travel view, checked on 18 October for the past seven days, included 紅葉, meaning autumn foliage, and 紅葉 見頃, asking about viewing time. Both rows were labelled Lasted. We used that recent interest to select the topic; the Kyoto announcement supplies the actual programme information."
+          ],
+          "sourceIds": [
+            "trends-jp-travel-oct18"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Official update published",
+          "13 October 2026"
+        ],
+        [
+          "Calendar scheduled",
+          "30 October 2026"
+        ],
+        [
+          "Important distinction",
+          "Calendar launch is not a citywide peak-colour date"
+        ]
+      ],
+      "planLinks": [
+        [
+          "Official autumn update",
+          "https://kyoto.travel/en/news/autumn-sightseeing-tips/"
+        ],
+        [
+          "Check the leaves calendar",
+          "https://kyoto.travel/en/seasonal-info/autumnleaves/"
+        ],
+        [
+          "First Kyoto visit",
+          "/guides/kyoto-first-visit-two-area-plan"
+        ]
+      ],
+      "faq": [
+        [
+          "Does 30 October mean peak autumn colour everywhere in Kyoto?",
+          "No. It is the scheduled calendar launch date in the city’s announcement, not a guarantee of peak colour."
+        ],
+        [
+          "Can an old calendar confirm this season’s conditions?",
+          "No. Check the year and observation date, and use the new season’s reports when available."
+        ]
+      ],
+      "relatedGuides": [
+        "kyoto-first-visit-two-area-plan",
+        "tokyo-solo-asakusa"
+      ],
+      "items": [],
+      "places": [],
+      "tips": [],
+      "mins": 2,
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
+      "imageNote": "Kyoto temple reference photograph; this is not a live foliage report or a photograph of the 2026 illumination programme."
+    },
+    {
+      "id": "sydney-carnival-australia-2028-deployment-update",
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "city": "syd",
+      "cat": "news",
+      "kind": "news",
+      "title": "Carnival changes its Australia plans for 2028: what Sydney travellers should check",
+      "seoTitle": "Carnival Australia 2028: Sydney Deployment Update",
+      "dek": "Carnival’s 15 October announcement changes plans for Adventure and Luminosa from March 2028. Check the ship and sailing date before arranging a Sydney stay.",
+      "img": "syd-opera-house",
+      "src": [
+        "carnival-australia-oct2026-official",
+        "trends-au-travel-oct18"
+      ],
+      "body": [
+        "Carnival Cruise Line announced on 15 October that Carnival Luminosa and Carnival Adventure will leave Australia in March 2028. This is a future deployment update, not an announcement that every Australian cruise is cancelled now. The distinction matters if you are comparing a current sailing with a holiday planned further ahead."
+      ],
+      "sections": [
+        {
+          "h": "The dates in the announcement",
+          "p": [
+            "Carnival says Luminosa’s final voyage from Sydney will be on 15 March 2028. Adventure is to depart Sydney on 20 March 2028 and will not return to Australia as previously planned. The company says Splendor and Encounter will continue year-round service from Sydney and Brisbane respectively.",
+            "The operator also says its 2028/29 programme for those remaining ships will be released in the coming weeks. That statement is not a published cabin inventory or a confirmed fare for a specific future holiday."
+          ],
+          "sourceIds": [
+            "carnival-australia-oct2026-official"
+          ]
+        },
+        {
+          "h": "For an existing booking, check your actual itinerary",
+          "p": [
+            "Find the ship name, departure date, port and booking reference on your confirmation. Read any message sent by the cruise line or your booking agent for that reservation. A fleet announcement does not tell you the status of an individual booking on its own.",
+            "If the published information and your reservation appear inconsistent, contact the party that manages the booking and ask for written clarification. This report does not establish a refund entitlement, replacement itinerary or cancellation deadline for any particular passenger."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "For a new trip, settle the cruise before the Sydney extras",
+          "p": [
+            "Compare the currently bookable sailing with your travel dates before adding a hotel, flight or shore activity. Check whether the journey returns to the same port or finishes elsewhere. Do not let an older brochure substitute for the itinerary and conditions attached to the booking you are considering.",
+            "For Sydney time before or after the cruise, keep the arrival day light and choose a separate city outing. Confirm the actual terminal and boarding instructions with the operator. A photograph of Sydney Harbour or a general port label is not a pickup location."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Why this is on our travel-news list",
+          "p": [
+            "Google Trends’ Australia travel view, checked on 18 October, included “carnival cruise line fleet australia 2028” in its past-seven-day results, labelled Lasted. The trend identifies a recent question among Australian searchers; Carnival’s dated announcement is the source for the deployment facts.",
+            "We have not independently verified the operator’s broader explanations about market or regulatory conditions, and they are not needed to check a passenger’s ship, sailing and departure arrangements."
+          ],
+          "sourceIds": [
+            "trends-au-travel-oct18"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Announcement date",
+          "15 October 2026"
+        ],
+        [
+          "Change concerns",
+          "Australia deployment from March 2028"
+        ],
+        [
+          "First booking check",
+          "Ship, sailing date, port and operator message"
+        ]
+      ],
+      "planLinks": [
+        [
+          "Read Carnival’s announcement",
+          "https://www.carnival-news.com/2026/10/15/carnival-cruise-line-announces-australia-deployment-change"
+        ],
+        [
+          "Sydney pool outing",
+          "/guides/sydney-pools"
+        ]
+      ],
+      "faq": [
+        [
+          "Does this mean every Australian Carnival cruise stops now?",
+          "No. The announcement concerns two ships leaving in March 2028; it also describes continuing year-round service on two other ships."
+        ],
+        [
+          "Does this article confirm that my booking has changed?",
+          "No. Check your reservation and any operator or agent notice for the specific sailing."
+        ]
+      ],
+      "relatedGuides": [
+        "sydney-pools",
+        "sydney-sculpture"
+      ],
+      "items": [],
+      "places": [],
+      "tips": [],
+      "mins": 2,
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
+      "imageNote": "Sydney destination reference photograph; it does not show either affected ship or confirm a cruise terminal."
+    },
+    {
+      "id": "singapore-airlines-new-amenity-kits-november-2026",
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "city": "sin",
+      "cat": "news",
+      "kind": "news",
+      "title": "Singapore Airlines announces new amenity kits from November 2026",
+      "seoTitle": "Singapore Airlines: New Amenity Kits from November 2026",
+      "dek": "SIA’s 14 October announcement sets a progressive November rollout on flights above six hours. Check cabin and flight eligibility before expecting the new items.",
+      "img": "sin-airlines-a350",
+      "src": [
+        "sia-amenities-oct2026-official",
+        "trends-sg-travel-oct18"
+      ],
+      "body": [
+        "Singapore Airlines has announced a new range of in-flight amenities across its cabin classes, with a progressive introduction from November 2026 on flights above six hours. The announcement was published on 14 October. It describes an upcoming rollout, so travellers should not read it as confirmation that every flight already carries the new items."
+      ],
+      "sections": [
+        {
+          "h": "What the airline says is changing",
+          "p": [
+            "SIA names SISLEY kits for Suites and First Class, BYREDO kits for Business Class, and new pouches for Premium Economy and Economy. It also announces sleeper suits for Business Class for the first time. These are cabin-specific products, rather than one identical kit supplied throughout the aircraft.",
+            "The airline says sleeper suits will be available on selected medium-haul overnight flights longer than six hours and on all long-haul flights. Its announcement places the wider travel-experience reveal in November. It does not establish that every route or operating date will offer every product immediately."
+          ],
+          "sourceIds": [
+            "sia-amenities-oct2026-official"
+          ]
+        },
+        {
+          "h": "Read the conditions against your own flight",
+          "p": [
+            "Check your booked cabin, flight duration and travel date before deciding which part of the announcement applies. If an amenity is important to you, ask the airline about your specific service rather than relying on a social-media photograph from another route.",
+            "For an itinerary with several flights, consider each segment separately. A long journey including a connection does not automatically mean that the same cabin amenities are supplied on both sectors. Keep your own essential travel items in your cabin bag instead of depending on an optional or progressively introduced product."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "What this means when comparing tickets",
+          "p": [
+            "Treat a kit as one part of the onboard experience. Compare the actual seat, departure time, connection and ticket conditions for the flight you are buying. A product announcement does not confirm a seat type, a particular aircraft configuration or the conditions for changing your booking.",
+            "If you are already travelling via Singapore, make the city portion of the trip its own plan. Confirm whether you have time and the required arrangements to leave the airport before booking a meal or attraction. This news item does not assess entry permission or the feasibility of a particular connection."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "The recent search interest",
+          "p": [
+            "Google Trends’ Singapore travel view, checked on 18 October for the past seven days, included “singapore airlines new amenity kits”, labelled Lasted. We selected this story in response to that recent interest and checked the details against the airline’s own release. A trend label does not guarantee availability on a passenger’s flight."
+          ],
+          "sourceIds": [
+            "trends-sg-travel-oct18"
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Announcement published",
+          "14 October 2026"
+        ],
+        [
+          "Rollout announced",
+          "Progressively from November 2026"
+        ],
+        [
+          "Check before expecting a kit",
+          "Your cabin, flight length and operating date"
+        ]
+      ],
+      "planLinks": [
+        [
+          "Official Singapore Airlines announcement",
+          "https://www.singaporeair.com/vi_VN/vn/corporate/newsroom/press-release/2026/oct-to-dec-2026/singapore-airlines-introduces-new-range-of-in-flight-amenities-a/"
+        ],
+        [
+          "Singapore hawker guide",
+          "/guides/singapore-hawker"
+        ]
+      ],
+      "faq": [
+        [
+          "Are the new kits already guaranteed on every flight?",
+          "No. The airline describes a progressive rollout from November on eligible flights. Confirm the arrangement for your own service."
+        ],
+        [
+          "Is Business Class sleepwear promised on every short flight?",
+          "No. The published conditions refer to selected medium-haul overnight services above six hours and long-haul services."
+        ]
+      ],
+      "relatedGuides": [
+        "singapore-hawker",
+        "singapore-deepavali"
+      ],
+      "items": [],
+      "places": [],
+      "tips": [],
+      "mins": 2,
+      "datePublished": "2026-10-18",
+      "dateModified": "2026-10-18",
+      "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement."
     }
   ],
   "places": [
@@ -16799,6 +17269,28 @@
         },
         {
           "src": "/images/hkt-thaihua-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "sin-airlines-a350": {
+      "src": "/images/sin-airlines-a350.jpg",
+      "w": 1600,
+      "h": 870,
+      "alt": "Singapore Airlines Airbus A350-900 on the ground",
+      "title": "Singapore Airlines Airbus A350-900",
+      "by": "Bernard Spragg. NZ",
+      "lic": "CC0 1.0",
+      "licUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Singapore_Airlines_Airbus_A350-900_(48458412466).jpg",
+      "note": "Aircraft photograph from August 2019 in New Zealand; the new cabin amenities are not pictured.",
+      "variants": [
+        {
+          "src": "/images/sin-airlines-a350-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/sin-airlines-a350-960.jpg",
           "w": 960
         }
       ]

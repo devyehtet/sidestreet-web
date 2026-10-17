@@ -1,0 +1,61 @@
+{
+  "checkedAt": "2026-10-18",
+  "method": "Google Trends Trending Now, live browser UI, past 7 days, Travel and Transportation; all selected rows were labelled Lasted, not Active. Counts are approximate Google bucket labels, not monthly keyword volume. Search interest was used only for topic selection.",
+  "selections": [
+    {
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "market": "JP",
+      "terms": [
+        "紅葉",
+        "紅葉 見頃"
+      ],
+      "status": "Lasted",
+      "trendSource": "https://trends.google.com/trending?geo=JP&hours=168&category=19",
+      "officialSource": "https://kyoto.travel/en/news/autumn-sightseeing-tips/",
+      "sourcePublishedAt": "2026-10-13"
+    },
+    {
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "market": "SG",
+      "terms": [
+        "singapore airlines new amenity kits"
+      ],
+      "status": "Lasted",
+      "trendSource": "https://trends.google.com/trending?geo=SG&hours=168&category=19",
+      "officialSource": "https://www.singaporeair.com/vi_VN/vn/corporate/newsroom/press-release/2026/oct-to-dec-2026/singapore-airlines-introduces-new-range-of-in-flight-amenities-a/",
+      "sourcePublishedAt": "2026-10-14"
+    },
+    {
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "market": "AU",
+      "terms": [
+        "carnival cruise line fleet australia 2028"
+      ],
+      "status": "Lasted",
+      "trendSource": "https://trends.google.com/trending?geo=AU&hours=168&category=19",
+      "officialSource": "https://www.carnival-news.com/2026/10/15/carnival-cruise-line-announces-australia-deployment-change",
+      "sourcePublishedAt": "2026-10-15"
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "market": "SG",
+      "terms": [
+        "foreigners using public buses malaysia"
+      ],
+      "status": "Lasted",
+      "trendSource": "https://trends.google.com/trending?geo=SG&hours=168&category=19",
+      "officialSource": "https://klccc.dbkl.gov.my/gokl-2/",
+      "classification": "Current-service explainer prompted by Singapore searches; not a claim of a newly introduced Malaysian rule."
+    }
+  ],
+  "countriesCovered": [
+    "Japan",
+    "Singapore",
+    "Australia",
+    "Malaysia"
+  ],
+  "newCitiesAdded": 0,
+  "newStories": 4,
+  "newNewsArticles": 3,
+  "newGuides": 1
+}
