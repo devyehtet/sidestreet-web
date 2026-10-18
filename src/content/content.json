@@ -422,7 +422,7 @@
     "talatnoi-tat": {
       "name": "Tourism Authority of Thailand — one day in Talat Noi",
       "url": "https://www.tourismthailand.org/Articles/1-day-in-talat-noi",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-18"
     },
     "srt-booking": {
       "name": "State Railway of Thailand — D-Ticket",
@@ -757,7 +757,7 @@
     "dxb-rta-official": {
       "name": "Dubai RTA — current Creek abra routes",
       "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-18"
     },
     "ubd-tourism-official": {
       "name": "Indonesia Ministry of Tourism — Ubud",
@@ -792,7 +792,7 @@
     "phuket-bus-official": {
       "name": "Phuket Smart Bus — timetable and routes",
       "url": "https://www.phuketsmartbus.com/timetable/",
-      "consultedAt": "2026-10-13"
+      "consultedAt": "2026-10-18"
     },
     "phuket-bus-boarding": {
       "name": "Phuket Smart Bus — airport boarding point",
@@ -882,13 +882,13 @@
     "dragon-line-official": {
       "name": "Phuket Smart Bus — Dragon Line guidance",
       "url": "https://phuketsmartbus.com/blog/dragon-line-explore-phuket-old-town-by-free-bus",
-      "consultedAt": "2026-10-13",
+      "consultedAt": "2026-10-18",
       "publishedAt": "2026-09-18"
     },
     "cmdw-2026-official": {
       "name": "Chiang Mai Design Week 2026 — organiser",
       "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about",
-      "consultedAt": "2026-10-13"
+      "consultedAt": "2026-10-18"
     },
     "bab-government-2026": {
       "name": "Thailand government — Bangkok Art Biennale 2026",
@@ -964,7 +964,7 @@
     "cmdw-2026-program": {
       "name": "Chiang Mai Design Week 2026 — programme",
       "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/program",
-      "consultedAt": "2026-10-13"
+      "consultedAt": "2026-10-18"
     },
     "dragon-line-tracking": {
       "name": "Phuket Smart Bus — Dragon Line live tracking",
@@ -1056,7 +1056,17 @@
       "id": "bkk",
       "slug": "bangkok",
       "img": "bkk-wat-arun",
-      "timezone": "Asia/Bangkok"
+      "timezone": "Asia/Bangkok",
+      "seoTitle": "Bangkok City Guide: Walks, Temples & First-Trip Plans",
+      "description": "Plan a Bangkok visit with a three-day itinerary, a Talat Noi walk, temple choices, street food and airport transfer guidance.",
+      "planningIntro": "Start with the three-day plan for a first visit, or choose one smaller outing: Talat Noi for a neighbourhood walk, temples for cultural visits, and street food for a meal-led evening. Check the journey from your accommodation before adding a second district.",
+      "startGuides": [
+        "bangkok-three-day-first-visit",
+        "bangkok-talatnoi",
+        "bangkok-temples",
+        "bangkok-street-food",
+        "bangkok-suvarnabhumi-airport-transfer"
+      ]
     },
     {
       "name": "Chiang Mai",
@@ -1685,7 +1695,13 @@
       "color": "#b08654",
       "line": "Creek crossings, neighbourhood lanes and a waterfront afternoon beyond the skyline.",
       "code": "DXB",
-      "img": "dxb-creek-photo"
+      "img": "dxb-creek-photo",
+      "seoTitle": "Dubai Creek & Old Dubai: Neighbourhood Visit Guide",
+      "description": "Start with Dubai Creek: compare an Al Fahidi walk, an Al Seef waterfront stop and named RTA abra routes, with fares and return-planning guidance.",
+      "planningIntro": "Begin with the Creek guide for the Old Dubai area covered here. Choose one bank and one main interest, then compare any crossing with the current RTA route listing. This is a focused starting point, rather than an itinerary for every Dubai district.",
+      "startGuides": [
+        "dubai-creek-al-fahidi-outing"
+      ]
     },
     {
       "id": "ubd",
@@ -2229,7 +2245,13 @@
         "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
         "scope": "Article prose; selected operational facts remain subject to the linked sources."
       },
-      "seoTitle": "Bangkok Street Food: Plan Your First Food Outing"
+      "seoTitle": "Bangkok Street Food: Plan Your First Food Outing",
+      "planLinks": [
+        [
+          "Plan a Talat Noi neighbourhood walk",
+          "/guides/bangkok-talatnoi"
+        ]
+      ]
     },
     {
       "id": "bkk-rooftops",
@@ -2712,142 +2734,184 @@
       "city": "bkk",
       "cat": "things",
       "kind": "feature",
-      "mins": 5,
-      "title": "Talat Noi: choose a purpose for a slow neighbourhood walk",
-      "dek": "Public lanes, a few saved landmarks and a café break, without treating working shops as attractions.",
+      "mins": 4,
+      "title": "Talat Noi Bangkok: a walking route from Hua Lamphong to the riverside",
+      "dek": "Start from Hua Lamphong MRT, explore Soi Wanit 2 and choose a museum or café stop. A flexible 2–4-hour plan with map links and visitor etiquette.",
       "places": [
         "bkk-talat-noi"
       ],
       "body": [
-        "Talat Noi works well as a small neighbourhood outing when you decide what you want to notice. Choose street detail, religious sites or a café pause as the main interest. You do not need to connect every photograph you have saved into one route.",
-        "Begin with a few map pins and use the public lanes between them. Workshops and homes are places where people work and live; a doorway that looks interesting does not become a visitor entrance. Ask before taking a close photograph and leave space for deliveries."
+        "For a first Talat Noi walk, start with Hua Lamphong MRT, use Soi Wanit 2 to orient yourself and save Talat Noi Museum as a possible riverside stop. Our suggested allowance is two to four hours, including a seated break. This is a flexible walking plan, not a timed tour or a promise that every interior will be open.",
+        "Choose your main interest before setting off: community history, street photography or a café visit. Keep the other stops optional. The neighbourhood is still a place to work, worship and live, so follow public lanes and ask before entering a courtyard or photographing people."
       ],
       "sections": [
         {
-          "h": "A little history",
+          "h": "How to reach Talat Noi from Hua Lamphong MRT",
           "p": [
-            "Talat Noi means little market. It is one of Bangkok's oldest riverside communities, settled by Chinese traders and by Portuguese Catholics who moved here after the fall of Ayutthaya. The Holy Rosary Church, which locals call Kalawar, was founded by the Portuguese community in the 1780s. The present cream-coloured building dates from the 1890s.",
-            "The So Heng Tai mansion, a courtyard house in the southern Chinese style, is more than two centuries old and is still owned by descendants of the family who built it. Today the courtyard holds a deep pool used by a diving school."
-          ]
-        },
-        {
-          "h": "A route that works",
-          "p": [
-            "From Hua Lamphong MRT station it is a ten-minute walk to Soi Wanit 2, the lane that runs the length of the neighbourhood. Follow it past the engine-part shops, look in at the small Chinese shrines and turn towards the river whenever a side lane opens up.",
-            "The rusted shell of an old Fiat, parked against a wall for decades, has become the most photographed object in the area. Street art is concentrated in the lanes near it."
-          ]
-        },
-        {
-          "h": "Remember it is someone's home",
-          "p": [
-            "Families live and work in these lanes. Keep your voice down, do not photograph people at work without asking, and step aside for the motorbikes and handcarts that have right of way."
-          ]
-        },
-        {
-          "h": "Choose two anchors, then leave room between them",
-          "p": [
-            "A useful small itinerary has a starting point and a finishing point, with one café or cultural stop in between. Save all three on a map before leaving your accommodation. The tourism board’s route includes public lanes and cultural stops; it does not mean every doorway along the way is open to visitors.",
-            "If your goal is photography, allow extra time without blocking an alley. Ask before photographing people, workshops or the inside of a business. View a shrine as a place of worship, and follow any posted access and photography notices."
+            "The Tourism Authority of Thailand’s route starts near Hua Lamphong MRT Exit 1 and identifies a café at 741 Charoen Krung Road as a nearby landmark. Use Charoen Krung Road as an arrival reference, then check your walking directions to Soi Wanit 2. Allow for road crossings rather than treating one walking-time estimate as a guarantee.",
+            "Save your first stop before leaving the station. If you arrive by taxi, choose a public-road drop-off shown on your map instead of directing the driver into a narrow workshop lane. Arriving by boat is another possibility, but check the operator’s actual pier and service before planning around it."
           ],
           "sourceIds": [
             "talatnoi-tat"
           ]
         },
         {
-          "h": "When the afternoon needs changing",
+          "h": "A small walking route: Soi Wanit 2 and the riverside",
           "p": [
-            "During rain, choose an indoor stop that is actually open, or return to a larger public street. Do not assume a workshop or family courtyard is shelter for visitors. For anyone avoiding steps, ask the chosen café or exhibition about access before building the outing around it."
+            "Our proposed sequence is the Charoen Krung approach, Soi Wanit 2, a selected cultural stop and a café break. Talat Noi Museum on Soi Phanurangsi is a useful named anchor; Chow Sue Kong Shrine is another place identified in the tourism board’s neighbourhood guide. Choose one interior rather than assuming you can visit everything.",
+            "The order is an editorial suggestion, not a marked route. Check the public walking connections on your map and shorten the outing when needed. Near the photographed orange Fiat, leave the lane clear for people moving through it; a photo stop does not need to become a queue blocking a working street."
+          ],
+          "sourceIds": [
+            "talatnoi-tat"
           ]
         },
         {
-          "h": "Make the walk your own",
+          "h": "Talat Noi Museum or a café: choose your main stop",
           "p": [
-            "Choose one detail to follow: signs, doorways, workshop tools or changes in the streetscape. Taking notes on a few things you notice gives the afternoon a clearer purpose than trying to recreate a social-media route. Avoid recording identifiable people without permission.",
-            "When you stop for coffee, look at the route you have actually covered before adding Chinatown. A comfortable seated break can be the finish. Continuing is useful only if you still want the different experience and have time for the journey home."
+            "For community history, look up Talat Noi Museum and confirm its current opening before travelling. The tourism board’s January 2025 article describes it as a museum about the community. That article also contains past exhibitions and events, which should not be treated as a current programme.",
+            "For a café-led outing, select a place using its current menu, seating and location. Check whether the area you want to sit in is open and whether there are steps. A purchase does not provide access to private rooms, rooftops or a family courtyard. So Heng Tai remains a stop whose visitor arrangements should be checked directly."
+          ],
+          "sourceIds": [
+            "talatnoi-tat"
           ]
+        },
+        {
+          "h": "How long to allow, and what to budget",
+          "p": [
+            "Our suggestion is about two hours for a small outdoor walk, or up to four with a museum or café visit and photography breaks. These are planning allowances, not measured route times. The street walk has no single bundled ticket; transport, food and any chosen venue have separate costs.",
+            "During heat or rain, move the seated break earlier or finish at your nearest suitable public road. Ask a particular venue about access if you need a route without steps. Narrow lanes, road crossings and individual entrances need more checking than a map’s distance figure can provide."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Finish in Talat Noi or continue towards Chinatown",
+          "p": [
+            "A café can be the end of the visit. If you still want an evening food outing, open our Bangkok street-food guide and choose where to eat before continuing towards Yaowarat. Do not assume every stall is trading at the time you arrive.",
+            "For the trip back, save your station or confirmed pier while you still have phone reception. Check the actual return service rather than relying on a boat because it appeared in someone else’s itinerary. Give a larger public-road meeting point to anyone collecting you."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Go on a weekday afternoon. Workshops are open and the lanes are quieter than at weekends.",
-        "Many cafes close by 6pm.",
-        "River City, a short walk south, has clean toilets and air conditioning.",
-        "The Chao Phraya Express Boat stops nearby if you would rather leave by river."
+        "Use public lanes and ask before close photographs of people or workspaces.",
+        "Confirm museum and café opening with the venue; old event listings are not a current programme.",
+        "Keep a seated break and a return route in your plan."
       ],
       "faq": [
         [
-          "How long should I spend there?",
-          "Two hours is enough to walk the main lanes. Allow four if you want to sit in a cafe, visit the shrines and take photographs."
+          "How do I get to Talat Noi by MRT?",
+          "Use Hua Lamphong MRT as an arrival point and check the walk from Exit 1 towards Charoen Krung Road and your chosen Soi Wanit 2 stop."
         ],
         [
-          "Can I go inside the So Heng Tai mansion?",
-          "It is a private family home. Check current visitor arrangements directly; an open gate is not permission to enter or use facilities."
+          "How long does a Talat Noi walk take?",
+          "Our planning suggestion is 2–4 hours, depending on breaks and interior visits. It is not a measured or guaranteed route duration."
         ],
         [
-          "How do I get there?",
-          "Walk ten minutes from Hua Lamphong MRT station, or arrive by river boat. Taxis struggle in the narrow lanes, so ask to be dropped on Charoen Krung Road."
+          "Is Talat Noi free to walk around?",
+          "There is no single bundled ticket for this public-lane walk. Cafés, museums, exhibitions and private properties have their own access or purchase terms."
         ],
         [
-          "Where should I eat?",
-          "There are cafes in the neighbourhood itself. For a full meal, Chinatown's Yaowarat Road is fifteen minutes north on foot and comes alive after dark."
+          "What is a useful first stop?",
+          "Choose Talat Noi Museum for community-history research, or save a specific café as your main stop. Confirm current opening before building the outing around it."
+        ],
+        [
+          "Can I go inside So Heng Tai?",
+          "Check visitor arrangements directly. An open gate does not grant permission to enter private areas or use facilities."
+        ],
+        [
+          "Can I combine Talat Noi with Chinatown?",
+          "Yes, as an optional continuation. Check the route and the food places you want rather than relying on a fixed walking-time claim."
         ]
       ],
       "slug": "bangkok-talatnoi",
       "img": "bkk-talat-noi",
       "quickPlan": [
         [
-          "Best for",
-          "A neighbourhood walk with a café stop and time for street details."
+          "Start",
+          "Hua Lamphong MRT; check the walking approach from Exit 1"
+        ],
+        [
+          "Walking anchors",
+          "Charoen Krung Road, Soi Wanit 2 and an optional Talat Noi Museum stop"
         ],
         [
           "Time to allow",
-          "Our suggestion: 2–4 hours, with breaks."
+          "Our suggestion: 2–4 hours with breaks; not a measured tour duration"
         ],
         [
-          "Budget approach",
-          "Budget for drinks, food and transport; private homes, cafés and exhibitions set their own entry terms."
+          "Costs",
+          "Transport, food and any chosen venue are separate; check current entry terms"
         ]
       ],
       "planTable": {
-        "caption": "Choose a plan that fits your day",
+        "caption": "A flexible Talat Noi walk, not a timed tour",
         "headers": [
           "Stage",
-          "Plan",
-          "Keep in mind"
+          "Where to focus",
+          "Decision before continuing"
         ],
         "rows": [
           [
             "Arrive",
-            "Choose a public street as your starting point",
-            "Check the walking route from your station or pier"
+            "Hua Lamphong MRT / Charoen Krung Road",
+            "Save your first stop and check the crossing"
           ],
           [
-            "Explore",
-            "Use Soi Wanit 2 as an orientation point",
-            "Lanes are working residential streets"
+            "Walk",
+            "Public lanes around Soi Wanit 2",
+            "Keep workshop entrances clear"
+          ],
+          [
+            "Choose a stop",
+            "Talat Noi Museum or a selected shrine",
+            "Check opening and visitor access"
           ],
           [
             "Pause",
-            "Choose a café after checking its menu",
-            "A purchase does not grant access to private areas"
+            "A café you have selected",
+            "Check seating, menu and any steps"
           ],
           [
-            "Leave",
-            "Choose Chinatown or the riverside as your next stop",
-            "Check your actual route and last boat first"
+            "Finish",
+            "Return journey or an optional food outing",
+            "Save the station, pier or public-road pickup"
           ]
         ]
       },
       "src": [
         "talatnoi-tat"
       ],
-      "dateModified": "2026-10-09",
-      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
+      "dateModified": "2026-10-18",
+      "researchNote": "Research-based guide revised on 18 October 2026 using the tourism board’s January 2025 neighbourhood article. Past exhibitions and venue hours in that source are not presented as current. The route order and 2–4-hour allowance are our suggestions, not an on-site test.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-18",
+        "method": "Replaced unsupported historical and fixed walking-time claims with a named walking plan, source links and clear visitor decisions.",
+        "scope": "Desk research and writing review; not a personal venue visit or site-wide rights clearance."
       },
-      "seoTitle": "Talat Noi Bangkok: A Neighbourhood Walking Guide"
+      "seoTitle": "Talat Noi Bangkok Walking Route: MRT, Lanes & Cafés",
+      "planLinks": [
+        [
+          "Open the tourism board’s Talat Noi guide",
+          "https://www.tourismthailand.org/Articles/1-day-in-talat-noi"
+        ],
+        [
+          "Find Talat Noi Museum on the source’s map",
+          "https://maps.app.goo.gl/TPsrVUwjfvkD2XJEA"
+        ],
+        [
+          "Plan a Bangkok street-food outing",
+          "/guides/bangkok-street-food"
+        ],
+        [
+          "Fit the walk into a three-day Bangkok visit",
+          "/guides/bangkok-three-day-first-visit"
+        ]
+      ],
+      "relatedGuides": [
+        "bangkok-street-food",
+        "bangkok-three-day-first-visit",
+        "bangkok-chatuchak"
+      ]
     },
     {
       "id": "bkk-daytrips",
@@ -8280,8 +8344,8 @@
       "city": "dxb",
       "cat": "things",
       "kind": "guide",
-      "title": "Dubai Creek afternoon: Al Fahidi, Al Seef or an abra crossing",
-      "dek": "Choose a compact creek-side outing, compare the boat products and protect time for a seated break.",
+      "title": "Dubai Creek: an Al Fahidi walk, Al Seef and abra routes",
+      "dek": "Choose an Old Dubai walk or Creek crossing, compare RTA route names and published fares, and avoid planning around a suspended service.",
       "img": "dxb-creek-photo",
       "src": [
         "dxb-burdubai-official",
@@ -8291,20 +8355,24 @@
       ],
       "quickPlan": [
         [
-          "Walking option",
-          "Al Fahidi public lanes followed by a selected creek-side meal."
+          "On foot",
+          "Al Fahidi public lanes, with a separately chosen cultural visit"
         ],
         [
-          "Waterfront option",
-          "Al Seef browsing and dining without requiring a crossing."
+          "Waterfront",
+          "Al Seef browsing or a meal; a crossing is optional"
         ],
         [
-          "Boat option",
-          "A confirmed shared Creek route, with a plan on the opposite bank."
+          "Crossing",
+          "Choose the station pair and route code on the current RTA listing"
+        ],
+        [
+          "Time to allow",
+          "Our suggestion: 2–3 hours for one small outing, longer for interiors or a second bank"
         ]
       ],
       "body": [
-        "Dubai’s Creek area offers a different kind of outing from a skyline observation deck. The decision here is how much walking, browsing and boat travel you want, not how many districts can be crossed before dinner. Al Fahidi, Al Seef and a shared abra journey can work as separate choices as well as parts of a longer afternoon.",
+        "For a first Dubai Creek outing, choose Al Fahidi for a neighbourhood walk, Al Seef for a waterfront stop, or a specific abra route for a crossing. These are different choices: a route name, station pair and return plan matter more than simply asking for an abra. The comparison table separates commuter services from private hire.",
         "Begin with the bank where you intend to spend most of your time. Choose a meal or a cultural stop there, then decide whether a crossing adds something you want. A short boat journey does not remove the walking, waiting and return arrangements around it. Keep the afternoon small enough that sitting down remains part of the experience."
       ],
       "sections": [
@@ -8329,13 +8397,12 @@
           ]
         },
         {
-          "h": "For an abra, match the station to the product",
+          "h": "Which abra route and fare should you use?",
           "p": [
-            "Visit Dubai describes shared traditional crossings between Bur Dubai and Deira. The RTA route page separately lists different Creek services, including routes that can be on hold. Consult the current route and station notice before relying on a particular departure. This guide deliberately does not promise a universal fare or timetable for every boat called an abra.",
-            "Write down the two banks and the landing names before boarding. A shared transport crossing, an electric service and private sightseeing hire have different purposes and prices. Ask which one is being offered, how payment works and where it finishes. If you only want to reach the opposite bank, do not compare that transfer with the advertised length of a sightseeing cruise."
+            "The selected routes and fares above come from RTA’s Creek listing, checked on 18 October 2026. CR7 is marked temporarily on hold; TR10 is private hire. Do not transfer one service’s price to another boat. Follow the current station notice if it changes.",
+            "Choose the landing closest to the place you actually want to visit, not just the nearest boat. Save the station name on each bank and ask how to pay before boarding. Keep the return separate from any shopping or meal, so that a shorter visit is still possible."
           ],
           "sourceIds": [
-            "dxb-abra-official",
             "dxb-rta-official"
           ]
         },
@@ -8344,6 +8411,14 @@
           "p": [
             "On reaching the opposite bank, choose one reason to stay: a market browse, a meal or a defined walk. If none of those interests you, a crossing need not become a long excursion. Keep the return service or another departure route available on your phone before you move away from the landing.",
             "For planning, separate transport, food and optional purchases. Allow for waiting, outdoor conditions and a rest; a boat’s sailing time is only one part of the outing. If the walk feels too long, finish at the nearer waterfront rather than forcing an additional district. The purpose is a Creek experience that fits your afternoon, with a clear route back to the rest of your trip."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "A simple two-to-three-hour Creek plan",
+          "p": [
+            "Our suggested small outing starts with one Al Fahidi walk or one Al Seef waterfront stop. Leave space for a meal or rest, then add a crossing only if there is something you want to do on the other bank. The allowance is editorial planning time, not a tested end-to-end duration.",
+            "Save the last place you need to reach and work backwards from it. If it is an appointment or a timed activity, leave room for the walk to the station and a wait. A short crossing does not make the whole afternoon a short journey. In hot conditions, shorten the outdoor part rather than adding more stops to the same plan."
           ],
           "sourceIds": []
         }
@@ -8360,30 +8435,52 @@
         [
           "Do I need a boat ride for a Creek outing?",
           "No. A selected neighbourhood walk and a waterfront meal can be a complete outing on one bank."
+        ],
+        [
+          "Which Creek abra route is listed as suspended?",
+          "At the 18 October 2026 check, RTA marked CR7 as temporarily on hold. Recheck the official listing before travelling."
+        ],
+        [
+          "Is the electric abra fare per passenger?",
+          "RTA identifies TR10 as private hire with a fare per boat and duration. It should not be compared with the per-trip commuter services."
+        ],
+        [
+          "How long should I allow around Dubai Creek?",
+          "Our suggestion is 2–3 hours for one compact outing with a seated break. Interior visits, a second bank and the return journey can need more time."
         ]
       ],
       "planTable": {
-        "caption": "Choose the Creek experience you want",
+        "caption": "Selected RTA Creek services checked 18 October 2026; confirm at the station",
         "headers": [
-          "Format",
-          "Confirm first",
-          "Optional addition"
+          "Route / stations",
+          "Published fare",
+          "Service distinction"
         ],
         "rows": [
           [
-            "Al Fahidi walk",
-            "Any chosen cultural venue",
-            "A creek-side meal"
+            "CR3 · Dubai Old Souq – Baniyas",
+            "AED 2",
+            "Commuter crossing"
           ],
           [
-            "Al Seef afternoon",
-            "Restaurant or activity arrangements",
-            "A short neighbourhood walk"
+            "CR5 · Al Fahidi – Deira Old Souq",
+            "AED 2",
+            "Check the day-specific timetable"
           ],
           [
-            "Shared crossing",
-            "Route, stations and return",
-            "One stop on the other bank"
+            "CR6 · Al Seef – Baniyas",
+            "AED 2",
+            "Check the day-specific timetable"
+          ],
+          [
+            "CR7 · Al Seef – Al Fahidi – Dubai Old Souq",
+            "Do not plan around this route",
+            "Listed as temporarily on hold"
+          ],
+          [
+            "TR10 · electric abra",
+            "AED 60 / 30 min; AED 120 / 60 min",
+            "Private tour fare per boat, not per passenger or per stop"
           ]
         ]
       },
@@ -8398,10 +8495,20 @@
         "dxb-abra-creek"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
-      "mins": 5,
-      "seoTitle": "Dubai Creek: Al Fahidi, Al Seef & Abra Guide"
+      "dateModified": "2026-10-18",
+      "researchNote": "Independent desk-researched guide. Selected route codes, fares and the CR7 suspension were checked on RTA’s Creek page on 18 October 2026. Reconfirm service at the station. Walking order and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "mins": 4,
+      "seoTitle": "Dubai Creek: Al Fahidi, Al Seef & Abra Guide",
+      "planLinks": [
+        [
+          "Check RTA’s current Creek routes and fares",
+          "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra"
+        ],
+        [
+          "Compare Dubai Creek’s districts",
+          "/city/dubai"
+        ]
+      ]
     },
     {
       "id": "ubud-town-forest-ridge-planning",
@@ -8760,7 +8867,13 @@
         "bangkok-talatnoi",
         "bangkok-suvarnabhumi-airport-transfer"
       ],
-      "seoTitle": "Bangkok 3-Day Itinerary for First-Time Visitors"
+      "seoTitle": "Bangkok 3-Day Itinerary for First-Time Visitors",
+      "planLinks": [
+        [
+          "Plan a Talat Noi neighbourhood walk",
+          "/guides/bangkok-talatnoi"
+        ]
+      ]
     },
     {
       "id": "chiang-mai-doi-suthep-visit",
@@ -10258,7 +10371,7 @@
         "cmdw-2026-program"
       ],
       "body": [
-        "Start with a visit you can actually make: one exhibition area, one confirmed opening time and a way back to your accommodation. This planning guide separates the announced festival dates from the details you still need for an individual session."
+        "Chiang Mai Design Week 2026 is scheduled for 5–13 December. The organiser names Old Town, Tha Pae Gate–Chang Moi and TCDC Chiang Mai as planning areas. Choose a specific programme entry before booking a workshop or building a day around a venue: the festival dates do not confirm every session’s opening or availability."
       ],
       "sections": [
         {
@@ -10321,6 +10434,10 @@
         [
           "Can I combine the festival with ordinary sightseeing?",
           "Yes, as a planning choice: reserve time for one confirmed activity and keep other visits optional. Allow for the journey and a meal between timed sessions."
+        ],
+        [
+          "What should I do if my preferred programme details are missing?",
+          "Return to the official programme before committing to that session. Keep sightseeing optional rather than assuming a venue, time or available place."
         ]
       ],
       "quickPlan": [
@@ -10338,12 +10455,12 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-13",
+      "dateModified": "2026-10-18",
       "tips": [
         "Save the programme entry and any booking confirmation before you leave.",
         "Choose a venue address rather than a whole neighbourhood as your meeting point."
       ],
-      "researchNote": "Festival dates and areas checked against the organiser’s overview on 13 October 2026. Session availability, admission and bookings must be checked in the individual programme. The day-planning advice is our editorial suggestion.",
+      "researchNote": "The organiser’s overview and programme landing page were reviewed on 18 October 2026. The overview still confirms 5–13 December and the named areas. This review does not establish session availability or bookings; check the individual programme entry. The day plan is editorial advice.",
       "mins": 3,
       "relatedGuides": [
         "chiang-mai-oldcity",
@@ -10361,7 +10478,37 @@
           "Plan a Chiang Mai Old City walk",
           "/guides/chiang-mai-oldcity"
         ]
-      ]
+      ],
+      "planTable": {
+        "caption": "Build a festival visit around confirmed session information",
+        "headers": [
+          "Decision",
+          "Save this information",
+          "Keep flexible"
+        ],
+        "rows": [
+          [
+            "Choose a programme item",
+            "Its date and exact venue address",
+            "A neighbourhood name is not a venue"
+          ],
+          [
+            "Check participation",
+            "The activity’s entry and registration rules",
+            "Availability of a particular session"
+          ],
+          [
+            "Plan the journey",
+            "Accommodation-to-venue directions",
+            "Time between different areas"
+          ],
+          [
+            "If details are not available",
+            "The official programme link for a later check",
+            "Do not invent a workshop time or booking"
+          ]
+        ]
+      }
     },
     {
       "id": "phuket-dragon-line-free-town-bus",
@@ -10378,7 +10525,7 @@
         "dragon-line-tracking"
       ],
       "body": [
-        "Use Dragon Line for a town outing when its stops fit your day. First decide where you want to walk, then check the boarding point and return journey. A free fare helps with the ride, but does not remove the need to reach the route from your hotel."
+        "Phuket Dragon Line is a free town shuttle: the operator publishes 07:00–19:00 hours and a 30-minute interval. Its timetable identifies Central Festival, Old Town and OTOP Market. Check the exact stop and live tracking before travelling; reaching the town route from a beach hotel is a separate journey."
       ],
       "sections": [
         {
@@ -10450,6 +10597,10 @@
         [
           "Where can I track the bus?",
           "Use the operator’s Dragon Line live tracking page linked above. Its map requires JavaScript."
+        ],
+        [
+          "Does the free bus include transport from my beach hotel?",
+          "No hotel pickup is promised here. Check how you will reach a Dragon Line stop and plan the separate journey back."
         ]
       ],
       "quickPlan": [
@@ -10471,13 +10622,13 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-13",
+      "dateModified": "2026-10-18",
       "tips": [
         "Save both your boarding point and return option.",
         "Compare the hotel-to-route journey as well as the free bus fare.",
         "The service guidance publication date is not a confirmed route launch date."
       ],
-      "researchNote": "Fare, route areas, published hours and live-tracking instructions checked against the operator on 13 October 2026. Times can change or vary with traffic. The outing sequence is our editorial suggestion.",
+      "researchNote": "Operator guidance, timetable and linked tracking instructions reviewed on 18 October 2026. Published hours remain 07:00–19:00 with a 30-minute interval; actual arrivals can vary. The journey comparison is editorial guidance, not a guarantee of a connection or hotel pickup.",
       "mins": 3,
       "relatedGuides": [
         "phuket-oldtown",
@@ -10499,7 +10650,37 @@
           "Plan your Phuket Old Town walk",
           "/guides/phuket-oldtown"
         ]
-      ]
+      ],
+      "planTable": {
+        "caption": "Choose the bus information that matches your journey",
+        "headers": [
+          "Your journey",
+          "What to use",
+          "Check before leaving"
+        ],
+        "rows": [
+          [
+            "A stop on the town loop",
+            "Dragon Line timetable and live tracking",
+            "Boarding point, direction and return stop"
+          ],
+          [
+            "Old Town from a beach hotel",
+            "A separate connection to the town route",
+            "Total cost and travel time, beyond the free shuttle"
+          ],
+          [
+            "A Phuket Airport journey",
+            "The operator’s airport-service information",
+            "Route, fare and a flight buffer"
+          ],
+          [
+            "An outing finishing after service",
+            "A separately planned return",
+            "Do not depend on an unchecked last departure"
+          ]
+        ]
+      }
     },
     {
       "id": "bangkok-tailors-best-for-your-trip",

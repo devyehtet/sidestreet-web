@@ -1,0 +1,54 @@
+{
+  "date": "2026-10-18",
+  "purpose": "Improve practical answers for existing search impressions, without adding thin city pages.",
+  "substantiveGuides": [
+    "bangkok-talatnoi",
+    "dubai-creek-al-fahidi-outing",
+    "phuket-dragon-line-free-town-bus",
+    "chiang-mai-design-week-2026-dates"
+  ],
+  "cityHubs": [
+    "bangkok",
+    "dubai"
+  ],
+  "linkOnlyGuides": [
+    "bangkok-three-day-first-visit",
+    "bangkok-street-food"
+  ],
+  "sourceChecks": {
+    "talatnoi-tat": "January 2025 article: stable place references only; expired events and current opening claims excluded.",
+    "dxb-rta-official": "Current route listing: CR3/CR5/CR6 fares, CR7 hold, TR10 private-hire distinction.",
+    "dragon-line-official": "07:00–19:00; 30-minute interval; free Dragon Line.",
+    "phuket-bus-official": "Free town loop vs separate airport and beach services.",
+    "cmdw-2026-official": "5–13 December 2026; named areas.",
+    "cmdw-2026-program": "Programme landing page reviewed; individual session availability not certified."
+  },
+  "baseline": {
+    "source": "GSC live review preceding these changes",
+    "actualDateRange": [
+      "2026-10-08",
+      "2026-10-16"
+    ],
+    "clicks": 3,
+    "impressions": 347,
+    "ctr": "0.9%",
+    "averagePosition": 26.2
+  },
+  "measurement": {
+    "suggestedReviewDate": "2026-11-01",
+    "method": "Compare equal-length periods with the same filters and inspect affected URLs and queries. Account for new-site data, event seasonality and report lag.",
+    "primary": "Affected-page organic clicks and impressions",
+    "guardrails": [
+      "Source accuracy",
+      "Index eligibility",
+      "No broken links or mobile overflow"
+    ],
+    "noAutomationCreated": true
+  },
+  "notes": [
+    "No firsthand visits, ratings or guaranteed arrival times invented.",
+    "No site-wide editorial or image-rights clearance claimed.",
+    "Editorial date updated only for four substantively revised guides.",
+    "No ranking or indexing guarantee."
+  ]
+}
