@@ -2911,7 +2911,34 @@
         "bangkok-street-food",
         "bangkok-three-day-first-visit",
         "bangkok-chatuchak"
-      ]
+      ],
+      "navigationRoute": {
+        "title": "Your Talat Noi walking route",
+        "summary": "From the MRT approach to working lanes and a riverside museum. Choose a stop to plan the next part of your walk.",
+        "mode": "walking",
+        "stops": [
+          {
+            "name": "Hua Lamphong MRT",
+            "query": "Hua Lamphong MRT Station Exit 1, Bangkok, Thailand",
+            "note": "Start with the Charoen Krung approach. Check the walking crossing from Exit 1 before entering the neighbourhood."
+          },
+          {
+            "name": "Soi Wanit 2",
+            "query": "Soi Wanit 2, Talat Noi, Bangkok, Thailand",
+            "note": "Use the public lane as an orientation point. Keep workshop entrances and delivery routes clear."
+          },
+          {
+            "name": "Chow Sue Kong Shrine",
+            "query": "Chow Sue Kong Shrine, Talat Noi, Bangkok, Thailand",
+            "note": "An optional worship-site stop. Follow current opening and photography notices."
+          },
+          {
+            "name": "Talat Noi Museum",
+            "query": "Talat Noi Museum, Soi Phanurangsi, Bangkok, Thailand",
+            "note": "Choose this as a community-history stop, then decide whether to finish with a café. Confirm opening before travelling."
+          }
+        ]
+      }
     },
     {
       "id": "bkk-daytrips",
@@ -3783,7 +3810,29 @@
           "Choose your airport transfer",
           "/guides/chiang-mai-airport-to-old-town-transfer"
         ]
-      ]
+      ],
+      "navigationRoute": {
+        "title": "An Old City walk to make your own",
+        "summary": "Choose a gate-side start and two temple stops. Shorten the walk when you need a rest, and check each temple’s visitor rules.",
+        "mode": "walking",
+        "stops": [
+          {
+            "name": "Tha Phae Gate",
+            "query": "Tha Phae Gate, Chiang Mai, Thailand",
+            "note": "Use the gate area as a starting reference. Check crossings and save the route to your first temple."
+          },
+          {
+            "name": "Wat Chedi Luang",
+            "query": "Wat Chedi Luang, Chiang Mai, Thailand",
+            "note": "Choose the visitor areas you want to see. Follow current admission, dress and photography instructions."
+          },
+          {
+            "name": "Wat Phra Singh",
+            "query": "Wat Phra Singh, Chiang Mai, Thailand",
+            "note": "An optional second temple stop. Keep time for a seated break and your return journey."
+          }
+        ]
+      }
     },
     {
       "id": "hkt-vegetarian",
@@ -6403,7 +6452,29 @@
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
         "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
       },
-      "seoTitle": "Hanoi Old Quarter: A Relaxed Half-Day Guide"
+      "seoTitle": "Hanoi Old Quarter: A Relaxed Half-Day Guide",
+      "navigationRoute": {
+        "title": "A small Old Quarter walk",
+        "summary": "A lake-side start, a few trading streets and room for a café break. This is a suggested sequence you can shorten.",
+        "mode": "walking",
+        "stops": [
+          {
+            "name": "Hoàn Kiếm Lake",
+            "query": "Hoan Kiem Lake, Hanoi, Vietnam",
+            "note": "Choose a meeting point by the lake before walking into the Old Quarter. Save your route back."
+          },
+          {
+            "name": "Hàng Bạc",
+            "query": "Hang Bac Street, Hanoi, Vietnam",
+            "note": "Explore the trading-street area at your own pace. Keep the outing focused on the shops and details that interest you."
+          },
+          {
+            "name": "Hàng Mã",
+            "query": "Hang Ma Street, Hanoi, Vietnam",
+            "note": "Browse current shop displays without expecting a particular seasonal event. A café break can be the end of the outing."
+          }
+        ]
+      }
     },
     {
       "id": "g-siem-reap-angkor",
@@ -8508,7 +8579,24 @@
           "Compare Dubai Creek’s districts",
           "/city/dubai"
         ]
-      ]
+      ],
+      "navigationRoute": {
+        "title": "A walk on the Bur Dubai side",
+        "summary": "Explore Al Fahidi and Al Seef on one bank. Abra crossings remain a separate choice in the route-and-fare guide below.",
+        "mode": "walking",
+        "stops": [
+          {
+            "name": "Al Fahidi Historical Neighbourhood",
+            "query": "Al Fahidi Historical Neighbourhood, Bur Dubai, Dubai, United Arab Emirates",
+            "note": "Start with the public lanes and choose any interior venue separately. Check current access and allow a seated break."
+          },
+          {
+            "name": "Al Seef waterfront",
+            "query": "Al Seef, Dubai, United Arab Emirates",
+            "note": "Continue only if the walking conditions suit your group. Choose a meal or waterfront pause; a boat crossing is optional."
+          }
+        ]
+      }
     },
     {
       "id": "ubud-town-forest-ridge-planning",

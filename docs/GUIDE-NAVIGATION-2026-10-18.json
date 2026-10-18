@@ -1,0 +1,9 @@
+{
+  "date": "2026-10-18",
+  "purpose": "Make guide navigation and real-world place discovery more visible.",
+  "coverage": {"chapterNavigators": 93, "curatedWalkingRoutes": 4, "independentPlaceExplorers": 57},
+  "walkingRoutes": ["bangkok-talatnoi", "dubai-creek-al-fahidi-outing", "hanoi-old-quarter", "chiang-mai-oldcity"],
+  "features": ["Entry shortcuts before the lead photograph", "Selectable schematic stop diagrams", "Previous and next place controls", "Place-specific map and directions links", "Whole walking route link for curated sequences only", "Numbered chapter links with current-section tracking", "One-time route drawing on entering the viewport and brief stop transitions"],
+  "constraints": ["Diagrams show stop order, not geographic coordinates or scale", "Boat journeys and service comparisons are not converted into walking itineraries", "Google Maps URLs open the actual external map; no new Maps API key or tile service", "Walking URLs contain at most three intermediate waypoints for mobile compatibility", "No fabricated distances, trip durations or GPS location", "Reduced-motion users receive static diagrams", "Editorial publication dates are unchanged for this navigation-only feature"],
+  "validation": ["17 unit tests pass", "Lint passes", "Content audit passes", "Production build passes", "390px route, place, and chapter layouts checked", "Keyboard Enter changes the selected stop", "Selected-stop directions update correctly", "Small-screen footer wordmark overflow corrected"]
+}
