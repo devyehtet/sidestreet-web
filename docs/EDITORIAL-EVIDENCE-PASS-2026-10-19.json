@@ -1,0 +1,304 @@
+{
+  "date": "2026-10-19",
+  "type": "Claim-specific evidence pass and place-card consistency correction",
+  "guides": [
+    {
+      "slug": "bangkok-temples",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-rooftops",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "tokyo-tsukiji",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-street-food",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "hong-kong-tram-first-ride",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "paris-carnavalet-budget",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "taipei-beitou-museum",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-design-week-2026-dates",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "yangon-walk",
+      "fullFactualClearance": false
+    }
+  ],
+  "claimEvidence": [
+    {
+      "guide": "bangkok-temples",
+      "claimChecked": "Grand Palace ฿500 inclusions and ticket-sales deadline; Wat Pho ฿300 and 08:00–19:30. Budget arithmetic excludes all other costs.",
+      "sources": [
+        "palace-official",
+        "pho-official"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "guide": "bangkok-rooftops",
+      "claimChecked": "SkyWalk indoor/outdoor floors, product separation, published late opening and conflicting headline/category price panels.",
+      "sources": [
+        "mahanakhon-skywalk-official",
+        "mahanakhon-main-official"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "guide": "tokyo-tsukiji",
+      "claimChecked": "Visitor-centre hours differ by day; individual shop hours and payment cannot be generalised; directory categories and professional-buyer priority.",
+      "sources": [
+        "tsukiji-info",
+        "tsukiji-main-official"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "guide": "hong-kong-tram-first-ride",
+      "claimChecked": "Ordinary adult fare HK$3.30, front-exit payment/no cash change and route-dependent termini.",
+      "sources": [
+        "hk-tram"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "guide": "paris-carnavalet-budget",
+      "claimChecked": "Individual free collections, separate temporary/group arrangements and differing last-entry deadlines; luggage restriction.",
+      "sources": [
+        "carnavalet"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "guide": "taipei-beitou-museum",
+      "claimChecked": "Anniversary window 16 October–1 November; regular Tuesday–Sunday schedule and past 17–18 October lecture dates.",
+      "sources": [
+        "beitou-anniversary-2026"
+      ],
+      "checkedAt": "2026-10-19"
+    },
+    {
+      "guide": "chiang-mai-design-week-2026-dates",
+      "claimChecked": "2026 dates/theme, current programme district filters and stale 2025 date in the About body.",
+      "sources": [
+        "cmdw-2026-news",
+        "cmdw-2026-program-th"
+      ],
+      "checkedAt": "2026-10-19"
+    }
+  ],
+  "placeFactReviews": [
+    {
+      "id": "bkk-grand-palace",
+      "checkedAt": "2026-10-19",
+      "sourceIds": [
+        "palace-official"
+      ],
+      "fields": [
+        "hours",
+        "price"
+      ]
+    },
+    {
+      "id": "bkk-wat-pho",
+      "checkedAt": "2026-10-19",
+      "sourceIds": [
+        "pho-official"
+      ],
+      "fields": [
+        "hours",
+        "price"
+      ]
+    },
+    {
+      "id": "bkk-jim-thompson",
+      "checkedAt": "2026-10-19",
+      "sourceIds": [
+        "jth"
+      ],
+      "fields": [
+        "hours",
+        "price"
+      ]
+    },
+    {
+      "id": "bkk-mahanakhon",
+      "checkedAt": "2026-10-19",
+      "sourceIds": [
+        "mahanakhon-skywalk-official"
+      ],
+      "fields": [
+        "hours",
+        "price"
+      ]
+    }
+  ],
+  "instructionFieldsRemoved": [
+    [
+      "han-hoan-kiem",
+      "hours"
+    ],
+    [
+      "han-hoan-kiem",
+      "price"
+    ],
+    [
+      "han-hang-bac",
+      "hours"
+    ],
+    [
+      "han-hang-bac",
+      "price"
+    ],
+    [
+      "han-hang-ma",
+      "hours"
+    ],
+    [
+      "han-hang-ma",
+      "price"
+    ],
+    [
+      "rep-angkor-wat",
+      "hours"
+    ],
+    [
+      "rep-angkor-wat",
+      "price"
+    ],
+    [
+      "rep-bayon",
+      "hours"
+    ],
+    [
+      "rep-bayon",
+      "price"
+    ],
+    [
+      "rep-ta-prohm",
+      "hours"
+    ],
+    [
+      "rep-ta-prohm",
+      "price"
+    ],
+    [
+      "tpe-dihua",
+      "hours"
+    ],
+    [
+      "tpe-dihua",
+      "price"
+    ],
+    [
+      "tpe-visitor-centre",
+      "hours"
+    ],
+    [
+      "tpe-visitor-centre",
+      "price"
+    ],
+    [
+      "tpe-yongle",
+      "hours"
+    ],
+    [
+      "tpe-yongle",
+      "price"
+    ],
+    [
+      "hkg-central-pier",
+      "hours"
+    ],
+    [
+      "hkg-central-pier",
+      "price"
+    ],
+    [
+      "hkg-star-ferry",
+      "hours"
+    ],
+    [
+      "hkg-star-ferry",
+      "price"
+    ],
+    [
+      "hkg-tsim-sha-tsui",
+      "hours"
+    ],
+    [
+      "hkg-tsim-sha-tsui",
+      "price"
+    ],
+    [
+      "par-ile-cite",
+      "hours"
+    ],
+    [
+      "par-ile-cite",
+      "price"
+    ],
+    [
+      "par-pont-saint-louis",
+      "hours"
+    ],
+    [
+      "par-pont-saint-louis",
+      "price"
+    ],
+    [
+      "par-ile-saint-louis",
+      "hours"
+    ],
+    [
+      "par-ile-saint-louis",
+      "price"
+    ],
+    [
+      "ist-sultanahmet",
+      "hours"
+    ],
+    [
+      "ist-sultanahmet",
+      "price"
+    ],
+    [
+      "ist-karakoy",
+      "hours"
+    ],
+    [
+      "ist-karakoy",
+      "price"
+    ],
+    [
+      "ist-kadikoy",
+      "hours"
+    ],
+    [
+      "ist-kadikoy",
+      "price"
+    ]
+  ],
+  "limits": [
+    "No first-hand visits were supplied.",
+    "A recorded source check is a published-reference check, not a guarantee of operation.",
+    "Remaining place facts without field-specific checks are labelled reference details.",
+    "Current local festival permissions, Big Buddha access and Yangon operating details remain unconfirmed.",
+    "This pass does not establish complete factual, originality or legal clearance."
+  ],
+  "reviewResubmitted": false
+}

@@ -1,0 +1,717 @@
+{
+  "date": "2026-10-19",
+  "scope": "Limited screen of the reader task, first three main claim paragraphs and cited-source mapping for the retained guides. Existing reachability evidence is separate; no fresh full-facts or full-prose review is claimed.",
+  "retainedGuideCount": 43,
+  "guides": [
+    {
+      "slug": "bangkok-talatnoi",
+      "readerTask": "Start from Hua Lamphong MRT, explore Soi Wanit 2 and choose a museum or café stop. A flexible 2–4-hour plan with map links and visitor etiquette.",
+      "claimTopics": [
+        "How to reach Talat Noi from Hua Lamphong MRT",
+        "A small walking route: Soi Wanit 2 and the riverside",
+        "Talat Noi Museum or a café: choose your main stop"
+      ],
+      "sourceIds": [
+        "talatnoi-tat"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-hotels",
+      "readerTask": "Four listings, with location, room category and booking terms kept separate from reputation.",
+      "claimTopics": [
+        "Choosing an area",
+        "Visiting without staying",
+        "When to book"
+      ],
+      "sourceIds": [
+        "mo-bangkok",
+        "peninsula-bangkok",
+        "siam-bangkok",
+        "capella-bangkok"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Comparison prompts and identifiable hotels, not inspected-room reviews; no fixed rate, upgrade or shuttle eligibility promised.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "hanoi-old-quarter",
+      "readerTask": "A lake-side start, a small selection of guild streets and a café break, with a flexible route for first-time visitors.",
+      "claimTopics": [
+        "Begin beside Hoàn Kiếm Lake",
+        "Choose two trading streets, not all of them",
+        "Make a café stop part of the route"
+      ],
+      "sourceIds": [
+        "hanoi-tourism",
+        "hanoi-arrival"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "siem-reap-angkor",
+      "readerTask": "Plan temple time, transport and rest separately, with published pass prices and a shorter first-visit option.",
+      "claimTopics": [
+        "Choose the pass for your actual visiting days",
+        "Give Angkor Wat a dedicated slot",
+        "Decide between two stops and three"
+      ],
+      "sourceIds": [
+        "angkor-tickets",
+        "angkor-heritage"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Prices explicitly retain the 9 October source-check date. Current Angkor source fetches were restricted; no fresh price confirmation was inferred.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "taipei-dadaocheng",
+      "readerTask": "Start with Dihua Street, leave space for tea and use the visitor centre to shape an outing that fits your time.",
+      "claimTopics": [
+        "Start with the visitor centre",
+        "Browse Dihua Street with a purpose",
+        "Use Yongle Market as an orientation point"
+      ],
+      "sourceIds": [
+        "taipei-dihua",
+        "taipei-mrt",
+        "taipei-visitor"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "hong-kong-harbour",
+      "readerTask": "Link Central and Tsim Sha Tsui with the Star Ferry, with time on each shore and a flexible return journey.",
+      "claimTopics": [
+        "Find the correct pier before the queue",
+        "Choose the deck and check the fare",
+        "Give each shore a different purpose"
+      ],
+      "sourceIds": [
+        "hongkong-transit",
+        "hongkong-ferry"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "paris-seine-islands",
+      "readerTask": "An outdoor-first walk around Île de la Cité and Île Saint-Louis, with optional interiors kept outside the basic plan.",
+      "claimTopics": [
+        "Start with a meeting point on Île de la Cité",
+        "Cross Pont Saint-Louis and slow down",
+        "Separate the river walk from paid visits"
+      ],
+      "sourceIds": [
+        "paris-islands",
+        "paris-arrival"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "istanbul-neighbourhoods-ferry",
+      "readerTask": "Give Sultanahmet its own time, then pair Karaköy with Kadıköy on a separate harbour-focused outing.",
+      "claimTopics": [
+        "Give Sultanahmet a focused half-day",
+        "Make Karaköy the beginning of another outing",
+        "Check the Kadıköy connection directly"
+      ],
+      "sourceIds": [
+        "istanbul-culture",
+        "istanbul-ferry",
+        "istanbul-destinations"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "hanoi-culture-choices",
+      "readerTask": "Compare the Temple of Literature with the Vietnamese Women’s Museum, then give one place time instead of chasing both.",
+      "claimTopics": [
+        "Choose the temple for architecture and education",
+        "Choose the museum for people and material culture",
+        "Keep the two locations separate in your plan"
+      ],
+      "sourceIds": [
+        "hanoi-culture"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "siem-reap-craft-afternoon",
+      "readerTask": "See making as well as finished objects at Artisans Angkor, and keep the town craft centre distinct from the silk-farm outing.",
+      "claimTopics": [
+        "Choose the town craft centre first",
+        "Observe a process before choosing a purchase",
+        "Keep the silk farm as a separate decision"
+      ],
+      "sourceIds": [
+        "siem-crafts"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "readerTask": "Compare the Grand Bazaar with the Spice Bazaar and keep shopping, food and the journey between them in separate parts of the plan.",
+      "claimTopics": [
+        "Start with the kind of shopping you enjoy",
+        "Agree what the displayed price refers to",
+        "Treat the second bazaar as optional"
+      ],
+      "sourceIds": [
+        "istanbul-bazaars",
+        "istanbul-grandbazaar",
+        "istanbul-spicebazaar"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "tokyo-solo-asakusa",
+      "readerTask": "One neighbourhood, a temple approach and a riverside pause: a flexible first-day plan with room for lunch and finding your way home.",
+      "claimTopics": [
+        "Save your arrival and return before leaving the hotel",
+        "Use the temple approach as the main outing",
+        "Give lunch its own decision"
+      ],
+      "sourceIds": [
+        "tokyo-asakusa",
+        "google-trends-travel"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "taipei-slow-weekend",
+      "readerTask": "Pair a Dadaocheng afternoon with a separate Beitou culture outing, using one main area per day and keeping meals and transport flexible.",
+      "claimTopics": [
+        "Day one: choose a reason to browse Dadaocheng",
+        "Leave a real gap around your meal",
+        "Day two: make Beitou a culture outing first"
+      ],
+      "sourceIds": [
+        "taipei-shopping-district",
+        "beitou-museum",
+        "taipei-mrt",
+        "google-trends-travel"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "mexico-city-food-outing",
+      "readerTask": "Choose the format that fits your appetite, language needs and budget, then plan around one market instead of a race between famous dishes.",
+      "claimTopics": [
+        "For lunch, save the correct San Juan market",
+        "Self-guided: keep the choices small",
+        "Guided: compare the actual booking, not the headline"
+      ],
+      "sourceIds": [
+        "mex-arcos-market",
+        "google-travel-2026"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "barcelona-first-visit-neighbourhoods",
+      "readerTask": "Build a small architecture outing around one part of Barcelona, with a separate plan for hillside tickets and time to sit.",
+      "claimTopics": [
+        "Give the Gothic Quarter a clear beginning and end",
+        "A cathedral landmark is different from an interior visit",
+        "For Park Güell, choose the ticket before the transfer"
+      ],
+      "sourceIds": [
+        "bcn-gothic-official",
+        "bcn-guell-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "rome-pantheon-colosseum-planning",
+      "readerTask": "Compare a central-square outing with an archaeological visit, then build the day around the ticket and energy you actually have.",
+      "claimTopics": [
+        "Use the Pantheon square as a meeting point, not an admission ticket",
+        "Read the Colosseum product as a list of permissions",
+        "Give the Forum and Palatine their own energy budget"
+      ],
+      "sourceIds": [
+        "rom-pantheon-official",
+        "rom-colosseum-official",
+        "rom-forum-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "amsterdam-museum-canals-ferry",
+      "readerTask": "Choose a main experience before combining the Rijksmuseum, central canals and a trip across the IJ to NDSM.",
+      "claimTopics": [
+        "Let the Rijksmuseum reservation organise the morning",
+        "Make the canal walk a route rather than a theme",
+        "Cross to NDSM with a reason to stay"
+      ],
+      "sourceIds": [
+        "ams-rijks-official",
+        "ams-canals-official",
+        "ams-ndsm-official",
+        "ams-ferry-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "berlin-history-museum-park",
+      "readerTask": "Build an afternoon around the Brandenburg Gate area or Museum Island without turning the whole city into one walking checklist.",
+      "claimTopics": [
+        "Start with the meaning of the Brandenburg Gate area",
+        "Museum Island needs a museum choice",
+        "Use Tiergarten for a bounded break"
+      ],
+      "sourceIds": [
+        "ber-gate-official",
+        "ber-museums-official",
+        "ber-tiergarten-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "dubai-creek-al-fahidi-outing",
+      "readerTask": "Choose an Old Dubai walk or Creek crossing, compare RTA route names and published fares, and avoid planning around a suspended service.",
+      "claimTopics": [
+        "Al Fahidi: choose the lanes and one cultural stop",
+        "Al Seef is a different waterfront setting",
+        "Which abra route and fare should you use?"
+      ],
+      "sourceIds": [
+        "dxb-burdubai-official",
+        "dxb-seef-official",
+        "dxb-abra-official",
+        "dxb-rta-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Route-specific fare and temporary-status statements retain the explicit 18 October source date; different abra products are distinguished.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "readerTask": "Choose a town outing, a sanctuary visit or a ridge walk, with transport and sacred-space rules considered separately.",
+      "claimTopics": [
+        "Use the palace area for a small town outing",
+        "Monkey Forest is an optional sanctuary visit",
+        "Campuhan needs a turnaround point"
+      ],
+      "sourceIds": [
+        "ubd-tourism-official",
+        "ubd-palace-official",
+        "ubd-forest-official",
+        "ubd-forest-rules"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "readerTask": "Compare the whole door-to-door journey, with luggage, arrival time and the final hotel connection included.",
+      "claimTopics": [
+        "Start with the airport code and hotel entrance",
+        "Compare rail using every leg of the journey",
+        "For a vehicle, agree what the quote covers"
+      ],
+      "sourceIds": [
+        "bkk-airport-aot",
+        "bkk-bts-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-three-day-first-visit",
+      "readerTask": "A flexible first-visit plan that groups activities by area instead of crossing the city for every meal.",
+      "claimTopics": [
+        "Day one: keep the temple plan small",
+        "Day two: give a neighbourhood its own purpose",
+        "Day three: use a choice, not an obligation"
+      ],
+      "sourceIds": [
+        "arun-tat",
+        "talatnoi-tat",
+        "bkk-bts-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-doi-suthep-visit",
+      "readerTask": "Choose an approach, agree transport and leave the rest of the mountain optional.",
+      "claimTopics": [
+        "Prepare for a place of worship",
+        "Choose transport with the return included",
+        "Check the approach against your group’s needs"
+      ],
+      "sourceIds": [
+        "doi-suthep-tat",
+        "cm-government"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-two-day-itinerary",
+      "readerTask": "A city-based weekend framework with room for a northern Thai meal and changes of plan.",
+      "claimTopics": [
+        "Use the Old City as your first-day anchor",
+        "Choose a mountain visit or another city outing",
+        "Fit markets to the calendar and the return"
+      ],
+      "sourceIds": [
+        "cm-government",
+        "doi-suthep-tat",
+        "cm-food-tat"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-airport-to-beach-transfer",
+      "readerTask": "Check the actual hotel location before choosing a west-coast bus or a booked vehicle.",
+      "claimTopics": [
+        "Find the route that actually serves your area",
+        "Locate boarding after collecting luggage",
+        "Compare a direct vehicle honestly"
+      ],
+      "sourceIds": [
+        "phuket-bus-official",
+        "phuket-bus-boarding"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "readerTask": "Choose accommodation and transport first, then give each day a clear purpose.",
+      "claimTopics": [
+        "Give Old Town a dedicated visit",
+        "Choose one beach area for the second day",
+        "Keep day three available for an actual priority"
+      ],
+      "sourceIds": [
+        "phuket-oldtown-tat",
+        "phuket-beaches-government",
+        "phuket-bus-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "kyoto-first-visit-two-area-plan",
+      "readerTask": "A neighbourhood-based approach that leaves room for temple access, a meal and respectful photography.",
+      "claimTopics": [
+        "A historic-street day has visitor boundaries",
+        "An Arashiyama day can stay in the west",
+        "Plan the return before adding an evening"
+      ],
+      "sourceIds": [
+        "kyoto-respect"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Two alternative districts and visitor-boundary advice; no current workshop, entrance ticket or performer access guaranteed.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "readerTask": "Choose a small part of the official heritage trail, with architecture, living streets and a meal as separate priorities.",
+      "claimTopics": [
+        "Start with the part of the trail you want to understand",
+        "Leave room for streets that are still in use",
+        "Give lunch and the waterfront their own time"
+      ],
+      "sourceIds": [
+        "penang-heritage-trail"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "readerTask": "Compare a hilltop approach with a stupa-area outing, leaving transport and worship space in the plan.",
+      "claimTopics": [
+        "Swayambhu requires an approach decision",
+        "Boudha offers a different kind of attention",
+        "Use a two-outing plan when both matter"
+      ],
+      "sourceIds": [
+        "nepal-swayambhu",
+        "nepal-boudha"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "marrakech-medina-first-visit",
+      "readerTask": "Choose a manageable medina route and leave enough time to find your way back.",
+      "claimTopics": [
+        "Give the medina walk a beginning and an end",
+        "Choose whether shopping or the square is the focus",
+        "Keep gardens and religious access separate"
+      ],
+      "sourceIds": [
+        "morocco-medina"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-restaurants-best-for-first-visit",
+      "readerTask": "Choose between a specialist noodle stop and a branch-specific sit-down dinner near Bangkok’s historic district.",
+      "claimTopics": [
+        "Thipsamai: best for a pad Thai-focused stop",
+        "Supanniga Tha Tien: best for planning a sit-down meal",
+        "How to use this shortlist"
+      ],
+      "sourceIds": [
+        "thipsamai-official",
+        "supanniga-tha-tien"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "readerTask": "Khao Soi Mae Sai and Huen Muan Jai serve different meal plans; choose the format that fits your group.",
+      "claimTopics": [
+        "Khao Soi Mae Sai: best for a focused noodle meal",
+        "Huen Muan Jai: best for sharing regional dishes",
+        "How to use this shortlist"
+      ],
+      "sourceIds": [
+        "mae-sai-michelin",
+        "huen-muan-jai-michelin"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "readerTask": "One Chun and Go Benz offer two distinct reasons to eat in Phuket town; a beach stay still needs a separate transport plan.",
+      "claimTopics": [
+        "One Chun: best for a shared southern Thai meal",
+        "Go Benz: best for a focused pork rice or noodle meal",
+        "How to use this shortlist"
+      ],
+      "sourceIds": [
+        "one-chun-michelin",
+        "go-benz-michelin"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "readerTask": "Compare ICONSIAM for a multi-store outing, Jim Thompson for a focused gift and BTS information for the journey between stops.",
+      "claimTopics": [
+        "ICONSIAM: best for a planned mall visit",
+        "Jim Thompson: best for a specific textile or accessory gift",
+        "BTS: best for checking a rail journey before leaving"
+      ],
+      "sourceIds": [
+        "iconsiam-official",
+        "jim-retail-official",
+        "bkk-bts-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "readerTask": "Choose Jing Jai for creative browsing, Warorot for a market stop or a booked Thai Farm cooking session with pickup checked separately.",
+      "claimTopics": [
+        "Jing Jai Central: best for a deliberate creative-shopping visit",
+        "Warorot Market: best for a market stop on your city route",
+        "Thai Farm Cooking School: best for a booked hands-on session"
+      ],
+      "sourceIds": [
+        "jing-jai-official",
+        "thai-farm-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-shops-services-best-for-town-and-transfers",
+      "readerTask": "Use Central Phuket for specific mall errands, Lard Yai for a dated market outing and route-specific bus information for transport.",
+      "claimTopics": [
+        "Central Phuket: best for directory-led shopping",
+        "Lard Yai: best when a walking-market visit fits your date",
+        "Phuket Smart Bus: best for checking a specific route"
+      ],
+      "sourceIds": [
+        "central-phuket-official",
+        "phuket-bus-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "readerTask": "Plan a free Dragon Line bus ride through Phuket Town: the operator’s published hours, route areas, timetable and live tracking, separate from airport buses.",
+      "claimTopics": [
+        "What the operator says",
+        "How to plan an Old Town ride",
+        "When it helps a visitor"
+      ],
+      "sourceIds": [
+        "dragon-line-official",
+        "phuket-bus-official",
+        "dragon-line-tracking"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Operator-published timetable and tracking are distinguished from exact bus arrivals, airport services and hotel pickup.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-tailors-best-for-your-trip",
+      "readerTask": "Compare Tailor On Ten, Jesse & Son and The Empire Tailors by appointment format, location and the fitting plan your trip can accommodate.",
+      "claimTopics": [
+        "Tailor On Ten: an appointment-led choice near Nana",
+        "Jesse & Son: discuss a time-sensitive garment before travelling",
+        "The Empire Tailors: compare garment options on Sukhumvit Road"
+      ],
+      "sourceIds": [
+        "tailor-on-ten-contact",
+        "jesse-son-faq",
+        "empire-tailors-contact"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-dental-clinics-for-visitors",
+      "readerTask": "Compare BIDC Ratchada, BIDH Sukhumvit Soi 2 and Bangkok Smile Asok by location and appointment arrangements, with clinician assessment and follow-up kept central.",
+      "claimTopics": [
+        "BIDC Ratchada: a main-centre enquiry in Din Daeng",
+        "BIDH: a hospital-based appointment enquiry on Soi 2",
+        "Bangkok Smile Asok: confirm the Sukhumvit 21 branch"
+      ],
+      "sourceIds": [
+        "bidc-contact",
+        "bidh-official",
+        "bangkok-smile-asok-contact",
+        "cdc-medical-tourism"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Identifiable branch and appointment comparison only; no clinical outcomes, accreditation verification or treatment ranking claimed.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-spas-best-for-your-trip",
+      "readerTask": "Compare Health Land Asoke, Let’s Relax Thonglor Onsen & Spa and Divana Nurture by the session format and location you want.",
+      "claimTopics": [
+        "Health Land Asoke: best for a menu-led massage enquiry",
+        "Let’s Relax Thonglor: best for comparing onsen and spa formats",
+        "Divana Nurture: best for a branch-specific spa reservation on Soi 11"
+      ],
+      "sourceIds": [
+        "health-land-asoke",
+        "lets-relax-thonglor",
+        "divana-current-locations"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-airport-to-old-town-transfer",
+      "readerTask": "Compare the airport taxi listing, current public transport information and hotel pickups, with a checklist for luggage, quotes and late arrivals.",
+      "claimTopics": [
+        "Airport taxi: confirm the destination and full quote",
+        "Public transport: verify a complete route before choosing it",
+        "Hotel pickup: agree what happens if your flight is delayed"
+      ],
+      "sourceIds": [
+        "cnx-airport-taxi-official",
+        "cnx-airport-transport-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named places, products or route choices support a distinct planning task. Time allowances and unconfirmed operations must not be converted into current guarantees.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-national-museum-visit",
+      "readerTask": "Plan a Chiang Mai National Museum visit with exhibition hours, a realistic reading plan and a separate journey from the Old Town.",
+      "claimTopics": [
+        "What the museum helps you understand",
+        "Check exhibition hours, not office hours",
+        "A suggested 60–90-minute gallery plan"
+      ],
+      "sourceIds": [
+        "cnx-national-museum-official"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Exhibition and office opening are distinguished; duration is an editorial suggestion and no current ticket tariff is invented.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-thai-hua-museum-visit",
+      "readerTask": "Explore Phuket’s Chinese community and former school building, then plan a short Old Town walk without rushing a beach-to-town journey.",
+      "claimTopics": [
+        "Why start with Thai Hua?",
+        "A manageable museum-and-walk plan",
+        "What to check before leaving your hotel"
+      ],
+      "sourceIds": [
+        "phuket-thaihua-government"
+      ],
+      "disposition": "Retained after limited task/claim screen; no text refresh implied",
+      "note": "Named former-school museum and thematic visit; no invented precise admission tariff or current daily hours.",
+      "fullFactualClearance": false
+    }
+  ],
+  "notEstablished": [
+    "Complete article-by-article factual clearance",
+    "Web-wide originality or permission clearance",
+    "AdSense eligibility or approval"
+  ],
+  "reviewResubmitted": false
+}

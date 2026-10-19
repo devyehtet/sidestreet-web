@@ -1,0 +1,69 @@
+[
+  {
+    "id": "skywalk-hours",
+    "date": "2026-10-19",
+    "title": "Bangkok SkyWalk: published hours and ticket categories",
+    "guide": "bangkok-rooftops",
+    "text": [
+      "The place card previously showed a 7pm closing time. The operator now publishes opening to midnight and last access at 11pm; the guide and card have been corrected.",
+      "The operator displays differing price panels. The guide now distinguishes adult, child and senior categories and directs readers to the official booking for the selected date and slot. A lowest “from” price is not presented as the adult fare."
+    ],
+    "sources": [
+      "mahanakhon-skywalk-official",
+      "mahanakhon-main-official"
+    ]
+  },
+  {
+    "id": "big-buddha-access",
+    "date": "2026-10-19",
+    "title": "Phuket Big Buddha: access remains unconfirmed",
+    "guide": "phuket-big-buddha",
+    "text": [
+      "An old opening-hours claim remained in the place card after the article had explained that current access was unconfirmed. The hours and unsupported free-entry statement have been removed.",
+      "This correction does not assert that the site is open or closed. The guide explains what to establish before arranging a visit and offers separate Old Town and museum alternatives."
+    ],
+    "sources": []
+  },
+  {
+    "id": "festival-and-concert-context",
+    "date": "2026-10-19",
+    "title": "Past event dates and archival photographs",
+    "guide": "phuket-vegetarian",
+    "text": [
+      "The announced main Phuket Vegetarian Festival period, 10–18 October 2026, is now described as past. The Weeknd’s linked 11–13 October Bangkok listing is also identified as an archived example. Neither is presented as an upcoming booking recommendation.",
+      "Photograph notes distinguish archival scenes from current events, including a Ping River krathong photograph from 2015 and a Romanian concert crowd from 2022. Image notes identify context; they do not establish a current local programme."
+    ],
+    "sources": [
+      "phuket-veg-tat-2026",
+      "weeknd-promoter"
+    ]
+  },
+  {
+    "id": "design-week-edition",
+    "date": "2026-10-19",
+    "title": "Chiang Mai Design Week: use the current announcement and programme",
+    "guide": "chiang-mai-design-week-2026-dates",
+    "text": [
+      "The 2026 announcement confirms 5–13 December and the theme Local Thunders, Global Transformation. The organiser’s About page still contains an older 2025 date beneath its updated header.",
+      "The guide now relies on the dated announcement and the 2026 programme filters, without treating an office address or broad district name as a confirmed session venue. Workshop availability and registration remain separate checks."
+    ],
+    "sources": [
+      "cmdw-2026-news",
+      "cmdw-2026-program-th"
+    ]
+  },
+  {
+    "id": "tsukiji-shop-hours",
+    "date": "2026-10-19",
+    "title": "Tsukiji: visitor-centre hours are not shop hours",
+    "guide": "tokyo-tsukiji",
+    "text": [
+      "The guide now separates Plat Tsukiji visitor-centre opening from individual shops, payment methods and the market calendar. It no longer suggests that every business follows one schedule or payment rule.",
+      "The revised plan lets readers choose between a meal, ingredients and kitchenware using the official directory. Toyosu auction viewing remains a separate destination and enquiry."
+    ],
+    "sources": [
+      "tsukiji-info",
+      "tsukiji-main-official"
+    ]
+  }
+]

@@ -1,4 +1,5 @@
 import fs from 'node:fs';
+import {placeFacts} from '../src/lib/place-facts.mjs';
 const root = new URL('../', import.meta.url);
 const data = JSON.parse(fs.readFileSync(new URL('src/content/content.json', root), 'utf8'));
 const errors = [];
@@ -27,6 +28,12 @@ for (const city of data.cities) image(city.img, city.id);
 for (const place of data.places) {
   if (!cities.has(place.city)) errors.push(`${place.id}: unknown city`);
   image(place.img, place.id); references(place.src, place.id); webUrl(place.url, place.id);
+  if (place.factReview) {
+    references(place.factReview.sourceIds, place.id);
+    const fields=place.factReview.fields;
+    if (!Array.isArray(fields)||!fields.length||fields.some(field=>!['hours','price'].includes(field))) errors.push(`${place.id}: invalid fact-review fields`);
+    else if (fields.some(field=>!placeFacts(place,data.sources).find(row=>row.field===field)?.checkedAt)) errors.push(`${place.id}: fact review lacks a valid date, linked source or field value`);
+  }
   if (!place.url && !place.src?.length) warnings.push(`${place.id}: no venue or research link`);
 }
 for (const event of data.events) {
@@ -34,6 +41,13 @@ for (const event of data.events) {
   references(event.src, event.id); webUrl(event.url, event.id);
   if (!event.sample && event.publicationStatus !== 'research' && !event.url && !event.src?.length) errors.push(`${event.id}: published event has no source`);
   if (!event.sample && !event.recur && event.publicationStatus !== 'research' && !event.verifiedAt) errors.push(`${event.id}: dated public event needs a source-check date`);
+}
+const corrections=JSON.parse(fs.readFileSync(new URL('src/content/corrections.json',root),'utf8'));
+unique(corrections,'id','Correction');
+for(const entry of corrections){
+ if(!data.stories.some(story=>story.slug===entry.guide))errors.push(`${entry.id}: unknown corrected guide`);
+ references(entry.sources,entry.id);
+ if(!/^\d{4}-\d{2}-\d{2}$/.test(entry.date)||!entry.title||!entry.text?.length)errors.push(`${entry.id}: incomplete correction record`);
 }
 const rows = data.stories.map(story => {
   if (story.city !== 'world' && !cities.has(story.city)) errors.push(`${story.id}: unknown city ${story.city}`);

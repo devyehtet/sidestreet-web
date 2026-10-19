@@ -43,7 +43,8 @@
     },
     "jth": {
       "name": "Jim Thompson House Museum (official)",
-      "url": "https://jimthompsonhouse.org/"
+      "url": "https://jimthompsonhouse.org/",
+      "consultedAt": "2026-10-19"
     },
     "p101nm": {
       "name": "Phuket 101, Bangkok night markets (updated 4 August 2026)",
@@ -257,12 +258,12 @@
     "palace-official": {
       "name": "Grand Palace · official visitor information",
       "url": "https://www.royalgrandpalace.th/en/visit/practical-information",
-      "consultedAt": "2026-10-08"
+      "consultedAt": "2026-10-19"
     },
     "pho-official": {
       "name": "Wat Pho · official visit planning",
       "url": "https://www.watpho.com/th/contact/plan",
-      "consultedAt": "2026-10-08"
+      "consultedAt": "2026-10-19"
     },
     "arun-tat": {
       "name": "Tourism Authority of Thailand · Wat Arun",
@@ -362,7 +363,7 @@
     "hk-tram": {
       "name": "Hong Kong Tramways · schedules and fares",
       "url": "https://www.hktramways.com/en/schedules-fares/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "hk-tram-background": {
       "name": "Hong Kong Tourism Board · tram background",
@@ -372,7 +373,7 @@
     "carnavalet": {
       "name": "Musée Carnavalet · practical visitor information",
       "url": "https://www.carnavalet.paris.fr/en/visit/pratical-information",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "istanbul-bazaars": {
       "name": "GoTürkiye · historic bazaars",
@@ -473,7 +474,7 @@
     "tsukiji-info": {
       "name": "Tsukiji Outer Market — official visitor information",
       "url": "https://www.tsukiji.or.jp/english/plattsukiji/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "tsukiji-calendar": {
       "name": "Tsukiji Outer Market — official operating calendar",
@@ -1194,6 +1195,36 @@
       "url": "https://prod.nyrr.org/media-center/news/2026/10/14/new-york-road-runners-celebrates-50-years-of-the-5-boro-tcs-new-york-city-marathon-course-with-limited-edition-merchandise-and-gear",
       "consultedAt": "2026-10-19",
       "publishedAt": "2026-10-14"
+    },
+    "mahanakhon-skywalk-official": {
+      "name": "King Power Mahanakhon — SkyWalk areas, tickets and visitor information",
+      "url": "https://kingpowermahanakhon.co.th/experience/mahanakhon-skywalk",
+      "consultedAt": "2026-10-19"
+    },
+    "mahanakhon-main-official": {
+      "name": "King Power Mahanakhon — product directory and current visitor information",
+      "url": "https://kingpowermahanakhon.co.th/",
+      "consultedAt": "2026-10-19"
+    },
+    "tsukiji-main-official": {
+      "name": "Tsukiji Outer Market — shop categories and visitor guide",
+      "url": "https://www.tsukiji.or.jp/english/",
+      "consultedAt": "2026-10-19"
+    },
+    "beitou-anniversary-2026": {
+      "name": "Beitou Hot Spring Museum — 2026 anniversary programme",
+      "url": "https://hotspringmuseum.taipei/en/content.aspx?id=606&pid=3",
+      "consultedAt": "2026-10-19"
+    },
+    "cmdw-2026-news": {
+      "name": "Chiang Mai Design Week — 2026 organiser announcements",
+      "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/guide?page=0",
+      "consultedAt": "2026-10-19"
+    },
+    "cmdw-2026-program-th": {
+      "name": "Chiang Mai Design Week — 2026 programme area filters",
+      "url": "https://www.chiangmaidesignweek.com/cmdw2026/program",
+      "consultedAt": "2026-10-19"
     }
   },
   "cities": [
@@ -2121,12 +2152,10 @@
       "city": "bkk",
       "cat": "things",
       "kind": "list",
-      "mins": 4,
+      "mins": 3,
       "title": "Bangkok temples: a flexible Grand Palace, Wat Pho and Wat Arun day",
       "dek": "A suggested sequence with a two-stop alternative, separate admission costs and room to rest.",
       "src": [
-        "ytg",
-        "timeout-bkk",
         "palace-official",
         "pho-official",
         "arun-tat"
@@ -2154,6 +2183,18 @@
         }
       ],
       "sections": [
+        {
+          "h": "What the two-stop admission budget actually covers",
+          "p": [
+            "For a foreign visitor, the Grand Palace’s published ticket is ฿500 and includes Wat Phra Kaew and the Queen Sirikit Museum of Textiles. Wat Pho separately publishes ฿300. The two admission lines therefore total ฿800 per foreign visitor, or ฿1,600 for two, before transport, food or any optional service. Check eligibility and the actual ticket category before using that calculation.",
+            "The palace page distinguishes ticket sales ending at 3:30pm from a 4:30pm closing time in its footer, while another panel uses a different closing description. Plan to arrive well before ticket sales finish and use current notices for your day. A late-afternoon arrival is a poor way to preserve a full palace visit.",
+            "Wat Pho’s visitor page lists 8am–7:30pm daily and treats massage as a separate priced service. Its later hours can support a shorter palace-and-Wat-Pho day, but they do not make the river crossing or Wat Arun part of the same admission."
+          ],
+          "sourceIds": [
+            "palace-official",
+            "pho-official"
+          ]
+        },
         {
           "h": "Build the day around one priority",
           "p": [
@@ -2242,21 +2283,35 @@
           ]
         ]
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "dateModified": "2026-10-09",
+      "researchNote": "Admission and visitor-rule sources checked 19 October 2026. The ฿800 calculation covers the two listed foreign-visitor admissions only. Route order and time allowances are editorial suggestions; the palace page has differing closing-time descriptions, so consult current notices.",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
-      "seoTitle": "Bangkok Temples: Grand Palace, Wat Pho & Wat Arun"
+      "seoTitle": "Bangkok Temples: Grand Palace, Wat Pho & Wat Arun",
+      "planLinks": [
+        [
+          "Grand Palace tickets and visitor rules",
+          "https://www.royalgrandpalace.th/en/visit/practical-information"
+        ],
+        [
+          "Wat Pho admission and planning",
+          "https://www.watpho.com/th/contact/plan"
+        ],
+        [
+          "Plan the shorter two-stop visit",
+          "/city/bangkok#bkk-wat-pho"
+        ]
+      ]
     },
     {
       "id": "bkk-street-food",
       "city": "bkk",
       "cat": "food",
       "kind": "list",
-      "mins": 4,
+      "mins": 3,
       "title": "Bangkok street food: turn a shortlist into a meal",
       "dek": "Use nine listings to choose a small food outing, with a queue limit and an ordering plan.",
       "src": [
@@ -2266,7 +2321,7 @@
       ],
       "body": [
         "A list of nine food businesses is useful only if it helps you choose. Start with the dish you want to try, then compare the location and the effort of getting there. A famous name is less useful when it leaves you crossing Bangkok for a meal you did not especially want.",
-        "This guide offers planning choices rather than taste scores. We have not inspected every kitchen or eaten every dish. Choose one main meal, allow a second stop if you still want it and treat the other names as options for future outings."
+        "This is a research-based shortlist with planning comparisons, not a personal tasting or kitchen inspection. Choose one main meal, allow a second stop if you still want it and treat the other names as options for future outings."
       ],
       "items": [
         {
@@ -2391,11 +2446,11 @@
         ]
       },
       "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
       "seoTitle": "Bangkok Street Food: Plan Your First Food Outing",
       "planLinks": [
@@ -2414,7 +2469,8 @@
       "title": "Bangkok rooftops: observation ticket or evening table?",
       "dek": "Compare four listings by the experience you are buying, with weather and booking terms built into the decision.",
       "src": [
-        "tagmk",
+        "mahanakhon-skywalk-official",
+        "mahanakhon-main-official",
         "octave-marriott"
       ],
       "body": [
@@ -2440,6 +2496,18 @@
         }
       ],
       "sections": [
+        {
+          "h": "SkyWalk: read the adult ticket, not the lowest headline price",
+          "p": [
+            "The SkyWalk operator describes an indoor observation area on floor 74 and an outdoor rooftop on floor 78. Its standard product is an observation visit, while I-Tilt and other named experiences have separate listings. Decide which areas you want before comparing a bundle with a bar reservation.",
+            "The detailed ticket block lists adult admission at ฿1,000 for 10am–3:30pm and ฿1,200 for 3:30pm–7pm, with separate child and senior categories. Other panels display broader “from” prices and the site publishes later opening. Those panels do not establish the price of an adult late-evening slot. Use the official booking linked by the operator for your date and category.",
+            "The current page publishes daily opening to midnight and last access at 11pm; this replaces the older 7pm closing reference previously shown in our place card. The operator identifies Chong Nonsi BTS Exit 3 for the approach. Give entry, security and any permitted outdoor access time of their own rather than arriving at the last moment."
+          ],
+          "sourceIds": [
+            "mahanakhon-skywalk-official",
+            "mahanakhon-main-official"
+          ]
+        },
         {
           "h": "Choose what you are paying for",
           "p": [
@@ -2479,7 +2547,7 @@
       ],
       "slug": "bangkok-rooftops",
       "img": "bkk-mahanakhon",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "First choice",
@@ -2495,12 +2563,47 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Bangkok Rooftops: Viewpoints or a Reserved Table?"
+      "researchNote": "SkyWalk product, published opening and ticket categories checked 19 October 2026. The operator displays differing price panels; its booking flow must establish your selected date, category and slot. Other bar listings remain research starting points, not fresh menu or entry confirmations.",
+      "seoTitle": "Bangkok Rooftops: Viewpoints or a Reserved Table?",
+      "planTable": {
+        "caption": "An observation visit and an evening table solve different needs",
+        "headers": [
+          "Product",
+          "What to compare",
+          "Do not assume"
+        ],
+        "rows": [
+          [
+            "SkyWalk observation",
+            "Floors 74 and 78; selected ticket category",
+            "A lowest “from” amount is the adult price"
+          ],
+          [
+            "I-Tilt or another add-on",
+            "Its separate product and eligibility",
+            "Every attraction is in the observation ticket"
+          ],
+          [
+            "A restaurant or bar",
+            "Menu, reservation and outdoor policy",
+            "A deck ticket reserves a dining table"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "SkyWalk product and visitor information",
+          "https://kingpowermahanakhon.co.th/experience/mahanakhon-skywalk"
+        ],
+        [
+          "Compare the operator’s products",
+          "https://kingpowermahanakhon.co.th/"
+        ]
+      ]
     },
     {
       "id": "bkk-chatuchak",
@@ -5288,7 +5391,7 @@
         {
           "h": "Why so much has survived",
           "p": [
-            "Downtown Yangon has one of the largest collections of colonial-era buildings in Southeast Asia. Decades of isolation meant there was little money to knock them down. A local conservation group, the Yangon Heritage Trust, has put blue plaques on many of the most important ones, and reading them as you go turns the walk into a history lesson."
+            "Choose a small number of heritage buildings and read any public interpretation available at the stop. Treat each building as its own story rather than assuming that all older facades share one history. Check the public walking approach and keep working entrances clear."
           ]
         },
         {
@@ -5340,9 +5443,9 @@
       ],
       "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
       "seoTitle": "Downtown Yangon: An Architecture Walking Guide"
     },
@@ -5778,7 +5881,7 @@
       "city": "tyo",
       "cat": "food",
       "kind": "feature",
-      "mins": 4,
+      "mins": 3,
       "title": "Tsukiji Outer Market: build a morning around a few shops",
       "dek": "Use the official directory to choose browsing and food stops, with your own queue and spending limits.",
       "places": [
@@ -5790,40 +5893,39 @@
       ],
       "sections": [
         {
-          "h": "A market since 1935",
+          "h": "Use Plat Tsukiji for the map, not every shop’s opening time",
           "p": [
-            "Tokyo's central fish market opened at Tsukiji in 1935, after the great earthquake of 1923 destroyed the old market at Nihonbashi. For more than eighty years it was the largest wholesale seafood market in the world. The wholesale halls and the tuna auction moved to a new building at Toyosu in October 2018.",
-            "The outer market grew up alongside to serve chefs and the public, and it never left. Around four hundred shops still trade in a few tight blocks."
+            "The market’s visitor centre publishes 8am–2pm on weekdays and Saturdays, and 10am–2pm on Sundays, national holidays and market-closure days, with a year-end closure. Individual shops have different hours. An open information counter is not proof that the sushi counter or knife shop you want is trading.",
+            "Our suggested arrival is after 9am for a leisurely browse: the market asks visitors to give professional buyers priority earlier. Start with the map and one intended purchase, then decide whether a food queue fits the time left. This is a suggested pace, not a promise of a quiet period."
+          ],
+          "sourceIds": [
+            "tsukiji-info"
           ]
         },
         {
-          "h": "What to eat",
+          "h": "Choose ingredients, kitchenware or a meal",
           "p": [
-            "Breakfast here means seafood. Popular choices are a bowl of rice topped with raw fish, a few pieces of sushi at a standing counter, grilled scallops or eel on a skewer, and a thick slice of sweet rolled omelette served on a stick.",
-            "The shops also sell things to take home: dried bonito flakes, seaweed, green tea, pickles and kitchen knives from makers who have supplied chefs for generations."
+            "The official directory separates food and ingredient shops from kitchenware and eateries. That is a practical first filter: search for the product you want, save the shop name, and check that business’s hours and payment methods. A market breakfast need not be raw seafood if that is not what you want.",
+            "For a knife or utensil, decide the intended use and carrying arrangements before comparing the purchase. For dried ingredients, ask about pack size and storage. For a meal, choose one main order and ask where to eat it. Those decisions need different budgets and do not require the same route."
+          ],
+          "sourceIds": [
+            "tsukiji-main-official"
           ]
         },
         {
-          "h": "Market manners",
+          "h": "Plan bags and eating space before joining a queue",
           "p": [
-            "The lanes are narrow and are still used by people carrying deliveries. Do not eat while walking. Shops ask you to finish your food in front of the stall where you bought it. Leave large suitcases at your hotel."
+            "Plat Tsukiji lists coin lockers, but availability is not guaranteed. Arrange bag storage before shopping and keep the lanes clear. Eat inside the business or in its designated space, and ask before photographing.",
+            "For a short visit, finish one shopping task and one meal before deciding whether to continue. If your main shop is closed, choose a different purpose or another day rather than treating an older recommendation as evidence of current trading."
+          ],
+          "sourceIds": [
+            "tsukiji-info"
           ]
         },
         {
           "h": "If you want the tuna auction",
           "p": [
             "Toyosu is a separate visit from Tsukiji’s outer market. Check Toyosu’s current official visitor and reservation information before planning to see an auction; this guide does not establish current viewing access."
-          ]
-        },
-        {
-          "h": "A useful first stop",
-          "p": [
-            "Plat Tsukiji provides visitor maps and English-language assistance. Ask about a shop you particularly want to visit, then plan a short route with a meal. Keep out of the way of professional buyers, use the designated eating space and ask before photographing a shop.",
-            "Check the published calendar for your date, then the individual shop’s hours. Bring only what you can carry comfortably in narrow lanes. If travelling with luggage, confirm available storage rather than assuming a restaurant can hold it."
-          ],
-          "sourceIds": [
-            "tsukiji-info",
-            "tsukiji-calendar"
           ]
         },
         {
@@ -5842,35 +5944,72 @@
       ],
       "faq": [
         [
-          "Is Tsukiji still open?",
-          "Yes. Only the wholesale halls moved. The outer market's shops and food stalls are trading as before."
+          "Is Tsukiji the same as Toyosu?",
+          "No. This guide covers the outer-market shops and visitor centre. Auction-viewing arrangements at Toyosu need a separate enquiry."
         ],
         [
-          "Which days are best?",
-          "Check the official calendar and the individual shops you want to visit. Some closure days vary, and the visitor centre’s hours are not the same as every shop’s."
+          "Do all shops follow the market calendar?",
+          "Check both the calendar and the named business. The visitor centre explicitly says individual shop hours differ."
         ],
         [
-          "Can I pay by card?",
-          "Bring cash. Larger shops take cards and transit cards, but many counters do not."
-        ],
-        [
-          "Do I need to book for the Toyosu tuna auction?",
-          "Check current official Toyosu viewing and reservation rules. Tsukiji’s outer market and the Toyosu auction are separate destinations."
+          "Can I use a card?",
+          "Ask the individual business; the market directory does not establish one payment rule for every counter."
         ]
       ],
       "slug": "tokyo-tsukiji",
       "img": "tyo-tsukiji",
       "src": [
         "tsukiji-info",
-        "tsukiji-calendar"
+        "tsukiji-calendar",
+        "tsukiji-main-official"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
-      "seoTitle": "Tsukiji Outer Market Tokyo: A Morning Visit Guide"
+      "seoTitle": "Tsukiji Outer Market Tokyo: A Morning Visit Guide",
+      "researchNote": "Visitor-centre hours, market etiquette and directory categories checked 19 October 2026. Individual shop hours, stock, payments and queues are not guaranteed. The suggested pace is editorial planning, with no on-site inspection.",
+      "planLinks": [
+        [
+          "Official visitor centre and map",
+          "https://www.tsukiji.or.jp/english/plattsukiji/"
+        ],
+        [
+          "Find a shop by product",
+          "https://www.tsukiji.or.jp/english/"
+        ],
+        [
+          "Check the market calendar",
+          "https://www.tsukiji.or.jp/calendar/"
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the information for your intended visit",
+        "headers": [
+          "You need",
+          "Use",
+          "Keep separate"
+        ],
+        "rows": [
+          [
+            "Maps or visitor assistance",
+            "Plat Tsukiji visitor-centre hours",
+            "Individual shop opening"
+          ],
+          [
+            "A meal or specific purchase",
+            "The named business in the directory",
+            "Payment, stock and waiting time"
+          ],
+          [
+            "Tuna-auction viewing",
+            "Current Toyosu visitor information",
+            "Tsukiji Outer Market is a different destination"
+          ]
+        ]
+      }
     },
     {
       "id": "sel-euljiro",
@@ -8856,7 +8995,8 @@
       "img": "tpe-beitou-photo",
       "src": [
         "beitou-museum",
-        "taipei-mrt"
+        "taipei-mrt",
+        "beitou-anniversary-2026"
       ],
       "body": [
         "Beitou’s name may suggest a bathing outing, but the Hot Spring Museum serves a different purpose. Its official visitor information says it is a cultural display space and does not provide hot-spring services. That distinction matters if you are comparing a museum afternoon with a paid bath or hotel package.",
@@ -8872,6 +9012,16 @@
           "sourceIds": [
             "beitou-museum",
             "taipei-mrt"
+          ]
+        },
+        {
+          "h": "For October visits, distinguish the anniversary window from a session",
+          "p": [
+            "The museum’s anniversary notice covers 16 October–1 November 2026 and repeats Tuesday–Sunday museum hours. That date range includes Mondays when regular museum access is closed. A celebration spanning several weeks does not mean the doors are open every day.",
+            "The notice’s lectures were dated 17 and 18 October; those sessions are past at this 19 October update. Use the current programme for any remaining activity rather than treating a past weekend timetable as an ongoing talk. Regular museum admission and a separate partner offer are different decisions."
+          ],
+          "sourceIds": [
+            "beitou-anniversary-2026"
           ]
         },
         {
@@ -8934,15 +9084,25 @@
         ]
       ],
       "tips": [],
-      "researchNote": "Official sources consulted 9 October 2026. Visit durations are editorial planning allowances; no on-site inspection is claimed.",
-      "dateModified": "2026-10-09",
+      "researchNote": "Regular visitor information retains its 9 October source check. The museum’s dated 2026 anniversary notice was checked 19 October: its event window does not remove Monday closure or extend the 17–18 October lectures. Suggested visiting duration is editorial, not an on-site measurement.",
+      "dateModified": "2026-10-19",
       "mins": 4,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
-      "seoTitle": "Beitou Hot Spring Museum Taipei: A Visit Guide"
+      "seoTitle": "Beitou Hot Spring Museum Taipei: A Visit Guide",
+      "planLinks": [
+        [
+          "Museum visitor information",
+          "https://hotspringmuseum.taipei/en/content.aspx?id=33&pid=29"
+        ],
+        [
+          "Check the dated 2026 anniversary programme",
+          "https://hotspringmuseum.taipei/en/content.aspx?id=606&pid=3"
+        ]
+      ]
     },
     {
       "id": "g-hong-kong-tram-first-ride",
@@ -8971,6 +9131,16 @@
           "sourceIds": [
             "hk-tram",
             "hk-tram-background"
+          ]
+        },
+        {
+          "h": "Read the destination before boarding",
+          "p": [
+            "The operator lists six main route combinations. Some end at Happy Valley, North Point, Shek Tong Tsui or Causeway Bay rather than covering the entire line. Match the destination display to the stop you want; a tram moving in the correct general direction is not necessarily your full journey.",
+            "Its timetable says the Kennedy Town–Shau Kei Wan through service has two departures per hour within the listed service window. For a shorter neighbourhood outing, choose a local segment and a stopping point before boarding. Keep the return decision separate from the assumption that every passing tram reaches the same terminus."
+          ],
+          "sourceIds": [
+            "hk-tram"
           ]
         },
         {
@@ -9033,15 +9203,46 @@
         ]
       ],
       "tips": [],
-      "researchNote": "Official sources consulted 9 October 2026. Visit durations are editorial planning allowances; no on-site inspection is claimed.",
-      "dateModified": "2026-10-09",
+      "researchNote": "Ordinary adult fare, payment instructions and route distinctions checked against Hong Kong Tramways on 19 October 2026. The calculations use that published fare; check travel-day notices. No personal ride or measured journey time is claimed.",
+      "dateModified": "2026-10-19",
       "mins": 4,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
-      "seoTitle": "Hong Kong Trams: A First Ding-Ding Ride Guide"
+      "seoTitle": "Hong Kong Trams: A First Ding-Ding Ride Guide",
+      "planLinks": [
+        [
+          "Operator routes, fare and payment methods",
+          "https://www.hktramways.com/en/schedules-fares/"
+        ]
+      ],
+      "planTable": {
+        "caption": "Use the ordinary fare for the rides you will take",
+        "headers": [
+          "Plan",
+          "Published adult-fare arithmetic",
+          "Other costs"
+        ],
+        "rows": [
+          [
+            "One ordinary ride",
+            "HK$3.30",
+            "Onward transport and food separate"
+          ],
+          [
+            "Two ordinary rides",
+            "HK$6.60 per adult",
+            "Not a sightseeing-tour ticket"
+          ],
+          [
+            "Two adults, two rides each",
+            "HK$13.20 total",
+            "No automatic transfer entitlement implied"
+          ]
+        ]
+      }
     },
     {
       "id": "g-paris-carnavalet-budget",
@@ -9073,10 +9274,20 @@
         {
           "h": "Arrive with enough time to read",
           "p": [
-            "The published regular schedule is Tuesday–Sunday, 10am–6pm. Last admission to the permanent collection is 5:15pm and rooms close at 5:45pm; holidays and special dates may have exceptions. These details were consulted on 9 October 2026.",
+            "The published regular schedule is Tuesday–Sunday, 10am–6pm. Last admission to the permanent collection is 5:15pm and rooms close at 5:45pm; holidays and special dates may have exceptions. These details were consulted on 19 October 2026.",
             "Our suggestion is to allow 90 minutes to two hours inside rather than arriving just before the last-entry deadline. Pick a few periods or objects to follow, and leave room to read their context. Trying to finish every room is not required for a useful first visit."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "A late visit needs the correct last-admission time",
+          "p": [
+            "The museum publishes a 5:15pm last entry for permanent collections and 4:45pm for temporary exhibitions; rooms close at 5:45pm. A person arriving for an exhibition at 5pm may already be too late even though the building is not yet closed. Give your selected product its own deadline.",
+            "The current visitor guidance excludes suitcases and large bags. Leave luggage somewhere suitable before travelling instead of assuming the museum will store it. For a flight or train day, a focused morning collection visit is easier to plan than an uncertain late entry with all your bags."
+          ],
+          "sourceIds": [
+            "carnavalet"
+          ]
         },
         {
           "h": "Find the visitor entrance and travel light",
@@ -9130,15 +9341,46 @@
         ]
       ],
       "tips": [],
-      "researchNote": "Official sources consulted 9 October 2026. Visit durations are editorial planning allowances; no on-site inspection is claimed.",
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "researchNote": "Admission categories, visitor entrance, regular hours, last-entry times and bag rules checked 19 October 2026. Planning duration is an editorial suggestion; holiday exceptions and the selected exhibition still need checking.",
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       },
-      "seoTitle": "Musée Carnavalet Paris: A History Museum Guide"
+      "seoTitle": "Musée Carnavalet Paris: A History Museum Guide",
+      "planLinks": [
+        [
+          "Admission, last-entry times and bag rules",
+          "https://www.carnavalet.paris.fr/en/visit/pratical-information"
+        ]
+      ],
+      "planTable": {
+        "caption": "Free collection access does not set every entry rule",
+        "headers": [
+          "Visit",
+          "Published last admission",
+          "Booking distinction"
+        ],
+        "rows": [
+          [
+            "Individual permanent collections",
+            "5:15pm",
+            "Free, without booking"
+          ],
+          [
+            "Temporary exhibition",
+            "4:45pm",
+            "Separate ticket; advance booking advised"
+          ],
+          [
+            "A group visit",
+            "Confirm the reserved arrangement",
+            "Group reservations and fees differ"
+          ]
+        ]
+      }
     },
     {
       "id": "g-istanbul-bazaar-shopping",
@@ -12091,54 +12333,55 @@
       "cat": "news",
       "kind": "news",
       "title": "Chiang Mai Design Week 2026: 5–13 December dates confirmed",
-      "dek": "Chiang Mai Design Week runs 5–13 December 2026. Find the festival areas, official programme and a practical plan for exhibitions and workshops.",
+      "dek": "The organiser confirms 5–13 December under “Local Thunders, Global Transformation”; choose exact sessions from the 2026 programme.",
       "img": "cnx-tha-phae",
       "src": [
-        "cmdw-2026-official",
-        "cmdw-2026-program"
+        "cmdw-2026-news",
+        "cmdw-2026-program",
+        "cmdw-2026-program-th"
       ],
       "body": [
-        "Chiang Mai Design Week 2026 is scheduled for 5–13 December. The organiser names Old Town, Tha Pae Gate–Chang Moi and TCDC Chiang Mai as planning areas. Choose a specific programme entry before booking a workshop or building a day around a venue: the festival dates do not confirm every session’s opening or availability."
+        "Chiang Mai Design Week 2026 is scheduled for 5–13 December, under the organiser’s announced theme “Local Thunders, Global Transformation”. Use the 2026 programme to select a dated activity and its exact venue. A festival window and a district filter are not a workshop booking."
       ],
       "sections": [
         {
-          "h": "What the organiser has confirmed",
+          "h": "Which announcement should organise the visit?",
           "p": [
-            "The organiser confirms 5–13 December 2026. Its festival overview names Chiang Mai Old Town, the Tha Pae Gate–Chang Moi areas and TCDC Chiang Mai. These are starting areas for planning, rather than a promise that every location has an activity throughout the festival.",
-            "Check the specific programme entry for each visit. Venue, daily opening, registration and participation conditions belong to that entry. A festival announcement is not a reservation for a workshop or a guarantee that a programme item still has space."
+            "The organiser’s 2026 announcement confirms the December dates and theme. Its About page still includes an older 2025 date in the body, despite a 2026 header. Use the dated announcement for the event window and the current programme for individual sessions.",
+            "This matters when booking accommodation or transport: a familiar page title does not make every paragraph current. Save the activity name, date, address and participation terms you actually intend to use."
           ],
           "sourceIds": [
-            "cmdw-2026-official"
+            "cmdw-2026-news"
           ]
         },
         {
-          "h": "Which festival area should you start with?",
+          "h": "Use district filters to make a small plan",
           "p": [
-            "If you are already staying near the Old Town, begin by looking for a programme item in that area. Choose a specific venue before building a walking route: being inside the moat does not establish how close two sessions are to each other.",
-            "For Tha Pae Gate and Chang Moi, keep your route focused on the venue addresses you have saved. A neighbourhood label is too broad to use as a meeting point. If TCDC is your main reason to go, plan the journey around that session instead of adding it as an uncertain final stop.",
-            "For each option, our suggestion is to choose one essential visit and one optional stop. A simple plan is easier to adjust if registration is full or the next activity starts later than expected."
+            "The Thai programme page includes filters such as Chang Moi–Tha Phae, central Chiang Mai, Nimman–Wat Umong, Wua Lai–Hang Dong and San Kamphaeng. Those cover different parts of the city and surroundings; one filter label should not become a walking-time assumption.",
+            "Our suggestion is to choose one essential session and then search its own area for an optional stop. Keep the exact address as the meeting point. An organiser office address or a district name is not evidence that your chosen exhibition takes place there."
           ],
           "sourceIds": [
-            "cmdw-2026-official"
+            "cmdw-2026-program-th"
           ]
         },
         {
-          "h": "How to make a useful day plan",
+          "h": "Build the day from actual session information",
           "p": [
-            "Choose one exhibition area or a small cluster before adding a workshop. Save the locations and leave time between sessions. If a programme involves a booking, complete that with the organiser rather than assuming arrival at the festival is sufficient.",
-            "For a first Chiang Mai visit, keep ordinary sightseeing and festival sessions distinguishable. You can enjoy a design-focused morning without committing every day of the trip to the event. Check your accommodation-to-venue journey and keep a meal break outside any timed session."
+            "Start with the activity’s date and beginning time, then allow for arriving, participation and leaving. Compare the journey from your accommodation before adding another district. A lunch break near the principal venue is more useful than a chain of unrelated attractions.",
+            "If the programme details you need are not available in the selected language or view, enquire with the organiser. Do not infer that no activities exist from an empty search result, or invent a venue to complete the itinerary."
           ],
           "sourceIds": [
-            "cmdw-2026-official"
+            "cmdw-2026-program"
           ]
         },
         {
-          "h": "Before you book or set off",
+          "h": "Separate the festival from an ordinary sightseeing day",
           "p": [
-            "Use the official programme to confirm the date, venue, entry conditions and any booking instructions for the activity you want. Save that entry and your confirmation separately; a saved festival homepage is not a workshop booking.",
-            "If the session details you need are not yet visible, keep the day flexible rather than guessing the venue or paying for travel based on an assumed schedule. Our neighbourhood plan is a planning suggestion, not an organiser-issued itinerary."
+            "A confirmed design session can be the main event of the day. Keep an Old City walk, a museum or shopping as an alternative with its own opening information. If a workshop is full, you can change the day without pretending a different venue is part of the festival.",
+            "Before paying, check whether the selected session needs registration and what cancellation or entry rules apply. Save that confirmation separately from the festival homepage; the latter establishes neither a place in a class nor a specific entry time."
           ],
           "sourceIds": [
+            "cmdw-2026-news",
             "cmdw-2026-program"
           ]
         }
@@ -12148,47 +12391,39 @@
       "faq": [
         [
           "When is Chiang Mai Design Week 2026?",
-          "The confirmed festival window is 5–13 December 2026. Individual activities can have different dates and opening times."
+          "The organiser’s 2026 announcement confirms 5–13 December. Individual sessions have their own schedules."
         ],
         [
-          "Where should I look for festival venues?",
-          "The organiser names Old Town, Tha Pae Gate–Chang Moi and TCDC Chiang Mai. Use the programme entry for the exact venue address."
+          "Does a district filter confirm my venue?",
+          "No. Save the exact address from the activity entry, and verify registration or admission."
         ],
         [
-          "Is one festival booking enough for every workshop?",
-          "Do not assume so. Check the booking and entry instructions for each activity you want to attend."
-        ],
-        [
-          "Can I combine the festival with ordinary sightseeing?",
-          "Yes, as a planning choice: reserve time for one confirmed activity and keep other visits optional. Allow for the journey and a meal between timed sessions."
-        ],
-        [
-          "What should I do if my preferred programme details are missing?",
-          "Return to the official programme before committing to that session. Keep sightseeing optional rather than assuming a venue, time or available place."
+          "What if the About page shows an older year?",
+          "Use the dated 2026 organiser announcement and the current programme rather than an older paragraph beneath an updated header."
         ]
       ],
       "quickPlan": [
         [
-          "Festival dates",
+          "Festival window",
           "5–13 December 2026"
         ],
         [
-          "Areas named by the organiser",
-          "Old Town; Tha Pae Gate–Chang Moi; TCDC Chiang Mai"
+          "Announced theme",
+          "Local Thunders, Global Transformation"
         ],
         [
-          "Before travelling",
-          "Confirm the individual session date, address and entry or registration rules"
+          "Choose a venue",
+          "Use the actual 2026 activity entry; district filters are broad areas"
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-18",
+      "dateModified": "2026-10-19",
       "tips": [
         "Save the programme entry and any booking confirmation before you leave.",
         "Choose a venue address rather than a whole neighbourhood as your meeting point."
       ],
-      "researchNote": "The organiser’s overview and programme landing page were reviewed on 18 October 2026. The overview still confirms 5–13 December and the named areas. This review does not establish session availability or bookings; check the individual programme entry. The day plan is editorial advice.",
-      "mins": 3,
+      "researchNote": "Dated 2026 organiser announcements and programme pages checked 19 October 2026. The About page contains an older-year date, so it is not used to assert the current session locations. Session availability and registrations were not confirmed.",
+      "mins": 2,
       "relatedGuides": [
         "chiang-mai-oldcity",
         "chiang-mai-two-day-itinerary",
@@ -12235,6 +12470,11 @@
             "Do not invent a workshop time or booking"
           ]
         ]
+      },
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Research-based source and consistency revision; no personal visit is claimed.",
+        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
       }
     },
     {
@@ -13519,7 +13759,17 @@
       ],
       "blurb": "Combine the palace compound and Wat Phra Kaew as one main visit. Read the official ticket inclusions and visitor rules before adding another temple to the day.",
       "img": "bkk-grand-palace",
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-10-19",
+        "sourceIds": [
+          "palace-official"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     },
     {
       "id": "bkk-wat-pho",
@@ -13536,7 +13786,17 @@
       "blurb": "Choose a temple visit here for the reclining Buddha and the wider complex. Enquiries about massage are a separate activity with their own arrangements.",
       "img": "bkk-wat-pho",
       "url": "https://www.watpho.com/th/contact/plan",
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-10-19",
+        "sourceIds": [
+          "pho-official"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     },
     {
       "id": "bkk-wat-arun",
@@ -13584,7 +13844,17 @@
       ],
       "blurb": "A house-museum option for a focused cultural visit. Check the current tour format, language and ticket terms before deciding how much time to allow.",
       "img": "bkk-jim-thompson",
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-10-19",
+        "sourceIds": [
+          "jth"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     },
     {
       "id": "bkk-bacc",
@@ -13699,7 +13969,6 @@
       "name": "Train Night Market Ratchada",
       "area": "Din Daeng",
       "hours": "Current operation not established",
-      "price": "Free",
       "src": [
         "p101nm"
       ],
@@ -13728,7 +13997,7 @@
       "kind": "market",
       "name": "Ong Ang Canal walking street",
       "area": "Chinatown edge",
-      "hours": "Friday to Sunday 4pm to 10pm",
+      "hours": "Canal walk; a current market-stall programme is not confirmed",
       "price": "Free",
       "src": [
         "p101nm"
@@ -13894,15 +14163,26 @@
       "kind": "night",
       "name": "King Power Mahanakhon SkyWalk",
       "area": "Silom",
-      "hours": "Daily 10am to 7pm",
-      "price": "Ticketed. Prices vary by time of day",
+      "hours": "Daily 10am–midnight; last access 11pm, as published by the operator",
+      "price": "Adult ticket block: ฿1,000 (10am–3:30pm) / ฿1,200 (3:30pm–7pm). Other price panels differ; confirm the selected booking.",
       "url": "https://kingpowermahanakhon.co.th/",
       "src": [
-        "tagmk"
+        "mahanakhon-skywalk-official",
+        "mahanakhon-main-official"
       ],
       "blurb": "Compare the exact SkyWalk product and access included in the ticket. A viewing visit and a dining booking are different purchases, with separate rules.",
       "img": "bkk-mahanakhon",
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-10-19",
+        "sourceIds": [
+          "mahanakhon-skywalk-official"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     },
     {
       "id": "bkk-sky-bar",
@@ -14173,8 +14453,7 @@
       "kind": "see",
       "name": "The Big Buddha",
       "area": "Nakkerd Hill, near Chalong",
-      "hours": "Daily 9am to 6pm, last entry 5.30pm",
-      "price": "Free",
+      "hours": "Current visitor access has not been established",
       "src": [
         "p101bb"
       ],
@@ -14702,7 +14981,7 @@
       "kind": "see",
       "name": "The British Museum",
       "area": "Bloomsbury",
-      "price": "Free",
+      "price": "Permanent collection free; special exhibitions may require a separate ticket",
       "url": "https://www.britishmuseum.org/visit",
       "blurb": "A Bloomsbury collection visit with free general admission and advance timed booking recommended. Choose one subject and check current gallery availability; large bags and wheeled suitcases are not permitted.",
       "img": "lon-british-museum",
@@ -14717,7 +14996,7 @@
       "kind": "see",
       "name": "Tate Modern",
       "area": "Bankside",
-      "price": "Free",
+      "price": "Collection free; check separate exhibition tickets",
       "url": "https://www.tate.org.uk/visit/tate-modern",
       "blurb": "Modern and contemporary art on Bankside. General gallery entry is free; special exhibitions and events can have separate charges. Check Tate’s current visitor page for opening and entry.",
       "img": "lon-tate-modern",
@@ -14897,7 +15176,7 @@
       "kind": "see",
       "name": "El Ateneo Grand Splendid",
       "area": "Recoleta",
-      "price": "Free",
+      "price": "Bookstore entry free; the separate interactive experience is paid",
       "blurb": "A bookstore in a former theatre at Avenida Santa Fe 1860. City tourism distinguishes free bookstore entry from the separate paid interactive experience introduced in March 2026; check the actual product before booking.",
       "img": "bue-ateneo",
       "src": [
@@ -15014,8 +15293,6 @@
       "kind": "see",
       "name": "Hoàn Kiếm Lake",
       "area": "Hoàn Kiếm",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://www.vietnam.travel/things-to-do/explore-old-quarter-your-way",
       "src": [
         "hanoi-tourism"
@@ -15029,8 +15306,6 @@
       "kind": "market",
       "name": "Hàng Bạc",
       "area": "Old Quarter",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://www.vietnam.travel/things-to-do/explore-old-quarter-your-way",
       "src": [
         "hanoi-tourism"
@@ -15044,8 +15319,6 @@
       "kind": "market",
       "name": "Hàng Mã",
       "area": "Old Quarter",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://www.vietnam.travel/things-to-do/explore-old-quarter-your-way",
       "src": [
         "hanoi-tourism"
@@ -15059,8 +15332,6 @@
       "kind": "see",
       "name": "Angkor Wat",
       "area": "Angkor Archaeological Park",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://apsaraauthority.gov.kh/temples/",
       "src": [
         "angkor-heritage"
@@ -15075,8 +15346,6 @@
       "kind": "see",
       "name": "Bayon",
       "area": "Angkor Archaeological Park",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://apsaraauthority.gov.kh/temples/",
       "src": [
         "angkor-heritage"
@@ -15090,8 +15359,6 @@
       "kind": "see",
       "name": "Ta Prohm",
       "area": "Angkor Archaeological Park",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://apsaraauthority.gov.kh/temples/",
       "src": [
         "angkor-heritage"
@@ -15105,8 +15372,6 @@
       "kind": "market",
       "name": "Dihua Street",
       "area": "Dadaocheng",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://eng.taiwan.net.tw/m1.aspx?id=418&sNo=00020901024",
       "src": [
         "taipei-dihua"
@@ -15121,8 +15386,6 @@
       "kind": "see",
       "name": "Dadaocheng Visitor Center",
       "area": "Dihua Street",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://travel.taipei/vintage-clothing/en",
       "src": [
         "taipei-visitor"
@@ -15136,8 +15399,6 @@
       "kind": "market",
       "name": "Yongle Market area",
       "area": "Dadaocheng",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://travel.taipei/vintage-clothing/en",
       "src": [
         "taipei-visitor"
@@ -15151,8 +15412,6 @@
       "kind": "see",
       "name": "Central Star Ferry Pier",
       "area": "Central Pier 7",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-star-ferry-pier.html",
       "src": [
         "hongkong-ferry"
@@ -15166,8 +15425,6 @@
       "kind": "see",
       "name": "Star Ferry crossing",
       "area": "Victoria Harbour",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html",
       "src": [
         "hongkong-transit"
@@ -15182,8 +15439,6 @@
       "kind": "see",
       "name": "Tsim Sha Tsui ferry waterfront",
       "area": "Kowloon",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html",
       "src": [
         "hongkong-transit"
@@ -15197,8 +15452,6 @@
       "kind": "see",
       "name": "Île de la Cité",
       "area": "Central Seine islands",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://parisjetaime.com/eng/article/discovering-the-islands-of-paris-a702",
       "src": [
         "paris-islands"
@@ -15212,8 +15465,6 @@
       "kind": "see",
       "name": "Pont Saint-Louis",
       "area": "Between the Seine islands",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://parisjetaime.com/eng/article/discovering-the-islands-of-paris-a702",
       "src": [
         "paris-islands"
@@ -15227,8 +15478,6 @@
       "kind": "see",
       "name": "Île Saint-Louis",
       "area": "Central Seine islands",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://parisjetaime.com/eng/article/discovering-the-islands-of-paris-a702",
       "src": [
         "paris-islands"
@@ -15242,8 +15491,6 @@
       "kind": "see",
       "name": "Sultanahmet area",
       "area": "Historic peninsula",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://goturkiye.com/tr/istanbul/destinations",
       "src": [
         "istanbul-destinations"
@@ -15258,8 +15505,6 @@
       "kind": "see",
       "name": "Karaköy",
       "area": "European waterfront",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://goturkiye.com/istanbul/art",
       "src": [
         "istanbul-culture"
@@ -15273,8 +15518,6 @@
       "kind": "see",
       "name": "Kadıköy",
       "area": "Asian shore",
-      "hours": "Check current local visitor or service information",
-      "price": "See official visitor information; no bundled price assumed",
       "url": "https://sehirhatlari.istanbul/tr/seferler/ic-hatlar/istanbul-ici-hatlar/kadikoy-karakoy-eminonu-163",
       "src": [
         "istanbul-ferry"

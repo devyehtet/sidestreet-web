@@ -54,3 +54,7 @@
 
 .route-count>span{display:block}.route-draw{animation-play-state:paused}.route-is-visible .route-draw{animation-play-state:running}@media(max-width:480px){.route-count>span{display:inline}.route-count>span+span::before{content:' / '}}
 @media(max-width:480px){.footer-brand>.wordmark{font-size:clamp(32px,10vw,48px)}.masthead>.wordmark{flex-basis:100%}}
+
+.facts-line p{margin:8px 0}.facts-line small{display:block;font-size:12px;line-height:1.6;color:var(--muted);margin-top:4px}
+
+.correction-entry{padding:28px 0;border-top:1px solid var(--line)}.correction-entry>p{margin:16px 0}.correction-entry .mono{font-size:12px}

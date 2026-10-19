@@ -12,6 +12,12 @@ All 135 Wikimedia original-file metadata records were retrieved and six original
 
 Outstanding evidence is explicit in the relevant articles: current local Loy Krathong/Yi Peng programmes and permissions, current Big Buddha access, and current Yangon rail/business operations have not all been established. Do not turn those gaps into operating guarantees or tick the AdSense fixed-issues box solely because a build passes.
 
+A further claim-specific evidence pass is recorded in `EDITORIAL-EVIDENCE-PASS-2026-10-19.json`: nine guide revisions, four field-specific place-reference checks and removal of 36 instruction placeholders from hours/cost fields. Big Buddha opening hours were removed because current access was not established. SkyWalk's old 7pm closing reference was corrected using its operator page, while differing price panels remain explicit. Place cards distinguish checked published references from reference-only details; an article's source date is never borrowed to certify a place's hours or cost.
+
+The 43 guides without a recorded text edit in these passes were retained after a limited screen of their reader task, first three main claim paragraphs and source mapping. See `RETAINED-GUIDE-DESK-SCREEN-2026-10-19.json`. This is not a full-prose factual review and does not supply fresh operational confirmations. No article was padded to reach a word target.
+
+A public `/corrections` page now records five material changes or clarifications and links affected guides and primary references.
+
 The contact alias is now configured. The historical inventory below reflects the smaller collection on 9 October and must not be used as a current readiness report.
 
 ## Historical writing inventory — 9 October 2026
