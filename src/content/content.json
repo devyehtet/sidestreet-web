@@ -1258,7 +1258,8 @@
         "bangkok-temples",
         "bangkok-street-food",
         "bangkok-suvarnabhumi-airport-transfer"
-      ]
+      ],
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Chiang Mai",
@@ -1288,7 +1289,7 @@
       "planningIntro": "Choose a compact Old City walk or a two-day plan before adding a mountain visit. For a December festival trip, check the Design Week programme and build the day around the individual venue and session. Leave a meal break and a return journey in the plan.",
       "seoTitle": "Chiang Mai City Guide: Itineraries & Design Week",
       "description": "Plan Chiang Mai with Old City walks, a two-day itinerary and Design Week 2026 dates. Choose your route, meals and onward visits.",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Phuket",
@@ -1318,7 +1319,7 @@
       "planningIntro": "Start by deciding whether this is a town day or a beach day. Dragon Line can help with a town outing, while the journey from a beach hotel or the airport needs its own plan. Use the Old Town guide for a compact walk and check your return transport before extending the evening.",
       "seoTitle": "Phuket City Guide: Old Town, Beaches & Transport",
       "description": "Plan Phuket Old Town, beach outings and airport transfers. Find the free Dragon Line bus guide, walking ideas and practical transport choices.",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Yangon",
@@ -1345,7 +1346,8 @@
       "id": "ygn",
       "slug": "yangon",
       "img": "ygn-shwedagon",
-      "timezone": "Asia/Yangon"
+      "timezone": "Asia/Yangon",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Singapore",
@@ -1368,7 +1370,7 @@
       "slug": "singapore",
       "img": "sin-gardens",
       "timezone": "Asia/Singapore",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Kuala Lumpur",
@@ -1391,7 +1393,7 @@
       "slug": "kuala-lumpur",
       "img": "kul-batu-caves",
       "timezone": "Asia/Kuala_Lumpur",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Ho Chi Minh City",
@@ -1414,7 +1416,8 @@
       "id": "sgn",
       "slug": "ho-chi-minh-city",
       "img": "sgn-post-office",
-      "timezone": "Asia/Ho_Chi_Minh"
+      "timezone": "Asia/Ho_Chi_Minh",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Tokyo",
@@ -1436,7 +1439,8 @@
       "id": "tyo",
       "slug": "tokyo",
       "img": "tyo-sensoji",
-      "timezone": "Asia/Tokyo"
+      "timezone": "Asia/Tokyo",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Seoul",
@@ -1458,7 +1462,8 @@
       "id": "sel",
       "slug": "seoul",
       "img": "sel-gyeongbokgung",
-      "timezone": "Asia/Seoul"
+      "timezone": "Asia/Seoul",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "London",
@@ -1480,7 +1485,8 @@
       "id": "lon",
       "slug": "london",
       "img": "lon-tate-modern",
-      "timezone": "Europe/London"
+      "timezone": "Europe/London",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Lisbon",
@@ -1502,7 +1508,8 @@
       "id": "lis",
       "slug": "lisbon",
       "img": "lis-tram-28",
-      "timezone": "Europe/Lisbon"
+      "timezone": "Europe/Lisbon",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "New York",
@@ -1524,7 +1531,8 @@
       "id": "nyc",
       "slug": "new-york",
       "img": "nyc-central-park",
-      "timezone": "America/New_York"
+      "timezone": "America/New_York",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Mexico City",
@@ -1546,7 +1554,8 @@
       "id": "mex",
       "slug": "mexico-city",
       "img": "mex-bellas-artes",
-      "timezone": "America/Mexico_City"
+      "timezone": "America/Mexico_City",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Buenos Aires",
@@ -1569,7 +1578,8 @@
       "id": "bue",
       "slug": "buenos-aires",
       "img": "bue-ateneo",
-      "timezone": "America/Argentina/Buenos_Aires"
+      "timezone": "America/Argentina/Buenos_Aires",
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Sydney",
@@ -1592,7 +1602,7 @@
       "slug": "sydney",
       "img": "syd-opera-house",
       "timezone": "Australia/Sydney",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "name": "Cape Town",
@@ -1614,7 +1624,8 @@
       "id": "cpt",
       "slug": "cape-town",
       "img": "cpt-table-mountain",
-      "timezone": "Africa/Johannesburg"
+      "timezone": "Africa/Johannesburg",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "han",
@@ -1644,7 +1655,7 @@
       "planningIntro": "Choose an Old Quarter walk when you want a compact first outing, or compare the cultural options before choosing a separate museum visit. Start with one main activity, leave room for a meal and check the journey back to your accommodation.",
       "seoTitle": "Hanoi City Guide: Old Quarter Walks & Cultural Visits",
       "description": "Plan a Hanoi visit with an Old Quarter walking guide and cultural outing choices. Find places, practical transport context and related reading.",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "id": "rep",
@@ -1674,7 +1685,7 @@
       "planningIntro": "Decide how much temple time you want before choosing transport and the rest of the day. Keep a shorter Angkor outing as an option, with space for a meal and a break. Use a craft-focused town afternoon as a separate choice rather than squeezing every visit into the same circuit.",
       "seoTitle": "Siem Reap City Guide: Angkor & Craft Visits",
       "description": "Plan a Siem Reap visit with Angkor temple choices and a craft afternoon. Compare the time, transport and breaks needed for your outing.",
-      "dateModified": "2026-10-13"
+      "dateModified": "2026-10-19"
     },
     {
       "id": "tpe",
@@ -1696,7 +1707,8 @@
         "Asia/Taipei"
       ],
       "timezone": "Asia/Taipei",
-      "img": "tpe-dihua-photo"
+      "img": "tpe-dihua-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "hkg",
@@ -1718,7 +1730,8 @@
         "Asia/Hong_Kong"
       ],
       "timezone": "Asia/Hong_Kong",
-      "img": "hkg-ferry-photo"
+      "img": "hkg-ferry-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "par",
@@ -1740,7 +1753,8 @@
         "Europe/Paris"
       ],
       "timezone": "Europe/Paris",
-      "img": "par-islands-photo"
+      "img": "par-islands-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "ist",
@@ -1770,7 +1784,7 @@
       "planningIntro": "Choose between a neighbourhood-and-ferry outing and a focused bazaar shopping visit before combining them. Save the addresses you actually need, give shopping its own time allowance and plan the journey back from your final stop.",
       "seoTitle": "Istanbul City Guide: Neighbourhoods, Ferries & Bazaars",
       "description": "Explore Istanbul with neighbourhood and ferry planning, a bazaar shopping guide and practical city information. Choose a manageable outing and the next stop.",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "id": "bcn",
