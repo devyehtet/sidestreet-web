@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-19",
+  "scope": "Research-based additions to 25 guides plus targeted scope, claim and reader-facing corrections. This records specific edits, not full factual or rights clearance.",
+  "publisherExperience": "Publisher confirmed no first-hand observations are available; all material remains labelled research-based.",
+  "guides": [
+    {
+      "slug": "yangon-teashops",
+      "mainProseWordsBefore": 203,
+      "mainProseWordsAfter": 446,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "lisbon-views",
+      "mainProseWordsBefore": 204,
+      "mainProseWordsAfter": 406,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "mexico-city-markets",
+      "mainProseWordsBefore": 199,
+      "mainProseWordsAfter": 357,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "buenos-aires-cafes",
+      "mainProseWordsBefore": 218,
+      "mainProseWordsAfter": 366,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "kuala-lumpur-breakfast",
+      "mainProseWordsBefore": 202,
+      "mainProseWordsAfter": 372,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "new-york-slices",
+      "mainProseWordsBefore": 220,
+      "mainProseWordsAfter": 371,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-biennale",
+      "mainProseWordsBefore": 207,
+      "mainProseWordsAfter": 349,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "london-lord-mayor",
+      "mainProseWordsBefore": 204,
+      "mainProseWordsAfter": 338,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "sydney-sculpture",
+      "mainProseWordsBefore": 198,
+      "mainProseWordsAfter": 350,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "sydney-pools",
+      "mainProseWordsBefore": 210,
+      "mainProseWordsAfter": 343,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "cape-town-hikes",
+      "mainProseWordsBefore": 216,
+      "mainProseWordsAfter": 366,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "new-york-autumn",
+      "mainProseWordsBefore": 230,
+      "mainProseWordsAfter": 365,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "singapore-deepavali",
+      "mainProseWordsBefore": 197,
+      "mainProseWordsAfter": 347,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-vegetarian",
+      "mainProseWordsBefore": 214,
+      "mainProseWordsAfter": 349,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "yangon-shwedagon",
+      "mainProseWordsBefore": 200,
+      "mainProseWordsAfter": 331,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "yangon-circular",
+      "mainProseWordsBefore": 209,
+      "mainProseWordsAfter": 347,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "yangon-thadingyut",
+      "mainProseWordsBefore": 196,
+      "mainProseWordsAfter": 328,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "world-festivals",
+      "mainProseWordsBefore": 217,
+      "mainProseWordsAfter": 350,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-loy-krathong",
+      "mainProseWordsBefore": 236,
+      "mainProseWordsAfter": 371,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-yi-peng",
+      "mainProseWordsBefore": 212,
+      "mainProseWordsAfter": 346,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-gigs",
+      "mainProseWordsBefore": 218,
+      "mainProseWordsAfter": 346,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-big-buddha",
+      "mainProseWordsBefore": 200,
+      "mainProseWordsAfter": 336,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "yangon-walk",
+      "mainProseWordsBefore": 487,
+      "mainProseWordsAfter": 495,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-markets",
+      "mainProseWordsBefore": 655,
+      "mainProseWordsAfter": 603,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-khaosoi",
+      "mainProseWordsBefore": 554,
+      "mainProseWordsAfter": 492,
+      "type": "specific text/source update",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-chatuchak",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-daytrips",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-night-markets",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-oldcity",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-oldtown",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "world-trains",
+      "type": "Targeted claim, scope or reader-facing usefulness correction",
+      "fullFactualClearance": false
+    }
+  ],
+  "remainingEvidenceGaps": [
+    "Current local 2026 Loy Krathong and Yi Peng venue programmes/permissions were not established.",
+    "Current Big Buddha visitor access was not established.",
+    "Current Yangon train timetable, fare and individual business operations were not independently obtained.",
+    "Complete legal/model/property permission clearance cannot be inferred from Commons copyright metadata."
+  ],
+  "reviewResubmitted": false,
+  "sourceLinkChecks": {
+    "checked": 214,
+    "initial404s": 3,
+    "resolution": "Replaced festival reference with reviewed TAT announcement, corrected hotel article URL and promoter event URL. Restricted responses are not treated as broken pages."
+  }
+}

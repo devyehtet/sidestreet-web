@@ -53,10 +53,6 @@
       "name": "Phuket 101, Big Buddha Phuket",
       "url": "https://www.phuket101.net/big-buddha-phuket/"
     },
-    "p101veg": {
-      "name": "Phuket 101, Phuket Vegetarian Festival",
-      "url": "https://www.phuket101.net/events/phuket-vegetarian-festival/"
-    },
     "thgcal": {
       "name": "Thai Holiday Guide, events calendar",
       "url": "https://www.thaiholidayguide.com/events-calendar/"
@@ -106,16 +102,18 @@
       "url": "https://www.calendarlabs.com/holidays/myanmar/2026"
     },
     "fcdo": {
-      "name": "GOV.UK, Myanmar travel advice (updated 4 August 2026)",
-      "url": "https://www.gov.uk/foreign-travel-advice/myanmar"
+      "name": "GOV.UK — Myanmar travel advice (check current regional restrictions)",
+      "url": "https://www.gov.uk/foreign-travel-advice/myanmar",
+      "consultedAt": "2026-10-19"
     },
     "nomax": {
       "name": "Nomax, Yangon sightseeing",
       "url": "https://nomax.app/yangon/sightseeing/"
     },
     "ppygn": {
-      "name": "Pan Pacific, Yangon in a day",
-      "url": "https://www.panpacific.com/en/hotels-and-resorts/pr-yangon/location/insights/yangon-what-to-do-in-a-day.html"
+      "name": "PARKROYAL Yangon — city attractions (hotel research reference)",
+      "url": "https://www.panpacific.com/en/hotels-and-resorts/pr-yangon/the-hotel/insights/yangon-holidays-top-12-things-to-do.html",
+      "consultedAt": "2026-10-19"
     },
     "totygn": {
       "name": "The Occasional Traveller, one weekend in Yangon (updated 15 July 2024)",
@@ -127,15 +125,18 @@
     },
     "momsg": {
       "name": "Singapore Ministry of Manpower, public holidays 2026",
-      "url": "https://www.mom.gov.sg/employment-practices/public-holidays"
+      "url": "https://www.mom.gov.sg/employment-practices/public-holidays",
+      "consultedAt": "2026-10-19"
     },
     "sxs": {
       "name": "Sculpture by the Sea, Bondi (official)",
-      "url": "https://sculpturebythesea.com/bondi/"
+      "url": "https://sculpturebythesea.com/bondi/",
+      "consultedAt": "2026-10-19"
     },
     "lms": {
       "name": "Lord Mayor's Show (official)",
-      "url": "https://lordmayorsshow.london/"
+      "url": "https://lordmayorsshow.london/",
+      "consultedAt": "2026-10-19"
     },
     "nyrr": {
       "name": "New York Road Runners, TCS New York City Marathon",
@@ -513,7 +514,7 @@
     "lisboa-tram": {
       "name": "Visit Lisboa — No. 28 tram",
       "url": "https://www.visitlisboa.com/en/places/no-28-tram",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "octave-marriott": {
       "name": "Marriott — Octave Rooftop Lounge & Bar",
@@ -568,7 +569,7 @@
     "senhora-lisboa": {
       "name": "Visit Lisboa — Senhora do Monte viewpoint",
       "url": "https://www.visitlisboa.com/en/places/miradouro-da-senhora-do-monte",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "lx-lisboa": {
       "name": "Visit Lisboa — industrial heritage route",
@@ -583,7 +584,7 @@
     "joes-operator": {
       "name": "Joe’s Pizza — shop website",
       "url": "https://www.joespizzanyc.com/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "bellas-inba": {
       "name": "INBAL — Museo del Palacio de Bellas Artes",
@@ -593,12 +594,12 @@
     "coyoacan-tourism": {
       "name": "Mexico City tourism — Mercado de Coyoacán",
       "url": "https://www.mexicocity.cdmx.gob.mx/venues/coyoacan-market/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "ateneo-tourism": {
       "name": "Buenos Aires tourism — El Ateneo Grand Splendid",
       "url": "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/el-ateneo-grand-splendid",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "santelmo-tourism": {
       "name": "Buenos Aires tourism — Feria de San Telmo",
@@ -623,12 +624,12 @@
     "sanparks-hiking": {
       "name": "SANParks — Table Mountain safe hiking",
       "url": "https://www.sanparks.org/parks/table-mountain/useful-information/safe-hiking",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "weeknd-promoter": {
-      "name": "Live Nation Tero — The Weeknd Bangkok dates",
-      "url": "https://www.livenationtero.co.th/en/event/the-weeknd-after-hours-til-dawn-tour-bangkok-tickets-edp1672772",
-      "consultedAt": "2026-10-09"
+      "name": "Live Nation Tero — archived October 2026 Weeknd Bangkok listing",
+      "url": "https://www.livenationtero.co.th/event/the-weeknd-after-hours-til-dawn-tour-bangkok-tickets-edp1678717",
+      "consultedAt": "2026-10-19"
     },
     "mraz-venue": {
       "name": "BITEC — Jason Mraz Asia 2026 Tour",
@@ -668,7 +669,7 @@
     "halloween-organiser": {
       "name": "Village Halloween Parade — organiser website",
       "url": "https://halloween-nyc.com/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "nationalgallery-operator": {
       "name": "National Gallery London — plan your visit",
@@ -1111,6 +1112,88 @@
       "url": "https://newweb.dmcr.go.th/detailAll/87753/nws/",
       "consultedAt": "2026-10-19",
       "publishedAt": "2026-09-10"
+    },
+    "yangon-tea-regional": {
+      "name": "Yangon regional tourism committee — traditional teahouses",
+      "url": "https://travelyangon.com/traditional-teahouse/",
+      "consultedAt": "2026-10-19"
+    },
+    "yangon-bowls-regional": {
+      "name": "Yangon regional tourism committee — comfort bowls",
+      "url": "https://travelyangon.com/iconic-comfort-bowls/",
+      "consultedAt": "2026-10-19"
+    },
+    "shwedagon-regional": {
+      "name": "Yangon regional tourism committee — Shwedagon",
+      "url": "https://travelyangon.com/the-shwedagon-pagoda/",
+      "consultedAt": "2026-10-19"
+    },
+    "yangon-transport-regional": {
+      "name": "Yangon regional tourism committee — getting around",
+      "url": "https://travelyangon.com/getting-around-2/",
+      "consultedAt": "2026-10-19"
+    },
+    "yangon-rail-jica": {
+      "name": "JICA — Yangon Circular Line upgrading project context",
+      "url": "https://www.jica.go.jp/english/about/policy/environment/id/asia/southeast/a_b_fi/myanmar/c8h0vm000090rovi.html",
+      "consultedAt": "2026-10-19"
+    },
+    "thadingyut-ministry": {
+      "name": "Myanmar tourism ministry — Festival of Light",
+      "url": "https://tourism.gov.mm/en/festivals/tha-din-gyut-festival",
+      "consultedAt": "2026-10-19"
+    },
+    "oldtown-menu": {
+      "name": "OldTown — official menu overview",
+      "url": "https://www.oldtown.com.my/fb-menu-highlight/",
+      "consultedAt": "2026-10-19"
+    },
+    "oldtown-stores": {
+      "name": "OldTown — outlet finder",
+      "url": "https://www.oldtown.com.my/store-locator/",
+      "consultedAt": "2026-10-19"
+    },
+    "tortoni-operator": {
+      "name": "Café Tortoni — official visitor and contact information",
+      "url": "https://cafetortoni.com.ar/",
+      "consultedAt": "2026-10-19"
+    },
+    "sxs-routes": {
+      "name": "Sculpture by the Sea — shorter and easier walking routes",
+      "url": "https://sculpturebythesea.com/bondi/access-inclusion-program/easy-walking-routes/",
+      "consultedAt": "2026-10-19"
+    },
+    "icebergs-pool": {
+      "name": "Bondi Icebergs — pool and visitor information",
+      "url": "https://icebergs.com.au/",
+      "consultedAt": "2026-10-19"
+    },
+    "lms-viewing": {
+      "name": "Lord Mayor’s Show — viewing choices",
+      "url": "https://www.lordmayorsshow.london/practicalities/where-to-go/",
+      "consultedAt": "2026-10-19"
+    },
+    "bab-venues": {
+      "name": "Bangkok Art Biennale — organiser directory (includes archived 2024–25 routes)",
+      "url": "https://www.bkkartbiennale.com/venues",
+      "consultedAt": "2026-10-19"
+    },
+    "phuket-veg-tat-2026": {
+      "name": "TAT — Phuket Vegetarian Festival 2026 dates and ceremonies",
+      "url": "https://www.tatnews.org/2026/10/tat-highlights-phuket-vegetarian-festival-2026-as-a-distinctive-cultural-experience/",
+      "consultedAt": "2026-10-19",
+      "publishedAt": "2026-10-06"
+    },
+    "deepavali-stb": {
+      "name": "Singapore Tourism Board — Deepavali",
+      "url": "https://www.visitsingapore.com/whats-happening/all-happenings/festivals/deepavali/",
+      "consultedAt": "2026-10-19"
+    },
+    "nyrr-2026-date": {
+      "name": "NYRR — 2026 marathon date announcement",
+      "url": "https://prod.nyrr.org/media-center/news/2026/10/14/new-york-road-runners-celebrates-50-years-of-the-5-boro-tcs-new-york-city-marathon-course-with-limited-edition-merchandise-and-gear",
+      "consultedAt": "2026-10-19",
+      "publishedAt": "2026-10-14"
     }
   },
   "cities": [
@@ -1912,7 +1995,7 @@
       "city": "bkk",
       "cat": "things",
       "kind": "list",
-      "mins": 4,
+      "mins": 3,
       "title": "Bangkok night markets: build an evening around one stop",
       "dek": "Choose between food, vintage shopping and a riverside outing, then protect time and money for the return journey.",
       "src": [
@@ -1920,16 +2003,12 @@
       ],
       "body": [
         "A night market plan becomes easier when you choose the reason for going before choosing the destination. Food browsing needs room in your appetite; vintage shopping needs room in your bag. A riverside evening may be mostly about the setting. There is no reason those priorities should produce the same route.",
-        "Use the five places below as alternatives. Start with the journey from your accommodation, choose one main market and decide what would make the evening feel complete. That might be dinner and a short walk rather than a second cross-city transfer."
+        "Use the four places below as alternatives. Start with the journey from your accommodation, choose one main market and decide what would make the evening feel complete. That might be dinner and a short walk rather than a second cross-city transfer."
       ],
       "items": [
         {
           "p": "bkk-jodd-fairs",
           "text": "Pick a few menus to compare before committing to a meal."
-        },
-        {
-          "p": "bkk-train-ratchada",
-          "text": "Check the address carefully before treating this as a second Ratchada stop."
         },
         {
           "p": "bkk-rot-fai-srinakarin",
@@ -1955,7 +2034,7 @@
         {
           "h": "Match the destination to your starting point",
           "p": [
-            "Compare the five map locations with your actual accommodation. A market beside a convenient rail connection may fit a short evening better than the one with the most attractive photos. Count transfers and the final walk, not just the number of stations.",
+            "Compare the four destinations with your actual accommodation. A market beside a convenient rail connection may fit a short evening better than the one with the most attractive photos. Count transfers and the final walk, not just the number of stations.",
             "Market names and locations have changed over time. Save a current address and compare it with your map destination. For Ong Ang, distinguish an outdoor canal walk from a programmed market evening; do not make a long journey for stalls you have not confirmed."
           ]
         },
@@ -1983,7 +2062,7 @@
         ]
       ],
       "slug": "bangkok-night-markets",
-      "img": "bkk-train-ratchada",
+      "img": "bkk-asiatique",
       "quickPlan": [
         [
           "Choose this for",
@@ -2009,12 +2088,7 @@
           [
             "Jodd Fairs Ratchada",
             "Food browsing",
-            "Thailand Cultural Centre MRT, exit 4"
-          ],
-          [
-            "Train Night Market Ratchada",
-            "Vintage stalls and bars",
-            "Thailand Cultural Centre MRT, exit 3"
+            "Confirm the current Ratchada address and station approach"
           ],
           [
             "Rot Fai Srinakarin",
@@ -2033,12 +2107,12 @@
           ]
         ]
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "dateModified": "2026-10-09",
+      "researchNote": "Research-based comparison revised 19 October 2026. An old Train Night Market Ratchada listing has been removed as a separate stop because its current identity was not established. Individual market hours and stall programmes need direct confirmation.",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
       },
       "seoTitle": "Bangkok Night Markets: An Evening Guide"
     },
@@ -2433,7 +2507,7 @@
       "city": "bkk",
       "cat": "things",
       "kind": "feature",
-      "mins": 5,
+      "mins": 3,
       "title": "Chatuchak: choose your shopping day and a manageable route",
       "dek": "A shopping plan built around two priorities, a spending limit and space for lunch.",
       "src": [
@@ -2459,14 +2533,14 @@
         {
           "h": "Finding your way",
           "p": [
-            "The market is laid out as a ring. A main walkway loops around the edge and numbered lanes run off it into 27 sections. The clock tower near the centre is the standard meeting point if your group gets separated, which it will.",
-            "Pick two or three sections that interest you and go to those first. Vintage clothing, ceramics and home decoration are the strongest. If you see something you want, buy it. Finding the same stall again an hour later is harder than it sounds."
+            "Save the entrance and section numbers you actually use. Agree a meeting point with your group, including a backup if mobile reception is poor.",
+            "Choose categories that interest you, such as clothing, ceramics or home decoration, and compare sellers within that area. Record a stall location before deciding to return."
           ]
         },
         {
           "h": "What to buy and how to bargain",
           "p": [
-            "Good buys include hand-painted ceramics, woven baskets, linen clothing from young Thai designers and second-hand denim. Many stalls now have fixed prices. Where they do not, ask for a small discount with a smile, and expect a better price for two or three items than for one."
+            "For ceramics, baskets, clothing or second-hand goods, compare dimensions, materials and condition before price. Ask whether a price is fixed and whether packing or delivery costs extra. A discount is not guaranteed."
           ]
         },
         {
@@ -2564,12 +2638,12 @@
           ]
         ]
       },
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
       },
       "seoTitle": "Chatuchak Market Bangkok: Shopping & Route Guide"
     },
@@ -2591,6 +2665,15 @@
         "Choose whether you want to observe, join an activity permitted by the venue or simply spend an evening near the river. Those choices lead to different arrival times and spending. This guide does not establish a confirmed programme for every riverside landmark."
       ],
       "sections": [
+        {
+          "h": "Choose a Bangkok enquiry without inventing a 2026 programme",
+          "p": [
+            "A public holiday or lunar date is not an event schedule. The references checked for this guide did not establish a complete current Bangkok venue programme, so we do not publish a floating time, firework time or guaranteed release point. A useful plan begins with one venue enquiry, not a list of unconfirmed celebrations.",
+            "For a cultural riverside interest, ask the actual temple or venue about visitor areas, worship and any designated floating activity. For a meal-led evening, ask the restaurant about its ordinary reservation and any separate event product. A dinner table and permission to approach the water are separate questions.",
+            "If you cannot verify the intended activity, keep a normal river-area outing through our temple guide or choose a meal on its own. Do not relabel that fallback as a confirmed festival programme."
+          ],
+          "sourceIds": []
+        },
         {
           "h": "Choose one place and one purpose",
           "p": [
@@ -2627,8 +2710,8 @@
       ],
       "slug": "bangkok-loy-krathong",
       "img": "t-loy-krathong",
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "dateModified": "2026-10-09",
+      "researchNote": "Editorial research check 19 October 2026. A complete current local programme or release-permission notice was not established; this limitation is explicit rather than filled with dates from another edition.",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Purpose",
@@ -2644,11 +2727,46 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "seoTitle": "Loy Krathong Bangkok: Festival Planning Guide"
+      "seoTitle": "Loy Krathong Bangkok: Festival Planning Guide",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Temple enquiry",
+            "A religious setting",
+            "Local programme and visitor conduct"
+          ],
+          [
+            "Riverside dining",
+            "A reserved meal",
+            "Event inclusions, if any"
+          ],
+          [
+            "Ordinary outing",
+            "A visit independent of the festival",
+            "Current site access"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Bangkok temple planning",
+          "/guides/bangkok-temples"
+        ],
+        [
+          "Official Thailand tourism events",
+          "https://www.tourismthailand.org/Events-and-Festivals"
+        ]
+      ]
     },
     {
       "id": "bkk-biennale",
@@ -2659,14 +2777,27 @@
       "title": "Bangkok Art Biennale: make a route from the venue list",
       "dek": "Choose a small exhibition circuit for the 2026–27 edition, with venue rules and breaks considered separately.",
       "src": [
-        "bab-organiser",
-        "bab-government-2026"
+        "bab-venues",
+        "bab-government-2026",
+        "bab-organiser"
       ],
       "body": [
         "Thailand’s government event announcement confirms Bangkok Art Biennale 2026 for 29 October 2026–28 February 2027, under the theme Angels and Mara. Build your visit from the current edition’s venue programme rather than repeating an earlier circuit.",
         "A citywide exhibition is easier to enjoy when you choose one part of the city and a few works you want to spend time with. This suggested approach leaves room to read labels, sit down and change direction when one venue holds your attention."
       ],
       "sections": [
+        {
+          "h": "Match the edition before using a venue route",
+          "p": [
+            "The organiser’s site names BACC, Siam Paragon, CentralWorld and riverside cultural sites, but its linked venue directory still displays route dates for 2024–25. Do not treat those archived times, artwork counts or route maps as confirmed BAB 2026 arrangements. Match the edition on each programme before deciding a venue is available.",
+            "Once the 2026 venue is confirmed, our suggested first choice is either a city-centre enquiry or one riverside cultural site. A cluster can reduce transfers, but a suggested geography is not evidence that the current edition uses every venue from an earlier route.",
+            "The announced edition runs 29 October 2026–28 February 2027. As of this 19 October research check, it has not opened. Save the venue directory now, then recheck the opening programme and admission instructions before treating a particular work as available."
+          ],
+          "sourceIds": [
+            "bab-venues",
+            "bab-government-2026"
+          ]
+        },
         {
           "h": "Use geography before counting artworks",
           "p": [
@@ -2703,7 +2834,7 @@
       ],
       "slug": "bangkok-biennale",
       "img": "bkk-bacc",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Edition",
@@ -2719,12 +2850,42 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Dates cross-checked against the Thailand government event announcement on 10 October 2026. Venue-specific access and exhibition programmes must be confirmed separately.",
-      "seoTitle": "Bangkok Art Biennale: Venues & Visit Planning"
+      "researchNote": "Checked 19 October 2026, before the announced opening. The organiser’s venue directory includes 2024–25 route material; use the 2026 announcement and confirm edition-specific visiting details. No archived hours or artwork counts are presented as current.",
+      "seoTitle": "Bangkok Art Biennale: Venues & Visit Planning",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "City-centre enquiry",
+            "Compare BACC, Siam Paragon or CentralWorld",
+            "Individual exhibition access"
+          ],
+          [
+            "Riverside enquiry",
+            "Choose Wat Pho, Wat Arun or Museum Siam",
+            "Site rules and actual journey"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Current BAB venue directory",
+          "https://www.bkkartbiennale.com/venues"
+        ],
+        [
+          "Temple-day planning",
+          "/guides/bangkok-temples"
+        ]
+      ]
     },
     {
       "id": "bkk-gigs",
@@ -2745,9 +2906,18 @@
       ],
       "body": [
         "Choosing a concert is a different task from organising the evening around it. First find the specific show in the linked promoter, venue or ticketing pages. Then read the product you are buying and save the actual venue entrance, rather than treating all Bangkok concerts as one transport problem.",
-        "The references include listings for The Weeknd, Jason Mraz, BABYMONSTER, My Chemical Romance, BTS and Wonderfruit. Their date information was checked on 9 October 2026. That check does not establish remaining tickets, permitted resale or a future schedule change."
+        "The linked promoter page lists The Weeknd at Rajamangala for 11–13 October 2026, dates already past at this 19 October update. It is an archived venue example, not an upcoming recommendation. The other artist references retain their 9 October check dates; consult the authorised seller before treating any listing as a future show or available ticket."
       ],
       "sections": [
+        {
+          "h": "Use three venue formats to decide what needs booking",
+          "p": [
+            "Choose an indoor hall, stadium or out-of-town festival as three different travel products. BITEC’s Jason Mraz listing, the Rajamangala-related promoter enquiry and Wonderfruit’s own information should not be collapsed into one “Bangkok concert” arrival plan. Save the actual hall or venue name from the authorised seller.",
+            "For an indoor show, investigate the final approach from transport and the ticket category. For a stadium, give gate and pickup arrangements their own plan. For an out-of-town festival, accommodation and transfers may determine the decision before the performance schedule does.",
+            "The artist references below were last checked on 9 October; this update adds the planning comparison and does not claim a fresh ticket-inventory check. Read the current seller’s event page for any date change, age rule, collection method or remaining admission."
+          ],
+          "sourceIds": []
+        },
         {
           "h": "Read the ticket as a product",
           "p": [
@@ -2784,7 +2954,7 @@
       ],
       "slug": "bangkok-gigs",
       "img": "t-rajamangala",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Choose first",
@@ -2800,12 +2970,48 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Bangkok Concerts: Show & Travel Planning"
+      "researchNote": "Planning comparison revised 19 October 2026. Artist-listing references retain their actual earlier check dates; remaining tickets and current event changes have not been inferred.",
+      "seoTitle": "Bangkok Concerts: Show & Travel Planning",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Indoor hall",
+            "A specific show and hall",
+            "Ticket category and entrance"
+          ],
+          [
+            "Stadium",
+            "A larger arrival and exit plan",
+            "Gate and return pickup"
+          ],
+          [
+            "Out-of-town festival",
+            "A separate trip",
+            "Accommodation and transfer terms"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "BITEC event listing",
+          "https://www.bitec.co.th/event/jason-mraz-asia-2026-tour"
+        ],
+        [
+          "Wonderfruit organiser",
+          "https://www.wonderfruit.co/faq"
+        ]
+      ],
+      "imageNote": "Archival Rajamangala stadium photograph; the image does not establish a current show, stage layout or entrance arrangement."
     },
     {
       "id": "bkk-talatnoi",
@@ -3023,7 +3229,7 @@
       "city": "bkk",
       "cat": "travel",
       "kind": "feature",
-      "mins": 5,
+      "mins": 3,
       "title": "Bangkok train outings: compare the time you get at the destination",
       "dek": "Choose between a heritage day, a railway-market visit and a longer seaside trip.",
       "body": [
@@ -3034,7 +3240,7 @@
         {
           "h": "Ayutthaya in more detail",
           "p": [
-            "Ayutthaya was one of the largest cities in the world in the 1600s, a trading capital on an island ringed by three rivers. A Burmese army sacked it in 1767 and the court never returned. What remains is a park of brick towers and headless Buddha statues spread among modern streets.",
+            "Use Ayutthaya as a heritage outing with separate temple stops, rather than assuming one station arrival provides a complete sightseeing circuit. Choose the sites and the transfer between them before booking the return.",
             "For an Ayutthaya outing, compare Wat Mahathat, Wat Phra Si Sanphet and Wat Chaiwatthanaram as separate heritage stops. Choose one main interest, check the current visitor arrangements and arrange transport between the sites. A station arrival does not establish an efficient route around all three.",
             "Plan the station-to-sights transfer separately. Ask locally about available ferry, driver or rental arrangements and their prices; do not assume a particular ferry or rental shop will be operating."
           ]
@@ -3043,7 +3249,7 @@
           "h": "The market on the tracks",
           "p": [
             "The Maeklong Railway Market in Samut Songkhram is nicknamed the umbrella-pulling market. Vendors lay their produce right up to the rails and fold back their awnings when the train's horn sounds. The train passes only a few times a day, so check the timetable before you set out.",
-            "Getting there by rail is an adventure in itself: two short local lines with a river ferry between them. The Amphawa floating market is nearby and operates on weekend afternoons."
+            "Check the actual local-rail and ferry connections before leaving Bangkok. If adding Amphawa, establish its current market programme independently; proximity does not guarantee that stalls operate on your travel day."
           ]
         },
         {
@@ -3145,12 +3351,12 @@
       "src": [
         "srt-booking"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
       },
       "seoTitle": "Bangkok Train Day Trips: Compare Your Options"
     },
@@ -3335,6 +3541,15 @@
       ],
       "sections": [
         {
+          "h": "Distinguish a city evening from a ticketed release package",
+          "p": [
+            "For a city evening, the useful information is a local notice naming the area, activities and current visitor arrangements. For a paid lantern-release package, the useful information is the named organiser, exact venue, admission terms and return transport. Neither establishes permission for an independent release elsewhere.",
+            "The sources checked here do not establish a complete 2026 municipal release-permission notice. We therefore do not label a public bridge, riverbank or temple as an authorised release point. Compare the package only after its actual organiser can answer the participation and transport questions.",
+            "If your interest is mainly the atmosphere of Chiang Mai, the Old City walking guide provides a separate daytime plan. Add a festival activity only when its actual programme is established. A social-media image is not evidence of permission or a current booking product."
+          ],
+          "sourceIds": []
+        },
+        {
           "h": "Choose the experience before the ticket",
           "p": [
             "Compare a city outing with a separately organised event. Ask what the ticket actually covers: entry, an activity, transfers or a meal. If you want mainly to see decorations or visit a worship site, do not assume a distant paid event is necessary."
@@ -3370,8 +3585,8 @@
       ],
       "slug": "chiang-mai-yi-peng",
       "img": "t-yipeng",
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "dateModified": "2026-10-09",
+      "researchNote": "Editorial research check 19 October 2026. A complete current local programme or release-permission notice was not established; this limitation is explicit rather than filled with dates from another edition.",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Start with",
@@ -3387,18 +3602,53 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "seoTitle": "Yi Peng Chiang Mai: Festival Planning Guide"
+      "seoTitle": "Yi Peng Chiang Mai: Festival Planning Guide",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "City evening",
+            "Public cultural activity",
+            "Municipal and venue notice"
+          ],
+          [
+            "Paid package",
+            "An organised release event",
+            "Named organiser, terms and return"
+          ],
+          [
+            "Independent release",
+            "A separate permission question",
+            "Do not assume it is allowed"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Old City walking plan",
+          "/guides/chiang-mai-oldcity"
+        ],
+        [
+          "Official Thailand tourism events",
+          "https://www.tourismthailand.org/Events-and-Festivals"
+        ]
+      ]
     },
     {
       "id": "cnx-markets",
       "city": "cnx",
       "cat": "things",
       "kind": "list",
-      "mins": 5,
+      "mins": 4,
       "title": "Chiang Mai markets: choose by shopping purpose and visiting day",
       "dek": "Food, gifts and evening browsing require different stops; use the calendar to narrow the choice.",
       "src": [
@@ -3441,7 +3691,7 @@
           "h": "How to shop them",
           "p": [
             "Bring smaller notes, but ask each seller about current payment options. Keep the public walkway clear when stopping to browse.",
-            "Prices are fair to begin with and bargaining is gentle. Asking for a little off when you buy two or three things is fine. Haggling hard over a few baht is not the custom here."
+            "Ask whether a seller uses fixed prices before discussing a discount. Compare the actual item, packing and total rather than assuming one bargaining custom applies to every stall."
           ]
         },
         {
@@ -3455,12 +3705,6 @@
           "h": "What to buy",
           "p": [
             "Wualai Road has been the silversmiths' street for generations, and beaten silver bowls and jewellery are still made in workshops behind the shopfronts. Elsewhere, look for indigo-dyed cotton, embroidered textiles made by hill communities, celadon ceramics with their pale green glaze, and umbrellas and notebooks made from mulberry-bark paper."
-          ]
-        },
-        {
-          "h": "When to come",
-          "p": [
-            "The cool season from November to February is the most pleasant time for an evening outdoors. From about February to April, smoke from agricultural burning often causes heavy haze across the north. If you are visiting then, check the air quality and carry a mask."
           ]
         },
         {
@@ -3553,7 +3797,7 @@
           ]
         ]
       },
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
         "date": "2026-10-09",
@@ -3577,7 +3821,7 @@
       "city": "cnx",
       "cat": "food",
       "kind": "list",
-      "mins": 5,
+      "mins": 3,
       "title": "Khao soi in Chiang Mai: choose a bowl, then adjust it",
       "dek": "Order for your appetite and preferences, with a clear distinction between noodles and a separate pork-rice option.",
       "src": [
@@ -3612,14 +3856,13 @@
         {
           "h": "What to look for in a bowl",
           "p": [
-            "The broth should be the colour of rust, with a film of red oil on top, and taste of dried chilli, turmeric and ginger before the coconut milk softens it. The noodles are flat, yellow and made with egg. The chicken is traditionally a whole drumstick, cooked until it falls apart.",
-            "The side plate is part of the dish. Pickled mustard greens add sourness, raw shallots add bite and a squeeze of lime lifts the whole bowl. A spoonful of chilli fried in oil is offered for those who want more heat."
+            "Read the offered noodle, broth and protein combination rather than expecting every bowl to match a single ideal recipe. Ask which accompaniments are included and taste before adding them. This guide does not prescribe one mandatory broth colour, meat portion or ingredient list."
           ]
         },
         {
           "h": "What else to order in the north",
           "p": [
-            "If khao soi wins you over, try the rest of the northern table. Kaeng hang le is a mild, slightly sweet pork curry with ginger and tamarind that shows Burmese influence. Nam prik ong is a dip of minced pork and tomato, served with raw vegetables. Sticky rice, eaten with the fingers, comes with everything."
+            "Treat another northern Thai dish as a separate ordering choice. Read its actual description, portion and ingredients before adding it to a noodle meal. Sticky rice, a dip and a curry need not be bought together for the visit to be worthwhile."
           ]
         },
         {
@@ -3712,7 +3955,7 @@
           ]
         ]
       },
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
         "date": "2026-10-09",
@@ -3726,7 +3969,7 @@
       "city": "cnx",
       "cat": "things",
       "kind": "feature",
-      "mins": 5,
+      "mins": 4,
       "title": "Chiang Mai Old City: a temple walk with a shorter option",
       "dek": "Choose a small sequence of landmarks, give lunch its own slot and keep extra lanes optional.",
       "places": [
@@ -3750,8 +3993,8 @@
           "h": "Three temples worth your time",
           "p": [
             "Wat Chiang Man, in the north-east corner, is the city's oldest temple, built by Mangrai when the city was founded. Its small chedi rests on a ring of stone elephants.",
-            "Wat Chedi Luang, in the middle of the old city, was once the tallest structure in Lanna. Its upper part collapsed in an earthquake in 1545 and has been left as a ruin, which makes it more impressive, not less. Some afternoons, monks sit at tables in the grounds for informal conversations with visitors who want to ask about Buddhism or monastic life.",
-            "Wat Phra Singh, at the western end of the main street, is the most important temple for local people and the most richly decorated."
+            "Wat Chedi Luang provides a substantial brick-stupa stop within the Old City. Ask the temple directly about visitor activities; an older reference to a monk conversation programme does not confirm a session on your travel day.",
+            "Wat Phra Singh is another possible temple stop towards the western side of the Old City. Choose it according to your interest and available visiting time rather than a universal importance ranking."
           ]
         },
         {
@@ -3863,12 +4106,12 @@
           ]
         ]
       },
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
       },
       "seoTitle": "Chiang Mai Old City: A Flexible Temple Walk",
       "relatedGuides": [
@@ -3919,9 +4162,9 @@
       "kind": "news",
       "mins": 2,
       "title": "Phuket Vegetarian Festival: choose what you want to experience",
-      "dek": "Separate a food outing from a procession visit, and use the current shrine programme for timings.",
+      "dek": "The main dates announced by TAT were 10–18 October 2026. Read this as cultural background and future-planning guidance.",
       "src": [
-        "p101veg",
+        "phuket-veg-tat-2026",
         "thgcal"
       ],
       "body": [
@@ -3929,6 +4172,17 @@
         "Some festival imagery involves intense ritual practices and noise. Read the organiser’s description before deciding whether the activity suits your group. This guide does not promise a single programme, free access everywhere or a verified start time for every procession."
       ],
       "sections": [
+        {
+          "h": "The announced 2026 programme has ended",
+          "p": [
+            "TAT’s 6 October announcement gave the main festival dates as 10–18 October 2026. On this 19 October update, that announced period is over. Keep the article as cultural and future-planning background; do not book a transfer expecting the listed 2026 processions to take place now.",
+            "TAT identifies shrine ceremonies and street processions as central parts of the observance and names Pudjor Shrine among the historic places. A shrine visit outside the festival and a festival procession are different outings. For a future edition, wait for the actual year’s shrine programme rather than shifting the 2026 dates forward.",
+            "For a visit now, our Old Town and Thai Hua Museum guides offer separate research-based outings. A restaurant serving vegetarian food is not proof that the public festival is still running. Check actual menu ingredients for your needs."
+          ],
+          "sourceIds": [
+            "phuket-veg-tat-2026"
+          ]
+        },
         {
           "h": "For food, choose one manageable area",
           "p": [
@@ -3979,14 +4233,53 @@
           "A separate Old Town meal without relying on festival access."
         ]
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Phuket Vegetarian Festival: A Visitor’s Guide"
+      "researchNote": "Updated 19 October 2026 after the main dates announced by TAT. Historical festival information is separated from current visitor plans.",
+      "seoTitle": "Phuket Vegetarian Festival: A Visitor’s Guide",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "2026 programme",
+            "Historical context: 10–18 October",
+            "Do not present it as upcoming"
+          ],
+          [
+            "Ordinary Old Town visit",
+            "Food or heritage outside the event",
+            "Business-specific access"
+          ],
+          [
+            "Future festival",
+            "A new annual programme",
+            "That edition’s official notices"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "TAT 2026 announcement",
+          "https://www.tatnews.org/2026/10/tat-highlights-phuket-vegetarian-festival-2026-as-a-distinctive-cultural-experience/"
+        ],
+        [
+          "Old Town alternative",
+          "/guides/phuket-oldtown"
+        ],
+        [
+          "Thai Hua Museum guide",
+          "/guides/phuket-thai-hua-museum-visit"
+        ]
+      ]
     },
     {
       "id": "hkt-big-buddha",
@@ -4007,6 +4300,15 @@
         "Choose what interests you about the visit: the monument, a view or a wider hill outing. If access cannot be confirmed, decide whether a different Phuket activity would serve that interest instead of travelling up solely to find out."
       ],
       "sections": [
+        {
+          "h": "Separate monument background from a confirmed visiting arrangement",
+          "p": [
+            "The existing research reference describes Big Buddha as a Phuket hill landmark, but this desk check did not obtain a current authority or operator notice that settles entry for your intended day. We therefore give no opening-hour or reopened-status guarantee and no unverified alternative access route.",
+            "Before agreeing a driver, ask about the permitted vehicle approach, actual public entry and what happens to the booking if the site is unavailable. Record the return pickup and whether waiting is included. An ordinary transfer quote is not evidence that the monument has admitted visitors.",
+            "If a current notice cannot be established, our Thai Hua Museum and Old Town guides provide different, separately sourced heritage plans to research. Choose one for its own interest rather than treating it as a promised substitute with the same view or religious purpose."
+          ],
+          "sourceIds": []
+        },
         {
           "h": "Ask a complete access question",
           "p": [
@@ -4043,7 +4345,7 @@
       ],
       "slug": "phuket-big-buddha",
       "img": "hkt-big-buddha",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "First step",
@@ -4059,12 +4361,47 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Phuket Big Buddha: Access & Visit Planning"
+      "researchNote": "Access uncertainty reviewed 19 October 2026. A current official reopening or visitor notice was not obtained, so current access remains explicitly unconfirmed.",
+      "seoTitle": "Phuket Big Buddha: Access & Visit Planning",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Hill visit",
+            "Monument and outlook enquiry",
+            "Current entry and permitted approach"
+          ],
+          [
+            "Transfer",
+            "A complete return arrangement",
+            "Waiting and unavailable-entry terms"
+          ],
+          [
+            "Old Town alternative",
+            "A different heritage interest",
+            "Its own opening and admission"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Thai Hua Museum guide",
+          "/guides/phuket-thai-hua-museum-visit"
+        ],
+        [
+          "Old Town guide",
+          "/guides/phuket-oldtown"
+        ]
+      ]
     },
     {
       "id": "hkt-beaches",
@@ -4230,7 +4567,7 @@
       "city": "hkt",
       "cat": "food",
       "kind": "feature",
-      "mins": 5,
+      "mins": 3,
       "title": "Phuket Old Town: a walk built around breakfast or shopping",
       "dek": "Choose one reason to explore Thalang Road and nearby streets, then leave a market evening separate.",
       "src": [
@@ -4257,14 +4594,14 @@
         {
           "h": "What to see",
           "p": [
-            "The Thai Hua Museum, in a handsome former Chinese-language school, tells the story of the tin trade and the families who ran it. The On On Hotel, opened in the late 1920s, was the island's first hotel and has been restored. Soi Romanee, once the red-light lane for miners, is now the prettiest street in town.",
+            "Compare the Thai Hua Museum as an indoor history stop with the streetscape around Thalang Road and Soi Romanee. Confirm entry arrangements before treating a restored hotel or working shophouse as a public attraction.",
             "In 2015 UNESCO named Phuket a Creative City of Gastronomy, largely on the strength of the old town's cooking."
           ]
         },
         {
           "h": "What to eat",
           "p": [
-            "Local specialities are different from standard Thai restaurant food. Mee Hokkien is thick yellow noodles fried with pork and seafood. Moo hong is pork belly braised slowly with pepper and garlic. For something sweet, o-aew is a bowl of shaved ice with banana-seed jelly and red beans, found almost nowhere else in Thailand."
+            "Mee Hokkien, moo hong and o-aew are useful menu names to investigate when choosing a food stop. Recipes and accompaniments vary by seller; ask about ingredients and serving style rather than treating a regional description as an allergy guarantee."
           ]
         },
         {
@@ -4360,12 +4697,12 @@
           ]
         ]
       },
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
       },
       "seoTitle": "Phuket Old Town: Walking, Food & Shopping Guide",
       "relatedGuides": [
@@ -4392,14 +4729,27 @@
       "title": "Thadingyut in Yangon: cultural context before a travel plan",
       "dek": "Distinguish the holiday from a confirmed local event, and check current travel advice before arranging a visit.",
       "src": [
-        "calmm",
-        "fcdo"
+        "thadingyut-ministry",
+        "fcdo",
+        "calmm"
       ],
       "body": [
         "Thadingyut is associated with lights and paying respects to elders. That cultural context can explain the holiday without establishing a visitor programme in Yangon. Do not assume that an older photograph or calendar listing confirms an accessible event today.",
         "Before making travel arrangements, read current official travel advice and establish whether the proposed outing is appropriate. This article does not assess security conditions or promise that a public celebration, venue or transport service is available."
       ],
       "sections": [
+        {
+          "h": "Read the lighting and respect traditions as cultural context",
+          "p": [
+            "Myanmar’s tourism ministry describes Thadingyut as a festival of light. Its cultural meaning should not be reduced to a photo itinerary: home and community observances and paying respects are different from a public visitor programme.",
+            "For cultural learning, compare the use of lights with the social act of visiting or honouring elders. Ask hosts how they prefer a guest to behave rather than assuming a gift, ritual or photograph is required. A practice described in a festival overview is not an instruction for every family.",
+            "For attending an event in Yangon, establish the actual year, location and notice separately. No current citywide procession or travel-safety finding is supplied by the cultural source. If reliable event details are absent, use this guide for understanding the tradition rather than planning an unconfirmed crowd visit."
+          ],
+          "sourceIds": [
+            "thadingyut-ministry",
+            "fcdo"
+          ]
+        },
         {
           "h": "Separate learning from attending",
           "p": [
@@ -4435,8 +4785,8 @@
         ]
       ],
       "slug": "yangon-thadingyut",
-      "img": "t-thadingyut",
-      "dateModified": "2026-10-09",
+      "img": "ygn-shwedagon",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Use this for",
@@ -4452,12 +4802,48 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Thadingyut Yangon: Festival & Travel Planning"
+      "researchNote": "Cultural source and travel advice checked 19 October 2026. No current local visitor programme is claimed.",
+      "seoTitle": "Thadingyut Yangon: Festival & Travel Planning",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Cultural reading",
+            "Understand the lights and social observance",
+            "Do not infer a public programme"
+          ],
+          [
+            "A host invitation",
+            "Observe respectfully",
+            "Host’s actual instructions"
+          ],
+          [
+            "Public attendance",
+            "A specific announced event",
+            "Year, place and current travel advice"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Ministry cultural overview",
+          "https://tourism.gov.mm/en/festivals/tha-din-gyut-festival"
+        ],
+        [
+          "Current Myanmar advice",
+          "https://www.gov.uk/foreign-travel-advice/myanmar"
+        ]
+      ],
+      "imageNote": "Shwedagon Pagoda in Yangon, shown for cultural context; not a photograph of a confirmed current Thadingyut event."
     },
     {
       "id": "ygn-shwedagon",
@@ -4468,9 +4854,10 @@
       "title": "Shwedagon: prepare for a respectful visit before choosing a time",
       "dek": "Plan access, clothing, belongings and the return journey using current visitor information.",
       "src": [
+        "shwedagon-regional",
+        "fcdo",
         "nomax",
-        "totygn",
-        "fcdo"
+        "totygn"
       ],
       "places": [
         "ygn-shwedagon"
@@ -4480,6 +4867,18 @@
         "This is a research-based planning guide. It does not assess current travel safety or replace the instructions at the site. Read official travel advice before considering a trip and use the pagoda’s current visitor information for the visit itself."
       ],
       "sections": [
+        {
+          "h": "Use the Bahan location and platform rules as the first enquiries",
+          "p": [
+            "Yangon’s regional tourism committee places Shwedagon in Bahan Township and states that shoulders and knees should be covered, with shoes and socks removed before entering the platform. Plan clothing and the handling of footwear before choosing a photo time.",
+            "Our suggested focus is the relationship between the central stupa, surrounding shrines and the activity of worshippers. It is a place of worship rather than a checklist of rituals. Observe first, leave worship areas clear and ask staff before entering or photographing a space whose rules are unclear.",
+            "Confirm the actual visitor entrance, present admission and any access assistance directly. We do not reuse old dollar fees or a claimed ten-minute transfer as current facts. For the wider trip, current government travel advice is a separate decision from the pagoda’s visitor arrangements."
+          ],
+          "sourceIds": [
+            "shwedagon-regional",
+            "fcdo"
+          ]
+        },
         {
           "h": "Give the entrance its own preparation",
           "p": [
@@ -4516,7 +4915,7 @@
       ],
       "slug": "yangon-shwedagon",
       "img": "ygn-shwedagon",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Purpose",
@@ -4532,12 +4931,47 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Shwedagon Pagoda Yangon: A Respectful Visit Guide"
+      "researchNote": "Regional visitor rules and current travel-advice page checked 19 October 2026. No current fee, opening or security assessment is certified.",
+      "seoTitle": "Shwedagon Pagoda Yangon: A Respectful Visit Guide",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Platform visit",
+            "Religious and architectural context",
+            "Clothing, footwear and entrance"
+          ],
+          [
+            "Photo interest",
+            "A limited viewing purpose",
+            "Photography rules and worship"
+          ],
+          [
+            "Travel decision",
+            "Whether to make the trip",
+            "Current regional advice"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Regional pagoda information",
+          "https://travelyangon.com/the-shwedagon-pagoda/"
+        ],
+        [
+          "Current Myanmar advice",
+          "https://www.gov.uk/foreign-travel-advice/myanmar"
+        ]
+      ]
     },
     {
       "id": "ygn-circular",
@@ -4548,9 +4982,11 @@
       "title": "Yangon Circular Railway: check the service before planning a ride",
       "dek": "A station-first approach that avoids treating a commuter railway as a guaranteed sightseeing loop.",
       "src": [
+        "yangon-rail-jica",
+        "yangon-transport-regional",
+        "fcdo",
         "ppygn",
-        "totygn",
-        "fcdo"
+        "totygn"
       ],
       "places": [
         "ygn-circular"
@@ -4560,6 +4996,19 @@
         "This guide does not promise an available sightseeing circuit or assess current travel safety. Read official travel advice before considering the outing. Leave the ride out when the necessary timetable, access or return information cannot be confirmed."
       ],
       "sections": [
+        {
+          "h": "A railway project page is not a passenger timetable",
+          "p": [
+            "JICA describes a Yangon Circular Line upgrading project, while the regional tourism committee describes departures from Yangon Central and upgraded rolling stock. These are different kinds of evidence: project context and a tourism description do not supply a dated train-by-train passenger timetable.",
+            "Use Yangon Central as the enquiry anchor and ask for the operating section, destination, departure and return on your actual day. Choose a short confirmed ride only if that service meets your purpose. Do not assume that any departure completes a historical full circuit or provides a convenient market stopover.",
+            "If the return or an essential part of the service cannot be established, do not board merely to preserve an itinerary from an older guide. The museum, food or architectural interests elsewhere in your plan need their own confirmation rather than being described as guaranteed substitutes."
+          ],
+          "sourceIds": [
+            "yangon-rail-jica",
+            "yangon-transport-regional",
+            "fcdo"
+          ]
+        },
         {
           "h": "Make the station enquiry specific",
           "p": [
@@ -4596,7 +5045,7 @@
       ],
       "slug": "yangon-circular",
       "img": "ygn-circular",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "First action",
@@ -4612,52 +5061,109 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Yangon Circular Railway: Service & Ride Planning"
+      "researchNote": "Research checked 19 October 2026. A current operating timetable and fare were not independently obtained; the article explicitly distinguishes those from project and tourism background.",
+      "seoTitle": "Yangon Circular Railway: Service & Ride Planning",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Project background",
+            "Why the railway has been upgraded",
+            "Not a timetable"
+          ],
+          [
+            "A passenger ride",
+            "One confirmed operating section",
+            "Actual return and fare"
+          ],
+          [
+            "A full circuit",
+            "A separate service question",
+            "Do not infer it from an old duration"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Regional transport overview",
+          "https://travelyangon.com/getting-around-2/"
+        ],
+        [
+          "JICA project context",
+          "https://www.jica.go.jp/english/about/policy/environment/id/asia/southeast/a_b_fi/myanmar/c8h0vm000090rovi.html"
+        ],
+        [
+          "Current travel advice",
+          "https://www.gov.uk/foreign-travel-advice/myanmar"
+        ]
+      ]
     },
     {
       "id": "ygn-teashops",
       "city": "ygn",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
-      "title": "A Yangon tea-shop meal: ask before you order",
-      "dek": "Choose sweetness, a meal and a comfortable stop using the shop’s actual menu.",
+      "mins": 3,
+      "title": "Yangon tea-shop orders: milk tea, mohinga or Shan noodles?",
+      "dek": "Understand the drink and meal before choosing a business, with a named-shop enquiry and current travel advice kept separate.",
       "src": [
-        "locygn",
-        "timeout-ygn",
+        "yangon-tea-regional",
+        "yangon-bowls-regional",
         "fcdo"
       ],
       "places": [
-        "ygn-lucky-seven",
-        "ygn-999-shan"
+        "ygn-lucky-seven"
       ],
       "body": [
-        "A tea-shop visit can be planned around one drink and one meal rather than a list of supposed local rituals. Start with the menu available at the shop, ask about the sweetness you want and choose food for your appetite. You do not need to copy another person’s order.",
-        "The historical listings in the references are background, not a confirmation that every named business is operating. Read current travel advice before a Yangon outing and confirm the individual business before making a dedicated journey."
+        "Choose the meal and the drink as separate decisions. For tea, begin with the shop’s standard laphet-yei and ask how sweetness or milk can be changed. For food, decide whether you want a bowl such as mohinga or Shan noodles, or only a snack. You do not need to order every item put on the table.",
+        "Yangon’s regional tourism committee provides tea vocabulary and named teahouse listings. Those references help you ask more precise questions, but they do not establish today’s business operations or assess travel safety. Read current official travel advice before considering the outing; our comparison is research, not a personal tasting."
       ],
       "sections": [
         {
-          "h": "Be specific about the drink",
+          "h": "Use a tea name to begin the conversation",
           "p": [
-            "Ask what preparation is available and how sweetness can be adjusted. If milk or another ingredient matters to you, ask rather than assuming the order can be changed. A familiar drink name is not a complete ingredient list."
+            "The regional guide calls the normal preparation pone-mhan, describes cho-kya as sweet and strong, and pawt-seint as a lighter, creamy style. Use those names as a starting enquiry rather than assuming identical recipes across businesses. Ask for the particular change you want, especially if you are trying to reduce sweetness.",
+            "Milk tea and fermented tea-leaf dishes are different products. If dairy ingredients matter, ask what the cup contains before ordering. A word translated as “light” does not establish an ingredient exclusion, a caffeine quantity or a nutritional claim."
+          ],
+          "sourceIds": [
+            "yangon-tea-regional"
           ]
         },
         {
-          "h": "Choose a meal, then add only what you want",
+          "h": "Choose a bowl or a snack rather than a complete tasting list",
           "p": [
-            "Read the current food menu and ask which items are being served. For mohinga or another dish, confirm relevant ingredients and the portion. A drink, snack and second breakfast are optional purchases, not a required sequence for an authentic visit."
+            "The regional food guide treats mohinga and Shan noodles as distinct comfort-bowl choices. Begin with the dish you actually want and ask what is included in that serving. If you want a small tea break, ask whether the available snacks can be ordered individually instead of assuming that a displayed plate is complimentary.",
+            "For any ingredient restriction, discuss the broth, sauces and preparation as well as the visible topping. We do not label a whole cuisine or shop suitable for a dietary requirement. If the answer is unclear, change the order rather than using another diner’s plate as proof."
+          ],
+          "sourceIds": [
+            "yangon-bowls-regional"
           ]
         },
         {
-          "h": "Check the practical terms",
+          "h": "Use Lucky Seven as a specific enquiry, not a franchise-wide guarantee",
           "p": [
-            "Find out the price, payment method and seating arrangement before ordering. Keep a return plan and leave the outing out if the business or broader travel conditions cannot be confirmed. This article does not guarantee dietary suitability or current opening hours."
+            "The regional committee lists a Lucky Seven branch at the corner of 49th Street and Mahabandoola Road. Save the exact branch you intend to contact. Its presence in a directory is a research lead, not confirmation that the branch will be serving at your arrival time.",
+            "A noodle-led meal is a different enquiry from a tea break. Choose the dish you want rather than assuming every teahouse provides the same menu. Confirm the business, entrance, current serving and return before a dedicated journey. One confirmed meal is a complete outing; there is no need to travel between several historical listings."
+          ],
+          "sourceIds": [
+            "yangon-tea-regional"
           ]
+        },
+        {
+          "h": "Keep a useful note about the order you receive",
+          "p": [
+            "Record the actual cup or bowl, portion, price paid and any adjustment you requested. That is more useful to a friend than calling an entire shop “the best”. If the response or preparation differs from an older reference, send us the guide URL and the specific correction; do not generalise one order to every branch."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
@@ -4677,35 +5183,78 @@
       ],
       "slug": "yangon-teashops",
       "img": "t-mohinga",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "Meal plan",
-          "One drink and food you actually want."
+          "Drink",
+          "Ask about the standard tea and the exact adjustment you want."
         ],
         [
-          "Ask about",
-          "Sweetness, ingredients, serving size and current price."
+          "Meal",
+          "Choose one bowl or an individually ordered snack."
         ],
         [
-          "Before a special trip",
-          "Confirm the business and current travel advice."
+          "Venue",
+          "Confirm the actual branch, not just the brand."
+        ],
+        [
+          "Travel decision",
+          "Read current official advice and establish local arrangements."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Yangon Tea Shops: A Food & Ordering Guide"
+      "researchNote": "Research updated 19 October 2026. Regional tourism descriptions are attributed as published information, not inspections. No current shop price, hygiene assessment or on-site tasting is claimed.",
+      "seoTitle": "Yangon Tea Shops: Tea Names, Breakfast Choices & Sources",
+      "planTable": {
+        "caption": "Separate the cup, the meal and the branch",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Milk tea",
+            "A seated drink break",
+            "Recipe and sweetness"
+          ],
+          [
+            "Mohinga or Shan noodles",
+            "A main meal",
+            "Broth, toppings and portion"
+          ],
+          [
+            "Named teahouse",
+            "A business enquiry",
+            "Current branch operations"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Regional tea guide",
+          "https://travelyangon.com/traditional-teahouse/"
+        ],
+        [
+          "Regional bowl guide",
+          "https://travelyangon.com/iconic-comfort-bowls/"
+        ],
+        [
+          "Myanmar travel advice",
+          "https://www.gov.uk/foreign-travel-advice/myanmar"
+        ]
+      ]
     },
     {
       "id": "ygn-walk",
       "city": "ygn",
       "cat": "things",
       "kind": "feature",
-      "mins": 4,
+      "mins": 3,
       "title": "Downtown Yangon: plan a small architectural outing",
       "dek": "Choose a short public-street route and confirm the current travel and access situation.",
       "places": [
@@ -4743,9 +5292,12 @@
           ]
         },
         {
-          "h": "Practical notes",
+          "h": "Plan from current advice rather than a fixed morning start",
           "p": [
-            "Start by 7.30am, when the streets are cool and the tea shops are full. Pavements are broken in places and often blocked by stalls, so you will spend some of the time walking in the road. Watch for open drains."
+            "Choose the actual part of the streetscape you want to research, then establish local access and travel arrangements. A historic building description does not establish a suitable departure time, safe pavement or permitted interior. Use current advice and confirmed local information before deciding whether to make the outing."
+          ],
+          "sourceIds": [
+            "fcdo"
           ]
         },
         {
@@ -4786,7 +5338,7 @@
         "fcdo",
         "ppygn"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
         "date": "2026-10-09",
         "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
@@ -4803,13 +5355,26 @@
       "title": "Deepavali in Singapore: holiday date and a Little India outing",
       "dek": "Use the official holiday date, then confirm the separate light-up or community programme.",
       "src": [
-        "momsg"
+        "momsg",
+        "deepavali-stb"
       ],
       "body": [
         "Singapore’s Ministry of Manpower lists Deepavali on Sunday 8 November 2026. Monday 9 November is a public holiday for those whose rest day is Sunday. These dates do not establish the opening period of every bazaar or a programme for every Little India venue.",
         "Choose whether you want a cultural activity, a meal or an evening streetscape visit. That choice helps you find the relevant programme instead of relying on a holiday date as an all-purpose itinerary."
       ],
       "sections": [
+        {
+          "h": "Use Little India as the area, then choose the activity",
+          "p": [
+            "Singapore’s Ministry of Manpower lists Deepavali on 8 November 2026 and the applicable replacement holiday on 9 November when the rest day falls on Sunday. Singapore Tourism Board associates the celebrations with Little India. The holiday and the local light-up, shopping or cultural programme should still be checked separately.",
+            "For an evening streetscape visit, choose a short Little India segment and a meal that fits it rather than a citywide transfer between several celebrations. For an interior or organised activity, save the actual ticket or visitor instructions. Keep worship and tourist browsing distinct, even if both occur in the same precinct.",
+            "For a group, agree a meeting place before browsing and let shopping follow the meal rather than replacing it. If the particular light-up or bazaar you want cannot be confirmed, describe the outing as an ordinary Little India visit. Do not infer trading dates from the national holiday alone."
+          ],
+          "sourceIds": [
+            "momsg",
+            "deepavali-stb"
+          ]
+        },
         {
           "h": "Find the programme for the activity",
           "p": [
@@ -4846,7 +5411,7 @@
       ],
       "slug": "singapore-deepavali",
       "img": "t-deepavali",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Date reference",
@@ -4862,12 +5427,47 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Deepavali Singapore: Little India Visit Planning"
+      "researchNote": "Holiday information checked 19 October 2026. No complete 2026 bazaar timetable or site-wide business-opening guarantee is asserted.",
+      "seoTitle": "Deepavali Singapore: Little India Visit Planning",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Holiday planning",
+            "8 November calendar reference",
+            "Applicable rest-day arrangements"
+          ],
+          [
+            "Little India evening",
+            "A streetscape and meal",
+            "Current local programme"
+          ],
+          [
+            "Cultural activity",
+            "One specific event or interior",
+            "Visitor instructions and any booking"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Official holiday calendar",
+          "https://www.mom.gov.sg/employment-practices/public-holidays"
+        ],
+        [
+          "Tourism-board festival information",
+          "https://www.visitsingapore.com/whats-happening/all-happenings/festivals/deepavali/"
+        ]
+      ]
     },
     {
       "id": "sin-hawker",
@@ -5427,30 +6027,39 @@
       "cat": "food",
       "kind": "feature",
       "mins": 2,
-      "title": "Kuala Lumpur breakfast: choose rice, flatbread or coffee",
-      "dek": "Build one meal around your appetite, with menu and dietary questions kept specific.",
+      "title": "Kuala Lumpur breakfast: nasi lemak, roti canai or a kopitiam set?",
+      "dek": "Choose a substantial plate, a flatbread order or a coffee-shop set, then use an actual branch menu for the morning you have.",
       "body": [
-        "Choose a breakfast format before choosing a café name. A rice meal, flatbread order and coffee-shop breakfast can serve different appetites and schedules. The most useful starting point is what you want to eat and how long you have to sit down.",
-        "Use the menu at the actual business for ingredients, prices and serving periods. A district, cuisine label or older café listing does not establish halal status, vegetarian preparation or every item available today."
+        "Choose nasi lemak when you want a rice-based meal, roti canai when you want a flatbread order, or a kopitiam set when a drink and a lighter breakfast fit the morning. These are ordering formats rather than a claim that three named restaurants have been tasted and ranked.",
+        "Use a current business menu to establish what the offered plate includes. OldTown is one practical research lead because the operator provides a menu overview and an outlet finder; its presence here is not an award or a claim that every Kuala Lumpur branch opens early."
       ],
       "sections": [
         {
-          "h": "Order for the meal you want",
+          "h": "Compare complete orders rather than dish names",
           "p": [
-            "For nasi lemak, ask what accompaniments the offered plate includes. For roti canai, ask about the serving and sauces. Decide whether a drink is part of the order or a separate charge. Start with one meal instead of buying several dishes before knowing the portions."
+            "For nasi lemak, read the accompaniments and whether an extra protein changes the total. For roti, ask what sauces or sides come with the order and whether a different filling is priced separately. For a set, check whether the drink is included and which drink options count.",
+            "Our suggestion is to start with one complete breakfast, then add more only if you still want it. A cheap-looking base price can be a different product from the meal shown in a photograph. Ask for the final order total if the inclusions are unclear."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Use the exact OldTown branch as a research lead",
+          "p": [
+            "The operator’s menu page separates à la carte options from set-meal promotions and links to an outlet finder. Some menu material is labelled 2024, so do not treat every displayed promotion as a guaranteed current deal. Find a Kuala Lumpur branch that fits your actual route and check that branch’s opening and current menu.",
+            "A branch near the next activity is often a clearer choice than a longer transfer for an untested recommendation. If you are leaving early for a train or flight, establish actual service time and takeaway arrangements before relying on breakfast there."
+          ],
+          "sourceIds": [
+            "oldtown-menu",
+            "oldtown-stores"
           ]
         },
         {
-          "h": "Make dietary questions concrete",
+          "h": "Ask about dietary needs at the business",
           "p": [
-            "If a certification or ingredient exclusion matters, ask for the current information at the business. Do not infer it from a familiar dish name. Stock, sauces and shared preparation can matter as much as the ingredient visible on the plate."
-          ]
-        },
-        {
-          "h": "Use the location to simplify the morning",
-          "p": [
-            "Choose a business that fits the next activity rather than adding a long transfer solely for breakfast. Confirm its current opening period if you have an early departure. Leave time for a seated meal so it does not become another rushed stop."
-          ]
+            "Read certification and ingredient information relevant to the actual outlet and order. A cuisine label, a dish’s usual recipe or another branch’s certificate does not establish your serving’s suitability. Ask about stock, sauces and shared preparation as well as the visible ingredients.",
+            "For a group, agree whether each person is ordering independently or whether dishes are being shared. Save a meeting point if queues split the group, and keep the return or onward transport money outside the breakfast budget. The meal should simplify the morning rather than become a second itinerary."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
@@ -5471,33 +6080,73 @@
       "slug": "kuala-lumpur-breakfast",
       "img": "t-nasi-lemak",
       "src": [
-        "timeout-kul",
+        "oldtown-menu",
+        "oldtown-stores",
         "kl-malaysia"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "Choose",
-          "Rice meal, flatbread or coffee-shop breakfast."
+          "Substantial plate",
+          "Read the nasi lemak accompaniments and extras."
         ],
         [
-          "Ask",
-          "Serving, inclusions, ingredients and current price."
+          "Flatbread meal",
+          "Check roti options and included sauces."
         ],
         [
-          "Route",
-          "Match breakfast to your next activity."
+          "Kopitiam set",
+          "Check the drink and food included at the chosen outlet."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Kuala Lumpur Breakfast: Food & Coffee Guide",
+      "researchNote": "Operator pages checked 19 October 2026. Menus with older edition labels are research leads, not guaranteed current promotions. No tasting, price comparison or branch-wide dietary claim is made.",
+      "seoTitle": "Kuala Lumpur Breakfast: Nasi Lemak, Roti & Kopitiam Choices",
       "relatedGuides": [
         "kuala-lumpur-gokl-bus-foreign-visitors"
+      ],
+      "planTable": {
+        "caption": "Three breakfast formats with different inclusions",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Rice plate",
+            "A substantial meal",
+            "Accompaniments and extras"
+          ],
+          [
+            "Flatbread order",
+            "A flexible portion",
+            "Filling, sauces and quantity"
+          ],
+          [
+            "Kopitiam set",
+            "Food and a drink",
+            "Current set terms and branch service"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "OldTown menu overview",
+          "https://www.oldtown.com.my/fb-menu-highlight/"
+        ],
+        [
+          "OldTown outlet finder",
+          "https://www.oldtown.com.my/store-locator/"
+        ],
+        [
+          "GoKL visitor transport guide",
+          "/guides/kuala-lumpur-gokl-bus-foreign-visitors"
+        ]
       ]
     },
     {
@@ -5661,6 +6310,7 @@
       "title": "The Lord Mayor’s Show: choose where to watch before travelling",
       "dek": "A street-viewing plan for the organiser’s announced 14 November 2026 procession.",
       "src": [
+        "lms-viewing",
         "lms"
       ],
       "body": [
@@ -5668,6 +6318,18 @@
         "Decide whether you want a brief look or a longer viewing session. That choice determines how early you should arrive, where you can take a break and whether another City outing belongs in the afternoon."
       ],
       "sections": [
+        {
+          "h": "Choose the outward procession or the return viewing area",
+          "p": [
+            "The organiser’s viewing page distinguishes the busier outward procession around Bank and St Paul’s from the return along the Embankment. It suggests the Temple–Blackfriars stretch for a roomier version of the outing. Use that distinction to choose your purpose before finding a station.",
+            "For a brief family visit or someone concerned about dense crowds, investigate the organiser’s access advice and the actual approach to the return area. For the central ceremony atmosphere, research the outward area instead. A description of more space is not a reserved pitch or a step-free guarantee.",
+            "The show starts from Mansion House at 11:00 on 14 November 2026. That is not the time every float reaches every viewpoint. Use the current timetable and map for your selected stretch, and keep road closures separate from normal Tube or river-bus operation."
+          ],
+          "sourceIds": [
+            "lms-viewing",
+            "lms"
+          ]
+        },
         {
           "h": "Choose one viewing position",
           "p": [
@@ -5718,14 +6380,44 @@
           "Use current event-day route and transport information."
         ]
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Lord Mayor’s Show London: Viewing & Travel Guide"
+      "researchNote": "Organiser information checked 19 October 2026. The map and individual access advice govern the final choice; no viewing space is reserved by this guide.",
+      "seoTitle": "Lord Mayor’s Show London: Viewing & Travel Guide",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Bank–St Paul’s",
+            "Outward procession atmosphere",
+            "Crowds and current approach"
+          ],
+          [
+            "Temple–Blackfriars",
+            "Return-procession enquiry",
+            "Viewing map and access advice"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Organiser viewing choices",
+          "https://www.lordmayorsshow.london/practicalities/where-to-go/"
+        ],
+        [
+          "Organiser current programme",
+          "https://www.lordmayorsshow.london/"
+        ]
+      ]
     },
     {
       "id": "lon-free",
@@ -5884,35 +6576,45 @@
       "city": "lis",
       "cat": "travel",
       "kind": "feature",
-      "mins": 2,
-      "title": "Lisbon viewpoints: choose one hill and check the approach",
-      "dek": "A manageable panorama outing, with walking, transport and a seated break planned together.",
+      "mins": 3,
+      "title": "Lisbon viewpoint outing: Senhora do Monte or a tram ride?",
+      "dek": "Choose a skyline pause in Graça or a separate Tram 28 journey, with the final approach and a shorter option planned explicitly.",
       "places": [
         "lis-senhora-do-monte",
         "lis-tram-28"
       ],
       "body": [
-        "A viewpoint visit should begin with the approach your group can comfortably make. Choose one panorama and compare the final walking section, not just the nearest stop on a transit map. A hilltop photograph does not describe the steps or gradient needed to reach it.",
-        "Senhora do Monte is one option to consider. Use current directions and operating information for any tram or funicular you intend to use. An old route description is not proof that the service is running for your visit."
+        "Choose Senhora do Monte if the purpose is a stationary panorama; choose a Tram 28 journey if the ride through Lisbon’s historic districts is the activity. Combining them is optional. A yellow-tram photograph does not establish that the tram stops at the viewpoint or removes the uphill approach.",
+        "Visit Lisboa locates the viewpoint on Rua da Senhora do Monte in the Graça area and identifies the castle, Baixa and Tagus among the features in its panorama. Use those as things to look for, not a promise of clear weather. The outing works best as one viewpoint and a nearby break rather than a race between hills."
       ],
       "sections": [
         {
-          "h": "Read the last part of the route",
+          "h": "Make the panorama the reason to stop",
           "p": [
-            "Look at where transport leaves you and the remaining approach. If stairs or slopes matter, ask about a suitable route before departure. Do not label an outing “without climbing” when the final walk has not been established for your needs."
+            "At the viewpoint, first orient the river and the castle side of the skyline, then compare the dense roofscape below. That gives the pause a purpose beyond taking the same wide photograph as everyone else. Keep the chapel and any interior access separate from the public view; this guide does not establish visiting arrangements for the chapel.",
+            "Our suggestion is a short viewing pause followed by a seated break in the same area. It is not a required route or a venue reservation. If visibility is poor, shorten the viewing rather than automatically climbing to another panorama with the same weather."
+          ],
+          "sourceIds": [
+            "senhora-lisboa"
           ]
         },
         {
-          "h": "Pair the view with one break",
+          "h": "Check the last walking section before using Tram 28",
           "p": [
-            "Choose a refreshment or meal stop that fits the same area. A seated pause makes it easier to decide whether you want another hill afterwards. Keep a second viewpoint optional rather than turning every skyline angle into a required stop."
+            "Visit Lisboa describes Tram 28 as a route through several historic districts and links to Carris for operator information. It is a public-transport journey, not a dedicated viewpoint shuttle. Use Carris’s current stops and service notices to decide where to alight, then inspect the remaining approach on a live map.",
+            "If slopes, stairs or standing on a crowded tram would make the outing unsuitable, ask about an alternative arrival near the actual viewpoint. Confirm the legal drop-off and the last walking section with the driver or venue contact. We have not measured an accessible route and do not label this an outing “without climbing”."
+          ],
+          "sourceIds": [
+            "lisboa-tram"
           ]
         },
         {
-          "h": "Use conditions to choose the finish",
+          "h": "Use a one-hill plan before adding Graça or another district",
           "p": [
-            "If visibility is poor or the approach feels unsuitable, shorten the outing instead of continuing to another hill by default. You can return for the view another day. Keep money and directions for the journey home separate from the café spending."
-          ]
+            "Save the viewpoint, a possible break and the return destination before departure. Give each a different role: viewing, rest and travel home. Choose a second hill only after deciding that it offers something you still want, rather than treating the first view as a task to finish quickly.",
+            "For a short visit, keep transport spending separate from refreshments and leave enough time to reach the return stop. Compare the route from where you actually finish, not the route you imagined before seeing the gradient. A direct return is a valid end to a panorama outing."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
@@ -5933,32 +6635,78 @@
       "slug": "lisbon-views",
       "img": "lis-senhora-do-monte",
       "src": [
-        "timeout-lis",
         "senhora-lisboa",
         "lisboa-tram"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "Main choice",
-          "One panorama you want to see."
+          "Main activity",
+          "Senhora do Monte panorama or a Tram 28 journey."
         ],
         [
-          "Check",
-          "Current transport and the final walking approach."
+          "Viewpoint location",
+          "Rua da Senhora do Monte, Graça."
+        ],
+        [
+          "Final approach",
+          "Check the actual slope and walking route from your arrival."
         ],
         [
           "Optional",
-          "A second hill after a seated break."
+          "One nearby break, then a direct return."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Lisbon Viewpoints: Choose a Hill & Walking Route"
+      "researchNote": "Tourism descriptions checked 19 October 2026. No step-free approach, current tram timetable or weather condition is certified by this guide.",
+      "seoTitle": "Senhora do Monte Lisbon: Viewpoint, Approach & Tram Planning",
+      "planTable": {
+        "caption": "A view and a transport experience are different choices",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Senhora do Monte",
+            "Look at the skyline from one place",
+            "Weather and final approach"
+          ],
+          [
+            "Tram 28",
+            "A journey through historic districts",
+            "Current Carris stops and service"
+          ],
+          [
+            "Combined visit",
+            "Viewpoint plus a separate ride",
+            "Actual connection; no assumed doorstep stop"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Viewpoint: official tourism information",
+          "https://www.visitlisboa.com/en/places/miradouro-da-senhora-do-monte"
+        ],
+        [
+          "Tram 28: tourism overview",
+          "https://www.visitlisboa.com/en/places/no-28-tram"
+        ],
+        [
+          "Carris current services",
+          "https://www.carris.pt/"
+        ],
+        [
+          "Find Senhora do Monte",
+          "https://www.google.com/maps/search/?api=1&query=Miradouro+da+Senhora+do+Monte+Lisboa"
+        ]
+      ]
     },
     {
       "id": "nyc-autumn",
@@ -5969,14 +6717,27 @@
       "title": "New York autumn outings: parade, race or park afternoon?",
       "dek": "Choose the kind of day you want, then separate confirmed event information from a seasonal idea.",
       "src": [
-        "nyrr",
-        "halloween-organiser"
+        "halloween-organiser",
+        "nyrr-2026-date",
+        "nyrr"
       ],
       "body": [
         "A New York autumn plan can be built around an event or around the city without one. Choose whether watching a parade, supporting runners or spending time outdoors matters most. These options ask different things of your arrival time, movement and tolerance for crowds.",
         "The Village Halloween Parade organiser lists 31 October 2026 at 7pm. For any marathon or Thanksgiving outing, use the current organiser route and spectator notices before booking around it. A seasonal date is not a promise of the same route, access or viewing space as a previous edition."
       ],
       "sections": [
+        {
+          "h": "Separate the 31 October parade from the 1 November marathon",
+          "p": [
+            "The Village Halloween Parade organiser announces 31 October 2026 at 19:00. NYRR’s 14 October announcement confirms the marathon for Sunday 1 November. These are consecutive but different events with different routes and visitor instructions; one viewing plan cannot be reused for both.",
+            "For Halloween, choose watching or marching through the organiser’s separate instructions. For the marathon, choose one spectator purpose and a meeting point outside runner-only areas, using NYRR’s current guide. If supporting a particular runner, agree a recognisable location rather than trying to follow them between several points.",
+            "If neither event is your main interest, keep a separate neighbourhood or park outing and check which streets your journey crosses. A quiet day does not need to include a brief visit to the busiest event area. Avoid promising autumn leaf colour for a fixed date."
+          ],
+          "sourceIds": [
+            "halloween-organiser",
+            "nyrr-2026-date"
+          ]
+        },
         {
           "h": "For Halloween, choose watching or participation",
           "p": [
@@ -6013,7 +6774,7 @@
       ],
       "slug": "new-york-autumn",
       "img": "t-nyc-marathon",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Choose first",
@@ -6029,12 +6790,47 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "New York in Autumn: Parks, Parades & Outings"
+      "researchNote": "Dates checked 19 October 2026 with the parade organiser and NYRR. Viewing, participation and reserved access have separate instructions.",
+      "seoTitle": "New York in Autumn: Parks, Parades & Outings",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "31 October evening",
+            "Halloween parade",
+            "Watch versus march instructions"
+          ],
+          [
+            "1 November",
+            "Marathon spectating",
+            "NYRR current route and meeting arrangements"
+          ],
+          [
+            "Non-event outing",
+            "A quieter afternoon",
+            "Avoiding disrupted journeys"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Halloween organiser",
+          "https://halloween-nyc.com/"
+        ],
+        [
+          "NYRR marathon information",
+          "https://www.nyrr.org/tcsnycmarathon"
+        ]
+      ]
     },
     {
       "id": "nyc-slices",
@@ -6052,6 +6848,17 @@
         "Joe’s Pizza is one listing to consider, with its own website linked below. This guide does not claim a personal taste test or rank the city’s shops. It gives you a way to make and describe your own comparison."
       ],
       "sections": [
+        {
+          "h": "Make Joe’s Carmine Street address the starting enquiry",
+          "p": [
+            "Joe’s official site identifies its Greenwich Village shop at 7 Carmine Street. Choose that address when the Village already fits your walk; do not treat every business using a similar name as the same branch. The operator page is a location reference, not an independent assessment of the food.",
+            "For a purposeful comparison, choose one slice style and record the actual portion, temperature and texture. Compare another shop on a different outing only if the same kind of order still interests you. A route through several pizzerias can produce different meals rather than a useful like-for-like comparison.",
+            "If you need seating or a short wait, establish those needs at the shop before ordering. We have not recorded a current menu price or confirmed every service arrangement, so the plan does not promise a fixed dollar budget. Keep the slice stop small enough that the rest of your Village visit remains flexible."
+          ],
+          "sourceIds": [
+            "joes-operator"
+          ]
+        },
         {
           "h": "Choose the order before comparing",
           "p": [
@@ -6089,10 +6896,10 @@
       "slug": "new-york-slices",
       "img": "t-ny-pizza",
       "src": [
-        "timeout-nyc",
-        "joes-operator"
+        "joes-operator",
+        "timeout-nyc"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Anchor",
@@ -6108,12 +6915,42 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "New York Pizza Slices: Plan Your Food Comparison"
+      "researchNote": "Joe’s operator information checked 19 October 2026. Our slice-comparison method is editorial analysis; no current price survey or personal tasting is claimed.",
+      "seoTitle": "New York Pizza Slices: Plan Your Food Comparison",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Joe’s, 7 Carmine Street",
+            "A Village slice stop",
+            "Current menu and eating arrangement"
+          ],
+          [
+            "Later comparison",
+            "A similar order elsewhere",
+            "Same style and an appetite for another meal"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Joe’s official site",
+          "https://www.joespizzanyc.com/"
+        ],
+        [
+          "Find 7 Carmine Street",
+          "https://www.google.com/maps/search/?api=1&query=Joes+Pizza+7+Carmine+Street+New+York"
+        ]
+      ]
     },
     {
       "id": "mex-markets",
@@ -6121,33 +6958,41 @@
       "cat": "food",
       "kind": "feature",
       "mins": 2,
-      "title": "Mexico City market meals: choose a lunch before a route",
-      "dek": "Build one neighbourhood outing around a market and an order you understand.",
+      "title": "Mercado de Coyoacán: plan a tostada lunch and a neighbourhood outing",
+      "dek": "Choose your tostada topping, keep a museum booking separate and leave the rest of the market optional.",
       "places": [
         "mex-coyoacan-market"
       ],
       "body": [
-        "A market meal can anchor a Mexico City outing without becoming a race through several neighbourhoods. Choose the market by its actual location and the meal you want. Then give yourself time to look at menus before ordering.",
-        "The market references explain places to research; they do not confirm every counter’s opening, ingredients or price. This guide does not claim that crowds prove hygiene or that pointing at a dish answers a dietary question."
+        "Make Mercado de Coyoacán a lunch stop if you want a tostada-led meal and browsing in the same neighbourhood. Mexico City’s tourism description identifies tostadas with varied toppings and the market’s craft stalls. That gives you two distinct purposes: eat first, then decide whether shopping interests you.",
+        "The tourism page also places the market near the Frida Kahlo and León Trotsky museums. Proximity is useful for planning, but neither museum is included in a market visit. If one is the reason for your day in Coyoacán, establish its separate booking and visiting arrangements before fitting lunch around it."
       ],
       "sections": [
         {
-          "h": "Find the exact market",
+          "h": "Choose the topping and portion before joining the queue",
           "p": [
-            "Save the full market name and address. Similar or shortened names can lead to different places. Compare the approach from your starting point and decide whether lunch or a non-food visit is the main purpose before adding other neighbourhood stops."
+            "A tostada order can vary by topping, portion and extras. The tourism page mentions choices including mushrooms, tinga and seafood; read the actual counter menu rather than assuming every option is available. Ask how many pieces are included and whether a drink is separate.",
+            "Choose one order that suits your appetite, then add more if you still want it. For dietary requirements, ask about the full preparation, sauces and shared handling. A vegetable topping does not establish the ingredients underneath it, and a busy counter is not a hygiene assessment."
+          ],
+          "sourceIds": [
+            "coyoacan-tourism"
           ]
         },
         {
-          "h": "Ask what the meal includes",
+          "h": "Put the museum booking before the flexible meal",
           "p": [
-            "Read the menu and ask about serving size, drink charges and the total price. If you want a tasting rather than lunch, make that clear before ordering. Food requirements need direct ingredient and preparation questions; visible toppings are not the entire recipe."
-          ]
+            "If you have a timed interior visit, save the actual entrance and the time you need to be there. Use a current map to compare the market-to-museum journey. Give lunch a finish that leaves that connection comfortable; do not treat the meal as a fixed-duration stop.",
+            "Without a booking, make lunch and the immediate neighbourhood the complete outing. You can appreciate the area without trying to obtain last-minute entry to a museum. Avoid presenting an unconfirmed ticket or an old opening notice as part of the market plan."
+          ],
+          "sourceIds": []
         },
         {
-          "h": "Add browsing after the meal",
+          "h": "Browse one category after eating",
           "p": [
-            "Once you have eaten, decide whether you want to explore produce, crafts or another street. Keep purchases in a separate allowance. A second market needs another journey and appetite, so save it for later unless it supplies a different experience you actively want."
-          ]
+            "Choose crafts, small gifts or produce according to what you can carry and use. Compare the actual material, quantity and packing rather than assuming every souvenir is locally made. Ask a seller before photographing goods or a working counter.",
+            "Keep shopping money separate from lunch and the return journey. A second market elsewhere in Mexico City needs a new reason to travel, not just another pin on a map. If one meal and a short browse meet your interests, finish there."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
@@ -6168,31 +7013,69 @@
       "slug": "mexico-city-markets",
       "img": "mex-coyoacan-market",
       "src": [
-        "timeout-mex",
         "coyoacan-tourism"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "First decision",
-          "Exact market and main meal."
+          "Meal anchor",
+          "Mercado de Coyoacán; read the current tostada options."
         ],
         [
-          "Ask",
-          "Portion, ingredients, payment and total price."
+          "Booking anchor",
+          "A museum has separate tickets and visitor instructions."
         ],
         [
           "After lunch",
-          "Optional browsing in the same area."
+          "Optional crafts or neighbourhood browsing."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Mexico City Markets: A Food & Lunch Guide"
+      "researchNote": "Market context checked with Mexico City tourism on 19 October 2026. No counter tasting, current menu survey or museum ticket availability is claimed.",
+      "seoTitle": "Mercado de Coyoacán: Tostadas, Lunch & Museum Planning",
+      "planTable": {
+        "caption": "Build the day around the least flexible part",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Market-only visit",
+            "Lunch and browsing",
+            "Menu, total order and return"
+          ],
+          [
+            "Museum plus market",
+            "A timed interior and flexible food",
+            "Museum booking first"
+          ],
+          [
+            "Several food stops",
+            "A deliberate tasting plan",
+            "Appetite and extra journeys"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Market: official tourism description",
+          "https://www.mexicocity.cdmx.gob.mx/venues/coyoacan-market/"
+        ],
+        [
+          "Find Mercado de Coyoacán",
+          "https://www.google.com/maps/search/?api=1&query=Mercado+de+Coyoacan+Mexico+City"
+        ],
+        [
+          "Compare another food outing",
+          "/guides/mexico-city-food-outing"
+        ]
+      ]
     },
     {
       "id": "bue-cafes",
@@ -6200,34 +7083,44 @@
       "cat": "food",
       "kind": "feature",
       "mins": 2,
-      "title": "Buenos Aires café visits: coffee break or a longer stay?",
-      "dek": "Choose the kind of café time you want, then check seating and ordering expectations.",
+      "title": "Buenos Aires coffee break: Café Tortoni or El Ateneo Grand Splendid?",
+      "dek": "Compare a historic café on Avenida de Mayo with a bookstore in a former theatre, including El Ateneo’s separate paid experience.",
       "places": [
         "bue-tortoni",
         "bue-ateneo"
       ],
       "body": [
-        "A café visit can be a short coffee stop, a meal or a longer pause between outings. Decide which you want before choosing the venue. A historic setting may interest you, but it does not establish a policy about laptop use or how long one order lets you stay.",
-        "Café Tortoni is one of the listings in the references. Use the café’s actual arrangements for your visit rather than an assumed citywide custom. This article does not promise that every traditional café offers the same seating or service."
+        "Choose Café Tortoni if a historic café is the activity; choose El Ateneo Grand Splendid if book browsing and a theatre interior are the main reasons to stop. These are different outings in different parts of Buenos Aires, not two interchangeable café bookings.",
+        "Tortoni’s own site gives its address as Avenida de Mayo 825. The city tourism office places El Ateneo at Avenida Santa Fe 1860 and distinguishes free bookstore access from a separate paid interactive experience introduced in March 2026. Decide which product interests you before treating either as a quick coffee stop."
       ],
       "sections": [
         {
-          "h": "Choose the reason to sit down",
+          "h": "Café Tortoni: separate the table from a cultural programme",
           "p": [
-            "If the interior is your main interest, ask whether an ordinary café visit gives access to the area you want. An event, show or special room may have separate arrangements. If you simply need a pause, compare a comfortable seat and clear menu before choosing by reputation."
+            "The operator provides gastronomy, cultural-activity and contact sections. Use those to distinguish an ordinary café visit from any event you want to attend. Do not infer that buying a drink includes a performance or access to every room.",
+            "For a short break, establish the menu and seating arrangement first. For a programme-led visit, establish the actual event, date, admission and what is included before planning dinner around it. We have not reviewed the current food or personally attended a show."
+          ],
+          "sourceIds": [
+            "tortoni-operator"
           ]
         },
         {
-          "h": "Agree the longer-stay terms",
+          "h": "El Ateneo: bookstore access and a paid experience are different",
           "p": [
-            "Ask about laptop use, table availability and any minimum order before treating the visit as an afternoon workspace. A busy café can have different needs from the quiet scene shown in a photograph. Be ready to choose another setting if the terms do not fit."
+            "The tourism office describes the former theatre setting and the bar in the stage area. Bookstore entry is free, while the third-floor interactive experience has its own admission. A café purchase is not a substitute for that ticket.",
+            "Choose ordinary browsing when the books and main interior are enough for your interest. Choose the separate experience only if you want its interpretation and current ticket terms. Keep the route to any upstairs area and your access needs as their own enquiries; a photograph of the auditorium does not establish an accessible path."
+          ],
+          "sourceIds": [
+            "ateneo-tourism"
           ]
         },
         {
-          "h": "Give the break an ending",
+          "h": "Plan one pause around the rest of your day",
           "p": [
-            "Use the pause to decide which part of the next outing still interests you. You do not need to order another meal merely to fill the afternoon. Keep the return journey and optional entertainment outside the coffee budget."
-          ]
+            "Compare the actual route to Avenida de Mayo or Santa Fe before deciding. If the café is a break between other activities, use the one that serves that purpose without an unnecessary cross-city transfer. If the building is the main attraction, give the visit its own time instead of rushing the coffee.",
+            "Ask before turning either visit into a long laptop session. Record the order, any admission and your onward journey separately. A comfortable café pause and a ticketed cultural visit can both be worthwhile, but they should not be compared as though the same bill buys the same experience."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
@@ -6248,31 +7141,66 @@
       "slug": "buenos-aires-cafes",
       "img": "bue-tortoni",
       "src": [
-        "timeout-bue",
+        "tortoni-operator",
         "ateneo-tourism"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "Purpose",
-          "Coffee, meal, interior visit or a longer pause."
+          "Historic café",
+          "Café Tortoni, Avenida de Mayo 825."
         ],
         [
-          "Confirm",
-          "Seating, current menu and any special product."
+          "Books and theatre setting",
+          "El Ateneo Grand Splendid, Avenida Santa Fe 1860."
         ],
         [
-          "Keep separate",
-          "Workspace assumptions and event bookings."
+          "Separate ticket",
+          "El Ateneo’s interactive experience is distinct from bookstore access."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Buenos Aires Cafés: Coffee & Visit Planning"
+      "researchNote": "Operator and city tourism pages checked 19 October 2026. The El Ateneo paid experience is explicitly distinguished from free bookstore access. No tasting, work-space policy or performance availability is independently inspected.",
+      "seoTitle": "Café Tortoni vs El Ateneo: Buenos Aires Coffee & Visit Guide",
+      "planTable": {
+        "caption": "Choose the activity, then read the actual product",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Tortoni café visit",
+            "A table and an order",
+            "Current seating and menu"
+          ],
+          [
+            "El Ateneo bookstore",
+            "Books and the main theatre setting",
+            "Current public access"
+          ],
+          [
+            "Cultural add-on",
+            "A specific show or paid experience",
+            "Separate programme and admission"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Café Tortoni official information",
+          "https://cafetortoni.com.ar/"
+        ],
+        [
+          "El Ateneo: city tourism information",
+          "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/el-ateneo-grand-splendid"
+        ]
+      ]
     },
     {
       "id": "syd-sculpture",
@@ -6283,13 +7211,26 @@
       "title": "Sculpture by the Sea: choose a short art walk or a longer coastal visit",
       "dek": "Plan an outing for the organiser’s announced 16 October–2 November 2026 exhibition.",
       "src": [
-        "sxs"
+        "sxs",
+        "sxs-routes"
       ],
       "body": [
         "The organiser announces Sculpture by the Sea, Bondi, for 16 October–2 November 2026 along the Bondi–Tamarama coastal area. Build a visit around the work you want to spend time with rather than assuming you must cover every installation.",
         "This guide pairs an art-focused walk with a shorter option. Use current access and visitor notices for the actual route. A coastal setting does not guarantee that every approach or viewing area suits every visitor."
       ],
       "sections": [
+        {
+          "h": "Marks Park is a different plan from the full coastal route",
+          "p": [
+            "The organiser says the 2026 Bondi exhibition is on until 2 November along the Bondi–Tamarama coastal walk. Its easier-route guidance distinguishes a blue route focused on Marks Park from a purple route involving some stairs, moderate slopes and more than a kilometre of walking. Open the organiser’s map before selecting your start.",
+            "Choose the Marks Park enquiry when reducing stairs and walking distance matters. Choose a longer coastal viewing plan only when the group wants the walk as well as the art. Do not mistake the route colour for a universal accessibility certification: ask about the approach, current surfaces and assistance you need.",
+            "Our suggested art task is to compare three works by material, relationship to the sea and how your viewing position changes them. That keeps a shorter visit meaningful without chasing every numbered sculpture. Follow the artist and event instructions for photographs and keep viewing rights separate from commercial reuse."
+          ],
+          "sourceIds": [
+            "sxs",
+            "sxs-routes"
+          ]
+        },
         {
           "h": "Choose an art-viewing purpose",
           "p": [
@@ -6326,8 +7267,8 @@
       ],
       "slug": "sydney-sculpture",
       "img": "syd-bondi-coogee",
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "dateModified": "2026-10-09",
+      "researchNote": "Organiser pages checked 19 October 2026. The route description does not certify that every approach meets an individual visitor’s access needs.",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Dates",
@@ -6343,11 +7284,41 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "seoTitle": "Sculpture by the Sea Sydney: Art Walk Planning"
+      "seoTitle": "Sculpture by the Sea Sydney: Art Walk Planning",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Marks Park focus",
+            "Shorter art enquiry",
+            "Organiser blue-route map and approach"
+          ],
+          [
+            "Longer coastal visit",
+            "Art plus a walk",
+            "Stairs, slopes and return from the finish"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Current exhibition information",
+          "https://sculpturebythesea.com/bondi/"
+        ],
+        [
+          "Organiser easier-route map",
+          "https://sculpturebythesea.com/bondi/access-inclusion-program/easy-walking-routes/"
+        ]
+      ]
     },
     {
       "id": "syd-pools",
@@ -6366,6 +7337,17 @@
         "Use current operator and local conditions information before entering the water. The existence of a pool does not assure suitable conditions, opening, facilities or admission. This guide does not assess the conditions for your visiting day."
       ],
       "sections": [
+        {
+          "h": "Bondi Icebergs: check the pool product, not just the restaurant view",
+          "p": [
+            "Bondi Icebergs’ official site gives the address as 1 Notts Avenue and separates its pool, bistro and memberships. The pool schedule includes Thursday cleaning subject to weather. A restaurant table, social membership and casual pool enquiry are therefore different products and schedules.",
+            "Choose the pool first if swimming is the main reason to travel, and consult its current page or pool contact before setting out. If the purpose is the view and a meal, use the bistro information separately. Neither purchase should be assumed to include the other.",
+            "For the walking portion, choose a short Bondi-side outing before committing to the whole Bondi–Coogee coast. Establish the actual finish and return transport. On arrival, follow the operator’s current conditions notice; a pool photograph or an opening calendar cannot establish suitable water for your visit."
+          ],
+          "sourceIds": [
+            "icebergs-pool"
+          ]
+        },
         {
           "h": "Start with the pool’s own information",
           "p": [
@@ -6403,10 +7385,11 @@
       "slug": "sydney-pools",
       "img": "syd-icebergs",
       "src": [
+        "icebergs-pool",
         "timeout-syd",
         "bondi-tourism"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Anchor",
@@ -6422,14 +7405,49 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
+      "researchNote": "Operator information checked 19 October 2026. No present water conditions, fixed admission price or shared pool-and-bistro entitlement is promised.",
       "seoTitle": "Sydney Ocean Pools: Pool & Coastal Walk Guide",
       "relatedGuides": [
         "sydney-carnival-australia-2028-deployment-update"
+      ],
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Pool enquiry",
+            "Swimming if conditions permit",
+            "Pool schedule and admission"
+          ],
+          [
+            "Bistro visit",
+            "A meal or view",
+            "Separate table and menu terms"
+          ],
+          [
+            "Coastal walk",
+            "A land-based outing",
+            "Actual section and return"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Bondi Icebergs official information",
+          "https://icebergs.com.au/"
+        ],
+        [
+          "Art-focused coastal alternative",
+          "/guides/sydney-sculpture"
+        ]
       ]
     },
     {
@@ -6448,6 +7466,17 @@
         "Choose the return and descent before departure. The cableway is a separate service whose operation cannot be assumed for the end of a hike. Leave a route out when the information or preparation needed to make the decision is missing."
       ],
       "sections": [
+        {
+          "h": "Treat SANParks’ group guidance as the starting condition",
+          "p": [
+            "SANParks explicitly advises visitors not to hike alone and identifies four as an ideal group size. It asks hikers to choose a route carefully, inform someone of the expected return and move at the slowest member’s pace. Use that advice before deciding whether an independent hike fits your group.",
+            "Our decision sequence is preparation first, route second and optional summit last. Establish current park notices, the group’s experience and a workable descent before choosing a trail. If those are unresolved, a guided enquiry, a separate cableway visit or postponement is a different plan rather than an inferior version of the hike.",
+            "Do not use a booked or hoped-for cableway descent as the only way off a walking route. Check the actual service and contingency with appropriate local advice. This guide does not provide a complete mountain-safety assessment, certify a route for beginners or replace the park’s map and current instructions."
+          ],
+          "sourceIds": [
+            "sanparks-hiking"
+          ]
+        },
         {
           "h": "Compare effort rather than the photograph",
           "p": [
@@ -6485,10 +7514,10 @@
       "slug": "cape-town-hikes",
       "img": "cpt-table-mountain",
       "src": [
-        "timeout-cpt",
-        "sanparks-hiking"
+        "sanparks-hiking",
+        "timeout-cpt"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "First assessment",
@@ -6504,12 +7533,47 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Cape Town Hikes: Choose a Route for Your Ability"
+      "researchNote": "SANParks guidance checked 19 October 2026. This is a planning decision aid, not route certification or a complete safety briefing.",
+      "seoTitle": "Cape Town Hikes: Choose a Route for Your Ability",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Independent hike",
+            "A prepared group on a suitable route",
+            "Park advice and descent"
+          ],
+          [
+            "Guided enquiry",
+            "Help assessing the outing",
+            "Operator, route and group suitability"
+          ],
+          [
+            "Cableway visit",
+            "A separate transport-based outing",
+            "Current operation and return"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "SANParks safe-hiking guidance",
+          "https://www.sanparks.org/parks/table-mountain/useful-information/safe-hiking"
+        ],
+        [
+          "Cableway operator",
+          "https://www.tablemountain.net/"
+        ]
+      ]
     },
     {
       "id": "g-festivals",
@@ -6520,16 +7584,30 @@
       "title": "Festivals of light: choose a cultural trip with a confirmed programme",
       "dek": "Compare the kind of experience you want before choosing a city or treating a holiday as an itinerary.",
       "src": [
-        "calmm",
-        "umelk",
+        "phuket-veg-tat-2026",
         "momsg",
-        "p101veg"
+        "thadingyut-ministry",
+        "calmm",
+        "umelk"
       ],
       "body": [
         "A festival comparison should begin with the experience you want. Lights in public streets, a worship-site visit, food browsing and organised participation are different reasons to travel. A collection of seasonal names is not a guarantee that the same kind of event happens in each place.",
         "The city guides cover Loy Krathong, Yi Peng, Thadingyut, Deepavali and Phuket’s Vegetarian Festival as distinct cultural contexts. Use the local programme and current travel advice for the destination you choose. This overview deliberately does not promise a shared weather season or interchangeable visitor rules."
       ],
       "sections": [
+        {
+          "h": "Choose between floating, sky lanterns, lights and shrine observance",
+          "p": [
+            "These guides concern different activities: Bangkok’s Loy Krathong enquiry is about a permitted local floating or riverside observance; Chiang Mai’s Yi Peng enquiry includes sky-lantern participation rules; Singapore’s Deepavali guide separates a public holiday from the Little India programme. A photograph of lights does not make those products interchangeable.",
+            "Phuket’s Vegetarian Festival is included for its shrine and community context rather than being described as the same kind of lantern event. TAT’s announced 2026 period ended on 18 October. Thadingyut is covered as Myanmar cultural background, with the travel decision handled separately.",
+            "Our comparison method is to choose an activity you understand, obtain that place’s current programme and then build a trip that remains worthwhile without it. Do not infer a shared ticket, release permission or common autumn season across the five destinations."
+          ],
+          "sourceIds": [
+            "phuket-veg-tat-2026",
+            "momsg",
+            "thadingyut-ministry"
+          ]
+        },
         {
           "h": "Compare participation with observation",
           "p": [
@@ -6566,7 +7644,7 @@
       ],
       "slug": "world-festivals",
       "img": "t-thadingyut",
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
           "Compare",
@@ -6582,12 +7660,69 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
+        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Festivals of Light: A Cultural Trip Planning Guide"
+      "researchNote": "Comparison revised 19 October 2026. Read the individual guide’s source dates and status; this overview supplies no blanket event or travel permission.",
+      "seoTitle": "Festivals of Light: A Cultural Trip Planning Guide",
+      "planTable": {
+        "caption": "Make the choice before arranging the outing",
+        "headers": [
+          "Choose",
+          "Purpose",
+          "Check first"
+        ],
+        "rows": [
+          [
+            "Loy Krathong enquiry",
+            "Local riverside observance",
+            "Venue programme and participation rules"
+          ],
+          [
+            "Yi Peng enquiry",
+            "City lights or a separate lantern event",
+            "Actual organiser and permission"
+          ],
+          [
+            "Deepavali",
+            "Holiday and Little India programme",
+            "Activity-specific dates"
+          ],
+          [
+            "Phuket Vegetarian Festival",
+            "Shrine and community context",
+            "2026 main period has ended"
+          ],
+          [
+            "Thadingyut",
+            "Cultural understanding",
+            "A local invitation or programme is separate"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Bangkok planning",
+          "/guides/bangkok-loy-krathong"
+        ],
+        [
+          "Chiang Mai planning",
+          "/guides/chiang-mai-yi-peng"
+        ],
+        [
+          "Singapore planning",
+          "/guides/singapore-deepavali"
+        ],
+        [
+          "Phuket context",
+          "/guides/phuket-vegetarian"
+        ],
+        [
+          "Myanmar cultural context",
+          "/guides/yangon-thadingyut"
+        ]
+      ]
     },
     {
       "id": "g-neighbourhoods",
@@ -6771,9 +7906,9 @@
       "city": "world",
       "cat": "travel",
       "kind": "feature",
-      "mins": 4,
-      "title": "Asian sleeper trains: compare the berth, journey and sleep you want",
-      "dek": "Use Bangkok–Chiang Mai as one example, with tickets and arrival-day plans kept practical.",
+      "mins": 2,
+      "title": "Bangkok–Chiang Mai sleeper train: compare berths and arrival plans",
+      "dek": "Compare the actual Thai rail service, berth product and first day after arrival before booking.",
       "body": [
         "An overnight train combines transport with time you would otherwise spend sleeping, but the useful comparison is your actual ticket and next day. Decide whether the journey is part of the experience or mainly a way to reach the destination. That changes which compromises you are willing to make.",
         "For Bangkok–Chiang Mai or another route, check the rail operator’s current service and berth products. Compare what you will book, not a general image of a sleeper carriage. Arrival time, luggage arrangements and sleep needs belong in the decision alongside the fare."
@@ -6783,13 +7918,13 @@
           "h": "Bangkok to Chiang Mai, step by step",
           "p": [
             "Check the State Railway’s booking system for the actual train number, departure station, arrival time and berth class. Train timings and departure arrangements are service-specific; use the information on your ticket.",
-            "In second class, the carriage is laid out with pairs of facing seats. After departure an attendant converts each pair into a lower berth and folds an upper berth down from the wall, then makes both up with sheets and a curtain. First class has private two-berth cabins."
+            "Read the carriage and berth description for the specific service. A photograph of an older sleeper does not establish the layout, privacy or facilities of the carriage you will book."
           ]
         },
         {
           "h": "Choosing a berth",
           "p": [
-            "The lower berth is wider and has the window, and costs a little more. The upper berth is narrower, closer to the lights and the air conditioning, and has no view. Tall travellers will be happier below."
+            "Compare upper and lower berths using the operator’s product description for your train. Ask about dimensions, access, curtains and cabin sharing where these affect your choice. Do not infer the same layout or price difference across every train."
           ]
         },
         {
@@ -6813,10 +7948,10 @@
         }
       ],
       "tips": [
-        "Book ahead for weekends and holidays. Lower berths sell out first.",
-        "Keep valuables in a small bag beside you in the berth.",
-        "Bring a power bank. Sockets are limited.",
-        "Trains often run late. Do not plan a tight connection on arrival."
+        "Book a suitable product when your chosen service opens for reservations.",
+        "Keep valuables and essential booking information accessible.",
+        "Check charging facilities for the actual carriage; carry permitted backup power if needed.",
+        "Allow a buffer before any onward connection."
       ],
       "faq": [
         [
@@ -6845,13 +7980,13 @@
       "src": [
         "srt-booking"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
       },
-      "seoTitle": "Asian Sleeper Trains: Berths & Journey Planning"
+      "seoTitle": "Bangkok–Chiang Mai Sleeper Train Planning"
     },
     {
       "id": "g-hanoi-old-quarter",
@@ -12017,16 +13152,6 @@
             "Carry an accepted payment method and confirm the boarding instructions at the stop or with the operator if something is unclear. A phone wallet, a bank card and a transport card are different products; do not assume that a payment method supported on one service is accepted on another."
           ],
           "sourceIds": []
-        },
-        {
-          "h": "Why we added this explainer now",
-          "p": [
-            "Google Trends’ Singapore travel view, checked on 18 October, included the query “foreigners using public buses malaysia” in its past-seven-day results, labelled Lasted. That is evidence of a recent search question in Singapore, not an official announcement of a new Malaysian restriction. This article answers the narrower, verifiable GoKL question.",
-            "Use the fare information to plan a journey, rather than to infer a nationwide policy from a trending query. If your trip involves another Malaysian city, open that operator’s own visitor information before travelling."
-          ],
-          "sourceIds": [
-            "trends-sg-travel-oct18"
-          ]
         }
       ],
       "quickPlan": [
@@ -12072,9 +13197,14 @@
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-18",
+      "dateModified": "2026-10-19",
       "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
-      "imageNote": "Kuala Lumpur skyline reference photograph; no bus or current boarding point is shown."
+      "imageNote": "Kuala Lumpur skyline reference photograph; no bus or current boarding point is shown.",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
+      }
     },
     {
       "id": "kyoto-autumn-leaves-calendar-2026-update",
@@ -12121,15 +13251,6 @@
             "For a group, decide which bookings genuinely need a fixed time and which walks can remain flexible. That allows you to react to venue information without rebuilding the entire trip around an unverified peak-colour claim."
           ],
           "sourceIds": []
-        },
-        {
-          "h": "The search signal behind this update",
-          "p": [
-            "Japan’s Google Trends travel view, checked on 18 October for the past seven days, included 紅葉, meaning autumn foliage, and 紅葉 見頃, asking about viewing time. Both rows were labelled Lasted. We used that recent interest to select the topic; the Kyoto announcement supplies the actual programme information."
-          ],
-          "sourceIds": [
-            "trends-jp-travel-oct18"
-          ]
         }
       ],
       "quickPlan": [
@@ -12179,9 +13300,14 @@
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-18",
+      "dateModified": "2026-10-19",
       "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
-      "imageNote": "Kyoto temple reference photograph; this is not a live foliage report or a photograph of the 2026 illumination programme."
+      "imageNote": "Kyoto temple reference photograph; this is not a live foliage report or a photograph of the 2026 illumination programme.",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
+      }
     },
     {
       "id": "sydney-carnival-australia-2028-deployment-update",
@@ -12226,16 +13352,6 @@
             "For Sydney time before or after the cruise, keep the arrival day light and choose a separate city outing. Confirm the actual terminal and boarding instructions with the operator. A photograph of Sydney Harbour or a general port label is not a pickup location."
           ],
           "sourceIds": []
-        },
-        {
-          "h": "Why this is on our travel-news list",
-          "p": [
-            "Google Trends’ Australia travel view, checked on 18 October, included “carnival cruise line fleet australia 2028” in its past-seven-day results, labelled Lasted. The trend identifies a recent question among Australian searchers; Carnival’s dated announcement is the source for the deployment facts.",
-            "We have not independently verified the operator’s broader explanations about market or regulatory conditions, and they are not needed to check a passenger’s ship, sailing and departure arrangements."
-          ],
-          "sourceIds": [
-            "trends-au-travel-oct18"
-          ]
         }
       ],
       "quickPlan": [
@@ -12281,9 +13397,14 @@
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-18",
+      "dateModified": "2026-10-19",
       "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
-      "imageNote": "Sydney destination reference photograph; it does not show either affected ship or confirm a cruise terminal."
+      "imageNote": "Sydney destination reference photograph; it does not show either affected ship or confirm a cruise terminal.",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
+      }
     },
     {
       "id": "singapore-airlines-new-amenity-kits-november-2026",
@@ -12328,15 +13449,6 @@
             "If you are already travelling via Singapore, make the city portion of the trip its own plan. Confirm whether you have time and the required arrangements to leave the airport before booking a meal or attraction. This news item does not assess entry permission or the feasibility of a particular connection."
           ],
           "sourceIds": []
-        },
-        {
-          "h": "The recent search interest",
-          "p": [
-            "Google Trends’ Singapore travel view, checked on 18 October for the past seven days, included “singapore airlines new amenity kits”, labelled Lasted. We selected this story in response to that recent interest and checked the details against the airline’s own release. A trend label does not guarantee availability on a passenger’s flight."
-          ],
-          "sourceIds": [
-            "trends-sg-travel-oct18"
-          ]
         }
       ],
       "quickPlan": [
@@ -12382,8 +13494,13 @@
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-18",
-      "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement."
+      "dateModified": "2026-10-19",
+      "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Research-based text and context corrections; no personal visit is claimed.",
+        "scope": "Specific corrections, not full factual or rights clearance."
+      }
     }
   ],
   "places": [
@@ -12566,7 +13683,7 @@
       "kind": "market",
       "name": "Jodd Fairs Ratchada",
       "area": "Din Daeng",
-      "hours": "Daily 5pm to 1am",
+      "hours": "Confirm current opening hours with the market",
       "price": "Free",
       "src": [
         "p101nm"
@@ -12581,12 +13698,12 @@
       "kind": "market",
       "name": "Train Night Market Ratchada",
       "area": "Din Daeng",
-      "hours": "Daily 5pm to 1am",
+      "hours": "Current operation not established",
       "price": "Free",
       "src": [
         "p101nm"
       ],
-      "blurb": "A separate Ratchada market listing to confirm before visiting. Use the exact destination pin rather than treating every “train market” reference as one place.",
+      "blurb": "Historical Ratchada market name. Do not plan a separate visit without identifying a current operator and address.",
       "img": "bkk-train-ratchada",
       "verify": true
     },
@@ -13217,8 +14334,7 @@
       "hours": "Early morning to 10pm",
       "price": "Entrance fee for foreign visitors",
       "src": [
-        "nomax",
-        "totygn"
+        "shwedagon-regional"
       ],
       "blurb": "Read current travel advice and the pagoda’s visitor information before arranging the visit. Confirm entrance, clothing, belongings and return arrangements separately.",
       "img": "ygn-shwedagon",
@@ -13271,8 +14387,8 @@
       "name": "Yangon Circular Railway",
       "area": "Starts at Yangon Central Station",
       "src": [
-        "ppygn",
-        "totygn"
+        "yangon-transport-regional",
+        "yangon-rail-jica"
       ],
       "verify": true,
       "blurb": "Ask about the actual operating section, destination and return service. The historical loop description is not a current timetable or facility guarantee.",
@@ -13316,7 +14432,6 @@
       "area": "34th Street, Downtown",
       "hours": "6am to 7pm",
       "src": [
-        "totygn",
         "locygn"
       ],
       "verify": true,
@@ -13330,7 +14445,7 @@
       "name": "Lucky Seven",
       "area": "49th Street, Downtown",
       "src": [
-        "locygn"
+        "yangon-tea-regional"
       ],
       "verify": true,
       "blurb": "A tea-shop research starting point rather than a current inspection. Enquire about operation, menu, ingredients and the drink preparation you want.",
@@ -13768,10 +14883,13 @@
       "kind": "eat",
       "name": "Café Tortoni",
       "area": "Avenida de Mayo",
-      "url": "https://www.cafetortoni.com.ar/",
+      "url": "https://cafetortoni.com.ar/",
       "blurb": "Choose a café visit or a separately advertised activity, then check the relevant terms. Historic status does not guarantee unlimited seating or a particular service.",
       "img": "bue-tortoni",
-      "verify": true
+      "verify": true,
+      "src": [
+        "tortoni-operator"
+      ]
     },
     {
       "id": "bue-ateneo",
@@ -13780,7 +14898,7 @@
       "name": "El Ateneo Grand Splendid",
       "area": "Recoleta",
       "price": "Free",
-      "blurb": "A bookshop visit in a former performance setting. Keep browsing, seating and any café purchase as separate decisions under the business’s current arrangements.",
+      "blurb": "A bookstore in a former theatre at Avenida Santa Fe 1860. City tourism distinguishes free bookstore entry from the separate paid interactive experience introduced in March 2026; check the actual product before booking.",
       "img": "bue-ateneo",
       "src": [
         "ateneo-tourism"
@@ -13824,7 +14942,10 @@
       "url": "https://icebergs.com.au/",
       "blurb": "Read the pool’s current access, charges and conditions before swimming. A casual-entry product should not be assumed to include every facility or activity.",
       "img": "syd-icebergs",
-      "verify": true
+      "verify": true,
+      "src": [
+        "icebergs-pool"
+      ]
     },
     {
       "id": "syd-opera-house",
@@ -15150,7 +16271,7 @@
       "where": "Chinese shrines across the island",
       "blurb": "Nine days honouring the Nine Emperor Gods: dawn street processions, firecrackers and meat-free food stalls under yellow flags. The opening pole-raising is on the evening of 9 October.",
       "src": [
-        "p101veg",
+        "phuket-veg-tat-2026",
         "thgcal"
       ],
       "verifiedAt": null,
@@ -16316,7 +17437,9 @@
           "src": "/images/t-loy-krathong-960.jpg",
           "w": 960
         }
-      ]
+      ],
+      "note": "Archive: people floating krathongs on the Ping River in 2015. A cultural illustration, not a Bangkok 2026 event photograph.",
+      "alt": "People floating candle-lit krathongs on the Ping River in 2015"
     },
     "t-mohinga": {
       "src": "/images/t-mohinga.jpg",
@@ -16357,7 +17480,9 @@
           "src": "/images/t-nasi-lemak-960.jpg",
           "w": 960
         }
-      ]
+      ],
+      "note": "Dish illustration photographed at Penang Summer Restaurant; not a photograph of the Kuala Lumpur outlet discussed in this guide.",
+      "alt": "Nasi lemak with spicy squid photographed at Penang Summer Restaurant"
     },
     "t-pad-thai": {
       "src": "/images/t-pad-thai.jpg",
@@ -16397,7 +17522,9 @@
           "src": "/images/t-thadingyut-960.jpg",
           "w": 960
         }
-      ]
+      ],
+      "note": "Archive lighting-festival photograph dated 14 November 2016. The source does not establish a current Yangon Thadingyut programme.",
+      "alt": "Archival lighting-festival scene photographed in November 2016"
     },
     "t-yaowarat": {
       "src": "/images/t-yaowarat.jpg",
@@ -17301,7 +18428,9 @@
           "src": "/images/syd-bondi-coogee-960.jpg",
           "w": 960
         }
-      ]
+      ],
+      "note": "Archive: Waverley Cemetery and the coastal boardwalk in July 2018, with repair work visible. This does not show current path conditions.",
+      "alt": "Waverley Cemetery beside the coastal boardwalk during repair work in July 2018"
     },
     "syd-botanic": {
       "src": "/images/syd-botanic.jpg",
@@ -17332,7 +18461,7 @@
       "title": "Beach-Please-2022-crowd-stage-lights-night-performance",
       "w": 1600,
       "h": 1068,
-      "note": "Illustrative photo.",
+      "note": "Archive: Beach Please Festival in Costinești, Romania, 2022. Illustrates a concert crowd; not a Bangkok venue or current show.",
       "variants": [
         {
           "src": "/images/t-concert-480.jpg",
@@ -17342,7 +18471,8 @@
           "src": "/images/t-concert-960.jpg",
           "w": 960
         }
-      ]
+      ],
+      "alt": "Crowd and illuminated stage at Beach Please Festival in Romania in 2022"
     },
     "t-deepavali": {
       "src": "/images/t-deepavali.jpg",
@@ -17458,7 +18588,7 @@
       "title": "THAI RAILWAYS NIGHT SLEEPER TRAIN BUTTERWORTH(PENANG SENTRAL)MALAYSIA TO BANGKOK",
       "w": 1600,
       "h": 1205,
-      "note": "A Thai Railways sleeper carriage.",
+      "note": "Archive: Butterworth–Bangkok sleeper carriage, January 2012. Not a current Bangkok–Chiang Mai carriage inspection.",
       "variants": [
         {
           "src": "/images/t-sleeper-480.jpg",
@@ -17468,7 +18598,8 @@
           "src": "/images/t-sleeper-960.jpg",
           "w": 960
         }
-      ]
+      ],
+      "alt": "Interior of a Butterworth to Bangkok sleeper carriage in January 2012"
     },
     "t-viet-coffee": {
       "src": "/images/t-viet-coffee.jpg",
