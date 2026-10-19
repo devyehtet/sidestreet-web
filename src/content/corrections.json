@@ -65,5 +65,34 @@
       "tsukiji-info",
       "tsukiji-main-official"
     ]
+  },
+  {
+    "id": "notre-dame-visitor-status",
+    "date": "2026-10-19",
+    "title": "Paris islands: use the cathedral’s own admission instructions",
+    "guide": "paris-seine-islands",
+    "text": [
+      "The islands guide now explicitly distinguishes Notre-Dame’s free cathedral admission and optional official reservation from paid tours and separate attractions.",
+      "A recent update date on the tourism overview did not remove an old post-fire closure passage. The revised section uses the cathedral’s own visitor guidance rather than carrying that closure statement into the route."
+    ],
+    "sources": [
+      "notre-dame-reservation",
+      "paris-islands"
+    ]
+  },
+  {
+    "id": "ticket-and-service-inclusions",
+    "date": "2026-10-19",
+    "title": "Visitor tickets and services: clarify what the product includes",
+    "guide": "rome-pantheon-colosseum-planning",
+    "text": [
+      "The Rome guide now explains that the standard 24-hour Colosseum, Forum and Palatine product excludes arena access. The Angkor guide separately explains visiting-day allowances and their validity windows.",
+      "Bangkok dental planning now distinguishes BIDH’s published outpatient hours from its 24-hour inpatient provision. These are product and scheduling clarifications, not clinical-quality endorsements."
+    ],
+    "sources": [
+      "rom-colosseum-official",
+      "angkor-tickets",
+      "bidh-official"
+    ]
   }
 ]

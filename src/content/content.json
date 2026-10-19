@@ -288,7 +288,7 @@
     "angkor-tickets": {
       "name": "Angkor Enterprise · official ticket packages",
       "url": "https://www.angkorenterprise.gov.kh/en/available-tickets",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "angkor-heritage": {
       "name": "APSARA National Authority · Angkor temples",
@@ -308,7 +308,7 @@
     "taipei-visitor": {
       "name": "Taipei City tourism · Dadaocheng Visitor Center",
       "url": "https://travel.taipei/vintage-clothing/en",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "hongkong-transit": {
       "name": "Hong Kong Tourism Board · getting around",
@@ -323,7 +323,7 @@
     "paris-islands": {
       "name": "Paris je t’aime · Seine island walk",
       "url": "https://parisjetaime.com/eng/article/discovering-the-islands-of-paris-a702",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "paris-arrival": {
       "name": "Paris je t’aime · visitor questions",
@@ -338,7 +338,7 @@
     "istanbul-ferry": {
       "name": "Şehir Hatları · Kadıköy–Karaköy–Eminönü route",
       "url": "https://sehirhatlari.istanbul/tr/seferler/ic-hatlar/istanbul-ici-hatlar/kadikoy-karakoy-eminonu-163",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "istanbul-destinations": {
       "name": "GoTürkiye · Istanbul destinations",
@@ -348,12 +348,12 @@
     "hanoi-culture": {
       "name": "Vietnam Tourism · Hanoi cultural landmarks",
       "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "siem-crafts": {
       "name": "Artisans Angkor · official visitor information",
       "url": "https://artisansangkor.com/visit-us/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "beitou-museum": {
       "name": "Beitou Hot Spring Museum · official visitor information",
@@ -388,7 +388,7 @@
     "istanbul-spicebazaar": {
       "name": "GoTürkiye · Spice Bazaar",
       "url": "https://istanbul.goturkiye.com/spice-bazaar",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "google-trends-travel": {
       "name": "Google Trends — solo travel and slow travel (Worldwide, past 12 months)",
@@ -404,7 +404,7 @@
     "tokyo-asakusa": {
       "name": "GO TOKYO — Asakusa area guide",
       "url": "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "taipei-shopping-district": {
       "name": "Taipei Travel — Dihua Shopping District",
@@ -414,7 +414,7 @@
     "mex-arcos-market": {
       "name": "Mexico City tourism — Mercado San Juan, Arcos de Belén",
       "url": "https://www.mexicocity.cdmx.gob.mx/venues/mercado-san-juan-arcos-de-belen/?lang=en",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "chatuchak-hours": {
       "name": "Chatuchak Market visitor website — opening days",
@@ -454,22 +454,22 @@
     "mo-bangkok": {
       "name": "Mandarin Oriental Bangkok — hotel information",
       "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "peninsula-bangkok": {
       "name": "The Peninsula Bangkok — hotel information",
       "url": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "siam-bangkok": {
       "name": "The Siam — hotel information",
       "url": "https://www.thesiamhotel.com/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "capella-bangkok": {
       "name": "Capella Bangkok — hotel information",
       "url": "https://capellahotels.com/en/capella-bangkok",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "tsukiji-info": {
       "name": "Tsukiji Outer Market — official visitor information",
@@ -690,7 +690,7 @@
     "bcn-guell-official": {
       "name": "Park Güell — official visitor information",
       "url": "https://parkguell.barcelona/en",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "rom-pantheon-official": {
       "name": "Turismo Roma — Pantheon",
@@ -700,7 +700,7 @@
     "rom-colosseum-official": {
       "name": "Colosseum Archaeological Park — opening times and tickets",
       "url": "https://colosseo.it/en/opening-times-and-tickets/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "rom-forum-official": {
       "name": "Turismo Roma — Roman Forum and Palatine",
@@ -710,7 +710,7 @@
     "ams-rijks-official": {
       "name": "Rijksmuseum — admissions, start times and opening hours",
       "url": "https://www.rijksmuseum.nl/en/visit/practical-info/opening-hours-and-prices",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "ams-canals-official": {
       "name": "I amsterdam — Canal Ring and City Centre",
@@ -735,7 +735,7 @@
     "ber-museums-official": {
       "name": "visitBerlin — Museum Island",
       "url": "https://www.visitberlin.de/en/museum-island-in-berlin",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "ber-tiergarten-official": {
       "name": "Berlin.de — Tiergarten",
@@ -760,7 +760,7 @@
     "dxb-rta-official": {
       "name": "Dubai RTA — current Creek abra routes",
       "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
-      "consultedAt": "2026-10-18"
+      "consultedAt": "2026-10-19"
     },
     "ubd-tourism-official": {
       "name": "Indonesia Ministry of Tourism — Ubud",
@@ -780,12 +780,12 @@
     "ubd-forest-rules": {
       "name": "Sacred Monkey Forest Sanctuary — guidelines",
       "url": "https://monkeyforestubud.com/guidelines-faq/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "bkk-airport-aot": {
       "name": "Airports of Thailand — Suvarnabhumi transport",
       "url": "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "bkk-bts-official": {
       "name": "BTS Skytrain — routes and fares",
@@ -795,67 +795,67 @@
     "phuket-bus-official": {
       "name": "Phuket Smart Bus — timetable and routes",
       "url": "https://www.phuketsmartbus.com/timetable/",
-      "consultedAt": "2026-10-18"
+      "consultedAt": "2026-10-19"
     },
     "phuket-bus-boarding": {
       "name": "Phuket Smart Bus — airport boarding point",
       "url": "https://www.phuketsmartbus.com/blog/phuket-smart-bus-stop-at-phuket-airport",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "kyoto-respect": {
       "name": "Kyoto City Official Travel Guide — responsible travel",
       "url": "https://kyoto.travel/en/responsible-travel/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "penang-heritage-trail": {
       "name": "Penang Global Tourism — George Town heritage trail",
       "url": "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "nepal-swayambhu": {
       "name": "Nepal Tourism Board — Swayambhunath",
       "url": "https://ntb.gov.np/en/swayambhunath",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "nepal-boudha": {
       "name": "Nepal Tourism Board — Boudha",
       "url": "https://ntb.gov.np/en/boudha",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "morocco-medina": {
       "name": "Moroccan National Tourist Office — Marrakech medina",
       "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "thipsamai-official": {
       "name": "Thipsamai — menu and contact",
       "url": "https://thipsamai.com/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "supanniga-tha-tien": {
       "name": "Supanniga Eating Room — Tha Tien",
       "url": "https://supannigaeatingroom.com/contact_riva.html",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "mae-sai-michelin": {
       "name": "MICHELIN Guide — Khao Soi Mae Sai",
       "url": "https://guide.michelin.com/en/chiang-mai-region/chiang-mai/restaurant/khao-soi-mae-sai",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "huen-muan-jai-michelin": {
       "name": "MICHELIN Guide — Huen Muan Jai",
       "url": "https://guide.michelin.com/sg/en/chiang-mai-region/chiang-mai/restaurant/huen-muan-jai",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "one-chun-michelin": {
       "name": "MICHELIN Guide — One Chun",
       "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "go-benz-michelin": {
       "name": "MICHELIN Guide — Go Benz",
       "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-benz",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "iconsiam-official": {
       "name": "ICONSIAM — visitor directory",
@@ -870,22 +870,22 @@
     "jing-jai-official": {
       "name": "Central Group — Jing Jai Central",
       "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "central-phuket-official": {
       "name": "Central Phuket — directory",
       "url": "https://www.centralphuket.com/en",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "thai-farm-official": {
       "name": "Thai Farm Cooking School — classes and pickup",
       "url": "https://thaifarmcooking.net/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "dragon-line-official": {
       "name": "Phuket Smart Bus — Dragon Line guidance",
       "url": "https://phuketsmartbus.com/blog/dragon-line-explore-phuket-old-town-by-free-bus",
-      "consultedAt": "2026-10-18",
+      "consultedAt": "2026-10-19",
       "publishedAt": "2026-09-18"
     },
     "cmdw-2026-official": {
@@ -917,32 +917,32 @@
     "tailor-on-ten-contact": {
       "name": "Tailor On Ten — appointments and location",
       "url": "https://www.tailoronten.com/pages/contact-us",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "jesse-son-faq": {
       "name": "Jesse & Son — tailoring FAQ",
       "url": "https://jesseandson.com/faq",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "empire-tailors-contact": {
       "name": "The Empire Tailors — contact and storefront",
       "url": "https://www.theempiretailors.com/contact-us",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "bidc-contact": {
       "name": "BIDC — main centre and branch contacts",
       "url": "https://www.bidc.dental/dentalclinic_EN/contact.html",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "bidh-official": {
       "name": "Bangkok International Dental Hospital — official website",
       "url": "https://dentalhospitalthailand.com/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "bangkok-smile-asok-contact": {
       "name": "Bangkok Inter Dental / Bangkok Smile Asok — contact",
       "url": "https://www.bangkokinterdental.com/contact/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "cdc-medical-tourism": {
       "name": "CDC Yellow Book — medical tourism and follow-up care",
@@ -952,17 +952,17 @@
     "health-land-asoke": {
       "name": "Health Land — Asoke branch",
       "url": "https://www.healthlandspa.com/en/location/bangkok/asoke",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "lets-relax-thonglor": {
       "name": "Let’s Relax — Thonglor Onsen & Spa",
       "url": "https://letsrelaxspa.com/branches/bangkok-thonglor-onsen-and-spa/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "divana-current-locations": {
       "name": "Divana — current spa locations",
       "url": "https://www.divanawellness.com/spa-location/",
-      "consultedAt": "2026-10-10"
+      "consultedAt": "2026-10-19"
     },
     "cmdw-2026-program": {
       "name": "Chiang Mai Design Week 2026 — programme",
@@ -982,12 +982,12 @@
     "phuket-thaihua-government": {
       "name": "Phuket Provincial Government — Thai Hua Museum",
       "url": "https://www.phuket.go.th/eng/Museums-Phuket%20Thai%20Hua%20Museum.php",
-      "consultedAt": "2026-10-18"
+      "consultedAt": "2026-10-19"
     },
     "cnx-airport-taxi-official": {
       "name": "Chiang Mai Airport — Airport Taxi",
       "url": "https://chiangmai.airportthai.co.th/service/transportation/detail/125",
-      "consultedAt": "2026-10-18"
+      "consultedAt": "2026-10-19"
     },
     "cnx-airport-transport-official": {
       "name": "Chiang Mai Airport — transportation directory",
@@ -1224,6 +1224,51 @@
     "cmdw-2026-program-th": {
       "name": "Chiang Mai Design Week — 2026 programme area filters",
       "url": "https://www.chiangmaidesignweek.com/cmdw2026/program",
+      "consultedAt": "2026-10-19"
+    },
+    "star-ferry-fares": {
+      "name": "Star Ferry — service routes, fares and payment",
+      "url": "https://www.starferry.com.hk/en/service",
+      "consultedAt": "2026-10-19"
+    },
+    "notre-dame-reservation": {
+      "name": "Notre-Dame de Paris — free cathedral reservation",
+      "url": "https://www.notredamedeparis.fr/en/visit/reservation-free/",
+      "consultedAt": "2026-10-19"
+    },
+    "taipei-dadaocheng-quarterly": {
+      "name": "Taipei City tourism — Ambling Through Dadaocheng, Spring 2025",
+      "url": "https://travel.taipei/en/pictorial/article/64884",
+      "consultedAt": "2026-10-19"
+    },
+    "taipei-yongle-history": {
+      "name": "Taipei City tourism — Yongle Market audio guide",
+      "url": "https://www.travel.taipei/en/media/audio-guide/details/250",
+      "consultedAt": "2026-10-19"
+    },
+    "doi-suthep-approach-tat": {
+      "name": "Tourism Authority of Thailand — Chiang Mai–Lamphun temple approach",
+      "url": "https://www.tourismthailand.org/Articles/chiang-mai-lamphun-2",
+      "consultedAt": "2026-10-19"
+    },
+    "kyoto-togetsukyo": {
+      "name": "Kyoto City Tourism Association — Togetsu-kyo Bridge",
+      "url": "https://kyoto.travel/en/destinations/togetsukyo-bridge/",
+      "consultedAt": "2026-10-19"
+    },
+    "iconsiam-arrival": {
+      "name": "ICONSIAM — getting here and parking conditions",
+      "url": "https://www.iconsiam.com/en/getting-here",
+      "consultedAt": "2026-10-19"
+    },
+    "cnx-museum-calendar": {
+      "name": "Fine Arts Department — Chiang Mai Museum exhibition and office schedules",
+      "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/calendar",
+      "consultedAt": "2026-10-19"
+    },
+    "cnx-museum-objects": {
+      "name": "Fine Arts Department — Chiang Mai Museum collection stories",
+      "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/general?dropdown_1=1",
       "consultedAt": "2026-10-19"
     }
   },
@@ -1813,7 +1858,7 @@
       "planningIntro": "Choose an old-city outing or a hillside visit as your starting plan. Check any timed entry before adding the journey, and leave room for a seated meal. The guide below helps you choose a small route instead of treating distant architecture stops as one continuous walk.",
       "seoTitle": "Barcelona City Guide: First-Visit Neighbourhoods",
       "description": "Plan a first Barcelona visit around old-city squares or Park Güell. Choose a neighbourhood, prepare timed entry and allow for the journey.",
-      "dateModified": "2026-10-13"
+      "dateModified": "2026-10-19"
     },
     {
       "id": "rom",
@@ -1835,7 +1880,8 @@
       "color": "#ac7058",
       "line": "A dome, an ancient arena and a day with room for a proper lunch.",
       "code": "ROM",
-      "img": "rom-pantheon-photo"
+      "img": "rom-pantheon-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "ams",
@@ -1857,7 +1903,8 @@
       "color": "#6b777e",
       "line": "Museum rooms, canal-side walks and a ferry trip with its own purpose.",
       "code": "AMS",
-      "img": "ams-rijksmuseum-photo"
+      "img": "ams-rijksmuseum-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "ber",
@@ -1879,7 +1926,8 @@
       "color": "#737f69",
       "line": "City history, one carefully chosen museum and an unhurried park break.",
       "code": "BER",
-      "img": "ber-gate-photo"
+      "img": "ber-gate-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "dxb",
@@ -1907,7 +1955,8 @@
       "planningIntro": "Begin with the Creek guide for the Old Dubai area covered here. Choose one bank and one main interest, then compare any crossing with the current RTA route listing. This is a focused starting point, rather than an itinerary for every Dubai district.",
       "startGuides": [
         "dubai-creek-al-fahidi-outing"
-      ]
+      ],
+      "dateModified": "2026-10-19"
     },
     {
       "id": "ubd",
@@ -1929,7 +1978,8 @@
       "color": "#698455",
       "line": "A palace area, a forest visit and a ridge walk on separate, manageable outings.",
       "code": "UBD",
-      "img": "ubd-forest-photo"
+      "img": "ubd-forest-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "kyo",
@@ -1958,7 +2008,7 @@
       "planningIntro": "Choose Higashiyama or Arashiyama as the focus for one outing, then select a venue and a return connection. Leave room for a meal instead of filling every gap with another stop. Follow local access and photography notices as you move between public streets and individual venues.",
       "seoTitle": "Kyoto City Guide: Higashiyama or Arashiyama",
       "description": "Plan a first Kyoto visit around Higashiyama or Arashiyama. Choose temple visits, a meal and a return connection while respecting local notices.",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "id": "png",
@@ -1987,7 +2037,7 @@
       "planningIntro": "Start with the heritage walk and choose the part of the town you want to explore first. Keep time for a meal and a rest, then use the place listings below to decide what to add. A short route with a clear finish is easier to adapt than a full day of scattered stops.",
       "seoTitle": "George Town Penang Guide: Heritage Walk & Local Stops",
       "description": "Plan a George Town visit with a Penang heritage walk, local place listings and practical arrival context. Choose a compact route before adding extra stops.",
-      "dateModified": "2026-10-18"
+      "dateModified": "2026-10-19"
     },
     {
       "id": "ktm",
@@ -2009,7 +2059,8 @@
       "color": "#95644b",
       "line": "Two stupa outings with space for worship and a quiet meal.",
       "code": "KTM",
-      "img": "ktm-destination-photo"
+      "img": "ktm-destination-photo",
+      "dateModified": "2026-10-19"
     },
     {
       "id": "rak",
@@ -2031,7 +2082,8 @@
       "color": "#a35742",
       "line": "Medina lanes, a square at dusk and a garden visit on its own terms.",
       "code": "RAK",
-      "img": "rak-destination-photo"
+      "img": "rak-destination-photo",
+      "dateModified": "2026-10-19"
     }
   ],
   "stories": [
@@ -3135,7 +3187,7 @@
       "city": "bkk",
       "cat": "things",
       "kind": "feature",
-      "mins": 4,
+      "mins": 3,
       "title": "Talat Noi Bangkok: a walking route from Hua Lamphong to the riverside",
       "dek": "Start from Hua Lamphong MRT, explore Soi Wanit 2 and choose a museum or café stop. A flexible 2–4-hour plan with map links and visitor etiquette.",
       "places": [
@@ -3167,10 +3219,10 @@
           ]
         },
         {
-          "h": "Talat Noi Museum or a café: choose your main stop",
+          "h": "Read the neighbourhood through the former workshop",
           "p": [
-            "For community history, look up Talat Noi Museum and confirm its current opening before travelling. The tourism board’s January 2025 article describes it as a museum about the community. That article also contains past exhibitions and events, which should not be treated as a current programme.",
-            "For a café-led outing, select a place using its current menu, seating and location. Check whether the area you want to sit in is open and whether there are steps. A purchase does not provide access to private rooms, rooftops or a family courtyard. So Heng Tai remains a stop whose visitor arrangements should be checked directly."
+            "TAT’s Talat Noi account describes the community museum as a former lathe workshop that made components for boats, machinery and rice mills. Its three-floor sequence moves from introductory displays to community history and an animated history film. That gives the visit a more specific purpose than simply finding a photogenic building: look for the connection between river trade, repair work and the neighbourhood’s everyday economy.",
+            "Choose the museum if you want that historical explanation, or the riverside and Chow Sue Kong shrine exterior if your priority is an outdoor walk. The TAT article also mentions exhibitions that ended in early 2025; those are historical examples, not events available on this route now. Keep temporary exhibitions and today’s opening arrangements outside the guaranteed plan."
           ],
           "sourceIds": [
             "talatnoi-tat"
@@ -3282,12 +3334,12 @@
       "src": [
         "talatnoi-tat"
       ],
-      "dateModified": "2026-10-18",
-      "researchNote": "Research-based guide revised on 18 October 2026 using the tourism board’s January 2025 neighbourhood article. Past exhibitions and venue hours in that source are not presented as current. The route order and 2–4-hour allowance are our suggestions, not an on-site test.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "compositionReview": {
-        "date": "2026-10-18",
-        "method": "Replaced unsupported historical and fixed walking-time claims with a named walking plan, source links and clear visitor decisions.",
-        "scope": "Desk research and writing review; not a personal venue visit or site-wide rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Talat Noi Bangkok Walking Route: MRT, Lanes & Cafés",
       "planLinks": [
@@ -3482,7 +3534,7 @@
       "city": "bkk",
       "cat": "hotels",
       "kind": "list",
-      "mins": 5,
+      "mins": 3,
       "title": "Bangkok riverside hotels: compare the stay you will actually book",
       "dek": "Four listings, with location, room category and booking terms kept separate from reputation.",
       "body": [
@@ -3509,22 +3561,34 @@
       ],
       "sections": [
         {
-          "h": "Choosing an area",
+          "h": "Mandarin Oriental: separate the room from the dining booking",
           "p": [
-            "Map your planned visits before choosing a district. Riverside stays can suit river-based outings, while proximity to a useful BTS or MRT station can simplify other journeys. The Old Town has MRT access in some areas; check your actual hotel-to-station walk.",
-            "Our suggestion is to choose one base for a short stay unless moving hotels solves a clear transport problem. A split stay adds packing, checkout and transfer time."
+            "The hotel lists Authors’ Lounge afternoon tea, Bamboo Bar and Baan Phraya as distinct experiences. If one of those is your main reason for choosing the property, compare a confirmed restaurant booking with the cost of staying overnight; a room reservation and a dining reservation solve different needs.",
+            "Its room listings also distinguish connecting or family options and accessible categories. Ask for the category that meets your group’s requirements before comparing rates. Do not infer an accessible bathroom or an extra connecting room from a general photograph of the property."
+          ],
+          "sourceIds": [
+            "mo-bangkok"
           ]
         },
         {
-          "h": "Visiting without staying",
+          "h": "The Peninsula: compare the river crossing, not just the distance",
           "p": [
-            "Some hotel restaurants and bars accept non-resident reservations. Confirm access, dress requirements, pricing and boat arrangements directly; a booking for a meal does not include use of guest facilities."
+            "The Peninsula publishes its address as 333 Charoennakorn Road. Mandarin Oriental lists 48 Oriental Avenue in Bang Rak. These addresses place the two properties on different sides of the river; the relevant comparison is the journey to your own first destination rather than how close the hotel markers appear on the map.",
+            "For each offer, write down the actual landing point or road pickup you would use. Then compare the return after dinner. A convenient outbound boat connection does not establish a late return service or access for restaurant visitors; obtain those details with the booking."
+          ],
+          "sourceIds": [
+            "peninsula-bangkok",
+            "mo-bangkok"
           ]
         },
         {
-          "h": "When to book",
+          "h": "The Siam: garden outlook, river outlook or a pool villa?",
           "p": [
-            "Compare your actual travel dates. Festivals, weekends, room categories and cancellation terms can change prices; no seasonal saving or river-view upgrade is guaranteed."
+            "The Siam names Garden View and River View suites separately from Courtyard Pool and Riverside Pool villas. Those labels describe different products, not interchangeable upgrades. Decide whether your priority is the outlook, indoor space or a private pool before requesting a quote.",
+            "For example, a traveller spending most of the day outside the hotel can compare the suite that meets their room needs, while someone planning substantial hotel time may want the pool-villa specification. Ask which areas and pool belong exclusively to the quoted category rather than assuming the cover image represents every room."
+          ],
+          "sourceIds": [
+            "siam-bangkok"
           ]
         },
         {
@@ -3541,25 +3605,20 @@
           ]
         },
         {
-          "h": "Test the location against your trip",
+          "h": "Capella: a balcony is different from a pool category",
           "p": [
-            "Map your first morning’s destination and your likely evening return. Compare a riverside hotel with a hotel near the rail line you will actually use. A boat service can be helpful, but ask the hotel about operating hours, boarding points and eligibility before relying on it.",
-            "For a restaurant or afternoon-tea visit, book directly and ask about dress requirements, minimum spend and access for non-residents. Do not assume every hotel shuttle or facility is available to anyone arriving for a drink."
-          ]
-        },
-        {
-          "h": "Send the same enquiry to each hotel",
-          "p": [
-            "For a useful comparison, ask every hotel about the same dates, group and room requirements. Record what the quoted rate includes, whether breakfast is separate and the cancellation deadline. A higher headline price may describe a different product rather than a directly comparable room.",
-            "If a shuttle or boat matters to your plans, ask for the current timetable, eligibility and landing point. Check whether that service works for your proposed evening return. Do not build the itinerary around a transfer that is mentioned only in an older review."
+            "Capella distinguishes rooms, suites and villas; its villa description includes separate living and dining space and an outdoor Jacuzzi plunge pool. Some verandah products also feature pools. A standard balcony room should therefore not be budgeted as though it includes a private pool.",
+            "Compare the room-category name on the actual offer with the corresponding floor plan and outdoor-space description. For families, the useful follow-up is sleeping capacity and bed arrangement; for a longer hotel stay, it may be the separate living area. Treat these as product choices, not a hotel quality ranking."
+          ],
+          "sourceIds": [
+            "capella-bangkok"
           ]
         }
       ],
       "tips": [
-        "Check whether the rate includes the 10 per cent service charge and 7 per cent tax.",
-        "Riverside hotels look close together on a map but can be a long taxi ride apart. Use the boats.",
-        "Ask for a high floor on the river side. Lower rooms can be noisy from boat traffic.",
-        "Smart dress is expected in hotel restaurants in the evening."
+        "Match the category name on the booking to the floor plan.",
+        "Ask for the total stay price and cancellation deadline.",
+        "Confirm boat eligibility, landing point and the return service with the hotel."
       ],
       "faq": [
         [
@@ -3631,12 +3690,12 @@
         "siam-bangkok",
         "capella-bangkok"
       ],
-      "dateModified": "2026-10-09",
-      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Bangkok Riverside Hotels: Compare Your Stay"
     },
@@ -8191,10 +8250,13 @@
           "sourceIds": []
         },
         {
-          "h": "Choose your own observation task",
+          "h": "Hàng Gai or Lãn Ông: choose a different trading story",
           "p": [
-            "Before leaving the lake, pick one subject for the walk: a trading street, a shopfront detail or a drink you want to understand. Use that subject to choose two streets. This produces a smaller, more personal route than trying to reproduce every “Old Quarter” stop from a list.",
-            "If you want to share a recommendation afterwards, note the actual business and what you did there. Keep your own observations separate from the area’s historical trade names; not every present-day shop demonstrates the trade associated with its street."
+            "Vietnam Tourism identifies Hàng Gai with fabric and made-to-order clothing, and Lãn Ông with traditional herbs and medicines. Those provide two alternatives to the silver shops on Hàng Bạc and festival goods on Hàng Mã. Choose a pair for contrast rather than using all four as compulsory stops.",
+            "For an architecture-focused walk, look at the narrow street frontage of the tube houses described by the tourism authority and how far buildings extend behind it. This is an observation from the public street, not permission to enter a courtyard or a private home. A small street comparison gives the walk a theme without depending on an advertised shop being open."
+          ],
+          "sourceIds": [
+            "hanoi-tourism"
           ]
         }
       ],
@@ -8221,7 +8283,7 @@
           "Budget separately for transport, one meal, coffee and any paid interior visit; check displayed menus before ordering."
         ]
       ],
-      "researchNote": "Official sources consulted 9 October 2026. Itineraries and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -8237,12 +8299,12 @@
           "It is not part of this itinerary. Do not assume access is available; check current local restrictions before considering a separate visit."
         ]
       ],
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Hanoi Old Quarter: A Relaxed Half-Day Guide",
       "navigationRoute": {
@@ -8283,14 +8345,13 @@
       ],
       "sections": [
         {
-          "h": "Choose the pass for your actual visiting days",
+          "h": "Compare visiting days with the pass validity window",
           "p": [
-            "Angkor Enterprise lists a one-day pass at US$37, a three-day pass at US$62 and a seven-day pass at US$72. Those are published ticket prices consulted on 9 October 2026, not an all-inclusive day-trip price. Check the current purchase conditions and validity before payment.",
-            "If you have just one temple day, compare the one-day option with your intended route first. If you are spreading visits out, read the multi-day conditions carefully. Do not buy extra days solely because a larger ticket sounds like better value; the useful comparison is with the visits you expect to make."
+            "Angkor Enterprise’s ticket catalogue, checked on 19 October 2026, lists US$37 for one visiting day, US$62 for three visiting days within seven days, and US$72 for seven visiting days within thirty days. The validity window is the period in which to use the allowance; it is not seven or thirty days of unlimited admission.",
+            "The three-day product costs US$25 more than one day, so it can support two shorter temple outings with a rest day between them if that matches your stay. For a single available temple day, the larger window adds no usable visiting time. Confirm the ticket terms and sites covered before paying; transport and guiding remain separate."
           ],
           "sourceIds": [
-            "angkor-tickets",
-            "angkor-heritage"
+            "angkor-tickets"
           ]
         },
         {
@@ -8348,7 +8409,7 @@
           "Published Angkor passes: 1 day US$37, 3 days US$62, 7 days US$72. Transport, guide services and food are extra."
         ]
       ],
-      "researchNote": "Official sources consulted 9 October 2026. Itineraries and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -8364,12 +8425,12 @@
           "No sunrise visit is assumed in this route. Choose a departure time that matches the current visitor schedule and your group’s preferences."
         ]
       ],
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Angkor from Siem Reap: First-Day Route & Pass Guide"
     },
@@ -8408,12 +8469,15 @@
           "sourceIds": []
         },
         {
-          "h": "Use Yongle Market as an orientation point",
+          "h": "A small triangle around Yongle, the visitor centre and Xia-Hai",
           "p": [
-            "The market and visitor centre provide a useful pair of reference points rather than a promise of a particular stall being open. Save the meeting location if members of your group want to browse independently. Allow extra time when shopping requires comparing fabrics or other products.",
-            "If the weather or your energy changes, shorten the browsing section and keep the seated stop. You do not need to add a second shopping district to make this an enjoyable afternoon. Choose what fits the time you have and use current directions for the return trip."
+            "Taipei’s 2025 Dadaocheng feature places the visitor centre at 44 Dihua Street, opposite the market area, with Taipei Xia-Hai City God Temple just north of Yongle Market. Use those three named points to orient the beginning of the walk before continuing further along Dihua Street.",
+            "Give each point a different role: obtain orientation at the centre, browse the market area for its trading setting, and approach the temple as a working place of worship. The visitor centre’s costume experience uses a reservation system; an orientation stop does not mean a dress-up session is available without booking. This short loop also gives your group an obvious place to regroup."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "taipei-dadaocheng-quarterly",
+            "taipei-visitor"
+          ]
         },
         {
           "h": "Plan the journey and the spending separately",
@@ -8439,7 +8503,8 @@
       "src": [
         "taipei-dihua",
         "taipei-mrt",
-        "taipei-visitor"
+        "taipei-visitor",
+        "taipei-dadaocheng-quarterly"
       ],
       "quickPlan": [
         [
@@ -8455,7 +8520,7 @@
           "Separate MRT or bus fares from refreshments and shopping. Set a spending limit before browsing tea and gifts."
         ]
       ],
-      "researchNote": "Official sources consulted 9 October 2026. Itineraries and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -8471,12 +8536,12 @@
           "No tasting is included in this route. Check availability, prices and booking conditions with the shop you choose."
         ]
       ],
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Dadaocheng Taipei: A Relaxed Afternoon Guide"
     },
@@ -8506,12 +8571,14 @@
           ]
         },
         {
-          "h": "Choose the deck and check the fare",
+          "h": "What a Central–Tsim Sha Tsui return actually costs",
           "p": [
-            "The tourism board notes that ferry fares vary between decks and between weekdays and weekends. Check the displayed fare for the sailing you intend to take. Treat transport cards and payment options as a practical choice, with any card purchase or deposit kept separate from the ride fare.",
-            "A brief crossing is still a transport journey: allow time for boarding and follow crew instructions. Our suggestion is to enjoy the view without building the entire outing around a particular seat or photograph. If a sailing changes, adjust the shore-side time instead of rushing to preserve a rigid schedule."
+            "The Star Ferry operator lists adult Central–Tsim Sha Tsui single fares by deck and day: upper deck HK$5 on ordinary weekdays and HK$6.50 on weekends or public holidays; lower deck HK$4 and HK$5.60 respectively. These are the operator’s published fares checked on 19 October 2026, not a harbour-tour package.",
+            "For two adults returning on the same type of day, that works out to HK$20 on the upper deck or HK$16 on the lower deck on an ordinary weekday, and HK$26 or HK$22.40 on a weekend or holiday. Those totals are our arithmetic for four single journeys. Use the Wan Chai route’s own fare table if that is your departure point, and keep onward transport outside this comparison."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "star-ferry-fares"
+          ]
         },
         {
           "h": "Give each shore a different purpose",
@@ -8544,7 +8611,8 @@
       ],
       "src": [
         "hongkong-transit",
-        "hongkong-ferry"
+        "hongkong-ferry",
+        "star-ferry-fares"
       ],
       "quickPlan": [
         [
@@ -8560,7 +8628,7 @@
           "Check the ferry’s current deck and day-specific fare; add food and the journey to and from the piers separately."
         ]
       ],
-      "researchNote": "Official sources consulted 9 October 2026. Itineraries and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -8576,14 +8644,34 @@
           "No. Check an MTR or bus route from your final location before starting, then choose the return that fits your plan."
         ]
       ],
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
-      "seoTitle": "Hong Kong Harbour: Plan Your Ferry Crossing"
+      "seoTitle": "Hong Kong Harbour: Plan Your Ferry Crossing",
+      "planTable": {
+        "caption": "Adult Central–Tsim Sha Tsui fares, operator checked 19 October 2026",
+        "headers": [
+          "Deck",
+          "Weekday single",
+          "Weekend / holiday single"
+        ],
+        "rows": [
+          [
+            "Upper",
+            "HK$5",
+            "HK$6.50"
+          ],
+          [
+            "Lower",
+            "HK$4",
+            "HK$5.60"
+          ]
+        ]
+      }
     },
     {
       "id": "g-paris-seine-islands",
@@ -8619,12 +8707,15 @@
           "sourceIds": []
         },
         {
-          "h": "Separate the river walk from paid visits",
+          "h": "Notre-Dame is a separate, free cathedral visit",
           "p": [
-            "The island walk includes references to the Conciergerie and other heritage sites. Consider them optional interiors, each with its own visitor conditions. If you want one, select it in advance and confirm the entry rules directly rather than assuming a general city pass covers your date and activity.",
-            "For an outdoor-focused afternoon, keep your main costs to transport and what you choose to eat or drink. This guide does not claim every surrounding venue is free, and a river cruise is not part of the walking route. Read inclusions carefully when comparing a guided tour with independent exploring."
+            "Notre-Dame’s own visitor page confirms that cathedral admission is free and that an official reservation is optional. Use the cathedral’s reservation portal if you want a slot; do not interpret a paid third-party tour as the price of basic cathedral admission. Availability and entry queues remain separate questions.",
+            "The Paris tourism islands article still contains an old post-fire closure passage even though its page carries a recent update date. We use the cathedral’s own instructions for this visit. Keep the river walk flexible enough to continue without entering, and check separate arrangements if your aim is a tower or another distinct attraction."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "notre-dame-reservation",
+            "paris-islands"
+          ]
         },
         {
           "h": "A shorter version and the route home",
@@ -8635,10 +8726,13 @@
           "sourceIds": []
         },
         {
-          "h": "An outdoor walk and an interior day are different plans",
+          "h": "Île Saint-Louis: exterior landmarks do not imply open interiors",
           "p": [
-            "Choose whether river views and public streets are enough for this outing. If they are, keep cathedral and monument bookings out of the core route. If an interior matters most, build around its actual admission slot and shorten the island walk rather than treating everything as a free addition.",
-            "Choose a place to sit between the islands. A pause gives you a useful decision point: continue, enter a separately booked site or end with a meal. The route is more flexible when each paid interior is a deliberate choice."
+            "Paris tourism identifies Hôtel Lambert at 2 rue Saint-Louis-en-l’Île and Hôtel de Lauzun at 17 quai d’Anjou, noting appointment visits for the latter. Use these as architectural reference points on the island, rather than promising two walk-in museum interiors.",
+            "Our suggested outdoor finish is to choose one river-facing viewpoint and return to your saved meeting point. If an interior matters to you, arrange that visit first and build the walk around it. This preserves the value of the island outing when a building’s doorway is private or its organised visits are unavailable."
+          ],
+          "sourceIds": [
+            "paris-islands"
           ]
         }
       ],
@@ -8649,7 +8743,8 @@
       ],
       "src": [
         "paris-islands",
-        "paris-arrival"
+        "paris-arrival",
+        "notre-dame-reservation"
       ],
       "quickPlan": [
         [
@@ -8665,7 +8760,7 @@
           "Plan transport and refreshments first; any monument entry, tour or cruise is an optional separate cost."
         ]
       ],
-      "researchNote": "Official sources consulted 9 October 2026. Itineraries and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -8681,12 +8776,12 @@
           "You can choose a separate cruise, but confirm its pier, departure and total duration before adding it to the walk."
         ]
       ],
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Paris Seine Islands: A Relaxed Walking Guide"
     },
@@ -8725,12 +8820,14 @@
           "sourceIds": []
         },
         {
-          "h": "Check the Kadıköy connection directly",
+          "h": "Read the direction and footnotes on the Kadıköy timetable",
           "p": [
-            "The municipal ferry operator lists the Kadıköy–Karaköy–Eminönü service. Consult its current timetable for your direction and day rather than relying on a general statement that boats are frequent. Choose a return option before departure and leave room to adapt if service conditions change.",
-            "Once across, give Kadıköy time as a neighbourhood rather than a quick photograph before the return. Pick a compact area for food or browsing and keep the walk within your available time. A regular ferry journey is not the same product as a dedicated sightseeing cruise."
+            "Şehir Hatları publishes separate direction tables for Kadıköy–Karaköy–Eminönü and the return movement. In the table, Kalkış means departure and Varış means arrival. Match your starting pier to the departure column before choosing a sailing; the first time in a row may belong to another shore.",
+            "The operator also uses footnotes for weekend or holiday restrictions and for a service that does not board passengers at Karaköy. Read the symbol against the particular departure you intend to use. A vessel passing a pier on a route diagram is not enough to establish that you can board there on every sailing."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "istanbul-ferry"
+          ]
         },
         {
           "h": "Compare two half-days with one long day",
@@ -8772,7 +8869,7 @@
           "Separate monument admission from ferry fares and food; check current visitor categories and displayed prices."
         ]
       ],
-      "researchNote": "Official sources consulted 9 October 2026. Itineraries and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -8788,12 +8885,12 @@
           "No. The listed municipal ferry connection is a transport service. Compare any sightseeing cruise separately by route, duration and price."
         ]
       ],
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Istanbul: Old City & Ferry Outing Guide",
       "planLinks": [
@@ -8855,10 +8952,13 @@
           "sourceIds": []
         },
         {
-          "h": "Choose the kind of question you want answered",
+          "h": "Five courtyards or a collection about women’s lives?",
           "p": [
-            "For architecture and educational history, choose the Temple of Literature as the primary visit. For stories told through objects and accounts, consider the Vietnamese Women’s Museum. Read the current exhibit information and decide which subject you actually want to spend time with.",
-            "If you choose only one, use the rest of the afternoon for a meal and notes on what interested you. Visiting both is useful when you want the two different contexts, not simply because they appear beside each other in a guide."
+            "Vietnam Tourism describes the Temple of Literature through five courtyards and the educational history of the temple and Quốc Tử Giám. The Women’s Museum, at 36 Lý Thường Kiệt, presents clothing, crafts, photographs and personal histories. These are different ways of learning about Hanoi: a spatial sequence and institution, or objects and individual lives.",
+            "Choose the temple if you want to follow how the courtyards organise an educational monument. Choose the museum if you want to compare what a costume, a photograph and a personal account can each explain. Our recommendation is to make one of those questions the focus, then decide on the second venue after a break. Published historical context does not confirm a temporary gallery or today’s ticket tariff."
+          ],
+          "sourceIds": [
+            "hanoi-culture"
           ]
         }
       ],
@@ -8891,13 +8991,13 @@
         ]
       ],
       "tips": [],
-      "researchNote": "Official sources consulted 9 October 2026. Visit durations are editorial planning allowances; no on-site inspection is claimed.",
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Hanoi Culture: Afternoon Ideas Beyond Old Quarter"
     },
@@ -8937,12 +9037,14 @@
           "sourceIds": []
         },
         {
-          "h": "Keep the silk farm as a separate decision",
+          "h": "Town workshop or Puok silk process: make one deliberate booking",
           "p": [
-            "The operator also lists an Angkor Silk Farm visit showing stages from silkworms through weaving. It is not the same location as the town craft centre. Before adding it, ask about its current visitor arrangements and the transport required between the two.",
-            "Our recommendation is to choose the town visit for a compact afternoon and the silk farm when the textile process is your main interest. Do not let the word “craft” make two different locations appear to be one walk-in attraction. No shuttle, transfer or combined ticket is assumed here."
+            "Artisans Angkor publishes two different visitor locations: the Stung Thmey craft centre in Siem Reap and the Silk Farm on National Road 6 in Puok district. Its visitor page lists guided-visit hours of 07:30–18:00 for the town centre and 07:30–17:30 for the Silk Farm, checked on 19 October 2026. These are published visiting windows, not a guarantee of an immediate tour departure.",
+            "Choose Puok when your question is how silk moves from mulberry and silkworm to weaving. Choose the town centre when the priority is seeing workshop activity without making the farm the main outing. Ask which demonstrations are available on your date and arrange the Puok transfer separately; a shared operator does not make the two locations one walkable stop."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "siem-crafts"
+          ]
         },
         {
           "h": "Make space for a town break afterwards",
@@ -8988,13 +9090,13 @@
         ]
       ],
       "tips": [],
-      "researchNote": "Official sources consulted 9 October 2026. Visit durations are editorial planning allowances; no on-site inspection is claimed.",
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Siem Reap Crafts: An Afternoon Beyond Temples"
     },
@@ -9452,10 +9554,13 @@
           "sourceIds": []
         },
         {
-          "h": "Make two comparable purchase notes",
+          "h": "For the Spice Bazaar, compare weight as well as the price",
           "p": [
-            "When comparing products, record the same details for each offer: material or ingredients, quantity, packing and final total. That gives you a useful comparison beyond an opening price. A lower figure for a smaller or different product is not automatically the better offer.",
-            "If you are unsure, step away before buying. The browsing visit does not fail when you leave without a purchase. Use your planned carry allowance and actual need as the stopping rule, rather than the pressure of having spent time in a shop."
+            "Go Türkiye describes the Spice Bazaar as part of the New Mosque complex in Eminönü, with tea, spices and dried foods among its trades. This makes it a more specific choice for a food-shopping task than simply choosing whichever bazaar has the longest list of shops.",
+            "For a spice or tea comparison, record the product, weight and total price at each stall. A larger packet can make a lower-looking per-unit price a larger purchase than you intended. Ask what is in a blend and how it will be packed; keep food-import checks separate from the seller’s willingness to ship or wrap an item. You can finish in Eminönü without adding a second bazaar."
+          ],
+          "sourceIds": [
+            "istanbul-spicebazaar"
           ]
         }
       ],
@@ -9488,13 +9593,13 @@
         ]
       ],
       "tips": [],
-      "researchNote": "Official sources consulted 9 October 2026. Visit durations are editorial planning allowances; no on-site inspection is claimed.",
-      "dateModified": "2026-10-09",
-      "mins": 4,
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-10-19",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Istanbul Bazaars: A Shopping & Browsing Guide",
       "planLinks": [
@@ -9508,7 +9613,7 @@
       "kind": "guide",
       "items": [],
       "tips": [],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "id": "g-tokyo-solo-asakusa",
       "slug": "tokyo-solo-asakusa",
       "city": "tyo",
@@ -9537,7 +9642,7 @@
           "Separate rail travel, meals and shopping; add tickets only for an optional paid activity."
         ]
       ],
-      "researchNote": "An editorial route for independent visitors, informed by an observed solo-travel search theme. It is not a guided tour, on-site review or safety rating. Local details checked against GO TOKYO on 9 October 2026.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "body": [
         "For your first solo day in Tokyo, start with a neighbourhood you can leave easily when you have had enough. Asakusa gives the outing a clear shape: arrive at the station, follow the temple approach, choose somewhere for lunch, then decide whether to continue towards the river. You can enjoy the main walk without committing to an evening reservation or another cross-city journey.",
         "The useful question is how much to put in this first day. Our answer is one main area and one optional extension. This suggested route suits travellers who want to practise using local transport and ordering a meal while keeping the day manageable. It also works as a shorter outing after a tiring arrival, provided you allow yourself to stop early."
@@ -9582,10 +9687,13 @@
           ]
         },
         {
-          "h": "Let the solo day have a clear stopping point",
+          "h": "Choose one extension: Azuma-bashi, Rokku or Kappabashi",
           "p": [
-            "Choose one point where you will decide whether to continue: after the temple area, after lunch or at the river. Travelling alone makes changing the plan easy, but it also makes it easy to keep adding stops without a reason. Save the return station before the first visit.",
-            "Write down one thing you actually enjoyed if you want to recommend the outing. A personal observation about a meal or street detail is more useful than declaring that every solo traveller will enjoy the same route."
+            "GO TOKYO distinguishes three useful extensions around the Asakusa visit: Azuma-bashi for the riverside setting, Rokku Broadway for its theatre and restaurant district, and Kappabashi for kitchen utensils and food-display models. They are different reasons to keep walking, not three more mandatory sights after Sensō-ji.",
+            "For a short first day, make the river your finish and save the shopping branch for another visit. If you have a specific kitchen item to buy, choose Kappabashi and write down its size or intended use before browsing. A solo outing benefits from a clear final task: one purchase, a meal or a river pause, followed by the return route you saved earlier."
+          ],
+          "sourceIds": [
+            "tokyo-asakusa"
           ]
         }
       ],
@@ -9599,11 +9707,11 @@
           "The suggested walk is self-guided. Any cruise, performance or other paid experience needs its own access and booking check."
         ]
       ],
-      "mins": 4,
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Tokyo Solo Travel: Your First Day in Asakusa"
     },
@@ -9611,7 +9719,7 @@
       "kind": "guide",
       "items": [],
       "tips": [],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "id": "g-taipei-slow-weekend",
       "slug": "taipei-slow-weekend",
       "city": "tpe",
@@ -9623,7 +9731,8 @@
         "taipei-shopping-district",
         "beitou-museum",
         "taipei-mrt",
-        "google-trends-travel"
+        "google-trends-travel",
+        "taipei-yongle-history"
       ],
       "places": [
         "tpe-dihua",
@@ -9643,7 +9752,7 @@
           "Our suggestion: one main district each day, with unscheduled time before and after."
         ]
       ],
-      "researchNote": "A two-day editorial framework inspired by the slow-travel search theme, not evidence that Taipei is currently a rising Google Trends destination. Sources consulted 9 October 2026.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "body": [
         "A slower Taipei weekend starts by choosing what to leave out. Give Dadaocheng one afternoon and Beitou a separate day instead of combining both with a long list of city landmarks. You still need to check transport and opening times, but you can leave space for a meal, a change in weather and the shop you actually want to browse.",
         "This plan is for visitors who prefer fewer transfers and longer pauses. It does not require a particular hotel or a shopping budget. Keep your accommodation as the starting point for both days, and decide how much walking is comfortable before adding anything else. The two outings can be swapped if the museum’s opening day makes that more practical."
@@ -9688,10 +9797,14 @@
           ]
         },
         {
-          "h": "Decide what deserves a return visit",
+          "h": "Give Dadaocheng a textile theme and Beitou a different question",
           "p": [
-            "At the end of day one, identify one shop or subject you would return for. Compare that with the purpose of day two before making a change. Revisiting something you liked can be better than preserving a two-day itinerary only because it was written down first.",
-            "Keep any decision to replace Beitou separate from a museum closure check. One is a preference, the other is current access information. Being clear about the reason for a change helps you avoid rearranging the weekend around an assumption."
+            "Taipei’s Yongle Market history explains how the market developed as a fabric-trading centre, with surrounding lanes associated with buttons and clothing supplies. Use that context for day one: compare a fabric, a fastening and a finished item rather than treating every shop as a souvenir stop.",
+            "For the second day, keep Beitou as a separate culture outing rather than extending the Dihua shopping route. The useful contrast is trade and making on the first day, then the history and design of a bathing district on the next. Save the museum visit and any actual bathing booking separately; entering a history museum does not include a hot-spring session."
+          ],
+          "sourceIds": [
+            "taipei-yongle-history",
+            "beitou-museum"
           ]
         }
       ],
@@ -9705,11 +9818,11 @@
           "No. The museum is a cultural visit. A bathing facility is a separate choice with its own charges and rules."
         ]
       ],
-      "mins": 4,
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Taipei Weekend Itinerary: Two Relaxed Days"
     },
@@ -9717,7 +9830,7 @@
       "kind": "guide",
       "items": [],
       "tips": [],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "id": "g-mexico-city-food-outing",
       "slug": "mexico-city-food-outing",
       "city": "mex",
@@ -9744,7 +9857,7 @@
           "Our suggested allowance: 2–3 hours for one market outing, plus your transport."
         ]
       ],
-      "researchNote": "An independent planning guide prompted by Google’s April 2026 report on Mexico City food searches. That report is historical context, not a live October ranking. The cover shows Palacio de Bellas Artes, not the market. No tour operator is endorsed.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "body": [
         "Choose the kind of food outing you want before choosing a list of dishes. If you are comfortable reading menus, asking prices and deciding where to stop, a single market lunch can give you a flexible afternoon. If explanation, a shared group or help with ordering matters more, compare a guided tour with clearly stated inclusions.",
         "Both formats can work, but they solve different problems. A market visit gives you control over the pace and spending. A booked tour gives you a planned sequence and an agreed meeting point. Neither format guarantees the best meal in the city, and a search trend cannot tell you which operator or stall will suit your preferences."
@@ -9785,10 +9898,13 @@
           "sourceIds": []
         },
         {
-          "h": "Compare control with explanation",
+          "h": "Use the fondas corner for a meal with a clear format",
           "p": [
-            "For a self-guided meal, you control the order, pace and stopping point. For a guided outing, the value may be explanation, language support or a shared sequence. Ask which of those you actually need before comparing a tour price with a restaurant bill.",
-            "If explanation is the reason to book, read the operator’s description of what is taught and in which language. If all you want is one lunch, a simpler market visit may be enough. Neither format needs to be described as universally more authentic."
+            "Mexico City’s visitor information places fondas in the southwest part of Mercado San Juan Arcos de Belén, near Salto del Agua. Save the Arcos de Belén name and location, since the similarly named Pugibet market represents a different outing. The distinction matters before agreeing a meeting point for a food tour.",
+            "For a self-guided lunch, choose a stall with an understandable current menu and ask what the meal includes before ordering. Compare a fixed lunch with several small purchases using the total you expect to eat, not the smallest advertised item. If you continue towards Bellas Artes along Calle López, treat that as an optional after-meal route, not a reason to rush lunch."
+          ],
+          "sourceIds": [
+            "mex-arcos-market"
           ]
         }
       ],
@@ -9802,11 +9918,11 @@
           "No. The city tourism listing distinguishes Arcos de Belén from Pugibet. Save the exact name and location for the place you intend to visit."
         ]
       ],
-      "mins": 5,
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
       "seoTitle": "Mexico City Food: Market Lunch or Guided Tour?"
     },
@@ -9879,6 +9995,16 @@
             "After the main visit, decide whether another neighbourhood still sounds enjoyable. If everyone wants a seat, a meal is a complete and useful finish. Keep any extra architecture stop optional, and write down the correct place names if you want to return another day. A manageable first outing gives you a better basis for the next plan than a crowded checklist."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Park Güell: match the buildings to the ticket product",
+          "p": [
+            "Park Güell’s official site distinguishes its park visit from combined products mentioning Casa del Guarda and the Gaudí House Museum. Do not assume that a photograph of a house or the word Gaudí means every interior is included in the ticket you selected. Read the product’s explicit inclusions before confirming the transfer.",
+            "The park also publishes works notices, including drainage and irrigation works. Use those notices to adjust the parts of the visit that matter to you rather than assuming every path or viewpoint will be available. For a simpler day, keep the Gothic Quarter walk independent and reserve the hillside outing for the slot and ticket you can actually use."
+          ],
+          "sourceIds": [
+            "bcn-guell-official"
+          ]
         }
       ],
       "faq": [
@@ -9926,10 +10052,15 @@
         "bcn-park-guell"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 4,
-      "seoTitle": "Barcelona First Visit: Old City or Park Güell?"
+      "seoTitle": "Barcelona First Visit: Old City or Park Güell?",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "rome-pantheon-colosseum-planning",
@@ -10001,6 +10132,16 @@
             "Arrange the meal after the main commitment with enough flexibility for a longer visit. If you have a train, flight or evening booking, work backwards from that deadline and include the return journey. On a shorter day, one completed priority is preferable to leaving several places half visited. Save the unused option for a second outing instead of making it compulsory."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "A 24-hour Colosseum ticket does not include the arena",
+          "p": [
+            "The archaeological park’s official ticket page describes the 24-hour Colosseum, Roman Forum and Palatine product as including the Colosseum’s first and second levels, with one entry to each included site. It explicitly excludes arena access. The product name alone should therefore not be used as proof that a particular arena photograph can be reproduced on your visit.",
+            "Write down the areas you want before comparing ticket names: ordinary Colosseum levels, arena, or another specially controlled area. Then match that list to the actual product. A longer or more expensive ticket only improves your day when it includes something you want and can fit around the reserved entry; keep meals and transfers outside the ticket allowance."
+          ],
+          "sourceIds": [
+            "rom-colosseum-official"
+          ]
         }
       ],
       "faq": [
@@ -10048,10 +10189,15 @@
         "rom-forum-palatine"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
-      "mins": 4,
-      "seoTitle": "Rome First Visit: Pantheon & Colosseum Planning"
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 3,
+      "seoTitle": "Rome First Visit: Pantheon & Colosseum Planning",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "amsterdam-museum-canals-ferry",
@@ -10125,6 +10271,16 @@
             "A single museum plus a walk may be a very different purchase from several paid attractions over multiple days. Keep the calculation small and personal. If the museum takes most of the afternoon, let the canal or ferry option move to tomorrow. Leave space for a meal and the return to your accommodation so the day finishes as comfortably as it starts."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Rijksmuseum: book a start time even when admission is free",
+          "p": [
+            "The Rijksmuseum lists adult admission at €25 and free admission for visitors aged 18 and under, checked on 19 October 2026. A start-time booking is still required for most visitors, including Museumkaart holders; the museum names exceptions such as Friends and ICOM/ICOMOS. A free-admission entitlement and a reserved arrival are therefore separate parts of planning.",
+            "The museum lists daily opening from 09:00 to 17:00 and cashless payment. Put your booked arrival before the canal or ferry extension in the day’s order, and bring a usable payment method if you expect to buy anything. Do not extend museum admission to match the shop or café’s later closing time; those facilities have their own access arrangements."
+          ],
+          "sourceIds": [
+            "ams-rijks-official"
+          ]
         }
       ],
       "faq": [
@@ -10177,10 +10333,15 @@
         "ams-ndsm"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
-      "mins": 4,
-      "seoTitle": "Amsterdam in One Day: Museums, Canals & Ferry"
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 3,
+      "seoTitle": "Amsterdam in One Day: Museums, Canals & Ferry",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "berlin-history-museum-park",
@@ -10252,6 +10413,16 @@
             "For spending, separate collection admission, any guided explanation and local transport. Check the appropriate fare zone and the actual ticket validity for your journeys. Before a final evening reservation, leave enough room for getting back to your accommodation if you want a break. A coherent history or collection afternoon is more useful than a route that claims to cover Berlin in a few hours."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Choose a collection, and keep Pergamon out of a 2026 interior plan",
+          "p": [
+            "VisitBerlin identifies the Neues Museum with objects including the Nefertiti bust and the Berlin Gold Hat, while the Alte Nationalgalerie offers a different painting-focused visit. Pick the collection that answers your own interest before adding a second museum simply because it is nearby.",
+            "The tourism authority gives 4 June 2027 as the planned reopening of the Pergamonmuseum. That future date is not a promise of an accessible Pergamon interior for this October 2026 itinerary. Recheck the museum operator’s current notices before a later trip. For this route, an outdoor Museum Island walk and one confirmed collection make a clearer plan than an assumed all-museums day."
+          ],
+          "sourceIds": [
+            "ber-museums-official"
+          ]
         }
       ],
       "faq": [
@@ -10299,10 +10470,15 @@
         "ber-tiergarten"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
-      "mins": 4,
-      "seoTitle": "Berlin First Visit: History, Museums & Tiergarten"
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 3,
+      "seoTitle": "Berlin First Visit: History, Museums & Tiergarten",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "dubai-creek-al-fahidi-outing",
@@ -10387,6 +10563,16 @@
             "Save the last place you need to reach and work backwards from it. If it is an appointment or a timed activity, leave room for the walk to the station and a wait. A short crossing does not make the whole afternoon a short journey. In hot conditions, shorten the outdoor part rather than adding more stops to the same plan."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "A private electric abra quote is per boat, not a commuter fare",
+          "p": [
+            "RTA distinguishes the TR10 electric abra as a private tour, with published prices of AED60 for 30 minutes or AED120 for 60 minutes per boat. That is a different product from the listed AED2 commuter crossings. The operator also marks CR7 as temporarily on hold; a line on a route list is not confirmation that it is running.",
+            "For four people using a 30-minute TR10 booking together, the published boat price divides to AED15 each if the actual booking and capacity suit the group. That is our cost-sharing example, not a single-seat fare. Choose a commuter route for reaching the opposite bank, or a private tour for time on the water; confirm the starting station before paying."
+          ],
+          "sourceIds": [
+            "dxb-rta-official"
+          ]
         }
       ],
       "faq": [
@@ -10461,8 +10647,8 @@
         "dxb-abra-creek"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-18",
-      "researchNote": "Independent desk-researched guide. Selected route codes, fares and the CR7 suspension were checked on RTA’s Creek page on 18 October 2026. Reconfirm service at the station. Walking order and time allowances are editorial suggestions; no on-site visit is claimed.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 4,
       "seoTitle": "Dubai Creek: Al Fahidi, Al Seef & Abra Guide",
       "planLinks": [
@@ -10491,6 +10677,11 @@
             "note": "Continue only if the walking conditions suit your group. Choose a meal or waterfront pause; a boat crossing is optional."
           }
         ]
+      },
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       }
     },
     {
@@ -10565,6 +10756,16 @@
             "For a self-arranged outing, keep transport, admissions and food in separate budget lines. Agree a collection point and how to communicate any change, then leave the next activity optional. If the forest or ridge becomes the main visit, let the palace area move to another day. A clear choice lets you spend time where you intended, instead of using the afternoon to keep up with an unnecessarily large circuit."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Monkey Forest: decide whether the visitor rules suit your day",
+          "p": [
+            "The sanctuary’s visitor guidance prohibits bringing food and drinks, feeding monkeys independently and touching the animals. Small loose possessions can also attract their attention. Before choosing this outing, consider whether your group can follow those rules while carrying the belongings you actually need for the day.",
+            "The operator also distinguishes visitor areas from temple spaces used for Balinese prayer. A sanctuary ticket should not be treated as permission to enter every religious interior. If being close to macaques is not an experience you want, choose the town-focused outing instead; there is no need to buy admission merely because the sanctuary appears on a standard Ubud list."
+          ],
+          "sourceIds": [
+            "ubd-forest-rules"
+          ]
         }
       ],
       "faq": [
@@ -10617,10 +10818,15 @@
         "ubd-palace"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched planning guide. Official references checked on 10 October 2026; time allowances and suggested combinations are editorial choices, not tested itineraries. Confirm current access and booking conditions before travelling.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 4,
-      "seoTitle": "Ubud Visit Planning: Monkey Forest or Campuhan?"
+      "seoTitle": "Ubud Visit Planning: Monkey Forest or Campuhan?",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "bangkok-suvarnabhumi-airport-transfer",
@@ -10665,6 +10871,16 @@
           "p": [
             "Use the airport’s published transport information to identify the service and boarding area. For a prebooked transfer, ask whether waiting time, tolls, airport charges and luggage capacity are included. For an on-arrival service, follow the designated process rather than assuming a person approaching you represents the airport.",
             "Choose rail or road after checking the complete journey, then keep a fallback. If the flight arrives after your intended rail connection finishes, contact the hotel about a road transfer. Do not turn a tight last-service connection into the only way to reach accommodation."
+          ],
+          "sourceIds": [
+            "bkk-airport-aot"
+          ]
+        },
+        {
+          "h": "At BKK, distinguish the regular taxi queue from premium vehicles",
+          "p": [
+            "AOT places the regular public-taxi service on Level 1 at Gates 4–7, on the inner kerb. Its published instructions use a queue ticket and a metered fare plus a THB50 airport surcharge, with possible additional baggage charges. This identifies the service you are choosing; it is not an all-inclusive fare to any Bangkok hotel.",
+            "The same airport page lists premium or electric vehicle services separately. A desk or vehicle beside the public-taxi area need not use the regular queue’s price structure. Save your hotel’s exact entrance, take the correct queue ticket and clarify tolls and luggage before departure. Compare that whole journey with rail, including the hotel-side connection."
           ],
           "sourceIds": [
             "bkk-airport-aot"
@@ -10727,15 +10943,20 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
         "bangkok-three-day-first-visit",
         "bangkok-hotels",
         "bangkok-temples"
       ],
-      "seoTitle": "Suvarnabhumi to Bangkok: Rail or Road Transfer?"
+      "seoTitle": "Suvarnabhumi to Bangkok: Rail or Road Transfer?",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "bangkok-three-day-first-visit",
@@ -10749,7 +10970,8 @@
       "src": [
         "arun-tat",
         "talatnoi-tat",
-        "bkk-bts-official"
+        "bkk-bts-official",
+        "bkk-airport-aot"
       ],
       "body": [
         "Three days in Bangkok work better as three different kinds of outing: a historic riverside day, a neighbourhood day and a flexible final day. This is an editorial framework rather than an hourly schedule. Choose your hotel first, then adapt the order to transport, opening information and how much walking your group wants."
@@ -10783,6 +11005,17 @@
           ],
           "sourceIds": [
             "bkk-bts-official"
+          ]
+        },
+        {
+          "h": "Make the arrival day lighter with one Talat Noi history stop",
+          "p": [
+            "TAT describes Talat Noi Museum as a former machinery workshop, with community history on its upper floors. That makes it a useful focus for the neighbourhood day if you want an explanation of the river and repair trades, rather than a sequence of unrelated photo stops.",
+            "If you arrive through Suvarnabhumi, AOT’s regular taxi instructions locate the queue on Level 1, Gates 4–7; airport travel still needs to be completed before your sightseeing allowance begins. Our suggested adjustment after a late arrival is a shortened Talat Noi outing on the following day, then the larger temple plan when rested. This is a sequence choice, not a promise that the museum is open on your first afternoon."
+          ],
+          "sourceIds": [
+            "talatnoi-tat",
+            "bkk-airport-aot"
           ]
         }
       ],
@@ -10842,8 +11075,8 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
         "bangkok-temples",
@@ -10856,7 +11089,12 @@
           "Plan a Talat Noi neighbourhood walk",
           "/guides/bangkok-talatnoi"
         ]
-      ]
+      ],
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "chiang-mai-doi-suthep-visit",
@@ -10869,7 +11107,8 @@
       "img": "cnx-doi-suthep",
       "src": [
         "doi-suthep-tat",
-        "cm-government"
+        "cm-government",
+        "doi-suthep-approach-tat"
       ],
       "body": [
         "A Doi Suthep outing needs three separate decisions: how to reach the temple, how to manage the approach, and how to return. Decide those before attaching a waterfall, village or another distant attraction. A smaller temple visit can be a worthwhile afternoon without becoming a full mountain circuit."
@@ -10896,12 +11135,14 @@
           ]
         },
         {
-          "h": "Check the approach against your group’s needs",
+          "h": "The naga staircase and cable-car approach are separate choices",
           "p": [
-            "Ask about the currently available way from vehicle drop-off to the visitor area, especially if stairs or prolonged standing are difficult. This guide does not certify a step-free visit. Leave enough energy for the return approach and ask staff about any alternative before paying for transport.",
-            "Keep another mountain stop optional. If transport is waiting or the weather changes, a direct return can be the sensible finish. Plan a meal back in the city rather than relying on a specific vendor near the temple being open. That makes it easier to adjust the visit without losing the whole afternoon."
+            "TAT’s Chiang Mai–Lamphun article describes a 306-step naga staircase and a cable-car alternative at the temple. This gives you a concrete approach question to resolve before arranging the car journey up the mountain: does your group want the stair climb, or need to enquire about the alternative?",
+            "The tourism description does not certify the cable car’s current operation, price or a fully step-free route through the temple. Ask about the entire path from vehicle drop-off to the areas you want to visit. Keep the road transfer, the final ascent and the return pickup as three distinct arrangements, especially for anyone who needs assistance with stairs."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "doi-suthep-approach-tat"
+          ]
         }
       ],
       "quickPlan": [
@@ -10960,9 +11201,9 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
-      "mins": 3,
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 2,
       "relatedGuides": [
         "chiang-mai-two-day-itinerary",
         "chiang-mai-oldcity",
@@ -10978,7 +11219,12 @@
           "Keep your Old City walk separate",
           "/guides/chiang-mai-oldcity"
         ]
-      ]
+      ],
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "chiang-mai-two-day-itinerary",
@@ -10992,7 +11238,9 @@
       "src": [
         "cm-government",
         "doi-suthep-tat",
-        "cm-food-tat"
+        "cm-food-tat",
+        "cnx-museum-calendar",
+        "jing-jai-official"
       ],
       "body": [
         "A two-day Chiang Mai stay is easier to plan when the Old City gets one day and the second day has a single main choice. You do not need to fit every temple, cooking activity and countryside excursion into one weekend. Start with the experience you care about most, then make the other stops support it."
@@ -11026,6 +11274,17 @@
             "Set a spending limit and a finish time, especially on the night before departure. Keep market food separate from a guaranteed dinner plan if the group has specific dietary needs. On the final day, allow for packing and transport; two calendar days do not always equal two full sightseeing days."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Use the weekday to choose the second day",
+          "p": [
+            "The Fine Arts Department publishes Chiang Mai National Museum’s exhibition hours as Wednesday–Sunday, 09:00–16:00. Central Group identifies Jing Jai’s weekend market with Saturday and Sunday mornings. Those schedules create different options: a weekday museum outing when open, or a weekend market morning followed by a smaller Old City plan.",
+            "Our suggested rule is to choose the date-sensitive visit first, then fit the flexible walk around it. A Monday or Tuesday does not become a museum day merely because its office is open, and a weekday Jing Jai visit should not promise the weekend stalls. Keep Doi Suthep as a separate mountain choice rather than stacking all three onto one day."
+          ],
+          "sourceIds": [
+            "cnx-museum-calendar",
+            "jing-jai-official"
+          ]
         }
       ],
       "quickPlan": [
@@ -11084,8 +11343,8 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
         "chiang-mai-airport-to-old-town-transfer",
@@ -11108,7 +11367,12 @@
           "Airport arrival options",
           "/guides/chiang-mai-airport-to-old-town-transfer"
         ]
-      ]
+      ],
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "phuket-airport-to-beach-transfer",
@@ -11155,6 +11419,17 @@
             "Choose the vehicle if a direct door-to-door journey solves a difficult last leg or arrival-time problem. Choose the bus when its current route genuinely fits. Do not expect either option to guarantee a fixed journey time; avoid a non-refundable activity immediately after the advertised transfer duration."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Domestic Exit 3 and the route direction are the useful arrival details",
+          "p": [
+            "The bus operator identifies its airport stop outside the Domestic Terminal at Exit 3. Its timetable names the southbound sequence as Airport–Patong–Karon–Kata–Rawai. If you arrive internationally, first locate the domestic-terminal boarding point; being outside an arrivals door alone does not establish that you are at the bus stop.",
+            "Save the stop that serves your actual hotel area and the remaining walk or connection. The airport–Rawai service is different from the Bus Terminal 2–Phuket Town–Patong service and the free Dragon Line town shuttle. Compare the correct route before using a fare or departure image, and use live tracking for an estimate rather than treating a schedule as a guaranteed hotel arrival time."
+          ],
+          "sourceIds": [
+            "phuket-bus-boarding",
+            "phuket-bus-official"
+          ]
         }
       ],
       "quickPlan": [
@@ -11213,16 +11488,21 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
-      "mins": 3,
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 2,
       "relatedGuides": [
         "phuket-dragon-line-free-town-bus",
         "phuket-three-day-itinerary",
         "phuket-beaches",
         "phuket-oldtown"
       ],
-      "seoTitle": "Phuket Airport Transfers: Bus or Direct Ride?"
+      "seoTitle": "Phuket Airport Transfers: Bus or Direct Ride?",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "phuket-three-day-itinerary",
@@ -11236,7 +11516,8 @@
       "src": [
         "phuket-oldtown-tat",
         "phuket-beaches-government",
-        "phuket-bus-official"
+        "phuket-bus-official",
+        "phuket-thaihua-government"
       ],
       "body": [
         "A short Phuket stay benefits from a town day, a beach-area day and a flexible final outing. This plan is an editorial suggestion, not a promise of swimming conditions or a confirmed tour programme. Your accommodation location should influence the order: repeated transfers can consume the time you meant to spend outside."
@@ -11269,6 +11550,17 @@
             "If you use Phuket Smart Bus, match the current route to both ends of the trip. A stop bearing a familiar beach name may still require another connection to your accommodation. Protect the airport transfer first on departure day and avoid buying an activity whose finish leaves no room for delays."
           ],
           "sourceIds": [
+            "phuket-bus-official"
+          ]
+        },
+        {
+          "h": "Give the Old Town day a museum question before the beach day",
+          "p": [
+            "Phuket Provincial Government describes Thai Hua as a former school built for Hokkien children of tin-mining families, with displays tracing the island’s move from mining to tourism. Use that as the question for your Old Town day: which parts of the street, food and family history become clearer after reading the museum displays?",
+            "Keep the coastal day separate. Phuket Smart Bus lists an airport–Patong–Karon–Kata–Rawai service and a different town shuttle, so a town museum visit does not imply one direct airport-line bus to every stop. Choose the beach area before arranging that day’s journey, and leave the third day for an activity you still want rather than another transfer by default."
+          ],
+          "sourceIds": [
+            "phuket-thaihua-government",
             "phuket-bus-official"
           ]
         }
@@ -11329,9 +11621,9 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
-      "mins": 3,
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 2,
       "relatedGuides": [
         "phuket-oldtown",
         "phuket-beaches",
@@ -11347,7 +11639,12 @@
           "Choose an airport-to-beach transfer",
           "/guides/phuket-airport-to-beach-transfer"
         ]
-      ]
+      ],
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "kyoto-first-visit-two-area-plan",
@@ -11359,7 +11656,8 @@
       "dek": "A neighbourhood-based approach that leaves room for temple access, a meal and respectful photography.",
       "img": "kyo-destination-photo",
       "src": [
-        "kyoto-respect"
+        "kyoto-respect",
+        "kyoto-togetsukyo"
       ],
       "body": [
         "For a first Kyoto visit, choose one main area instead of treating Higashiyama and Arashiyama as parts of a single compulsory circuit. The useful question is whether you want a historic-street and temple outing or a western-district visit. Both deserve time for the journey, breaks and places that you decide not to enter."
@@ -11392,6 +11690,17 @@
             "Carry a small bag and dispose of rubbish appropriately. Give anyone in the group who needs a rest a real place to pause. A successful first day can be a single cultural visit, an unhurried walk and one good meal. Save the other district for another day rather than using the evening to finish an oversized list."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Use Togetsu-kyo as the Arashiyama walk’s boundary",
+          "p": [
+            "Kyoto’s official tourism site places Togetsu-kyo Bridge across the Katsura River in Arashiyama. Make the bridge and river setting a clearly named part of the western outing rather than describing the whole district as a bamboo-grove visit. It also gives the group a recognisable meeting point before an optional additional attraction.",
+            "Our suggestion is to choose one indoor or garden visit separately, then decide whether the riverside walk already fills your day. The city’s responsible-travel guidance asks visitors to respect private areas and avoid damaging bamboo. A public route, a temple admission and a private lane have different access rules; do not use a map shortcut as permission to enter."
+          ],
+          "sourceIds": [
+            "kyoto-togetsukyo",
+            "kyoto-respect"
+          ]
         }
       ],
       "quickPlan": [
@@ -11453,13 +11762,18 @@
         "kyo-arashiyama"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "seoTitle": "Kyoto First Visit: Higashiyama or Arashiyama?",
       "relatedGuides": [
         "kyoto-autumn-leaves-calendar-2026-update"
-      ]
+      ],
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "george-town-penang-heritage-walk",
@@ -11502,6 +11816,16 @@
             "Finish at the waterfront only if the weather and route suit your group. Identify a meeting point for any onward vehicle and keep the hotel destination saved. If heat or rain changes the walk, choose a confirmed indoor visit or shorten the route. You can return for another part of the heritage trail rather than trying to see the whole district in one session."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Split the published trail at the waterfront or Street of Harmony",
+          "p": [
+            "Penang Global Tourism’s trail runs from the Esplanade and Fort Cornwallis through the Street of Harmony, clan buildings, Armenian Street and the Clan Jetties. For a shorter first outing, the Esplanade–fort pairing gives a coastal and colonial-history focus. The Street of Harmony introduces a different theme through neighbouring places of worship.",
+            "Choose one of those as the main task rather than adopting the full published trail as a compulsory half-day. An exterior walk does not include fort admission or permission to enter a prayer area. Save a finish point near your chosen segment and leave the clan-jetties extension for when you still have time and interest; these are living neighbourhoods as well as heritage stops."
+          ],
+          "sourceIds": [
+            "penang-heritage-trail"
+          ]
         }
       ],
       "quickPlan": [
@@ -11563,8 +11887,8 @@
         "png-heritage-streets"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "seoTitle": "George Town Penang: A Heritage Walking Guide",
       "planLinks": [
@@ -11576,7 +11900,12 @@
           "Continue planning in Kuala Lumpur",
           "/city/kuala-lumpur"
         ]
-      ]
+      ],
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "kathmandu-swayambhu-boudha-first-visit",
@@ -11622,6 +11951,17 @@
             "Tell a driver the site name and the collection location, and agree whether the service waits or returns later. Keep cash needs, admissions and transport in separate budget lines. This is a cultural city-outing guide, not trekking or altitude advice; mountain travel needs separate planning. Finish near a reliable onward connection rather than letting the final stop dictate an uncertain journey back."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "The Swayambhu approach changes the visit more than the photo angle",
+          "p": [
+            "Nepal Tourism Board describes steep stone steps at Swayambhu but also a motor road reaching close to the top, followed by a shorter walk. Ask a driver which approach they will use. A drop-off described only as Monkey Temple can leave the final climb undefined, particularly for a group that needs to avoid long stairs.",
+            "The tourism board places Boudha east of central Kathmandu, while Swayambhu is on a hill to the west. That is the practical reason to treat them as two outings when time is limited. Compare a hilltop religious complex and city outlook with a stupa-focused visit, rather than promising a quick walk linking both. Neither description certifies step-free access or a fixed transfer time."
+          ],
+          "sourceIds": [
+            "nepal-swayambhu",
+            "nepal-boudha"
+          ]
         }
       ],
       "quickPlan": [
@@ -11683,10 +12023,15 @@
         "ktm-boudha"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
-      "seoTitle": "Kathmandu Stupas: Swayambhu or Boudha?"
+      "seoTitle": "Kathmandu Stupas: Swayambhu or Boudha?",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "marrakech-medina-first-visit",
@@ -11729,6 +12074,16 @@
           "p": [
             "The official tourism page also introduces the Menara gardens. Research current access and the approach as a separate outing. Another garden that appears in a booking advert may have entirely different entry conditions; a general city guide is not a ticket or an endorsement of a reseller.",
             "Seeing the Koutoubia minaret from a public area does not establish permission to enter the mosque. Follow local access instructions and keep religious spaces out of a casual assumption of unrestricted sightseeing. When the walking route becomes tiring, finish at the agreed meeting place. A shorter first visit can make the next outing easier because you know where you started and how you returned."
+          ],
+          "sourceIds": [
+            "morocco-medina"
+          ]
+        },
+        {
+          "h": "Make Jemaa el-Fna the return reference, not a route to every garden",
+          "p": [
+            "The Moroccan National Tourist Office describes the medina through Jemaa el-Fna and the Koutoubia, and presents the Menara gardens as another part of the city’s visitor offer. Those names should not be treated as interchangeable corners of one small shopping loop. Give the medina walk its own finish before deciding on a garden transfer.",
+            "For a first outing, save your accommodation entrance and one agreed return reference near the square. Choose either a deliberate shopping task or time to observe the public setting, then return along a route you understand. A landmark’s visibility does not establish access to its religious interior, and a garden visit should have its own opening and transport check."
           ],
           "sourceIds": [
             "morocco-medina"
@@ -11794,10 +12149,15 @@
         "rak-menara"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
-      "researchNote": "Independent desk-researched guide. Official references consulted on 10 October 2026. Suggested sequences and time budgets are editorial planning choices, not firsthand-tested routes; check current operator information before booking.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
-      "seoTitle": "Marrakech Medina: A First-Time Walking Guide"
+      "seoTitle": "Marrakech Medina: A First-Time Walking Guide",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "bangkok-restaurants-best-for-first-visit",
@@ -11837,10 +12197,10 @@
           ]
         },
         {
-          "h": "How to use this shortlist",
+          "h": "Choose the dish and the actual branch before the journey",
           "p": [
-            "For a first Bangkok food itinerary, decide whether you want one focused dish or a longer sit-down meal. That choice matters more than treating these businesses as a citywide ranking. Compare each restaurant’s current menu with your dietary requirements and the other stops on your Bangkok route. Inspector references identify the business and cuisine; they do not guarantee a table on your chosen day.",
-            "Save the specific Bangkok branch you intend to visit, especially when a business has several locations. Confirm the meal time before planning the rest of the outing, and choose a backup along the same route. If you book a table, read the cancellation terms; if you walk in, leave enough flexibility to change your meal plan without missing a timed attraction."
+            "Thipsamai’s own menu distinguishes vegetarian pad Thai, a shrimp-oil version wrapped in egg, and a version without noodles. These labels matter more than ordering a generic signature dish: specify the ingredients and format you actually want, and ask the restaurant directly about allergies or dietary needs.",
+            "Supanniga’s Tha Tien contact page identifies its Riva Arun riverfront location at 392/25–26 Maharaj Road. Save that branch rather than a brand-wide search result. Our comparison is a pad-Thai-focused stop versus a planned sit-down meal at the named riverside branch; it is not a claim that we have tasted either meal or that a particular table view is included."
           ],
           "sourceIds": [
             "thipsamai-official",
@@ -11878,16 +12238,21 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-11",
+      "dateModified": "2026-10-19",
       "tips": [
         "The lead photograph shows the destination, not every business in this shortlist."
       ],
-      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
         "bangkok-shops-services-best-for-city-visit"
       ],
-      "seoTitle": "Bangkok Restaurants: Pad Thai & Thai Dining"
+      "seoTitle": "Bangkok Restaurants: Pad Thai & Thai Dining",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "chiang-mai-restaurants-best-for-noodles-and-sharing",
@@ -11927,10 +12292,10 @@
           ]
         },
         {
-          "h": "How to use this shortlist",
+          "h": "Two Ratchaphruek addresses, two different meal decisions",
           "p": [
-            "In this Chiang Mai shortlist, a focused noodle meal and a table of shared northern Thai dishes solve different needs. Decide how your group wants to eat before comparing the current menus. Ask about ingredients and portion options directly, rather than assuming every preparation suits the same diet. These are editorial selections for those meal formats, not a ranking of every restaurant in Chiang Mai.",
-            "Put the selected Chiang Mai restaurant into the day’s route before organising transport. A noodle stop may fit a different schedule from a reserved group meal, so confirm the particular business’s opening day and booking arrangements. Agree a nearby alternative with your group, and keep your next fixed appointment independent of any uncertain waiting time."
+            "MICHELIN’s own listings place Khao Soi Mae Sai at 29/1 Ratchaphruek Road and Huen Muan Jai at number 24 on the same road. Use the exact restaurant name and number for your arrival; a broad neighbourhood search does not identify which meal you intended to have.",
+            "The listing for Mae Sai describes khao soi with a choice of meat toppings, making the first decision an individual bowl and topping. Huen Muan Jai is listed as Northern Thai, which supports a different enquiry about dishes to share. Ask for the current menu and portions before ordering for the group. These are researched meal formats, not our own tasting results, star scores or an assurance that a dietary request can be accommodated."
           ],
           "sourceIds": [
             "mae-sai-michelin",
@@ -11968,17 +12333,22 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-11",
+      "dateModified": "2026-10-19",
       "tips": [
         "The lead photograph shows the destination, not every business in this shortlist."
       ],
-      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
         "chiang-mai-shops-services-best-for-gifts-and-cooking",
         "chiang-mai-design-week-2026-dates"
       ],
-      "seoTitle": "Chiang Mai Restaurants: Noodles & Northern Food"
+      "seoTitle": "Chiang Mai Restaurants: Noodles & Northern Food",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "phuket-restaurants-best-for-old-town-meals",
@@ -12018,14 +12388,14 @@
           ]
         },
         {
-          "h": "How to use this shortlist",
+          "h": "At Go Benz, dry rice and rolled noodles are different orders",
           "p": [
-            "For a Phuket town meal, choose between sharing several dishes and making one rice or noodle order the main stop. The businesses in this guide offer different starting points for that decision. Compare the live menu, ingredients and full order cost with the people you are dining with. Published inspector references support business identification; they do not turn this shortlist into an islandwide quality ranking.",
-            "Confirm the Phuket town destination and meal time before committing to the journey from your accommodation. Save a backup that fits the same outing, rather than relying on one restaurant being available. Ask the selected business about reservations or walk-in arrangements, and leave room in the itinerary to change plans if the offered menu or waiting time does not suit your group."
+            "MICHELIN’s Go Benz listing distinguishes dry boiled rice with crispy pork and offal from pork with peppery broth and rolled rice noodles. Do not rely on a photograph labelled simply rice or noodles if ingredients or the broth format matter to your order. Ask which components can actually be changed; availability and substitutions are the restaurant’s decision.",
+            "The same publisher describes One Chun through dishes including crab in yellow coconut curry and mu hong pork belly. That gives a useful distinction: individual rice or noodle orders at Go Benz, or a meal built around sharing dishes at One Chun. We use the publisher’s reported dish information to explain the choice, without adopting its inspectors’ flavour judgements as a firsthand Sidestreet review."
           ],
           "sourceIds": [
-            "one-chun-michelin",
-            "go-benz-michelin"
+            "go-benz-michelin",
+            "one-chun-michelin"
           ]
         }
       ],
@@ -12059,17 +12429,22 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-11",
+      "dateModified": "2026-10-19",
       "tips": [
         "The lead photograph shows the destination, not every business in this shortlist."
       ],
-      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
         "phuket-shops-services-best-for-town-and-transfers",
         "phuket-dragon-line-free-town-bus"
       ],
-      "seoTitle": "Phuket Town Restaurants: Thai Meals & Noodles"
+      "seoTitle": "Phuket Town Restaurants: Thai Meals & Noodles",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "bangkok-shops-services-best-for-city-visit",
@@ -12083,7 +12458,8 @@
       "src": [
         "iconsiam-official",
         "jim-retail-official",
-        "bkk-bts-official"
+        "bkk-bts-official",
+        "iconsiam-arrival"
       ],
       "body": [
         "Compare ICONSIAM for a multi-store outing, Jim Thompson for a focused gift and BTS information for the journey between stops."
@@ -12118,6 +12494,16 @@
           "sourceIds": [
             "bkk-bts-official"
           ]
+        },
+        {
+          "h": "ICONSIAM: read the conditions behind the parking headline",
+          "p": [
+            "ICONSIAM’s own arrival page advertises up to eight hours of free parking, but the detailed table makes that conditional on purchases. It lists the first two hours free, with longer allowances attached to spending thresholds. A general arrival headline is therefore not an eight-hour parking entitlement for every visitor.",
+            "For a shopping trip, compare the likely total purchase and time with the applicable validation terms, or choose another way to arrive. The same page explicitly labels its shuttle as a service with a fare. Do not build a free-transfer budget from an older description of a mall boat; use the current service and conditions you intend to take."
+          ],
+          "sourceIds": [
+            "iconsiam-arrival"
+          ]
         }
       ],
       "places": [
@@ -12151,16 +12537,21 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-19",
       "tips": [
         "The lead photograph shows the destination, not every business in this shortlist."
       ],
-      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
         "bangkok-restaurants-best-for-first-visit"
       ],
-      "seoTitle": "Bangkok Shopping & Services: Gifts, Malls & Rail"
+      "seoTitle": "Bangkok Shopping & Services: Gifts, Malls & Rail",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "chiang-mai-shops-services-best-for-gifts-and-cooking",
@@ -12206,6 +12597,17 @@
           "sourceIds": [
             "thai-farm-official"
           ]
+        },
+        {
+          "h": "Jing Jai weekend browsing or a class with a pickup zone?",
+          "p": [
+            "Central Group divides Jing Jai into Village, Market and Gallery areas and identifies the weekend market with Saturday and Sunday mornings. Choose the weekend stalls for a market-led visit, or check the particular gallery or business separately for another day. A district being open does not establish the full weekend market setup.",
+            "Thai Farm Cooking School lists morning, evening and full-day formats, an individual cooking station and minivan transport for addresses within its pickup zone. Compare the chosen session with your accommodation’s eligibility before booking; included transport does not mean collection from any hotel. The useful trade-off is open-ended browsing versus a reserved class block with a defined start, finish and return."
+          ],
+          "sourceIds": [
+            "jing-jai-official",
+            "thai-farm-official"
+          ]
         }
       ],
       "places": [
@@ -12239,17 +12641,22 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-19",
       "tips": [
         "The lead photograph shows the destination, not every business in this shortlist."
       ],
-      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
         "chiang-mai-restaurants-best-for-noodles-and-sharing",
         "chiang-mai-design-week-2026-dates"
       ],
-      "seoTitle": "Chiang Mai Shopping, Markets & Cooking Classes"
+      "seoTitle": "Chiang Mai Shopping, Markets & Cooking Classes",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "phuket-shops-services-best-for-town-and-transfers",
@@ -12295,6 +12702,17 @@
           "sourceIds": [
             "phuket-bus-official"
           ]
+        },
+        {
+          "h": "Festival and Floresta have separate directories",
+          "p": [
+            "Central Phuket’s official site separates Festival and Floresta directories. Save the building and level of the actual shop or restaurant you want before choosing a drop-off or meeting point. Searching for Central Phuket alone can leave members of a group looking at different directories.",
+            "The Smart Bus timetable identifies the Dragon Line as a free town shuttle connecting Central Festival, Old Town and OTOP Market. That provides a town-shopping combination to investigate, not a free ride from every beach or from the airport. Use the correct route’s stop map and live tracking, and keep the paid airport or beach connection outside the town-shuttle budget."
+          ],
+          "sourceIds": [
+            "central-phuket-official",
+            "phuket-bus-official"
+          ]
         }
       ],
       "places": [
@@ -12328,17 +12746,22 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-19",
       "tips": [
         "The lead photograph shows the destination, not every business in this shortlist."
       ],
-      "researchNote": "Independent desk research checked on 10 October 2026. Selections compare visitor needs, location and service format; they are not a ranked award, paid placement or firsthand review. Confirm menus, availability, prices and access directly before booking.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
         "phuket-restaurants-best-for-old-town-meals",
         "phuket-dragon-line-free-town-bus"
       ],
-      "seoTitle": "Phuket Shops & Services: Markets, Malls & Buses"
+      "seoTitle": "Phuket Shops & Services: Markets, Malls & Buses",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "chiang-mai-design-week-2026-dates",
@@ -12552,6 +12975,16 @@
             "dragon-line-tracking",
             "phuket-bus-official"
           ]
+        },
+        {
+          "h": "A town loop is different from an airport or beach transfer",
+          "p": [
+            "The operator’s timetable names Central Festival, Old Town and OTOP Market on the free circular town shuttle. Its paid Airport–Rawai and Bus Terminal 2–Patong routes are listed separately. The Dragon Line is useful for connecting a town outing with another town stop; it should not be presented as the free version of the coastal airport service.",
+            "For example, start with the Old Town visit you actually want, then decide whether a Central Festival stop adds value before boarding the loop. For a round trip, check both boarding locations and the current vehicle position rather than assuming the next departure returns directly to your starting point. Published frequency is an operating reference, not a guaranteed maximum wait in traffic."
+          ],
+          "sourceIds": [
+            "phuket-bus-official"
+          ]
         }
       ],
       "places": [
@@ -12603,13 +13036,13 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-18",
+      "dateModified": "2026-10-19",
       "tips": [
         "Save both your boarding point and return option.",
         "Compare the hotel-to-route journey as well as the free bus fare.",
         "The service guidance publication date is not a confirmed route launch date."
       ],
-      "researchNote": "Operator guidance, timetable and linked tracking instructions reviewed on 18 October 2026. Published hours remain 07:00–19:00 with a 30-minute interval; actual arrivals can vary. The journey comparison is editorial guidance, not a guarantee of a connection or hotel pickup.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
         "phuket-oldtown",
@@ -12661,6 +13094,11 @@
             "Do not depend on an unchecked last departure"
           ]
         ]
+      },
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       }
     },
     {
@@ -12721,6 +13159,18 @@
             "For collection, try the garment in the way you will use it: stand, sit and move comfortably, and check the details you agreed. If a last adjustment is needed, establish whether there is time to complete it before leaving. A smaller order with a workable fitting plan can be more useful than a larger package rushed into the final afternoon."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "The name Tailor On Ten does not mean Soi 10",
+          "p": [
+            "Tailor On Ten’s contact page gives its Bangkok store as 93 Sukhumvit Soi 8 and prioritises appointments. The Empire Tailors lists 124–126 Sukhumvit Road between Sois 4 and 6. Save the actual address with the appointment; brand names and nearby soi numbers are not reliable substitutes for a shop pin.",
+            "Jesse & Son advertises express suits in 48–72 hours with advance booking recommended. Treat that as an operator offer to confirm for your garment, not a delivery guarantee for every walk-in order. Send arrival and departure times, garment requirements and fitting availability together. Leave room for a final fit check before collection rather than making the first visit immediately before your flight."
+          ],
+          "sourceIds": [
+            "tailor-on-ten-contact",
+            "empire-tailors-contact",
+            "jesse-son-faq"
+          ]
         }
       ],
       "places": [
@@ -12779,9 +13229,9 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-19",
       "mins": 3,
-      "researchNote": "Independent desk-researched shortlist checked on 10 October 2026. Inclusion is based on published service information and practical visitor needs, not a firsthand inspection, customer rating or paid placement. Businesses did not pay for inclusion.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Confirm the exact branch and current offer directly before booking."
       ],
@@ -12790,7 +13240,12 @@
         "bangkok-spas-best-for-your-trip",
         "bangkok-shops-services-best-for-city-visit"
       ],
-      "seoTitle": "Bangkok Tailors: Compare 3 Suit & Shirt Shops"
+      "seoTitle": "Bangkok Tailors: Compare 3 Suit & Shirt Shops",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "bangkok-dental-clinics-for-visitors",
@@ -12853,6 +13308,18 @@
           "sourceIds": [
             "cdc-medical-tourism"
           ]
+        },
+        {
+          "h": "BIDH’s inpatient hours are not round-the-clock outpatient appointments",
+          "p": [
+            "BIDH’s own site distinguishes outpatient hours of 09:00–20:00 from 24-hour inpatient provision. Do not interpret the latter as a promise of a walk-in dental appointment at any hour. Ask the named hospital or clinic about the service and practitioner available for your actual time and needs.",
+            "BIDC’s contact page lists its Ratchadaphisek centre separately from its Siam Paragon location. The Asok listing used here gives 32/5 Sukhumvit 21. Confirm which branch is answering and where an appointment would take place. Our directory compares contact and planning details; it does not rank clinical quality or recommend treatment. Obtain the proposed care, costs, records and follow-up arrangements from the treating professional before committing."
+          ],
+          "sourceIds": [
+            "bidh-official",
+            "bidc-contact",
+            "bangkok-smile-asok-contact"
+          ]
         }
       ],
       "places": [
@@ -12911,9 +13378,9 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-19",
       "mins": 3,
-      "researchNote": "Independent desk-researched shortlist checked on 10 October 2026. Inclusion is based on published service information and practical visitor needs, not a firsthand inspection, customer rating or paid placement. Businesses did not pay for inclusion.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Confirm the exact branch and current offer directly before booking."
       ],
@@ -12922,7 +13389,12 @@
         "bangkok-spas-best-for-your-trip",
         "bangkok-shops-services-best-for-city-visit"
       ],
-      "seoTitle": "Bangkok Dental Clinics: 3 Options for Visitors"
+      "seoTitle": "Bangkok Dental Clinics: 3 Options for Visitors",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "bangkok-spas-best-for-your-trip",
@@ -12982,6 +13454,18 @@
             "Communicate your preferences and any relevant concerns with the provider before the session; if you are unsure whether massage or heat is suitable for a health condition, ask your clinician. These are leisure-service selections, not treatments prescribed by this publication. Keep the booking confirmation and cancellation terms available, and choose a manageable journey home."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Separate an Asoke massage booking, a hotel-floor onsen and Divana’s branches",
+          "p": [
+            "Health Land lists its Asoke branch at 55/5 Sukhumvit 21. Let’s Relax places the Thonglor onsen and spa on the fifth floor of Grande Centre Point Sukhumvit 55 at 300 Sukhumvit Soi 55. The second visit therefore needs the hotel and floor as well as the spa brand, and an onsen entry should be compared with the specific treatment package you select.",
+            "Divana’s current location page distinguishes Nurture at 71 Sukhumvit 11 from its other branches, including Divine in Thonglor. Match the confirmation to that branch before arranging a car. Our selection distinguishes location and service format; it does not verify health benefits, provide treatment advice or guarantee that every advertised package is available at every location."
+          ],
+          "sourceIds": [
+            "health-land-asoke",
+            "lets-relax-thonglor",
+            "divana-current-locations"
+          ]
         }
       ],
       "places": [
@@ -13040,9 +13524,9 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-10",
+      "dateModified": "2026-10-19",
       "mins": 3,
-      "researchNote": "Independent desk-researched shortlist checked on 10 October 2026. Inclusion is based on published service information and practical visitor needs, not a firsthand inspection, customer rating or paid placement. Businesses did not pay for inclusion.",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
         "Confirm the exact branch and current offer directly before booking."
       ],
@@ -13051,7 +13535,12 @@
         "bangkok-dental-clinics-for-visitors",
         "bangkok-shops-services-best-for-city-visit"
       ],
-      "seoTitle": "Bangkok Spas: Massage, Onsen & Spa Options"
+      "seoTitle": "Bangkok Spas: Massage, Onsen & Spa Options",
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "chiang-mai-airport-to-old-town-transfer",
@@ -13106,6 +13595,16 @@
             "For a late arrival, confirm transport availability and the hotel’s reception arrangements directly. We have not verified a 24-hour promise for every listed service. For the return flight, plan backwards from your airline’s check-in guidance and allow for the actual pickup journey; a short-looking route on a map is not a reliable departure buffer."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Use Entrance 1 as the airport-taxi reference",
+          "p": [
+            "Chiang Mai Airport’s own taxi listing places the public-area counter on Floor 1 at Entrance 1 and describes a flat-rate service. The listing does not provide a single numerical fare to every Old Town hotel, so this guide does not invent one. Ask for the total to your saved accommodation entrance before accepting the journey.",
+            "Keep three details together: the destination name, the full quoted amount and the pickup arrangement. If you are comparing a hotel driver, use the same destination and include waiting or flight-delay terms. A route into the Old Town is not the same as delivery to a narrow-lane doorway; confirm the final approach with the hotel when that matters for luggage or mobility."
+          ],
+          "sourceIds": [
+            "cnx-airport-taxi-official"
+          ]
         }
       ],
       "quickPlan": [
@@ -13155,10 +13654,15 @@
       "places": [],
       "tips": [],
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-18",
-      "researchNote": "Independent desk research checked on 18 October 2026. This is a planning guide, not a firsthand visit or paid placement. Suggested visit lengths are editorial allowances; confirm current access, charges and operating details with the venue or operator.",
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "imageNote": "Tha Phae Gate in Chiang Mai, shown as destination context. This photograph does not show the airport or a pickup point.",
-      "mins": 3
+      "mins": 3,
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "chiang-mai-national-museum-visit",
@@ -13171,7 +13675,9 @@
       "dek": "Plan a Chiang Mai National Museum visit with exhibition hours, a realistic reading plan and a separate journey from the Old Town.",
       "img": "cnx-museum",
       "src": [
-        "cnx-national-museum-official"
+        "cnx-national-museum-official",
+        "cnx-museum-objects",
+        "cnx-museum-calendar"
       ],
       "body": [
         "If temple names and architectural details are beginning to blur together, leave space for a museum visit before adding another stop. Chiang Mai National Museum offers a way to put northern Thai art and history into context. Make it a deliberate outing with time to read, rather than a building you try to fit between a mountain trip and a dinner booking."
@@ -13212,6 +13718,17 @@
             "Before paying for transport, confirm admission charges and your preferred payment method directly. We have not verified a current ticket tariff and therefore do not quote one here. Keep a separate allowance for transport, admission and food so that an inexpensive-looking attraction does not hide the total outing cost."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Use one collection story to make the galleries easier to read",
+          "p": [
+            "The museum’s own collection stories discuss bird-shaped antiquities and their place in Lanna art and belief. Use that as an observation task: compare how a familiar animal is represented in an object, then read the label for its material, period and purpose. The object’s cultural role can matter more than simply recognising its shape.",
+            "The department’s current calendar separately publishes weekday office hours and Wednesday–Sunday exhibition hours, 09:00–16:00. Plan against the latter, checked on 19 October 2026. Collection articles explain themes, but they do not guarantee that every illustrated object or a temporary display is on view on your chosen date; ask staff where to start with the theme that interests you."
+          ],
+          "sourceIds": [
+            "cnx-museum-objects",
+            "cnx-museum-calendar"
+          ]
         }
       ],
       "quickPlan": [
@@ -13257,9 +13774,14 @@
       "places": [],
       "tips": [],
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-18",
-      "researchNote": "Independent desk research checked on 18 October 2026. This is a planning guide, not a firsthand visit or paid placement. Suggested visit lengths are editorial allowances; confirm current access, charges and operating details with the venue or operator.",
-      "mins": 3
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 3,
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "phuket-thai-hua-museum-visit",
@@ -13313,6 +13835,16 @@
             "Allow a flexible end to your walk. On a wet day, being inside a museum for part of the visit does not remove the outdoor journey to a pickup point. Keep rain protection and your return details handy. Do not combine this outing with a tightly timed airport departure unless your transport plan leaves sufficient room for delays."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Read the former school as part of the exhibition",
+          "p": [
+            "Phuket Provincial Government describes a two-storey school building with classrooms upstairs, associated with the education of Hokkien children of tin-mining families. The school setting is part of the interpretation, not just a decorative shell around a general local-history collection.",
+            "Our suggested reading task is to compare one education-related display with one about food, clothing or family life. Then use the move from tin mining to tourism as a question on the Old Town walk outside: what changes when a trading and working district becomes a visitor destination? This approach uses the museum’s stated themes without claiming a particular temporary exhibition, current admission price or firsthand visit."
+          ],
+          "sourceIds": [
+            "phuket-thaihua-government"
+          ]
         }
       ],
       "quickPlan": [
@@ -13358,9 +13890,14 @@
       "places": [],
       "tips": [],
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-18",
-      "researchNote": "Independent desk research checked on 18 October 2026. This is a planning guide, not a firsthand visit or paid placement. Suggested visit lengths are editorial allowances; confirm current access, charges and operating details with the venue or operator.",
-      "mins": 3
+      "dateModified": "2026-10-19",
+      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "mins": 3,
+      "compositionReview": {
+        "date": "2026-10-19",
+        "method": "Place-specific primary-source expansion and original planning analysis.",
+        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+      }
     },
     {
       "id": "kuala-lumpur-gokl-bus-foreign-visitors",

@@ -1,0 +1,667 @@
+{
+  "date": "2026-10-19",
+  "guideCount": 43,
+  "method": "Primary operator, venue, government and tourism evidence; MICHELIN is used as the primary publisher of its own restaurant reports, explicitly attributed, not as a venue operator or Sidestreet tasting. New prose is independently composed with original planning analysis.",
+  "limitations": [
+    "No firsthand visits are claimed.",
+    "A research expansion is not exhaustive factual, plagiarism or image-rights clearance.",
+    "Operator marketing and medical or wellness outcomes are not independently endorsed.",
+    "Old references remain dated where not rechecked; no Google approval prediction."
+  ],
+  "guides": [
+    {
+      "slug": "bangkok-talatnoi",
+      "sections": [
+        "Read the neighbourhood through the former workshop"
+      ],
+      "sourceIds": [
+        "talatnoi-tat"
+      ],
+      "sourceUrls": [
+        "https://www.tourismthailand.org/Articles/1-day-in-talat-noi"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-hotels",
+      "sections": [
+        "Mandarin Oriental: separate the room from the dining booking",
+        "The Peninsula: compare the river crossing, not just the distance",
+        "The Siam: garden outlook, river outlook or a pool villa?",
+        "Capella: a balcony is different from a pool category"
+      ],
+      "sourceIds": [
+        "mo-bangkok",
+        "peninsula-bangkok",
+        "siam-bangkok",
+        "capella-bangkok"
+      ],
+      "sourceUrls": [
+        "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+        "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+        "https://www.thesiamhotel.com/",
+        "https://capellahotels.com/en/capella-bangkok"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "hanoi-old-quarter",
+      "sections": [
+        "Hàng Gai or Lãn Ông: choose a different trading story"
+      ],
+      "sourceIds": [
+        "hanoi-tourism"
+      ],
+      "sourceUrls": [
+        "https://vietnam.travel/things-to-do/explore-old-quarter-your-way"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "siem-reap-angkor",
+      "sections": [
+        "Compare visiting days with the pass validity window"
+      ],
+      "sourceIds": [
+        "angkor-tickets"
+      ],
+      "sourceUrls": [
+        "https://www.angkorenterprise.gov.kh/en/available-tickets"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "taipei-dadaocheng",
+      "sections": [
+        "A small triangle around Yongle, the visitor centre and Xia-Hai"
+      ],
+      "sourceIds": [
+        "taipei-dadaocheng-quarterly",
+        "taipei-visitor"
+      ],
+      "sourceUrls": [
+        "https://travel.taipei/en/pictorial/article/64884",
+        "https://travel.taipei/vintage-clothing/en"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "hong-kong-harbour",
+      "sections": [
+        "What a Central–Tsim Sha Tsui return actually costs"
+      ],
+      "sourceIds": [
+        "star-ferry-fares"
+      ],
+      "sourceUrls": [
+        "https://www.starferry.com.hk/en/service"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "paris-seine-islands",
+      "sections": [
+        "Notre-Dame is a separate, free cathedral visit",
+        "Île Saint-Louis: exterior landmarks do not imply open interiors"
+      ],
+      "sourceIds": [
+        "notre-dame-reservation",
+        "paris-islands"
+      ],
+      "sourceUrls": [
+        "https://www.notredamedeparis.fr/en/visit/reservation-free/",
+        "https://parisjetaime.com/eng/article/discovering-the-islands-of-paris-a702"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "istanbul-neighbourhoods-ferry",
+      "sections": [
+        "Read the direction and footnotes on the Kadıköy timetable"
+      ],
+      "sourceIds": [
+        "istanbul-ferry"
+      ],
+      "sourceUrls": [
+        "https://sehirhatlari.istanbul/tr/seferler/ic-hatlar/istanbul-ici-hatlar/kadikoy-karakoy-eminonu-163"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "hanoi-culture-choices",
+      "sections": [
+        "Five courtyards or a collection about women’s lives?"
+      ],
+      "sourceIds": [
+        "hanoi-culture"
+      ],
+      "sourceUrls": [
+        "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "siem-reap-craft-afternoon",
+      "sections": [
+        "Town workshop or Puok silk process: make one deliberate booking"
+      ],
+      "sourceIds": [
+        "siem-crafts"
+      ],
+      "sourceUrls": [
+        "https://artisansangkor.com/visit-us/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "sections": [
+        "For the Spice Bazaar, compare weight as well as the price"
+      ],
+      "sourceIds": [
+        "istanbul-spicebazaar"
+      ],
+      "sourceUrls": [
+        "https://istanbul.goturkiye.com/spice-bazaar"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "tokyo-solo-asakusa",
+      "sections": [
+        "Choose one extension: Azuma-bashi, Rokku or Kappabashi"
+      ],
+      "sourceIds": [
+        "tokyo-asakusa"
+      ],
+      "sourceUrls": [
+        "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "taipei-slow-weekend",
+      "sections": [
+        "Give Dadaocheng a textile theme and Beitou a different question"
+      ],
+      "sourceIds": [
+        "taipei-yongle-history",
+        "beitou-museum"
+      ],
+      "sourceUrls": [
+        "https://www.travel.taipei/en/media/audio-guide/details/250",
+        "https://hotspringmuseum.taipei/en/content.aspx?id=33&pid=29"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "mexico-city-food-outing",
+      "sections": [
+        "Use the fondas corner for a meal with a clear format"
+      ],
+      "sourceIds": [
+        "mex-arcos-market"
+      ],
+      "sourceUrls": [
+        "https://www.mexicocity.cdmx.gob.mx/venues/mercado-san-juan-arcos-de-belen/?lang=en"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "barcelona-first-visit-neighbourhoods",
+      "sections": [
+        "Park Güell: match the buildings to the ticket product"
+      ],
+      "sourceIds": [
+        "bcn-guell-official"
+      ],
+      "sourceUrls": [
+        "https://parkguell.barcelona/en"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "rome-pantheon-colosseum-planning",
+      "sections": [
+        "A 24-hour Colosseum ticket does not include the arena"
+      ],
+      "sourceIds": [
+        "rom-colosseum-official"
+      ],
+      "sourceUrls": [
+        "https://colosseo.it/en/opening-times-and-tickets/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "amsterdam-museum-canals-ferry",
+      "sections": [
+        "Rijksmuseum: book a start time even when admission is free"
+      ],
+      "sourceIds": [
+        "ams-rijks-official"
+      ],
+      "sourceUrls": [
+        "https://www.rijksmuseum.nl/en/visit/practical-info/opening-hours-and-prices"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "berlin-history-museum-park",
+      "sections": [
+        "Choose a collection, and keep Pergamon out of a 2026 interior plan"
+      ],
+      "sourceIds": [
+        "ber-museums-official"
+      ],
+      "sourceUrls": [
+        "https://www.visitberlin.de/en/museum-island-in-berlin"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "dubai-creek-al-fahidi-outing",
+      "sections": [
+        "A private electric abra quote is per boat, not a commuter fare"
+      ],
+      "sourceIds": [
+        "dxb-rta-official"
+      ],
+      "sourceUrls": [
+        "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "sections": [
+        "Monkey Forest: decide whether the visitor rules suit your day"
+      ],
+      "sourceIds": [
+        "ubd-forest-rules"
+      ],
+      "sourceUrls": [
+        "https://monkeyforestubud.com/guidelines-faq/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "sections": [
+        "At BKK, distinguish the regular taxi queue from premium vehicles"
+      ],
+      "sourceIds": [
+        "bkk-airport-aot"
+      ],
+      "sourceUrls": [
+        "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-three-day-first-visit",
+      "sections": [
+        "Make the arrival day lighter with one Talat Noi history stop"
+      ],
+      "sourceIds": [
+        "talatnoi-tat",
+        "bkk-airport-aot"
+      ],
+      "sourceUrls": [
+        "https://www.tourismthailand.org/Articles/1-day-in-talat-noi",
+        "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-doi-suthep-visit",
+      "sections": [
+        "The naga staircase and cable-car approach are separate choices"
+      ],
+      "sourceIds": [
+        "doi-suthep-approach-tat"
+      ],
+      "sourceUrls": [
+        "https://www.tourismthailand.org/Articles/chiang-mai-lamphun-2"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-two-day-itinerary",
+      "sections": [
+        "Use the weekday to choose the second day"
+      ],
+      "sourceIds": [
+        "cnx-museum-calendar",
+        "jing-jai-official"
+      ],
+      "sourceUrls": [
+        "https://www.finearts.go.th/chiangmaimuseum/categorie/calendar",
+        "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-airport-to-beach-transfer",
+      "sections": [
+        "Domestic Exit 3 and the route direction are the useful arrival details"
+      ],
+      "sourceIds": [
+        "phuket-bus-boarding",
+        "phuket-bus-official"
+      ],
+      "sourceUrls": [
+        "https://www.phuketsmartbus.com/blog/phuket-smart-bus-stop-at-phuket-airport",
+        "https://www.phuketsmartbus.com/timetable/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "sections": [
+        "Give the Old Town day a museum question before the beach day"
+      ],
+      "sourceIds": [
+        "phuket-thaihua-government",
+        "phuket-bus-official"
+      ],
+      "sourceUrls": [
+        "https://www.phuket.go.th/eng/Museums-Phuket%20Thai%20Hua%20Museum.php",
+        "https://www.phuketsmartbus.com/timetable/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "kyoto-first-visit-two-area-plan",
+      "sections": [
+        "Use Togetsu-kyo as the Arashiyama walk’s boundary"
+      ],
+      "sourceIds": [
+        "kyoto-togetsukyo",
+        "kyoto-respect"
+      ],
+      "sourceUrls": [
+        "https://kyoto.travel/en/destinations/togetsukyo-bridge/",
+        "https://kyoto.travel/en/responsible-travel/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "sections": [
+        "Split the published trail at the waterfront or Street of Harmony"
+      ],
+      "sourceIds": [
+        "penang-heritage-trail"
+      ],
+      "sourceUrls": [
+        "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "sections": [
+        "The Swayambhu approach changes the visit more than the photo angle"
+      ],
+      "sourceIds": [
+        "nepal-swayambhu",
+        "nepal-boudha"
+      ],
+      "sourceUrls": [
+        "https://ntb.gov.np/en/swayambhunath",
+        "https://ntb.gov.np/en/boudha"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "marrakech-medina-first-visit",
+      "sections": [
+        "Make Jemaa el-Fna the return reference, not a route to every garden"
+      ],
+      "sourceIds": [
+        "morocco-medina"
+      ],
+      "sourceUrls": [
+        "https://www.visitmorocco.com/en/travel/marrakech/medina"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-restaurants-best-for-first-visit",
+      "sections": [
+        "Choose the dish and the actual branch before the journey"
+      ],
+      "sourceIds": [
+        "thipsamai-official",
+        "supanniga-tha-tien"
+      ],
+      "sourceUrls": [
+        "https://thipsamai.com/",
+        "https://supannigaeatingroom.com/contact_riva.html"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "sections": [
+        "Two Ratchaphruek addresses, two different meal decisions"
+      ],
+      "sourceIds": [
+        "mae-sai-michelin",
+        "huen-muan-jai-michelin"
+      ],
+      "sourceUrls": [
+        "https://guide.michelin.com/en/chiang-mai-region/chiang-mai/restaurant/khao-soi-mae-sai",
+        "https://guide.michelin.com/sg/en/chiang-mai-region/chiang-mai/restaurant/huen-muan-jai"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "sections": [
+        "At Go Benz, dry rice and rolled noodles are different orders"
+      ],
+      "sourceIds": [
+        "go-benz-michelin",
+        "one-chun-michelin"
+      ],
+      "sourceUrls": [
+        "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-benz",
+        "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "sections": [
+        "ICONSIAM: read the conditions behind the parking headline"
+      ],
+      "sourceIds": [
+        "iconsiam-arrival"
+      ],
+      "sourceUrls": [
+        "https://www.iconsiam.com/en/getting-here"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "sections": [
+        "Jing Jai weekend browsing or a class with a pickup zone?"
+      ],
+      "sourceIds": [
+        "jing-jai-official",
+        "thai-farm-official"
+      ],
+      "sourceUrls": [
+        "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
+        "https://thaifarmcooking.net/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-shops-services-best-for-town-and-transfers",
+      "sections": [
+        "Festival and Floresta have separate directories"
+      ],
+      "sourceIds": [
+        "central-phuket-official",
+        "phuket-bus-official"
+      ],
+      "sourceUrls": [
+        "https://www.centralphuket.com/en",
+        "https://www.phuketsmartbus.com/timetable/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "sections": [
+        "A town loop is different from an airport or beach transfer"
+      ],
+      "sourceIds": [
+        "phuket-bus-official"
+      ],
+      "sourceUrls": [
+        "https://www.phuketsmartbus.com/timetable/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-tailors-best-for-your-trip",
+      "sections": [
+        "The name Tailor On Ten does not mean Soi 10"
+      ],
+      "sourceIds": [
+        "tailor-on-ten-contact",
+        "empire-tailors-contact",
+        "jesse-son-faq"
+      ],
+      "sourceUrls": [
+        "https://www.tailoronten.com/pages/contact-us",
+        "https://www.theempiretailors.com/contact-us",
+        "https://jesseandson.com/faq"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-dental-clinics-for-visitors",
+      "sections": [
+        "BIDH’s inpatient hours are not round-the-clock outpatient appointments"
+      ],
+      "sourceIds": [
+        "bidh-official",
+        "bidc-contact",
+        "bangkok-smile-asok-contact"
+      ],
+      "sourceUrls": [
+        "https://dentalhospitalthailand.com/",
+        "https://www.bidc.dental/dentalclinic_EN/contact.html",
+        "https://www.bangkokinterdental.com/contact/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "bangkok-spas-best-for-your-trip",
+      "sections": [
+        "Separate an Asoke massage booking, a hotel-floor onsen and Divana’s branches"
+      ],
+      "sourceIds": [
+        "health-land-asoke",
+        "lets-relax-thonglor",
+        "divana-current-locations"
+      ],
+      "sourceUrls": [
+        "https://www.healthlandspa.com/en/location/bangkok/asoke",
+        "https://letsrelaxspa.com/branches/bangkok-thonglor-onsen-and-spa/",
+        "https://www.divanawellness.com/spa-location/"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-airport-to-old-town-transfer",
+      "sections": [
+        "Use Entrance 1 as the airport-taxi reference"
+      ],
+      "sourceIds": [
+        "cnx-airport-taxi-official"
+      ],
+      "sourceUrls": [
+        "https://chiangmai.airportthai.co.th/service/transportation/detail/125"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "chiang-mai-national-museum-visit",
+      "sections": [
+        "Use one collection story to make the galleries easier to read"
+      ],
+      "sourceIds": [
+        "cnx-museum-objects",
+        "cnx-museum-calendar"
+      ],
+      "sourceUrls": [
+        "https://www.finearts.go.th/chiangmaimuseum/categorie/general?dropdown_1=1",
+        "https://www.finearts.go.th/chiangmaimuseum/categorie/calendar"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    },
+    {
+      "slug": "phuket-thai-hua-museum-visit",
+      "sections": [
+        "Read the former school as part of the exhibition"
+      ],
+      "sourceIds": [
+        "phuket-thaihua-government"
+      ],
+      "sourceUrls": [
+        "https://www.phuket.go.th/eng/Museums-Phuket%20Thai%20Hua%20Museum.php"
+      ],
+      "scope": "New or replaced named sections only; existing operational claims outside them are not exhaustively recertified.",
+      "fullFactualClearance": false
+    }
+  ]
+}
