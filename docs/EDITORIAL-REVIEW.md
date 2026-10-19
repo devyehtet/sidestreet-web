@@ -1,5 +1,15 @@
 # Editorial review inventory
 
+## Current status — 19 October 2026
+
+Google rejected the site for low value content; the rejection does not identify individual failing URLs. Seven priority guides have since received substantive, primary-source-based text rewrites: Tokyo listening cafés, London free museums, Singapore hawker meals, Seoul Euljiro the worldwide neighbourhood comparison, Ho Chi Minh City coffee and Phuket beaches. See `ADSENSE-CONTENT-REMEDIATION-2026-10-19.json` for scope and source caveats. This is a partial text review, not full factual or image-rights clearance.
+
+Run `npm run editorial:audit` for the current 93-guide review queue. Automated structural checks cannot establish reader value or AdSense eligibility. The remaining 86 guides still need article-by-article text review, and publisher sign-off is pending across the collection. Keep `editorialReviewComplete` false and do not request another AdSense review until the substantive checks are complete.
+
+The contact alias is now configured. The historical inventory below reflects the smaller collection on 9 October and must not be used as a current readiness report.
+
+## Historical writing inventory — 9 October 2026
+
 Writing pass completed 2026-10-09 across 59 guides and 135 place descriptions. Thirty-two guides received new main article prose, sections, questions and planning summaries; twenty-seven retained previously independently authored detailed plans with fresh introductions or distinct decision-support sections. All place descriptions were recomposed. This records the editing work, not a legal clearance or a complete current-facts review.
 
 Counts exclude repeated place cards and navigation. Word count is neither an AdSense minimum nor a quality score. Exact duplicate article paragraphs across different guides: none in this collection. This is an internal comparison, not a web-wide plagiarism test.
@@ -66,4 +76,4 @@ Counts exclude repeated place cards and navigation. Word count is neither an AdS
 | [taipei-slow-weekend](/guides/taipei-slow-weekend) | 787 | 4 | Completed | Pending |
 | [mexico-city-food-outing](/guides/mexico-city-food-outing) | 803 | 2 | Completed | Pending |
 
-All 135 place descriptions have a venue or research link. Current operations still require confirmation. Images were not licensed anew by this writing pass: 120 Wikimedia photos and six original illustrations remain. Keep editorialReviewComplete false until factual, originality and additional image-rights checks are actually complete. The requested contact mailbox remains inactive.
+All 135 place descriptions have a venue or research link. Current operations still require confirmation. Images were not licensed anew by this writing pass: 120 Wikimedia photos and six original illustrations remain. Keep editorialReviewComplete false until factual, originality and additional image-rights checks are actually complete. Contact status in this historical record is superseded by the current-status note above.

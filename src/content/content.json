@@ -274,9 +274,9 @@
       "consultedAt": "2026-10-08"
     },
     "hanoi-tourism": {
-      "name": "Vietnam Tourism · Hanoi Old Quarter",
-      "url": "https://www.vietnam.travel/things-to-do/explore-old-quarter-your-way",
-      "consultedAt": "2026-10-09"
+      "name": "Vietnam Tourism — Hanoi Old Quarter",
+      "url": "https://vietnam.travel/things-to-do/explore-old-quarter-your-way",
+      "consultedAt": "2026-10-19"
     },
     "hanoi-arrival": {
       "name": "Vietnam Tourism · Hanoi visitor overview",
@@ -294,9 +294,9 @@
       "consultedAt": "2026-10-09"
     },
     "taipei-dihua": {
-      "name": "Taiwan Tourism Administration · Dihua Street",
+      "name": "Taiwan Tourism Administration — Dihua Street",
       "url": "https://eng.taiwan.net.tw/m1.aspx?id=418&sNo=00020901024",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "taipei-mrt": {
       "name": "Taipei City tourism · travelling by MRT",
@@ -422,7 +422,7 @@
     "talatnoi-tat": {
       "name": "Tourism Authority of Thailand — one day in Talat Noi",
       "url": "https://www.tourismthailand.org/Articles/1-day-in-talat-noi",
-      "consultedAt": "2026-10-18"
+      "consultedAt": "2026-10-19"
     },
     "srt-booking": {
       "name": "State Railway of Thailand — D-Ticket",
@@ -480,9 +480,10 @@
       "consultedAt": "2026-10-09"
     },
     "euljiro-seoul": {
-      "name": "Seoul Tourism Organization — Euljiro background",
+      "name": "Seoul Tourism Organization — Euljiro meal and Nogari Street outing",
       "url": "https://english.visitseoul.net/City-Hall-Area/Eat-Drink-and-Rest-like-Seoulites-in-Euljiro_/31301",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19",
+      "publishedAt": "2019-09-06"
     },
     "santa-maria-tourism": {
       "name": "Mexico City tourism — Santa María la Ribera",
@@ -502,7 +503,7 @@
     "laupasat-operator": {
       "name": "Lau Pa Sat — operator website",
       "url": "https://www.laupasat.sg/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "warremnants-operator": {
       "name": "War Remnants Museum — museum website",
@@ -672,7 +673,7 @@
     "nationalgallery-operator": {
       "name": "National Gallery London — plan your visit",
       "url": "https://www.nationalgallery.org.uk/visiting/plan-your-visit",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-19"
     },
     "borough-operator": {
       "name": "Borough Market — plan your visit",
@@ -1033,6 +1034,83 @@
       "name": "Kuala Lumpur City Hall / KLCCC — GoKL fares and route maps",
       "url": "https://klccc.dbkl.gov.my/gokl-2/",
       "consultedAt": "2026-10-18"
+    },
+    "tokyo-kissaten-official": {
+      "name": "GO TOKYO Gourmet — kissaten formats",
+      "url": "https://www.gourmet.gotokyo.org/article/33.html",
+      "consultedAt": "2026-10-19"
+    },
+    "lion-operator": {
+      "name": "Meikyoku Kissa Lion — official introduction",
+      "url": "https://lion.main.jp/atfirst/atfirst.htm",
+      "consultedAt": "2026-10-19"
+    },
+    "eagle-jbl": {
+      "name": "JBL — interview with Yotsuya jazz café Eagle",
+      "url": "https://jp.jbl.com/eagle.html",
+      "consultedAt": "2026-10-19"
+    },
+    "britishmuseum-visit": {
+      "name": "British Museum — visitor information",
+      "url": "https://www.britishmuseum.org/visit",
+      "consultedAt": "2026-10-19"
+    },
+    "tate-visitlondon": {
+      "name": "Visit London — Tate Modern visitor information supplied by the gallery",
+      "url": "https://www.visitlondon.com/things-to-do/place/344410-tate-modern",
+      "consultedAt": "2026-10-19"
+    },
+    "singapore-chinatown-official": {
+      "name": "Singapore Tourism Board — Chinatown and Maxwell Food Centre",
+      "url": "https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/chinatown/",
+      "consultedAt": "2026-10-19"
+    },
+    "laupasat-satay": {
+      "name": "Lau Pa Sat — Satay Street operating information",
+      "url": "https://www.laupasat.sg/sataystreet/",
+      "consultedAt": "2026-10-19"
+    },
+    "hcmc-coffee-tourism": {
+      "name": "Vietnam Tourism — coffee styles and HCMC café context",
+      "url": "https://vietnam.travel/things-to-do/11-cool-cafes-try-hcmc",
+      "consultedAt": "2026-10-19"
+    },
+    "cong-operator": {
+      "name": "Cộng Cà Phê — official menu and store finder",
+      "url": "https://congcaphe.com/",
+      "consultedAt": "2026-10-19"
+    },
+    "phuket-kata-gov": {
+      "name": "Phuket Province — Kata Beach",
+      "url": "https://www.phuket.go.th/eng/Beaches-Kata%20Beach.php",
+      "consultedAt": "2026-10-19"
+    },
+    "phuket-naiharn-gov": {
+      "name": "Phuket Province — Nai Harn Beach",
+      "url": "https://www.phuket.go.th/eng/Beaches-Nai%20Harn%20Beach.php",
+      "consultedAt": "2026-10-19"
+    },
+    "phuket-maikhao-gov": {
+      "name": "Phuket Province — Mai Khao Beach",
+      "url": "https://www.phuket.go.th/eng/Beaches-Mai%20Khao%20Beach.php",
+      "consultedAt": "2026-10-19"
+    },
+    "phuket-patong-gov": {
+      "name": "Phuket Province — Patong and beach overview",
+      "url": "https://www.phuket.go.th/eng/Attractions-Beaches.php",
+      "consultedAt": "2026-10-19"
+    },
+    "tat-beach-flags": {
+      "name": "TAT Newsroom — beach flags and marine safety guidance",
+      "url": "https://www.tatnews.org/2018/07/important-information-on-marine-tourism-in-thailand-during-the-southwest-monsoon-season/",
+      "consultedAt": "2026-10-19",
+      "publishedAt": "2018-07-24"
+    },
+    "dmcr-phuket-warning": {
+      "name": "Department of Marine and Coastal Resources — September 2026 Phuket beach warning",
+      "url": "https://newweb.dmcr.go.th/detailAll/87753/nws/",
+      "consultedAt": "2026-10-19",
+      "publishedAt": "2026-09-10"
     }
   },
   "cities": [
@@ -3993,168 +4071,159 @@
       "city": "hkt",
       "cat": "travel",
       "kind": "list",
-      "mins": 5,
-      "title": "Phuket beach outings: choose the setting before the swim",
-      "dek": "Compare five areas by the day you want, with swimming kept as a separate conditions-dependent choice.",
+      "mins": 4,
+      "title": "Phuket beach day: Kata, Nai Harn, Mai Khao or Patong?",
+      "dek": "Choose one beach by location and the outing you want, then check access, your return transfer and the conditions on arrival.",
       "body": [
-        "A beach visit does not have to be a swimming visit. Decide whether you want a walk, a meal near the water, a quieter pause or organised activity. Those priorities can produce different choices even for visitors staying in the same part of Phuket.",
-        "Use current local flags, lifeguard instructions and access notices when deciding what to do at the water. A beach description, season label or previous visit is not an assurance of conditions today. Keep the land-based part of your outing worthwhile in case swimming is inappropriate."
+        "Choose Kata for a beach-and-services outing, Nai Harn for a southern beach visit with a lagoon setting, Mai Khao for a shore-focused plan in the north, or Patong for a beach connected with a larger entertainment and shopping area. Start from where you are staying: a complete day at one beach is usually a clearer plan than a rushed tour of four.",
+        "The comparison below uses Phuket Province’s beach descriptions for location and setting, then adds our transport and fallback decisions. It is not a ranking of swimming safety. Current flags, lifeguard instructions and official notices determine whether entering the water is appropriate; a general tourism description cannot establish today’s conditions."
       ],
       "items": [
         {
           "p": "hkt-kata",
-          "text": "Compare the available beach setting and nearby services with the outing your group wants."
+          "text": "Phuket Province distinguishes Kata Yai from Kata Noi and describes the area’s shops and visitor services. Save the exact beach name and pickup point before travelling; “Kata” alone can be too broad for a group meeting. Choose this when a beach visit and an independently chosen meal are the main activities. If swimming is unsuitable, keep the meal and a permitted shore visit rather than adding another beach in search of an assumed safe bay."
         },
         {
           "p": "hkt-nai-harn",
-          "text": "Choose this only after checking the current approach and facilities you expect to use."
-        },
-        {
-          "p": "hkt-freedom",
-          "text": "Confirm the permitted route and return before making a dedicated journey."
+          "text": "The provincial guide places Nai Harn north of Promthep Cape with a freshwater lagoon inland. That provides a useful location anchor, but not a promise about facilities or present conditions. Choose it if a southern-island outing fits your accommodation and return route. Keep any viewpoint extension optional; agreeing a realistic pickup matters more than collecting nearby names. The province specifically warns about strong currents during the monsoon, so never transfer an attractive general description into a swimming guarantee."
         },
         {
           "p": "hkt-mai-khao",
-          "text": "Plan a beach walk without treating nearby airport areas as permitted visitor space."
+          "text": "The provincial guide identifies Mai Khao in the airport area and warns of a steep beach and strong monsoon currents. We therefore suggest researching a shore-focused outing first, with swimming a separate local decision. Choose this when northern Phuket already fits the day. Establish the public access point and return before leaving; do not assume every resort frontage is public access. Aircraft-viewing photographs do not grant permission to enter airport land or restricted areas."
         },
         {
           "p": "hkt-patong",
-          "text": "Compare a busier beach setting with the quieter outing you might prefer elsewhere."
+          "text": "The province describes Patong as a beach area with shopping, accommodation and entertainment. Choose it when your group wants those town activities alongside the shore, rather than expecting an isolated beach escape. Agree a precise meeting point and a return pickup away from any access restriction. Separate equipment or activity purchases from the rest of the outing: read the operator’s terms before paying, and do not let a sales offer override posted warnings."
         }
       ],
       "sections": [
         {
-          "h": "The two seasons",
+          "h": "Read the flags before making the water decision",
           "p": [
-            "Conditions vary through the year and from beach to beach. Seasonal patterns cannot establish that a beach is safe for swimming on a particular day. Follow posted warnings and lifeguard instructions.",
-            "Lifeguards mark safe areas with red-and-yellow flags. A red flag means do not enter the water at all. Take the flags seriously, even when the sea looks inviting."
-          ]
-        },
-        {
-          "h": "Getting from beach to beach",
-          "p": [
-            "Compare the actual travel route between beaches. Check the transport operator’s current stops, timetable and fare, or agree a return transfer with a driver before leaving.",
-            "Many visitors rent scooters. The roads over the headlands are steep and accidents are common, so wear a helmet and check that your travel insurance covers riding."
-          ]
-        },
-        {
-          "h": "A few more to know",
-          "p": [
-            "Karon, next to Kata, is a long, wide beach with fine sand that squeaks underfoot. Surin and Bang Tao, further north, are quieter and lined with resorts. Nai Yang, near the airport, sits inside a national park and has a relaxed, local feel."
-          ]
-        },
-        {
-          "h": "A beach choice shaped by surf culture",
-          "p": [
-            "The linked interview-led surf guide describes a growing community around Phuket’s beaches, with Kata and Bang Tao among the places where surf schools have established themselves. Its coverage is about surfing culture and seasonal waves, rather than a promise of calm water for every beach visit.",
-            "Use that distinction when choosing the kind of day you want: watching the surf, taking a locally supervised lesson or staying on shore. The article is background reading; check conditions with lifeguards and a qualified local operator on the day, and follow beach flags."
+            "TAT’s marine-safety guidance explains that a red flag means do not swim and that a red-and-yellow flag indicates lifeguards on duty. A staffed area still requires following the instructions given on the day. Do not interpret the absence of a warning you recognise as proof of safe conditions.",
+            "A Department of Marine and Coastal Resources report dated 10 September 2026 documents a jellyfish-related incident and red flags at Nai Thon earlier that month. That is a dated example of why local warnings matter, not a claim that the same warning applies to every Phuket beach today. Use the department’s marine-warning service and the current beach instructions rather than an old incident as a live forecast."
           ],
-          "sourceId": "timeout-hkt",
-          "sourceNote": ""
-        },
-        {
-          "h": "A beach choice is not a swimming guarantee",
-          "p": [
-            "Weather, swell, currents and warning flags determine whether to enter the water. Do not treat a dry-season date or an attractive photograph as proof of safe conditions. Ask lifeguards about the designated area; if swimming is prohibited or conditions are uncertain, stay on shore.",
-            "Build a shore-only alternative into the plan: a walk where access is permitted, lunch or an earlier return. For a lesson or boat trip, use a qualified operator and ask about cancellation if conditions change."
+          "sourceIds": [
+            "tat-beach-flags",
+            "dmcr-phuket-warning"
           ]
         },
         {
-          "h": "Get a complete transport quote",
+          "h": "Price the return journey before choosing a remote stop",
           "p": [
-            "Check a bus operator’s current route and timetable or obtain a taxi quote for both directions. Include the walk from the drop-off point, any return pickup arrangement and waiting time. Do not assume a remote beach has the same pickup availability as a resort frontage.",
-            "If hiring any vehicle, check licence requirements, insurance terms and your ability to drive the route. Compare a car or organised transfer if steep roads, rain or an unfamiliar vehicle would make the journey unsuitable."
-          ]
+            "Save the actual drop-off point, the legal route to the shore and a return arrangement. For a driver, confirm whether the quote covers both directions, waiting and the agreed pickup location. For public transport, check the operator’s current route and last service instead of assuming the outbound stop guarantees an easy return.",
+            "Do not use a short straight-line map distance as a walking plan between beaches. Compare the real route and the group’s needs. A beach-hopping plan adds more transfers and more uncertainty; if you only want one meal and time by the shore, keeping one base removes those extra decisions."
+          ],
+          "sourceIds": []
         },
         {
-          "h": "Design a day that still works without entering the water",
+          "h": "Build a shore-only version before leaving",
           "p": [
-            "Choose the arrival point, one land-based activity and a meal or seated break. Then ask whether a swim adds something in the actual conditions. This avoids building the whole journey around a water activity you may need to decline.",
-            "For a booked lesson or rental, ask the operator about suitability, supervision, equipment and cancellation for your group. Do not infer that an activity suits beginners solely from the beach name. Keep current conditions and the operator’s decision separate from the general description."
-          ]
+            "Choose one permitted land-based activity and a meal or rest stop you would still want if you could not swim. As an editorial planning allowance, keep roughly half a day including transfers for one beach; this is not a measured journey time. Shorten it if the weather or the return arrangement makes the outing uncomfortable.",
+            "For families or anyone needing step-free access, ask about the actual approach, toilets, seating and distance from drop-off before choosing. A beach’s general popularity does not establish access for your group. If you cannot confirm something essential, choose a more suitable outing instead of relying on an attractive photograph."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Smoking is banned on many Thai beaches, including Patong, and fines are large.",
-        "Jellyfish appear at certain times of year. Lifeguard stations keep vinegar for stings.",
-        "Sunbeds are allowed only in marked zones. Bring a towel or mat.",
-        "The sun is strongest between 11am and 3pm. Use reef-safe sunscreen."
+        "Follow current warning flags and staff instructions.",
+        "Agree the complete transport quote and return pickup.",
+        "Ask about current access and facilities before travelling with specific needs."
       ],
       "faq": [
         [
-          "Which beach is best for children?",
-          "Choose a beach with appropriate facilities for your family, then check conditions and lifeguard advice on the day. No beach or season guarantees suitable swimming conditions."
+          "Which beach is safest for children?",
+          "This article does not rank swimming safety. Check current local conditions, lifeguard advice and the facilities your family needs; no beach name guarantees suitable water."
         ],
         [
-          "Can I walk from one beach to the next?",
-          "Check the actual pedestrian route. Some beaches are separated by steep headlands or roads with limited walking space; a short map distance is not proof of an easy walk."
+          "Can I walk between the four beaches?",
+          "This is a comparison of separate outings, not a walking route. Use actual transport directions for the beach you choose."
         ],
         [
-          "When is the sea clearest?",
-          "Water clarity changes with weather and sea conditions. Do not use a seasonal expectation as a safety decision."
-        ],
-        [
-          "Is there shade?",
-          "Nai Harn and Mai Khao have trees behind the sand. Elsewhere, bring an umbrella or rent one in the permitted zones."
+          "Does the September 2026 incident mean every beach is closed now?",
+          "No. It is a dated official report, included as context. Check the current warning service and notices at your chosen beach."
         ]
       ],
       "slug": "phuket-beaches",
       "img": "hkt-kata",
       "src": [
-        "timeout-hkt"
+        "phuket-kata-gov",
+        "phuket-naiharn-gov",
+        "phuket-maikhao-gov",
+        "phuket-patong-gov",
+        "tat-beach-flags",
+        "dmcr-phuket-warning"
       ],
       "quickPlan": [
         [
-          "Best for",
-          "Choosing one beach outing around access, transport and conditions."
+          "Choose one base",
+          "Kata, Nai Harn, Mai Khao or Patong according to location and activity."
         ],
         [
-          "Time to allow",
-          "Our suggestion: half a day at one beach, including transfers."
+          "Before leaving",
+          "Save public access, drop-off and the return arrangement."
         ],
         [
-          "Budget approach",
-          "Price the return transfer, meal and any equipment separately before committing."
+          "At the beach",
+          "Read flags and follow current lifeguard instructions."
+        ],
+        [
+          "Fallback",
+          "A permitted shore visit, meal or earlier return."
         ]
       ],
       "planTable": {
-        "caption": "Choose a plan that fits your day",
+        "caption": "Four different outing formats; no beach is given a safety ranking",
         "headers": [
-          "Choice",
-          "Plan for",
-          "Keep in mind"
+          "Beach",
+          "Our suggested purpose",
+          "Decision to settle first"
         ],
         "rows": [
           [
-            "Kata or Nai Harn",
-            "A beach outing with a local meal",
-            "Check flags and lifeguard advice on arrival"
+            "Kata",
+            "Beach and nearby services",
+            "Kata Yai or Kata Noi; exact arrival point"
           ],
           [
-            "Freedom Beach",
-            "More involved access",
-            "Confirm the route, entry terms and return before setting out"
+            "Nai Harn",
+            "Southern beach and lagoon setting",
+            "Transfer and current local conditions"
           ],
           [
             "Mai Khao",
-            "A shore walk",
-            "Check park rules and access; aircraft viewing does not permit entering restricted areas"
+            "Northern shore-focused outing",
+            "Public access and return pickup"
           ],
           [
             "Patong",
-            "A busier beach and town outing",
-            "Choose a meeting point and return pickup location"
+            "Beach plus town activities",
+            "Meeting point and optional activity terms"
           ]
         ]
       },
-      "dateModified": "2026-10-09",
-      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
+      "dateModified": "2026-10-19",
+      "researchNote": "Sources checked 19 October 2026. Provincial descriptions provide geographic context, not a current swimming assessment. The TAT flag guidance is dated 2018 and the DMCR incident report September 2026; neither is presented as a live conditions report.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-10-19",
+        "method": "Original decision-led rewrite using official tourism and operator references; no personal visit is claimed.",
+        "scope": "Text and source alignment. Complete publisher factual and media-rights sign-off remains pending."
       },
-      "seoTitle": "Phuket Beaches: Plan Your Beach Day"
+      "seoTitle": "Phuket Beaches: Compare 4 Outings, Access & Sea Warnings",
+      "planLinks": [
+        [
+          "Phuket Province beach information",
+          "https://www.phuket.go.th/eng/Attractions-Beaches.php"
+        ],
+        [
+          "TAT flag guidance",
+          "https://www.tatnews.org/2018/07/important-information-on-marine-tourism-in-thailand-during-the-southwest-monsoon-season/"
+        ],
+        [
+          "Current marine-warning service",
+          "https://warning.dmcr.go.th/th/home"
+        ]
+      ]
     },
     {
       "id": "hkt-oldtown",
@@ -4805,83 +4874,160 @@
       "city": "sin",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
-      "title": "Singapore hawker meals: choose between Maxwell and Lau Pa Sat",
-      "dek": "Plan one lunch or evening meal with a queue limit, a seating decision and room for another dish.",
+      "mins": 4,
+      "title": "Maxwell or Lau Pa Sat? Choose your Singapore hawker meal",
+      "dek": "Choose a Chinatown meal at Maxwell or a Raffles Quay meal at Lau Pa Sat, with separate timing for outdoor Satay Street.",
       "places": [
         "sin-maxwell",
         "sin-lau-pa-sat"
       ],
       "body": [
-        "Choose a hawker outing by the meal you want and where you will be, rather than treating every centre as a required tasting stop. Maxwell and Lau Pa Sat offer two possible starting points. You can visit one and still have a complete meal.",
-        "Before ordering, work out the seating arrangement and look at the menus actually trading. This is practical meal planning rather than a ranking of stalls we claim to have tested. A long queue tells you about demand, not whether the dish meets your preferences."
+        "Choose Maxwell Food Centre when lunch is part of a Chinatown outing. Choose Lau Pa Sat when your plans are around Raffles Quay, or when the purpose is an outdoor satay meal and the street’s operating period fits. The useful comparison is location plus meal format; this is not a claim that every stall at one centre is better than every stall at the other.",
+        "One centre is enough for a meal. Visiting both back to back adds travel and encourages ordering beyond your appetite. If you want to compare them, put them on different parts of your itinerary: a Chinatown meal on one day and a separately timed central-business-district meal on another."
       ],
       "sections": [
         {
-          "h": "Give the group an ordering plan",
+          "h": "Maxwell: build the meal into a Chinatown visit",
           "p": [
-            "If several people want different dishes, agree where to meet and who is placing each order. Check the local seating practice without assuming an unattended item always reserves a table. Keep drinks and any shared food clear so you do not buy the same thing twice."
+            "Singapore Tourism Board places Maxwell Food Centre in its Chinatown guide and highlights chicken rice among the centre’s food options. It identifies Maxwell (TE18) and Chinatown (NE4/DT19) as useful stations for the area. Choose the station that fits your actual starting point instead of changing trains just to follow a generic arrival instruction.",
+            "For a simple first meal, decide between a single main dish and shared tasting before queuing. Chicken rice makes a clear starting enquiry if it is what you want, but this guide does not name an untested stall as the winner. Walk past the available menus first, agree what the group wants, then place orders. A famous queue is an optional choice, not a required part of lunch.",
+            "Pair Maxwell with the Chinatown streets you already intend to explore. Keep any temple visit and the meal as separate activities with their own conduct and opening arrangements. If a particular stall is the reason for coming, confirm that stall’s service rather than relying on centre-level opening hours."
+          ],
+          "sourceIds": [
+            "singapore-chinatown-official"
           ]
         },
         {
-          "h": "Compare the whole meal",
+          "h": "Lau Pa Sat: distinguish the food centre from Satay Street",
           "p": [
-            "Read portion, price and what is included. Start with a main dish, then decide whether you want an extra. A sequence of small tastings may cost more than a seated meal without being more satisfying. Food requirements need direct confirmation from the stall."
+            "Lau Pa Sat’s operator gives its address as 18 Raffles Quay and lists Downtown, Raffles Place, Shenton Way and Telok Ayer as nearby MRT options. The centre’s broad operating description does not mean every hawker is serving throughout that period. Use the operator’s directory for the actual food business you want.",
+            "For an ordinary centre meal, choose from the menus trading when you arrive. For the outdoor satay experience, check Satay Street separately: its page lists weekdays from 19:00 to 03:00 and weekends from 15:00 to 03:00. The same page also contains general wording about a daily 19:00 start. Because that wording is inconsistent, confirm the weekend start directly before making a special early visit.",
+            "That difference changes the plan. A weekday lunch can still be a Lau Pa Sat meal, but should not be sold as the outdoor Satay Street outing. If the street service is the main attraction, eat lightly earlier and arrange the evening around the confirmed start rather than arriving hungry hours beforehand."
+          ],
+          "sourceIds": [
+            "laupasat-operator",
+            "laupasat-satay"
           ]
         },
         {
-          "h": "Separate daytime and evening expectations",
+          "h": "Use an ordering plan that prevents a surprise bill",
           "p": [
-            "Use the current centre and stall information for your intended period. An evening grill arrangement is not a guarantee about a lunchtime visit. If a queue is longer than you want to wait, choose another menu rather than rearranging the whole day around it."
-          ]
+            "At either centre, begin with a complete main dish per hungry diner, or agree a shared-food limit before ordering. For satay, check the price unit, minimum quantity, meat choices and any sides included in the order. Ask for the final quantity and total before it goes to the grill. A per-stick price and a large mixed platter are not interchangeable offers.",
+            "Keep drinks as a separate decision and check accepted payment at the stall. We have not collected a current comparable set of menu prices, so there is no invented claim that one centre is cheaper. For a group budget, let each person choose a maximum, order the first round within it, and decide on extras only after the food arrives."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Adjust the plan for company, weather and food requirements",
+          "p": [
+            "For a group, pick a visible meeting point before people split between queues. Do not buy extra food simply because one person is still waiting. If someone needs a seated rest, look at the actual seating situation before committing the whole group to a long line.",
+            "If outdoor dining is the reason for choosing Satay Street, have an alternative meal format ready for rain. For allergies, halal requirements or vegetarian food, ask the specific stall about ingredients and preparation. A centre containing suitable options does not establish that every stall or shared surface meets your requirements. If staff cannot answer a question that matters to you, choose another option."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Two practical ways to fit the meal into a day",
+          "p": [
+            "Chinatown version: explore a small section of the neighbourhood, make Maxwell the main meal, and leave the next stop flexible. Central-business-district version: finish your existing nearby activity, check the available Lau Pa Sat menus, and use Satay Street only when its confirmed service period matches.",
+            "Allow roughly an hour for a meal as our planning suggestion, adding time if your group deliberately chooses a long queue. It is not a measured service time. Save the return station before ordering so a leisurely meal does not become an unexpected last-train problem."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Check which stalls are trading.",
-        "Use current prices.",
-        "Ask where trays should be returned."
+        "Ask for the total and quantity before agreeing a shared platter.",
+        "Check stall-level service and payment rather than assuming one rule covers the centre.",
+        "Keep the outdoor meal optional if the weather changes."
       ],
       "faq": [
         [
-          "Should I visit both centres in one day?",
-          "Only if you want two separate meals and the journeys fit. One centre is enough for a focused outing."
+          "Is Lau Pa Sat’s Satay Street available at weekday lunchtime?",
+          "Its operator lists a 19:00 weekday start. Do not confuse food-centre access with the outdoor street schedule."
         ],
         [
-          "Does popularity establish dietary suitability?",
-          "No. Ask about ingredients, preparation and any certification you need."
+          "Which centre is cheaper?",
+          "We have not collected a current comparable set of prices. Compare the exact dish, portion, extras and total at the stall."
+        ],
+        [
+          "Do I need to visit both?",
+          "No. Choose one that fits the neighbourhood and meal you want; put the other on a different day if comparison interests you."
         ]
       ],
       "slug": "singapore-hawker",
       "img": "sin-lau-pa-sat",
       "src": [
-        "timeout-sin",
-        "maxwell-heritage",
-        "laupasat-operator"
+        "singapore-chinatown-official",
+        "laupasat-operator",
+        "laupasat-satay"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "First choice",
-          "Lunch or an evening meal."
+          "Choose Maxwell",
+          "A meal connected to Chinatown; start with Maxwell or Chinatown MRT."
         ],
         [
-          "Ordering",
-          "Agree a meeting point and avoid duplicate orders."
+          "Choose Lau Pa Sat",
+          "A Raffles Quay meal or separately timed Satay Street outing."
         ],
         [
-          "Spending",
-          "One main dish, then optional drinks or extras."
+          "Outdoor satay",
+          "Check the specific street schedule; it differs from centre access."
+        ],
+        [
+          "Cost",
+          "Compare current menu units and the total order; no tested price ranking."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
+        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Singapore Hawker Food: Maxwell or Lau Pa Sat?",
+      "researchNote": "Official tourism and operator information checked 19 October 2026. The Satay Street page has inconsistent weekend-start wording; confirm it directly. No personal stall tasting or current price survey is claimed.",
+      "seoTitle": "Maxwell vs Lau Pa Sat: Lunch, Satay Street & MRT Guide",
       "relatedGuides": [
         "singapore-airlines-new-amenity-kits-november-2026"
+      ],
+      "items": [],
+      "planTable": {
+        "caption": "Location and meal format are more useful than a blanket “best centre” claim",
+        "headers": [
+          "Plan",
+          "Starting choice",
+          "Main check"
+        ],
+        "rows": [
+          [
+            "Chinatown lunch",
+            "Maxwell",
+            "Your preferred stall is actually serving"
+          ],
+          [
+            "Raffles Quay meal",
+            "Lau Pa Sat",
+            "Current menus and seating"
+          ],
+          [
+            "Outdoor satay",
+            "Satay Street at Lau Pa Sat",
+            "Street start time, weather and minimum order"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Chinatown visitor guide",
+          "https://www.visitsingapore.com/neighbourhood/featured-neighbourhood/chinatown/"
+        ],
+        [
+          "Lau Pa Sat directory",
+          "https://www.laupasat.sg/"
+        ],
+        [
+          "Satay Street schedule",
+          "https://www.laupasat.sg/sataystreet/"
+        ]
       ]
     },
     {
@@ -4889,75 +5035,143 @@
       "city": "tyo",
       "cat": "music",
       "kind": "feature",
-      "mins": 2,
-      "title": "Tokyo listening bars: choose a music session that suits you",
-      "dek": "Compare house rules, seating and charges before building an evening around the records.",
+      "mins": 3,
+      "title": "Tokyo listening cafés: Eagle for jazz or Lion for classical music?",
+      "dek": "Two named rooms, two different musical purposes: compare Yotsuya jazz with Shibuya classical listening before choosing your visit.",
       "body": [
-        "A listening-bar evening works best when the music is the activity you came for. Before choosing a venue, decide whether you want concentrated listening or a place to talk with friends. A room’s sound system does not tell you which of those experiences it encourages.",
-        "The listings in the references are starting points for enquiries rather than current inspections. Check the venue’s own rules and operating arrangements before making a special journey. This guide does not claim to have heard the system or assessed the record selection in person."
+        "Choose Eagle in Yotsuya if jazz records are the reason for your outing; choose Meikyoku Kissa Lion in Shibuya if you want a classical-music café. Neither choice should be made just because a room looks photogenic. The useful distinction is the programme you want to sit with, followed by the listening rules and the journey from the rest of your day.",
+        "GO TOKYO distinguishes jazz kissa from ordinary retro cafés and coffee roasteries. That distinction matters when planning with friends: a café selected for its records may be a poor place for a long conversation. Our comparison uses the venues’ published introductions and JBL’s interview with Eagle, rather than claiming a personal audition or ranking sound quality."
       ],
       "sections": [
         {
-          "h": "Ask about the listening format",
+          "h": "Eagle, Yotsuya: choose a focused jazz session",
           "p": [
-            "Read whether conversation is restricted, how seating works and whether requests are accepted. Ask about a session length if you need a specific finish. A bar and a listening café may use different arrangements; do not transfer the rules of one venue to another."
+            "JBL’s interview identifies Eagle as a jazz café at 1-8 Yotsuya, with a basement entrance along Shinjuku-dori. It describes a no-conversation period before 18:00 and a different bar-time atmosphere afterwards. Treat that published account as context: confirm today’s house rules and any special event before travelling.",
+            "For a solo visitor who wants to listen, an afternoon session is the more purposeful enquiry. For two friends catching up, ask about the evening format instead of assuming the daytime rules still apply. Do not schedule a work call, laptop session or animated discussion in a room chosen for concentrated listening. Save the Japanese name いーぐる alongside the address so a map search does not take you to another business called Eagle."
+          ],
+          "sourceIds": [
+            "eagle-jbl"
           ]
         },
         {
-          "h": "Read the total cost",
+          "h": "Lion, Shibuya: classical music rather than a jazz substitute",
           "p": [
-            "Check any admission or cover charge, minimum order and drink prices together. If you plan to stay through several records, ask whether further orders are expected. Decide what length of visit fits your budget before taking a seat."
+            "Lion’s own introduction presents the café as a place for classical-music listeners and asks computer users to avoid keyboard noise. This is a different musical choice from Eagle, not a second jazz recommendation. Its older website contains notices without a clearly established current year, so this guide does not reuse those notices as a current holiday calendar.",
+            "Choose Lion when you want to spend a break following recorded classical music. If jazz is essential, changing to Lion just because you are already in Shibuya changes the purpose of the outing. Keep that trade-off explicit. Confirm opening, ordering and photography arrangements with the café before a special journey; this page does not promise a particular concert programme or drink price."
+          ],
+          "sourceIds": [
+            "lion-operator"
           ]
         },
         {
-          "h": "Choose the company for the occasion",
+          "h": "Plan one room around the neighbourhood you are already visiting",
           "p": [
-            "If catching up is your main purpose, choose a venue that welcomes conversation. If listening is the priority, agree that with the group before arriving. Save another place for dinner or discussion afterwards instead of trying to turn one room into every part of the evening."
-          ]
+            "Start with your existing itinerary. If Yotsuya fits the day, research Eagle first; if your other plans are in Shibuya and you enjoy classical music, research Lion first. These are separate visits, not a proposed walk between cafés. Check the live journey in Maps rather than using a fixed transfer time from this article.",
+            "Give the visit a beginning and a clear finish: arrive, read the rules, order, listen, then leave time for dinner elsewhere. As an editorial planning allowance, set aside roughly an hour plus your journey and any queue. That is not a venue session length. Avoid booking a tightly timed attraction immediately afterwards if you would be disappointed to leave halfway through a piece."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Work out the full spend before taking a seat",
+          "p": [
+            "We have not verified a current menu or cover charge for either café, so there is no invented yen budget here. Check three things together: the minimum order per person, any seat or music charge, and whether another order is expected during a longer stay. A drink price alone is not necessarily the total cost.",
+            "If you cannot establish an acceptable cost or the room is full, keep the music visit optional. A regular café can still solve the need for a break, but it should not be described as an equivalent listening experience. For hearing sensitivity or access needs, ask about sound level and the entrance before deciding; an attractive description of the equipment is not an accessibility assessment."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Ask before recording or taking close photos.",
-        "Read the charge structure before sitting.",
-        "Do not assume requests are part of the service."
+        "Check the posted rules before using a phone or camera.",
+        "A published equipment interview does not establish today’s programme or prices.",
+        "Choose a live-music venue separately if you want musicians performing rather than recorded listening."
       ],
       "faq": [
         [
-          "Can I assume conversation is allowed?",
-          "No. Read or ask about the particular venue’s house rules."
+          "Are Eagle and Lion the same kind of music stop?",
+          "No. This comparison pairs a jazz café in Yotsuya with a classical-music café in Shibuya. Choose the music first."
         ],
         [
-          "Are these first-hand sound reviews?",
-          "No. The guide explains how to choose and prepare for a listening visit; it does not invent an audio assessment."
+          "Can I use this as a two-stop walking route?",
+          "No. Use the individual map links and plan the journeys separately. One listening visit is enough for this suggested outing."
+        ],
+        [
+          "Has Sidestreet personally reviewed the sound systems?",
+          "No. The selection compares published music formats and planning needs; it is not a first-hand audio review."
         ]
       ],
       "slug": "tokyo-listening",
       "img": "t-jazz-kissa",
       "src": [
-        "timeout-tyo"
+        "tokyo-kissaten-official",
+        "eagle-jbl",
+        "lion-operator"
       ],
       "quickPlan": [
         [
-          "Choose for",
-          "The listening format you actually want."
+          "For jazz",
+          "Research Eagle in Yotsuya; check the current listening period."
         ],
         [
-          "Confirm",
-          "Seating, conversation, current hours and charges."
+          "For classical music",
+          "Research Meikyoku Kissa Lion in Shibuya."
         ],
         [
-          "Keep separate",
-          "Dinner or a longer conversation after listening."
+          "Time allowance",
+          "Our suggestion: about an hour inside, plus travel and any wait."
+        ],
+        [
+          "Before entry",
+          "Confirm opening, minimum order, charges, access and house rules."
         ]
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
+        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Tokyo Listening Bars: Choose Your Music Session"
+      "researchNote": "Researched 19 October 2026. JBL provides the Eagle interview; Lion provides its own introduction. Current menus and operating hours were not independently established. The visit allowance is our planning suggestion.",
+      "seoTitle": "Tokyo Listening Cafés: Eagle vs Lion, Rules & Planning",
+      "imageNote": "Archive photograph: Jazz & Coffee Masako in Shimokitazawa, September 2009. It illustrates Tokyo café culture; it does not show Eagle or Lion.",
+      "items": [],
+      "planTable": {
+        "caption": "Choose by music and visit format, not an untested sound-quality ranking",
+        "headers": [
+          "Choice",
+          "Why consider it",
+          "Decision before travelling"
+        ],
+        "rows": [
+          [
+            "Eagle, Yotsuya",
+            "Jazz-focused café; published daytime quiet-listening format",
+            "Check the current schedule and conversation rules"
+          ],
+          [
+            "Lion, Shibuya",
+            "Classical-music café",
+            "Check current opening and ordering arrangements"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Eagle official website",
+          "http://www.jazz-eagle.com/"
+        ],
+        [
+          "Lion official website",
+          "https://lion.main.jp/"
+        ],
+        [
+          "Find Eagle in Yotsuya",
+          "https://www.google.com/maps/search/?api=1&query=Jazz+Eagle+1-8+Yotsuya+Tokyo"
+        ],
+        [
+          "Find Meikyoku Kissa Lion",
+          "https://www.google.com/maps/search/?api=1&query=Meikyoku+Kissa+Lion+Shibuya+Tokyo"
+        ]
+      ]
     },
     {
       "id": "tyo-tsukiji",
@@ -5063,79 +5277,149 @@
       "city": "sel",
       "cat": "things",
       "kind": "feature",
-      "mins": 2,
-      "title": "Euljiro in Seoul: a meal-led evening or a quieter street visit",
-      "dek": "Choose the purpose of the outing before relying on an old nightlife shortlist.",
+      "mins": 4,
+      "title": "Euljiro food outing: Munhwaok or Nogari Street?",
+      "dek": "Choose a soup-led meal near Euljiro 4-ga or an evening around Nogari Street near Euljiro 3-ga, then keep the return journey simple.",
       "places": [
-        "sel-euljiro",
-        "sel-gwangjang"
+        "sel-euljiro"
       ],
       "body": [
-        "Euljiro can appear in guides as an evening destination, but an archival description does not establish today’s bar entrance or opening time. Choose one confirmed venue if a meal or drink is the purpose. Use the streets between stops as part of the outing, not as a guarantee of hidden discoveries.",
-        "A small route makes it easier to change plans. Decide whether the priority is dinner, a conversation or looking at the neighbourhood streetscape. Those interests do not all need a late-night visit."
+        "Choose Munhwaok if your main purpose is a soup-and-rice meal; choose Euljiro Nogari Street if you want to enquire about a Korean-style pub outing. These are two different eating formats, with different station anchors. Treat them as alternatives first, rather than a compulsory two-stop crawl.",
+        "The Seoul Tourism Organization’s Euljiro feature, updated 9 July 2026, provides the named places and station orientation used here. Our contribution is the meal-first decision and a flexible plan for solo visitors or groups. We have not tasted the dishes, inspected access or confirmed every business trading tonight."
       ],
       "sections": [
         {
-          "h": "Start with a confirmed business",
+          "h": "Munhwaok: make the soup meal the anchor",
           "p": [
-            "Save the current entrance, hours and contact information for the place you want. If it is upstairs, enquire about access before travelling with someone for whom stairs matter. An unmarked door in an old guide is not enough to establish public entry."
+            "The official tourism guide identifies Munhwaok at 62-5 Changgyeonggung-ro, near Euljiro 4-ga, and describes seolleongtang, a beef and ox-bone soup, as a principal dish. That is a specific reason to choose the restaurant rather than a vague promise of a “hidden local” experience.",
+            "Choose this version when the meal itself matters more than an evening drinking atmosphere. Before ordering, check the current menu, portion and what accompanies it. If you avoid beef or have a dietary restriction, do not assume this named soup will fit: enquire first, then change the meal choice if necessary. A well-known dish is not a substitute for an ingredient answer.",
+            "Save the restaurant name in Korean, 문화옥, and the address before leaving. Confirm current service and closure arrangements with the business. The tourism page’s dated menu information is not reproduced here as a guaranteed current bill."
+          ],
+          "sourceIds": [
+            "euljiro-seoul"
           ]
         },
         {
-          "h": "Give food and drinks separate decisions",
+          "h": "Nogari Street: choose the pub format deliberately",
           "p": [
-            "Choose a meal before adding a bar. If Gwangjang Market is the food option, plan it as a separate location and check the actual stall arrangement. Do not assume a nearby market operates to the same evening hours as your selected venue."
+            "The same official guide places Nogari Street around Euljiro 3-ga, reached from lines 2 and 3, and describes pubs associated with beer and dried young pollack. Business hours vary by store. That makes it a different proposition from a reserved restaurant table with one common start time.",
+            "Choose it if the group wants a pub outing and is comfortable checking the actual seating and menu on arrival. Before sitting, agree whether you are ordering a full meal or drinks with shared food. Ask about any minimum order and the total for the first round. If a quiet conversation is essential, assess the room you find rather than assuming an evening district will provide it.",
+            "A non-drinker can decide based on the actual available food and drinks, but this guide does not promise a particular alcohol-free selection. If the format does not suit everyone, keep the soup meal as the main outing and leave the pub stop out."
+          ],
+          "sourceIds": [
+            "euljiro-seoul"
           ]
         },
         {
-          "h": "Keep the last stop optional",
+          "h": "Keep Euljiro 3-ga and Euljiro 4-ga distinct",
           "p": [
-            "At the end of dinner, decide whether another venue still fits your interests and return journey. Saving a clear finish makes the evening easier to manage than pursuing every name in a nightlife list. Ask about minimum orders and seating before committing."
-          ]
+            "Save the station name for your chosen meal, not just “Euljiro”. Similar district and station names are easy to confuse when a group is arriving separately. Share a specific business entrance or station meeting point and use the live map for the onward journey.",
+            "If you want both formats, make the second stop optional after the first meal. Check the route and whether the group still wants another order before setting off. We do not assign an unmeasured walking time between the stops, and the map links below are separate destinations rather than a verified accessible walking route."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "A plan for a solo visitor and a plan for a group",
+          "p": [
+            "Solo version: choose one meal, establish the current menu and seating, and leave the next activity flexible. Ask about portions before ordering shared dishes meant for several people. The goal is a satisfying meal, not collecting every location in a shortlist.",
+            "Group version: decide the meal format before travelling, set a first-round spend limit, and nominate a meeting point if the first choice is full. Confirm whether stairs, tightly arranged tables or a long wait could make a venue unsuitable for anyone in the group. This research guide has not assessed the entrances for step-free access."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Leave Gwangjang Market for its own outing",
+          "p": [
+            "Gwangjang Market is a separate food destination, not another name for Nogari Street. If you want a market meal, plan that separately rather than adding it automatically after a soup meal and a pub stop.",
+            "Save the final station and check your return journey before the evening begins. Our suggested allowance is one meal plus optional browsing, with the actual duration determined by queues and your appetite. No business on this page is being presented as a paid winner or a personally tested “best” restaurant."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Use current directions.",
-        "Ask about access needs before leaving.",
-        "Save the return route."
+        "Share the exact meeting place rather than a district name alone.",
+        "Confirm current menus and opening with the business.",
+        "Ask about ingredients and access directly; neither is verified by a district description."
       ],
       "faq": [
         [
-          "Are old bar listings reliable for tonight?",
-          "They need current venue confirmation, including the entrance and hours."
+          "Should I use Euljiro 3-ga or Euljiro 4-ga?",
+          "Use the station for the actual destination: the official guide places the Munhwaok meal near Euljiro 4-ga and Nogari Street near Euljiro 3-ga."
         ],
         [
-          "Do I need several stops?",
-          "No. One meal or venue can be a complete evening; add another only for a different experience you want."
+          "Is Gwangjang Market part of this route?",
+          "No. It is a separate food outing and has been removed from this guide’s place selection."
+        ],
+        [
+          "Are the restaurants personally tested or paid rankings?",
+          "No. This is a research-based comparison of meal formats and location, with no invented tasting score or universal “best” claim."
         ]
       ],
       "slug": "seoul-euljiro",
       "img": "sel-euljiro",
       "src": [
-        "timeout-sel"
+        "euljiro-seoul"
       ],
       "quickPlan": [
         [
-          "Anchor",
-          "A current meal or venue booking."
+          "Soup meal",
+          "Munhwaok near Euljiro 4-ga; confirm the current menu."
         ],
         [
-          "Check",
-          "Entrance, stairs if relevant, hours and charges."
+          "Pub outing",
+          "Nogari Street near Euljiro 3-ga; hours vary by business."
         ],
         [
-          "Optional",
-          "A separate market or second venue."
+          "Group decision",
+          "Agree food versus drinks, the first-round budget and a meeting point."
+        ],
+        [
+          "Return",
+          "Save the right station and check the live journey."
         ]
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
+        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Euljiro Seoul: Food & Neighbourhood Visit Guide"
+      "researchNote": "Researched 19 October 2026 using Seoul Tourism Organization’s feature, which states an information date of 9 July 2026. Current prices and individual business operations still need direct confirmation.",
+      "seoTitle": "Euljiro Seoul: Munhwaok, Nogari Street & Subway Planning",
+      "items": [],
+      "planTable": {
+        "caption": "Two meal formats, not a universal restaurant ranking",
+        "headers": [
+          "Choice",
+          "Useful anchor",
+          "Fits this purpose"
+        ],
+        "rows": [
+          [
+            "Munhwaok",
+            "Euljiro 4-ga area",
+            "A soup-led meal"
+          ],
+          [
+            "Nogari Street",
+            "Euljiro 3-ga, lines 2 and 3",
+            "A pub outing with business-specific menus and hours"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Official Euljiro tourism feature",
+          "https://english.visitseoul.net/City-Hall-Area/Eat-Drink-and-Rest-like-Seoulites-in-Euljiro_/31301"
+        ],
+        [
+          "Find Munhwaok",
+          "https://www.google.com/maps/search/?api=1&query=Munhwaok+62-5+Changgyeonggung-ro+Seoul"
+        ],
+        [
+          "Find Euljiro Nogari Street",
+          "https://www.google.com/maps/search/?api=1&query=Euljiro+Nogari+Street+Seoul"
+        ]
+      ]
     },
     {
       "id": "kul-breakfast",
@@ -5221,75 +5505,152 @@
       "city": "sgn",
       "cat": "food",
       "kind": "feature",
-      "mins": 2,
-      "title": "Saigon coffee styles: choose the order you want to try",
-      "dek": "Compare sweetness, milk and serving style without treating every coffee as the same drink.",
+      "mins": 4,
+      "title": "Ho Chi Minh City coffee: order by style, then choose a café",
+      "dek": "Read the difference between iced black coffee, condensed-milk coffee and egg coffee, then choose a traditional or specialty-coffee stop.",
       "body": [
-        "A first coffee order is easier when you choose sweetness, milk and hot or iced preparation separately. Read the café’s description of the drink rather than assuming every Vietnamese coffee has one fixed strength or ingredient list.",
-        "The phin is a filtering method; it does not tell you the complete recipe of the menu item. A milk coffee, a milkier variation or a cream-topped drink can suit different preferences. This guide offers a way to choose, not a taste ranking or a health recommendation."
+        "Start with the drink rather than a “best café” list. If you want iced coffee without a milk layer, look for cà phê đá and ask about added sugar. For coffee with sweetened condensed milk and ice, look for cà phê sữa đá. If a topped drink is the point, ask about cà phê trứng, or egg coffee. Then choose a café that actually serves your intended preparation.",
+        "The Vietnamese tourism authority’s coffee guide provides the style names and café context used here. Our plan separates three decisions that often get muddled together: the recipe, the brewing method and the kind of place you want to sit in. No personal tasting score or citywide winner is claimed."
       ],
       "sections": [
         {
-          "h": "Use the menu as a description",
+          "h": "Read the menu names as a starting point",
           "p": [
-            "Ask what the named drink contains and whether the sweetness can be adjusted. For a topped or blended drink, find out whether the topping is included in the listed price. Familiar names can describe different preparations at different businesses."
+            "The tourism guide describes cà phê đá as coffee with ice, cà phê sữa đá as coffee with sweetened condensed milk and ice, and cà phê trứng as an egg-topped coffee associated with Hanoi. Finding that last style in Ho Chi Minh City does not make every café an egg-coffee specialist.",
+            "If you prefer less sweetness, ask what can be adjusted before ordering. Choosing black coffee does not by itself confirm that no sugar has been added. If dairy or egg ingredients matter to you, ask about the full recipe and preparation; a familiar name is not an allergen guarantee. Keep the answer attached to that café and that order."
+          ],
+          "sourceIds": [
+            "hcmc-coffee-tourism"
           ]
         },
         {
-          "h": "Choose the occasion for the order",
+          "h": "Phin preparation and specialty brewing solve different interests",
           "p": [
-            "If you want to observe a filter preparation, ask whether the café serves the chosen drink that way. If you want a quick takeaway, compare the ordering and waiting arrangements. The visual ritual and the drink you prefer need not always be the same choice."
+            "A phin is the filter used for a drip preparation; it is not a complete drink recipe. If watching the filter drip at your table matters, ask whether your chosen drink is served that way. An iced drink can also arrive already prepared, so a photograph of a filter is not a service promise.",
+            "For a different enquiry, Vietnam Tourism describes The Workshop at 27 Ngo Duc Ke as a specialty-coffee venue using methods such as Chemex and Aeropress. Use that as a reason to investigate brewing options, not as proof that it will serve every traditional drink. Confirm the current address, entrance and menu with the business before a dedicated journey."
+          ],
+          "sourceIds": [
+            "hcmc-coffee-tourism"
           ]
         },
         {
-          "h": "Compare your own preferences",
+          "h": "Use a current branch finder for a more straightforward stop",
           "p": [
-            "If you try another style later, note the changes you can actually describe: sweetness, milk balance, serving temperature or texture. Keep those observations attached to your order rather than making a claim about all coffee in the city. A second cup is optional."
+            "Cộng Cà Phê provides its own menu and store finder. Choose a Ho Chi Minh City branch through the operator rather than saving an old social-media address. A brand name alone is not the destination: share the specific branch with anyone meeting you.",
+            "This is a useful approach when you want to establish an order and meeting point before wandering. Compare it with a specialty-brewing enquiry according to your goal. Neither format is automatically more authentic or better tasting. Ask at the selected branch about the current drink, seating, takeaway and payment arrangements."
+          ],
+          "sourceIds": [
+            "cong-operator"
           ]
+        },
+        {
+          "h": "A practical one-cup outing",
+          "p": [
+            "Choose one café near the part of the city already in your plan. Save its exact entrance and check access if stairs would be difficult. Arrive, read the actual menu, order one drink that matches your temperature and ingredient preferences, then decide whether the setting suits a longer pause.",
+            "As our planning suggestion, allow around 45 minutes plus your journey. It is not a promised service time or a rule about how long you may stay. If you need a quick takeaway, ask about the wait before paying rather than turning a slow-preparation order into a rushed visit."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Compare the whole order rather than an invented citywide price",
+          "p": [
+            "Read the size and whether toppings, milk changes or takeaway packaging add to the total. We have not carried out a current comparable menu-price survey, so there is no claim here that one named business is cheaper. Ask for the final order price if the menu is unclear.",
+            "If you try a second coffee later, change one thing you are interested in: milk, temperature, topping or brewing method. Record the preference you actually notice. You do not need to order several coffees in one sitting to have explored the culture, and a style name cannot tell you the caffeine content of an individual serving."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Ask before assuming an adjustment is possible.",
-        "Check topping and takeaway prices.",
-        "Do not infer caffeine content from a style name."
+        "Confirm ingredients for the actual order.",
+        "Use a specific branch and entrance for a meeting.",
+        "Read the total price before adding toppings or takeaway extras."
       ],
       "faq": [
         [
-          "Does the phin define the recipe?",
-          "No. It identifies a filtering method. Read the ingredients and preparation of the menu item."
+          "Does black iced coffee mean unsweetened?",
+          "Do not assume so. Ask whether sugar is added and whether the preparation can be adjusted."
         ],
         [
-          "How should I choose a first order?",
-          "Decide hot or iced, milk or no milk, and your sweetness preference, then ask what the café offers."
+          "Does every café serve phin coffee at the table?",
+          "No service format is established by a style name. Ask before ordering if watching the filter is important."
+        ],
+        [
+          "Are these personally tasted “best café” awards?",
+          "No. These are research-based ordering choices and venue enquiries, without a tasting rank."
         ]
       ],
       "slug": "ho-chi-minh-city-coffee",
       "img": "t-viet-coffee",
       "src": [
-        "timeout-sgn"
+        "hcmc-coffee-tourism",
+        "cong-operator"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "Start with",
-          "Temperature, milk and sweetness."
+          "First decision",
+          "Iced black, condensed-milk coffee or a topped drink."
         ],
         [
-          "Confirm",
-          "The actual menu ingredients and preparation."
+          "Brewing interest",
+          "Ask specifically for table-side phin or a specialty method."
         ],
         [
-          "Compare later",
-          "Your own orders, without universal taste rankings."
+          "Venue",
+          "Use the exact café entrance or operator branch finder."
+        ],
+        [
+          "Our time suggestion",
+          "Around 45 minutes at one café, plus travel."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Original decision-led rewrite using official tourism and operator references; no personal visit is claimed.",
+        "scope": "Text and source alignment. Complete publisher factual and media-rights sign-off remains pending."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "Ho Chi Minh City Coffee: Styles & Ordering Tips"
+      "researchNote": "Official tourism and operator pages checked 19 October 2026. The tourism café listing is background rather than a current menu inspection. Verify the selected branch and preparation directly; no current price or tasting survey is claimed.",
+      "seoTitle": "Ho Chi Minh City Coffee: Drink Names, Cafés & Ordering",
+      "items": [],
+      "planTable": {
+        "caption": "Drink names help you ask a clearer question",
+        "headers": [
+          "Menu term",
+          "Starting description",
+          "Ask before ordering"
+        ],
+        "rows": [
+          [
+            "Cà phê đá",
+            "Coffee with ice",
+            "Is sugar added?"
+          ],
+          [
+            "Cà phê sữa đá",
+            "Coffee, sweetened condensed milk and ice",
+            "Can sweetness be adjusted?"
+          ],
+          [
+            "Cà phê trứng",
+            "Egg-topped coffee",
+            "What are the ingredients and current serving format?"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Official HCMC coffee background",
+          "https://vietnam.travel/things-to-do/11-cool-cafes-try-hcmc"
+        ],
+        [
+          "Cộng menu and branch finder",
+          "https://congcaphe.com/"
+        ],
+        [
+          "Find The Workshop on Ngo Duc Ke",
+          "https://www.google.com/maps/search/?api=1&query=The+Workshop+27+Ngo+Duc+Ke+Ho+Chi+Minh+City"
+        ]
+      ]
     },
     {
       "id": "lon-lord-mayor",
@@ -5371,82 +5732,152 @@
       "city": "lon",
       "cat": "things",
       "kind": "feature",
-      "mins": 2,
-      "title": "Free collection visits in London: choose one museum first",
-      "dek": "Separate general admission from exhibitions, then build a manageable visit around what interests you.",
+      "mins": 4,
+      "title": "London’s free museums: British Museum, National Gallery or Tate Modern?",
+      "dek": "Choose objects and history, paintings or modern art, then match entry arrangements and the neighbourhood to one focused visit.",
       "places": [
         "lon-british-museum",
-        "lon-tate-modern",
-        "lon-borough"
+        "lon-tate-modern"
       ],
       "body": [
-        "Free general admission can make a short museum visit worthwhile, but it does not remove the need to choose. Begin with the collection or subject you want to spend time with. One focused visit and a meal can be a complete afternoon.",
-        "The National Gallery lists free general admission and some charged exhibitions. Use each institution’s current visitor page for its own arrangements. A citywide description of free museums should not be treated as a common ticket or a promise that every room is open."
+        "Choose the British Museum for a collection-led history visit, the National Gallery for paintings, or Tate Modern for modern and contemporary art. All three offer free collection entry, while special exhibitions can be charged separately. They are alternatives for this plan, not three stops you need to complete in one afternoon.",
+        "The best first decision is a subject, not a ticket. Someone interested in objects and their historical context needs a different afternoon from someone wanting to look closely at painting or installation art. Use the comparison below to choose one institution, then check that institution’s visitor information before booking anything else."
       ],
       "sections": [
         {
-          "h": "Choose a small collection route",
+          "h": "British Museum: choose a subject rather than the whole building",
           "p": [
-            "Pick a subject, artist or group of objects before arriving, then use the venue’s current map. Looking closely at a few works can be more useful than moving through every gallery. Keep an optional room in mind rather than fixing the whole afternoon in advance."
+            "The British Museum is in Bloomsbury, with its main entrance on Great Russell Street. Its visitor page recommends a free timed booking; walk-up entry depends on capacity. The same page warns that galleries can close at short notice and that large bags and wheeled suitcases are not admitted.",
+            "Our suggested approach is to choose one collection interest before arriving, locate it on the current museum map, and keep one nearby gallery as an optional addition. Spend the first part reading the object labels rather than immediately chasing the next landmark. Ask what an object was used for, who collected it and what the display says about its journey. Those questions make a small selection more rewarding than a checklist of famous objects.",
+            "Keep the rest of the afternoon in Bloomsbury if you want a compact outing. Adding a food market elsewhere in London is a separate travel decision, especially when your museum time is limited. Plan the onward journey before deciding that another district fits."
+          ],
+          "sourceIds": [
+            "britishmuseum-visit"
           ]
         },
         {
-          "h": "Check the product and belongings rules",
+          "h": "National Gallery: paintings and a Trafalgar Square afternoon",
           "p": [
-            "Read whether you need a booking for the particular exhibition or visit. Check luggage restrictions before leaving accommodation with bags. A free collection entry and a paid exhibition can be different products inside the same building."
+            "The National Gallery’s main public entrance is the Sainsbury Wing on Trafalgar Square. General admission is free, with a free advance ticket offered for fast-track entry and walk-up access also available. The gallery warns that building work can move paintings and close rooms; check the current floorplan if a particular work matters to you.",
+            "For a first visit, choose a visual question: how painters use light, how portraits communicate status, or how a landscape changes the viewer’s attention. Find a small set of works that lets you compare that question. You do not need to follow every room chronologically. Pause long enough to form your own impression before reading the interpretation, then see which details change your mind.",
+            "This is the practical choice when Trafalgar Square already fits your day and paintings are your priority. Avoid adding a second museum just to increase the number of sights visited. Leave your luggage at accommodation or an appropriate storage service first; the gallery’s visitor page does not permit wheeled luggage."
+          ],
+          "sourceIds": [
+            "nationalgallery-operator"
           ]
         },
         {
-          "h": "Keep the meal independent",
+          "h": "Tate Modern: modern art with a Bankside finish",
           "p": [
-            "Borough Market can be a separate food outing, but it needs its own opening and trader information. Compare the actual journey from the museum rather than assuming it is a natural final stop. A nearby seated meal may fit a shorter afternoon better."
+            "Tate Modern is on Bankside. The official Visit London listing, with information supplied by the gallery, describes free gallery admission and separate charges for some events and exhibitions. It identifies Southwark and Blackfriars as useful Tube approaches. Use Tate’s own current visitor page for the day’s entrance and opening arrangements.",
+            "Choose Tate when you want to compare different media rather than see paintings alone. Begin with one display or space, then ask what the scale, material or movement changes about the experience. A work you do not immediately like can still make an interesting comparison with the next one. Check individual labels and access notices before assuming a performance or installation is part of general entry.",
+            "The Bankside location makes a riverside finish a sensible option after the collection. Keep that outdoor portion optional if the weather is poor. A shorter gallery visit followed by a break is a complete plan; there is no need to cross London to a second institution to justify a free ticket."
+          ],
+          "sourceIds": [
+            "tate-visitlondon"
           ]
+        },
+        {
+          "h": "Build a two-hour plan without turning it into a timed race",
+          "p": [
+            "Our suggested allowance is around two hours at your chosen museum, including a pause; it is not an official tour duration or a guarantee about entry queues. Choose the subject before arrival, use the current map inside, and leave the final part flexible. If you are tired or the rooms are busy, finish with the collection you actually enjoyed instead of forcing an extra wing.",
+            "Budget separately for travel, food, lockers or a cloakroom, and any paid exhibition. Free collection entry does not mean the whole afternoon costs nothing. If a special exhibition is your main reason to travel, check its separate availability first and arrange the collection visit around that booking."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Use the current venue map.",
-        "Check temporary room closures.",
-        "Avoid bringing prohibited luggage."
+        "Check the current floorplan for a specific work or collection.",
+        "Collection admission and temporary exhibition admission are different products.",
+        "Confirm access and luggage arrangements with the institution you choose."
       ],
       "faq": [
         [
-          "Does free admission include every exhibition?",
-          "Not necessarily. Check the product and current visitor information for the institution and exhibition you want."
+          "Which museum should I choose if I have one afternoon?",
+          "Choose by subject: British Museum for objects and history, National Gallery for paintings, or Tate Modern for modern and contemporary art. Keep one institution as the main outing."
         ],
         [
-          "How much should I try to see?",
-          "Choose a small subject-led route first. Extend it only if you still want to explore after a break."
+          "Is every exhibition free?",
+          "No. Free collection or general admission does not automatically include charged exhibitions or events."
         ]
       ],
       "slug": "london-free",
       "img": "lon-british-museum",
       "src": [
-        "timeout-lon",
+        "britishmuseum-visit",
         "nationalgallery-operator",
-        "borough-operator"
+        "tate-visitlondon"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "Choose first",
-          "One collection or subject."
+          "Objects and history",
+          "British Museum, Bloomsbury."
         ],
         [
-          "Confirm",
-          "Booking, exhibition charges and luggage rules."
+          "Paintings",
+          "National Gallery, Trafalgar Square."
         ],
         [
-          "Separate",
-          "Food and the onward journey."
+          "Modern and contemporary art",
+          "Tate Modern, Bankside."
+        ],
+        [
+          "Our suggested allowance",
+          "About two hours at one institution, plus travel and any entry wait."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
+        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "London Free Museums: Plan a Collection Visit"
+      "researchNote": "Visitor information checked 19 October 2026. Tate details here use the official Visit London listing supplied by the gallery; consult Tate directly for current opening. The two-hour plan is our suggestion, not an institution’s tour schedule.",
+      "seoTitle": "Free London Museums: Compare 3 Collections & Plan a Visit",
+      "items": [],
+      "planTable": {
+        "caption": "Three alternatives for one museum outing",
+        "headers": [
+          "Institution",
+          "Choose for",
+          "Entry planning"
+        ],
+        "rows": [
+          [
+            "British Museum",
+            "Objects and historical context",
+            "Free collection; advance timed booking recommended"
+          ],
+          [
+            "National Gallery",
+            "A painting-focused visit",
+            "Free general admission; Sainsbury Wing entrance"
+          ],
+          [
+            "Tate Modern",
+            "Modern and contemporary art",
+            "Free gallery; check separate exhibition charges"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "British Museum: visit and booking",
+          "https://www.britishmuseum.org/visit"
+        ],
+        [
+          "National Gallery: visit and floorplans",
+          "https://www.nationalgallery.org.uk/visiting/plan-your-visit"
+        ],
+        [
+          "Tate Modern: current visitor information",
+          "https://www.tate.org.uk/visit/tate-modern"
+        ],
+        [
+          "Find the National Gallery",
+          "https://www.google.com/maps/search/?api=1&query=National+Gallery+Trafalgar+Square+London"
+        ]
+      ]
     },
     {
       "id": "lis-views",
@@ -6163,104 +6594,177 @@
       "city": "world",
       "cat": "travel",
       "kind": "list",
-      "mins": 3,
-      "title": "Five neighbourhood-walk ideas: choose what you want to notice",
-      "dek": "Compare workshops, nightlife, waterfront change and public spaces as different kinds of outings.",
+      "mins": 5,
+      "title": "Five neighbourhood walks: choose a route by what you want to do",
+      "dek": "Compare workshop lanes, trading streets, dry-goods shopping, a Creek-side walk and a meal-led evening, with a practical next step for each.",
       "body": [
-        "A neighbourhood walk is more useful when it follows an interest instead of a popularity list. These five ideas begin with different subjects: working streets, an evening venue, riverside change, a public square and a cultural outing. Choose the subject you want to explore before choosing the city route.",
-        "Use each idea as a research starting point. The list does not promise current access to every venue or rank neighbourhoods by an unrecorded personal visit. A small, purposeful walk can be complete without a string of paid stops."
+        "Choose Talat Noi for a compact Bangkok lane walk, Hanoi’s Old Quarter for comparing trading streets, Dadaocheng for a shopping-led Taipei outing, Al Fahidi and Al Seef for a same-bank Dubai walk, or Euljiro for a meal-led Seoul visit. These choices serve different purposes; they are not a ranking of the world’s “coolest” neighbourhoods.",
+        "A district name alone is not a plan. For each option below, we give you an anchor, the activity to organise around it, and a reason to shorten or change the outing. The suggested sequences are editorial choices, not measured travel times or claims of a personal visit. Follow the linked destination guides for the fuller plan and current research references."
       ],
       "items": [
         {
-          "n": "Talat Noi, Bangkok",
-          "area": "Thailand",
-          "text": "Talat Noi: choose workshop streetscape or a café break as the purpose, using public lanes and current venue information."
+          "n": "Talat Noi, Bangkok: lanes with a museum option",
+          "text": "Start by saving Hua Lamphong MRT and the Talat Noi area, then choose whether your walk is about street detail or a museum stop. Thailand’s tourism authority identifies Talat Noi Museum and Chow Sue Kong Shrine among the neighbourhood’s places. Our full guide connects those anchors with Soi Wanit 2, keeping café purchases optional. Choose this if you want a small area to explore without building the whole day around a paid attraction. If an interior is closed, keep the public-lane portion and shorten the outing. Do not use a dated exhibition listing as proof that an event is still running."
         },
         {
-          "n": "Euljiro, Seoul",
-          "area": "South Korea",
-          "text": "Euljiro: begin with a confirmed meal or venue if evening culture is your interest; an old nightlife list needs current checks."
+          "n": "Old Quarter, Hanoi: compare streets with different trades",
+          "text": "Begin around Hoan Kiem Lake and choose a few Old Quarter streets rather than treating every lane as a required stop. Vietnam Tourism distinguishes Hang Bac’s jewellery trade and Hang Ma’s religious goods and decorations. That gives you a useful observation task: compare what is sold, how the shopfronts work and where the street changes character. Choose this over a fixed attraction route if browsing is the point. If traffic, rain or fatigue makes the lanes hard to enjoy, finish at the lake rather than forcing extra streets into the plan. The detailed guide has the suggested order and individual map anchors."
         },
         {
-          "n": "Marvila, Lisbon",
-          "area": "Portugal",
-          "text": "Lisbon riverside: compare the current publicly accessible spaces before assuming every former industrial building welcomes visitors."
+          "n": "Dadaocheng, Taipei: choose a shopping purpose on Dihua Street",
+          "text": "Use Dihua Street in Datong as the anchor. Taiwan’s Tourism Administration describes traditional dry goods, herbs, textiles and crafts along the street. Choose one category to browse, then compare two or three actual products before buying. Ask about quantity, packing and any restrictions relevant to taking food home. This suits someone who wants a purposeful market-street visit rather than an open-ended café crawl. A shopping district does not share one guaranteed shop timetable; if a particular business matters, verify it before setting out. The Dadaocheng guide separates street browsing from the optional riverside part."
         },
         {
-          "n": "Santa María la Ribera, Mexico City",
-          "area": "Mexico",
-          "text": "Santa María la Ribera: use the public square as a meeting and pause point, with any interior visit planned separately."
+          "n": "Al Fahidi and Al Seef, Dubai: keep the first walk on one bank",
+          "text": "Use the Al Fahidi and Al Seef stops in our Dubai Creek guide for a first outing, keeping the initial walk on the Bur Dubai side. Choose this format when a shorter, easily understood sequence matters more than fitting every Creek activity into one visit. Decide separately whether you want a boat service: an abra trip is not automatically included in a neighbourhood walk. Our detailed guide distinguishes current RTA routes and fares and identifies a suspended route; use those details and the linked operator before committing. If conditions make a longer outdoor visit uncomfortable, shorten the walk instead of adding another bank and a return crossing."
         },
         {
-          "n": "Peckham, London",
-          "area": "United Kingdom",
-          "text": "Peckham: choose a named cultural venue with a current programme rather than assuming every rooftop or cinema follows an old listing."
+          "n": "Euljiro, Seoul: choose the meal before the street exploration",
+          "text": "Use our Euljiro guide to choose between a soup-led meal and the Nogari Street pub format. This is the strongest fit when eating with friends is the main purpose, rather than a daytime architecture checklist. Save the station and actual meeting place for your selected meal, then let any extra browsing follow from that choice. The two formats are alternatives, not an instruction to order twice. If one person needs a quieter setting, non-alcoholic options or easier access, make that a venue enquiry before travel. A district’s reputation cannot answer those practical questions for the whole group."
         }
       ],
       "sections": [
         {
-          "h": "Choose one observation theme",
+          "h": "Use the full route guide rather than reconstructing a trip from a photo",
           "p": [
-            "A workshop district suggests looking at working street detail; a public square suggests a seated pause and surrounding architecture. Decide what you want to notice, then save a few orientation points. Do not treat every doorway as an attraction or every resident as part of the visitor experience."
-          ]
+            "A photograph can help you decide which place interests you, but it does not establish an open entrance, a current menu or a walkable connection. Open the relevant full guide below, save its map anchors, and choose one activity you would still enjoy if the optional café or museum were unavailable.",
+            "The Bangkok and Hanoi guides include suggested walking sequences. Dubai’s sequence keeps the first walk on one bank. Taipei’s plan separates shopping from other parts of the area, while Seoul begins with the meal choice. Those differences are why these pages are linked as distinct plans rather than interchangeable city-name variations."
+          ],
+          "sourceIds": []
         },
         {
-          "h": "Give one business its own confirmation",
+          "h": "Compare the outing you can actually complete",
           "p": [
-            "If a café, gallery, cinema or bar matters to the outing, check that business separately. Its current schedule, entrance and booking terms can determine the route. A neighbourhood description is not a collective opening notice."
-          ]
+            "If time is short, reduce the number of decisions: one station or arrival point, one main purpose and one place to finish. For a group with different interests, choose the non-negotiable activity first and keep the rest optional. A dedicated shopper and someone wanting a seated meal may need different versions of the same district.",
+            "Costs come from the activities you choose: purchases, admission, food or transport. We do not assign an invented common budget to five different cities. Use the specific venue or operator information in the destination guide and make the spend decision before joining a queue or agreeing an order."
+          ],
+          "sourceIds": []
         },
         {
-          "h": "Use a shorter finish",
+          "h": "Treat lived-in districts as places with everyday work",
           "p": [
-            "Choose a meeting point and the journey home before browsing. A walk can end at the first worthwhile seated stop. Add another district only when it serves a different purpose you still want, not because the first outing was shorter than expected."
-          ]
+            "Keep working entrances and shop access clear. Ask before photographing people or entering an interior that is not clearly open to visitors. A public lane does not turn every residence, workshop or place of worship into a tourist attraction.",
+            "After the outing, record what you actually observed and send factual corrections with the relevant guide URL. That helps separate a dated source, a change on the ground and a personal preference. This comparison does not claim that every street, business or access arrangement has been inspected by Sidestreet."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
-        "Ask before entering private or working interiors.",
-        "Do not invent personal observations.",
-        "Leave room for daily local activity."
+        "Save one arrival point and one finish before browsing.",
+        "An optional business should not be the only way the outing works.",
+        "Use current operator information for a paid journey or timed interior."
       ],
       "faq": [
         [
-          "Does a neighbourhood guide confirm every business?",
-          "No. A specific venue still needs its own current information."
+          "Are these the five best neighbourhoods in the world?",
+          "No. They are five different activity-led choices with linked planning guides; no universal ranking or personal inspection is claimed."
         ],
         [
-          "How do I make the walk personal?",
-          "Choose one interest and take notes on details you actually observe, rather than recreating another person’s entire route."
+          "Which should I choose for a short outing?",
+          "Choose the activity you want to complete: Bangkok lanes, Hanoi trading streets, Taipei shopping, a same-bank Dubai walk or a Seoul meal. Then use that destination’s full guide."
         ]
       ],
       "slug": "world-neighbourhoods",
       "img": "bkk-talat-noi-street",
       "src": [
         "talatnoi-tat",
+        "hanoi-tourism",
+        "taipei-dihua",
         "euljiro-seoul",
-        "santa-maria-tourism"
+        "dxb-rta-official"
       ],
-      "dateModified": "2026-10-09",
+      "dateModified": "2026-10-19",
       "quickPlan": [
         [
-          "Choose first",
-          "A subject you want to notice."
+          "Street detail",
+          "Talat Noi, Bangkok."
         ],
         [
-          "Route",
-          "A few public orientation points."
+          "Trade-street comparison",
+          "Hanoi Old Quarter."
         ],
         [
-          "Optional",
-          "One separately confirmed venue."
+          "Shopping purpose",
+          "Dihua Street, Taipei."
+        ],
+        [
+          "Same-bank walk",
+          "Al Fahidi to Al Seef, Dubai."
+        ],
+        [
+          "Meal-led outing",
+          "Euljiro, Seoul."
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Independent editorial planning and explanation; no claim of an on-site visit.",
-        "scope": "Article prose; selected operational facts remain subject to the linked sources."
+        "date": "2026-10-19",
+        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
+        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
       },
-      "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "seoTitle": "5 City Neighbourhood Walks for Your Next Trip"
+      "researchNote": "Comparison revised 19 October 2026. Named street and venue context comes from the linked official tourism sources; Dubai transport checks are documented in the linked Creek guide. Suggested choices and fallback plans are Sidestreet’s editorial analysis.",
+      "seoTitle": "5 Neighbourhood Walks: Bangkok, Hanoi, Taipei, Dubai & Seoul",
+      "planTable": {
+        "caption": "Choose the activity before choosing the district",
+        "headers": [
+          "Outing",
+          "Main decision",
+          "Keep optional"
+        ],
+        "rows": [
+          [
+            "Talat Noi",
+            "Lanes or a museum visit",
+            "Café stop"
+          ],
+          [
+            "Hanoi Old Quarter",
+            "Which trading streets interest you",
+            "Extra streets after the lake"
+          ],
+          [
+            "Dadaocheng",
+            "What you want to browse or buy",
+            "Riverside extension"
+          ],
+          [
+            "Al Fahidi–Al Seef",
+            "A same-bank walk",
+            "A separate abra journey"
+          ],
+          [
+            "Euljiro",
+            "Soup meal or pub outing",
+            "A second food stop"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Talat Noi walking guide",
+          "/guides/bangkok-talatnoi"
+        ],
+        [
+          "Hanoi Old Quarter route",
+          "/guides/hanoi-old-quarter"
+        ],
+        [
+          "Dadaocheng shopping and walk",
+          "/guides/taipei-dadaocheng"
+        ],
+        [
+          "Dubai Creek and Al Fahidi",
+          "/guides/dubai-creek-al-fahidi-outing"
+        ],
+        [
+          "Euljiro meal planning",
+          "/guides/seoul-euljiro"
+        ]
+      ],
+      "relatedGuides": [
+        "bangkok-talatnoi",
+        "hanoi-old-quarter",
+        "taipei-dadaocheng"
+      ]
     },
     {
       "id": "g-trains",
@@ -12627,9 +13131,11 @@
       "blurb": "Compare the Kata area with the beach outing you want. A walk, lesson and swim need different decisions; use current local instructions for water activity.",
       "img": "hkt-kata",
       "src": [
-        "phuket-beaches-government"
+        "phuket-kata-gov",
+        "tat-beach-flags"
       ],
-      "verify": true
+      "verify": true,
+      "url": "https://www.phuket.go.th/eng/Beaches-Kata%20Beach.php"
     },
     {
       "id": "hkt-nai-harn",
@@ -12640,9 +13146,11 @@
       "blurb": "A beach-area option for a walk or pause after checking the approach. Choose swimming separately using current local conditions and advice.",
       "img": "hkt-nai-harn",
       "src": [
-        "phuket-beaches-government"
+        "phuket-naiharn-gov",
+        "tat-beach-flags"
       ],
-      "verify": true
+      "verify": true,
+      "url": "https://www.phuket.go.th/eng/Beaches-Nai%20Harn%20Beach.php"
     },
     {
       "id": "hkt-freedom",
@@ -12666,9 +13174,11 @@
       "blurb": "A northern beach option for a permitted land-based outing. Follow local notices and keep restricted airport areas outside the photography or walking plan.",
       "img": "hkt-mai-khao",
       "src": [
-        "phuket-beaches-government"
+        "phuket-maikhao-gov",
+        "tat-beach-flags"
       ],
-      "verify": true
+      "verify": true,
+      "url": "https://www.phuket.go.th/eng/Beaches-Mai%20Khao%20Beach.php"
     },
     {
       "id": "hkt-patong",
@@ -12679,9 +13189,11 @@
       "blurb": "Compare this beach area with the busier outing you want. Check the actual business, activity or route rather than treating a nightlife description as a shared timetable.",
       "img": "hkt-patong",
       "src": [
-        "phuket-tat-highlights"
+        "phuket-patong-gov",
+        "tat-beach-flags"
       ],
-      "verify": true
+      "verify": true,
+      "url": "https://www.phuket.go.th/eng/Attractions-Beaches.php"
     },
     {
       "id": "hkt-old-town-breakfast",
@@ -12878,10 +13390,10 @@
       "kind": "eat",
       "name": "Maxwell Food Centre",
       "area": "Chinatown",
-      "blurb": "A hawker-meal starting point where the current menus determine the choice. Set a queue limit and ask dietary questions separately from popularity.",
+      "blurb": "A Chinatown hawker-meal option highlighted by Singapore Tourism Board for dishes including chicken rice. Use Maxwell or Chinatown MRT according to your starting point and confirm the stall you want is serving.",
       "img": "sin-maxwell",
       "src": [
-        "maxwell-heritage"
+        "singapore-chinatown-official"
       ],
       "verify": true
     },
@@ -12891,12 +13403,14 @@
       "kind": "eat",
       "name": "Lau Pa Sat",
       "area": "Downtown Core",
-      "blurb": "Compare the meal format available at your intended time. A centre visit and a specific evening street programme should not be treated as identical arrangements.",
+      "blurb": "Food centre at 18 Raffles Quay. Treat the centre meal and outdoor Satay Street as different plans; confirm the street schedule separately from individual hawker opening.",
       "img": "sin-lau-pa-sat",
       "src": [
-        "laupasat-operator"
+        "laupasat-operator",
+        "laupasat-satay"
       ],
-      "verify": true
+      "verify": true,
+      "url": "https://www.laupasat.sg/"
     },
     {
       "id": "kul-petronas",
@@ -13074,10 +13588,13 @@
       "name": "The British Museum",
       "area": "Bloomsbury",
       "price": "Free",
-      "url": "https://www.britishmuseum.org/",
-      "blurb": "Choose a collection interest and check current booking and luggage rules. A general admission description does not include every exhibition or gallery.",
+      "url": "https://www.britishmuseum.org/visit",
+      "blurb": "A Bloomsbury collection visit with free general admission and advance timed booking recommended. Choose one subject and check current gallery availability; large bags and wheeled suitcases are not permitted.",
       "img": "lon-british-museum",
-      "verify": true
+      "verify": true,
+      "src": [
+        "britishmuseum-visit"
+      ]
     },
     {
       "id": "lon-tate-modern",
@@ -13087,9 +13604,12 @@
       "area": "Bankside",
       "price": "Free",
       "url": "https://www.tate.org.uk/visit/tate-modern",
-      "blurb": "Use the current programme to select collection viewing or a separate exhibition. Give a few works time rather than treating every floor as a compulsory circuit.",
+      "blurb": "Modern and contemporary art on Bankside. General gallery entry is free; special exhibitions and events can have separate charges. Check Tate’s current visitor page for opening and entry.",
       "img": "lon-tate-modern",
-      "verify": true
+      "verify": true,
+      "src": [
+        "tate-visitlondon"
+      ]
     },
     {
       "id": "lon-borough",
@@ -16864,7 +17384,8 @@
           "src": "/images/t-jazz-kissa-960.jpg",
           "w": 960
         }
-      ]
+      ],
+      "alt": "Archive interior of Jazz & Coffee Masako in Shimokitazawa, Tokyo, photographed in September 2009"
     },
     "t-ny-pizza": {
       "src": "/images/t-ny-pizza.jpg",

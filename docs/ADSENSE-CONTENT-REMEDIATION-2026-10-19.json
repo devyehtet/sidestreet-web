@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-19",
+  "reason": "AdSense low value content rejection shown by publisher; Google did not identify failing URLs.",
+  "scope": "Seven priority guides rewritten. The remaining 86 guides still need article-by-article text review; complete publisher and media-rights sign-off is pending.",
+  "guides": [
+    {
+      "slug": "tokyo-listening",
+      "mainProseWordsBefore": 217,
+      "mainProseWordsAfter": 592,
+      "sourceIds": [
+        "tokyo-kissaten-official",
+        "eagle-jbl",
+        "lion-operator"
+      ],
+      "review": "Text rewrite and cited-source alignment completed; complete publisher factual/rights sign-off pending"
+    },
+    {
+      "slug": "london-free",
+      "mainProseWordsBefore": 209,
+      "mainProseWordsAfter": 714,
+      "sourceIds": [
+        "britishmuseum-visit",
+        "nationalgallery-operator",
+        "tate-visitlondon"
+      ],
+      "review": "Text rewrite and cited-source alignment completed; complete publisher factual/rights sign-off pending"
+    },
+    {
+      "slug": "singapore-hawker",
+      "mainProseWordsBefore": 221,
+      "mainProseWordsAfter": 769,
+      "sourceIds": [
+        "singapore-chinatown-official",
+        "laupasat-operator",
+        "laupasat-satay"
+      ],
+      "review": "Text rewrite and cited-source alignment completed; complete publisher factual/rights sign-off pending"
+    },
+    {
+      "slug": "seoul-euljiro",
+      "mainProseWordsBefore": 209,
+      "mainProseWordsAfter": 670,
+      "sourceIds": [
+        "euljiro-seoul"
+      ],
+      "review": "Text rewrite and cited-source alignment completed; complete publisher factual/rights sign-off pending"
+    },
+    {
+      "slug": "world-neighbourhoods",
+      "mainProseWordsBefore": 310,
+      "mainProseWordsAfter": 909,
+      "sourceIds": [
+        "talatnoi-tat",
+        "hanoi-tourism",
+        "taipei-dihua",
+        "euljiro-seoul",
+        "dxb-rta-official"
+      ],
+      "review": "Text rewrite and cited-source alignment completed; complete publisher factual/rights sign-off pending"
+    },
+    {
+      "slug": "ho-chi-minh-city-coffee",
+      "mainProseWordsBefore": 211,
+      "mainProseWordsAfter": 634,
+      "sourceIds": [
+        "hcmc-coffee-tourism",
+        "cong-operator"
+      ],
+      "review": "Text rewrite and cited-source alignment completed; complete publisher factual/rights sign-off pending"
+    },
+    {
+      "slug": "phuket-beaches",
+      "mainProseWordsBefore": 640,
+      "mainProseWordsAfter": 731,
+      "sourceIds": [
+        "phuket-kata-gov",
+        "phuket-naiharn-gov",
+        "phuket-maikhao-gov",
+        "phuket-patong-gov",
+        "tat-beach-flags",
+        "dmcr-phuket-warning"
+      ],
+      "review": "Text rewrite and cited-source alignment completed; complete publisher factual/rights sign-off pending"
+    }
+  ],
+  "countingNote": "Main prose excludes tables, FAQ, quick plans, place cards and navigation. Counts are diagnostics, not Google thresholds or quality scores.",
+  "sitewideEditorialSignoff": false,
+  "reviewResubmitted": false,
+  "sourceCaveats": [
+    "Lau Pa Sat Satay Street page has inconsistent weekend-start wording; the guide explains it.",
+    "Eagle interview is a published account, not direct confirmation of current opening or prices.",
+    "Lion page includes undated holiday notices; these are not reused as current dates.",
+    "Tate details use gallery-supplied official Visit London information; no unverified opening hours copied.",
+    "Phuket source ages are labelled. Removed unsupported jellyfish-treatment, precise sun-hour, fine and seasonal-conditions claims; current local warnings determine the water decision."
+  ],
+  "remainingWork": [
+    "Review remaining 86 guides for specific reader utility, source freshness, scope consistency and factual claims.",
+    "Complete image-by-image original-file and licence review; attribution alone is not full clearance.",
+    "Publisher review of expertise and originality; add genuine observations only when actually supplied.",
+    "Request review on the existing AdSense site record after the remaining substantive checks."
+  ],
+  "validation": {
+    "lint": "passed",
+    "existingTests": {
+      "passed": 17,
+      "failed": 0
+    },
+    "productionBuild": "passed",
+    "renderedGuideChecks": {
+      "pages": 93,
+      "issues": 0,
+      "scope": "HTTP 200, one H1, chapter navigator and in-page anchor targets"
+    },
+    "mobileChecks": {
+      "guides": 7,
+      "viewport": 390,
+      "horizontalOverflow": 0,
+      "brokenImagesObserved": 0
+    },
+    "limits": "Structural and rendering checks do not establish factual accuracy, complete originality, image clearance or AdSense eligibility."
+  }
+}
