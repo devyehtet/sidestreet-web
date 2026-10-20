@@ -17,6 +17,7 @@ export function guideSections(story,places) {
 export function guideNavigation(story,places,cities) {
  const route=story.navigationRoute;
  if(route?.mode==='walking'&&route.stops?.length>=2&&route.stops.length<=5&&route.stops.every(s=>s.name&&s.query&&s.note))return {ordered:true,title:route.title,summary:route.summary,stops:route.stops,routeUrl:walkingRouteUrl(route.stops),total:route.stops.length};
+ if(route?.mode==='places'&&route.stops?.length>=1&&route.stops.length<=8&&route.stops.every(s=>s.name&&s.query&&s.note))return {ordered:false,title:route.title,summary:route.summary,stops:route.stops,routeUrl:null,total:route.stops.length};
  const ids=[...new Set([...(story.places||[]),...(story.items||[]).map(x=>x.p).filter(Boolean)])];
  const found=ids.map(id=>places.find(p=>p.id===id)).filter(Boolean);
  return {ordered:false,title:'Find your next stop',summary:'Choose a place to see its map and plan your journey.',stops:found.slice(0,8).map(p=>{const city=cities.find(c=>c.id===p.city);return {name:p.name,query:[p.name,p.area,city?.name,city?.country].filter(Boolean).join(', '),note:p.blurb,href:city?'/city/'+city.slug+'#'+p.id:null};}),routeUrl:null,total:found.length};

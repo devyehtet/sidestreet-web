@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-21",
+  "baselineFile": "sidestreet-search-traffic-2026-10-21.json",
+  "baselinePeriod": [
+    "2026-10-12",
+    "2026-10-18"
+  ],
+  "baseline": {
+    "clicks": 3,
+    "impressions": 385
+  },
+  "priorityGuides": [
+    "phuket-dragon-line-free-town-bus",
+    "chiang-mai-design-week-2026-dates"
+  ],
+  "updatedGuides": [
+    "chiang-mai-design-week-2026-dates",
+    "chiang-mai-oldcity",
+    "chiang-mai-two-day-itinerary",
+    "phuket-dragon-line-free-town-bus",
+    "phuket-oldtown",
+    "phuket-restaurants-best-for-old-town-meals",
+    "phuket-shops-services-best-for-town-and-transfers"
+  ],
+  "changes": [
+    "Rewrite two already-impression-producing guides around distinct reader decisions.",
+    "Add Scents Asia named venue and published hours from its own organiser announcement.",
+    "Add destination-area map selectors without representing them as bus-stop pins or walking routes.",
+    "Add three direct homepage guide cards, five contextual guide links and an unfiltered service-hub introduction.",
+    "Correct homepage culture-card overflow observed at 390px; preserve readable titles at smaller widths."
+  ],
+  "measure": [
+    "Compare matched seven-day Web Search periods after recrawl; segment each priority URL.",
+    "Record impressions, clicks, CTR and query mix; do not equate position averages across changing queries.",
+    "Check live URL Inspection for pending URLs; do not treat the old indexing summary as current."
+  ],
+  "limitations": [
+    "No traffic or ranking guarantee.",
+    "No universal festival admission or session availability verified.",
+    "No new social posts, outreach or paid ads sent."
+  ],
+  "urlInspection": {
+    "checkedAt": "2026-10-21",
+    "method": "Authenticated Search Console URL Inspection; indexed version, not a Live Test",
+    "results": [
+      {
+        "url": "https://sidestreetguides.com/services",
+        "status": "URL is on Google; Page is indexed"
+      },
+      {
+        "url": "https://sidestreetguides.com/guides/chiang-mai-doi-suthep-visit",
+        "status": "URL is on Google; Page is indexed"
+      },
+      {
+        "url": "https://sidestreetguides.com/guides/george-town-penang-heritage-walk",
+        "status": "URL is on Google; Page is indexed"
+      }
+    ],
+    "note": "These three were excluded in the older 12 October summary but URL-specific results now show indexed. No indexing failure is asserted from the old summary."
+  }
+}
