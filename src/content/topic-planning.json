@@ -1,0 +1,71 @@
+{
+  "travel": {
+    "title": "City Travel Guides: Arrivals, Transport & Itineraries",
+    "intro": "Plan the first journey before filling the whole day. Start with an airport transfer, choose a manageable itinerary, or compare a rail trip with the time you will actually have at the destination. Each guide separates published transport information from our suggested planning allowances.",
+    "heading": "Start with the journey you need",
+    "links": [
+      [
+        "bangkok-suvarnabhumi-airport-transfer",
+        "Arriving in Bangkok",
+        "Compare rail and a road transfer, including the final leg to your hotel."
+      ],
+      [
+        "phuket-airport-to-beach-transfer",
+        "Arriving in Phuket",
+        "Choose a bus route or direct transfer for your actual beach destination."
+      ],
+      [
+        "world-trains",
+        "Taking the Bangkok–Chiang Mai sleeper",
+        "Compare berths and your arrival plan before booking."
+      ]
+    ],
+    "description": "Practical city travel guides for airport transfers, rail journeys and manageable itineraries. Compare the journey before planning the rest of your day."
+  },
+  "things": {
+    "title": "Things to Do: Markets, Walks & Cultural Visits",
+    "intro": "Choose one anchor for the outing: a market, a neighbourhood walk or a cultural visit. These guides explain arrival choices, booking decisions and shorter alternatives so you can fit a place into the time you have, rather than collect a list of stops.",
+    "heading": "Choose the outing that fits your day",
+    "links": [
+      [
+        "bangkok-chatuchak",
+        "Plan a Chatuchak shopping visit",
+        "Check weekend hours, choose an arrival station and build a focused shopping plan."
+      ],
+      [
+        "dubai-creek-al-fahidi-outing",
+        "Explore Dubai Creek",
+        "Compare Al Seef abra routes with a separate Al Fahidi walk."
+      ],
+      [
+        "london-free",
+        "Choose a free London museum visit",
+        "Compare three museums and check what needs a separate booking."
+      ]
+    ],
+    "description": "Plan markets, neighbourhood walks and cultural visits with arrival options, booking decisions and shorter alternatives for the time you have."
+  },
+  "hotels": {
+    "title": "Bangkok Hotels: Area, Room & Booking Comparisons",
+    "intro": "Begin with where you will spend the day and how you will return at night. Our Bangkok hotel guide compares Sukhumvit and riverside planning needs, then examines four riverside properties by location, room category and booking terms. The listings below are research starting points, not personally inspected or scored hotels.",
+    "heading": "Before you reserve a room",
+    "links": [
+      [
+        "bangkok-hotels",
+        "Sukhumvit or riverside?",
+        "Choose an area using your journeys, then compare four riverside hotel listings."
+      ],
+      [
+        "bangkok-three-day-first-visit",
+        "Test the location against your itinerary",
+        "Use a three-day plan to identify the journeys you would repeat from a hotel."
+      ],
+      [
+        "bangkok-suvarnabhumi-airport-transfer",
+        "Include the airport transfer",
+        "Compare the complete arrival journey, including the hotel’s final connection."
+      ]
+    ],
+    "description": "Compare Sukhumvit and riverside Bangkok by daily journeys, then assess four riverside hotels by room category, transfers and booking terms."
+  }
+}

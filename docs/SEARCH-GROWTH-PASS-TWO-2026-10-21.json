@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-21",
+  "purpose": "Second traffic growth pass; existing pages, no extra city count.",
+  "baseline": {
+    "property": "sc-domain:sidestreetguides.com",
+    "surface": "Authenticated Search Console UI, Web, three months selected",
+    "actualDateRange": [
+      "2026-10-08",
+      "2026-10-18"
+    ],
+    "clicks": 3,
+    "impressions": 468,
+    "ctrPercent": 0.6,
+    "averagePosition": 28,
+    "limitation": "Precedes the Oct19/21 content changes; cannot measure their effect. Query totals can differ from chart totals."
+  },
+  "queryPageEvidence": [
+    {
+      "query": "al seef abra",
+      "page": "/guides/dubai-creek-al-fahidi-outing",
+      "clicks": 0,
+      "impressions": 2,
+      "position": 9.0,
+      "mapping": "Exact query filter, Pages table verified"
+    },
+    {
+      "query": "sukhumvit vs riverside bangkok",
+      "page": "/guides/bangkok-hotels",
+      "clicks": 0,
+      "impressions": 5,
+      "position": 33.2,
+      "mapping": "Exact query filter, Pages table verified"
+    },
+    {
+      "query": "chatuchak market",
+      "clicks": 0,
+      "impressions": 11,
+      "position": 61.7,
+      "mapping": "Unfiltered query table; related existing page selected editorially; not a verified query-to-page pair"
+    }
+  ],
+  "revisedGuides": [
+    "bangkok-chatuchak",
+    "dubai-creek-al-fahidi-outing",
+    "bangkok-hotels"
+  ],
+  "contextualInboundLinks": [
+    [
+      "bangkok-three-day-first-visit",
+      "bangkok-chatuchak",
+      "Check Chatuchak opening days and arrival stations"
+    ],
+    [
+      "bangkok-suvarnabhumi-airport-transfer",
+      "bangkok-hotels",
+      "Compare Sukhumvit and riverside hotel locations"
+    ]
+  ],
+  "topicPages": [
+    "/topics/travel",
+    "/topics/things-to-do",
+    "/topics/hotels"
+  ],
+  "sourceChecks": [
+    {
+      "name": "Thailand 2026 Annual Meetings visitor guide — Chatuchak access, weekend hours and admission",
+      "url": "https://www.am2026thailand.go.th/explore-bangkok/chatuchak-weekend-market",
+      "consultedAt": "2026-10-21"
+    },
+    {
+      "name": "Chatuchak Market visitor website — opening days",
+      "url": "https://www.chatuchakmarket.org/contact/",
+      "consultedAt": "2026-10-21"
+    },
+    {
+      "name": "Dubai RTA — current Creek abra routes",
+      "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
+      "consultedAt": "2026-10-21"
+    },
+    {
+      "name": "BTS — official routes, fares and station area maps",
+      "url": "https://www.bts.co.th/eng/routemap.html",
+      "consultedAt": "2026-10-21"
+    }
+  ],
+  "measurement": {
+    "cohort": [
+      "bangkok-chatuchak",
+      "dubai-creek-al-fahidi-outing",
+      "bangkok-hotels"
+    ],
+    "nextComparison": "Compare equal complete seven-day windows after Google has crawled the revised pages; assess query/page impressions, clicks, CTR and position together.",
+    "limits": "Small sample; no promised lift, minimum word count or approval guarantee. No new indexing request submitted in this pass."
+  }
+}

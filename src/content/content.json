@@ -419,7 +419,7 @@
     "chatuchak-hours": {
       "name": "Chatuchak Market visitor website — opening days",
       "url": "https://www.chatuchakmarket.org/contact/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-21"
     },
     "talatnoi-tat": {
       "name": "Tourism Authority of Thailand — one day in Talat Noi",
@@ -760,7 +760,7 @@
     "dxb-rta-official": {
       "name": "Dubai RTA — current Creek abra routes",
       "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-10-21"
     },
     "ubd-tourism-official": {
       "name": "Indonesia Ministry of Tourism — Ubud",
@@ -1279,6 +1279,16 @@
     "cmdw-2026-announcement": {
       "name": "Creative Economy Agency — CMDW 2026 announcement and programme themes",
       "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/content/168436",
+      "consultedAt": "2026-10-21"
+    },
+    "chatuchak-government-2026": {
+      "name": "Thailand 2026 Annual Meetings visitor guide — Chatuchak access, weekend hours and admission",
+      "url": "https://www.am2026thailand.go.th/explore-bangkok/chatuchak-weekend-market",
+      "consultedAt": "2026-10-21"
+    },
+    "bts-route-planner": {
+      "name": "BTS — official routes, fares and station area maps",
+      "url": "https://www.bts.co.th/eng/routemap.html",
       "consultedAt": "2026-10-21"
     }
   },
@@ -2686,12 +2696,11 @@
       "city": "bkk",
       "cat": "things",
       "kind": "feature",
-      "mins": 3,
-      "title": "Chatuchak: choose your shopping day and a manageable route",
-      "dek": "A shopping plan built around two priorities, a spending limit and space for lunch.",
+      "mins": 4,
+      "title": "Chatuchak Market Bangkok: opening days, stations and a shopping plan",
+      "dek": "Weekend hours, free entry, Kamphaeng Phet versus Mo Chit arrival, and a focused shopping plan with time for a break.",
       "src": [
-        "p101nm",
-        "aufood",
+        "chatuchak-government-2026",
         "chatuchak-hours"
       ],
       "places": [
@@ -2699,81 +2708,91 @@
         "bkk-or-tor-kor"
       ],
       "body": [
-        "A useful Chatuchak visit begins with a short shopping list. Choose two categories you want to browse and keep a third optional. Without that starting point, an interesting first aisle can consume the time you intended to spend elsewhere.",
-        "The main weekend market and the weekday plant or wholesale sessions serve different purposes. Use the visitor schedule to choose the day, then save your arrival and departure points. Once inside, the goal is to find things you actually want rather than to cover every section."
+        "For the main Chatuchak Weekend Market in Bangkok, plan for Saturday or Sunday: Thailand’s Annual Meetings visitor guide lists 9am–6pm and free admission. It names MRT Kamphaeng Phet Exit 2 and BTS Mo Chit Exit 1 as arrival options. Weekday plant and wholesale sessions are different visits, so choose the day before planning what to buy.",
+        "Start with two shopping priorities, such as clothing and ceramics, then leave a third optional. Save the entrance you use and allow a break before making the final purchase. The plan below is a way to keep a large market manageable; it is independent desk research, not a personally tested shopping circuit."
       ],
       "sections": [
         {
-          "h": "A short history",
+          "h": "When is Chatuchak open, and does entry cost anything?",
           "p": [
-            "Bangkok's weekend market used to be held at Sanam Luang, the royal field beside the Grand Palace. In 1982 it moved north to its present site beside Chatuchak Park. Locals call it JJ, from the Thai spelling of its name."
-          ]
-        },
-        {
-          "h": "Finding your way",
-          "p": [
-            "Save the entrance and section numbers you actually use. Agree a meeting point with your group, including a backup if mobile reception is poor.",
-            "Choose categories that interest you, such as clothing, ceramics or home decoration, and compare sellers within that area. Record a stall location before deciding to return."
-          ]
-        },
-        {
-          "h": "What to buy and how to bargain",
-          "p": [
-            "For ceramics, baskets, clothing or second-hand goods, compare dimensions, materials and condition before price. Ask whether a price is fixed and whether packing or delivery costs extra. A discount is not guaranteed."
-          ]
-        },
-        {
-          "h": "Eating and resting",
-          "p": [
-            "Food stalls are scattered through every section. Coconut ice cream, grilled pork skewers and Thai iced tea are the classics. When the heat gets too much, JJ Mall next door is air-conditioned, and Or Tor Kor Market across the road has a calmer food court."
-          ]
-        },
-        {
-          "h": "Make the first hour count",
-          "p": [
-            "Save a map pin for the entrance you actually use and photograph the section number near it. Agree on that entrance as your meeting point; a landmark inside the market can be harder to reach once your group separates. Choose two shopping priorities before entering.",
-            "Before buying a fragile item, ask about packing, shipping, the total cost and the seller’s contact details. For clothing, check sizing and exchange terms rather than assuming there is a fitting room or a refund. Keep a photograph of the stall number with the receipt."
-          ]
-        },
-        {
-          "h": "A short visit and a rainy-day alternative",
-          "p": [
-            "With only an hour, stay near your arrival gate, browse one section and choose one snack. A full loop creates more walking than useful shopping. If heat or rain makes the visit uncomfortable, switch to a nearby indoor break or leave; covered lanes do not guarantee a dry, cool route."
+            "The government visitor page lists the main weekend market on Saturday and Sunday, 9am–6pm, with no entrance charge. Its note that some zones also open on Friday does not promise the full weekend selection. The separate visitor website lists Wednesday and Thursday plant sessions, 7am–6pm, and a Friday wholesale session with ambiguous end-time wording.",
+            "Choose Saturday or Sunday for a general shopping visit. If one particular seller is the reason for your trip, ask that seller when it opens; a market-wide schedule cannot guarantee an individual stall. For Friday, confirm the session directly rather than building an evening around an unclear closing time."
           ],
           "sourceIds": [
+            "chatuchak-government-2026",
             "chatuchak-hours"
           ]
         },
         {
-          "h": "Decide what makes a purchase worthwhile",
+          "h": "MRT Kamphaeng Phet or BTS Mo Chit: choose your arrival",
           "p": [
-            "Before comparing prices, decide the useful size, material and condition for the item you want. Include packing and transport in that comparison. A lower price can be poor value if the purchase is awkward to carry or unsuitable when you get home.",
-            "Photograph a section number or save a shop location if you want to return, with permission when photographing merchandise. Take a break before the last buying decision. It is easier to compare two options when you are rested than when you are trying to finish shopping and find the exit at the same time."
+            "The government visitor guide identifies Kamphaeng Phet Exit 2 and Mo Chit Exit 1. Choose the line that fits your starting point, then save that station and exit for the return. They are alternative arrivals, not two compulsory stops on a walking route.",
+            "For a group, name one meeting point before splitting up. Photograph the entrance and a nearby section sign when you arrive. A saved station pin helps you leave the area, while a stall number helps you find a purchase again; keep both rather than relying on a single market-centre pin."
+          ],
+          "sourceIds": [
+            "chatuchak-government-2026"
+          ]
+        },
+        {
+          "h": "A three-hour shopping plan with an exit decision",
+          "p": [
+            "Our suggested first 15 minutes are for orientation: save your entrance, find a section map and choose the first shopping category. Spend the next hour comparing within that category. Photograph a stall reference before moving on, with permission if merchandise or people are in the frame.",
+            "Use the second hour for your other priority and a seated break. Reserve the final 45 minutes for returning to a saved stall, checking the purchase and leaving. If you only have an hour, browse near your arrival side and skip the second category. These are planning allowances, not measured walking times or a guarantee that a seller will still be open."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Check the purchase before comparing the discount",
+          "p": [
+            "For ceramics or homeware, compare dimensions, condition and packing as well as price. For clothing, check the actual size and exchange terms. Ask whether the price is fixed before bargaining; a discount does not compensate for the wrong product.",
+            "Ask the seller which payment methods it accepts before committing. Keep a separate allowance for food and your return journey. For shipped goods, obtain the seller’s contact details and a written total covering packing and delivery; do not assume every stall provides shipping or accepts the same cards."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Heat, rain and a shorter visit",
+          "p": [
+            "Schedule a pause before the group is exhausted. Covered aisles do not establish an entirely dry or cool route. If outdoor conditions stop being comfortable, shorten the shopping list and leave from the entrance you saved.",
+            "Treat nearby food or indoor browsing as a separate choice, with its own opening hours and facilities to check. If you want an evening market on another day, compare the Bangkok night-market guide rather than assuming Chatuchak’s weekend hours apply."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Compare Bangkok evening-market options",
+              "/guides/bangkok-night-markets"
+            ]
           ]
         }
       ],
       "tips": [
-        "Take the MRT to Kamphaeng Phet for the quickest way in. Exit 2 opens straight into the market.",
-        "Bring cash. There are ATMs, but the queues are long by midday.",
-        "Several stalls near the main gates will pack and ship large purchases home for you.",
-        "Wear closed, comfortable shoes. The lanes are uneven and wet in places."
+        "Save your arrival station, exit and market entrance separately.",
+        "Photograph the stall or section reference before leaving an item to compare prices.",
+        "Confirm payment, packing and exchange terms with the individual seller."
       ],
       "faq": [
         [
+          "What are Chatuchak Weekend Market’s opening hours?",
+          "The published main weekend hours are Saturday and Sunday, 9am–6pm. Check individual sellers separately."
+        ],
+        [
+          "Is Chatuchak Market free to enter?",
+          "Published admission is free; purchases and transport cost extra."
+        ],
+        [
+          "Which station should I use for Chatuchak?",
+          "Choose MRT Kamphaeng Phet Exit 2 or BTS Mo Chit Exit 1 according to your starting line. Save your actual market entrance for the return."
+        ],
+        [
           "Is Chatuchak open on weekdays?",
-          "The visitor website lists Wednesday and Thursday for plants, Friday for wholesale, and Saturday and Sunday for the full market. Confirm individual stall and session hours before a special trip."
+          "The visitor website lists Wednesday and Thursday for plants and Friday for wholesale. Friday closing wording is unclear, so confirm that session directly; do not expect the whole weekend market."
         ],
         [
-          "How long should I allow?",
-          "Three to four hours is enough for most people. Collectors and serious shoppers can easily spend the whole day."
+          "How long should I allow at Chatuchak?",
+          "Our suggestion is three hours for two shopping priorities, a break and the journey out of the market. A one-hour visit works better with one category near your arrival entrance."
         ],
         [
-          "Is there anywhere to cool down?",
-          "Most of the market is covered but not air-conditioned. JJ Mall and Mixt Chatuchak, two shopping centres on the edge of the market, are air-conditioned and have food courts and clean toilets."
-        ],
-        [
-          "Can I pay by card?",
-          "Rarely. Bring cash. Some stalls accept Thai QR payments, which most foreign banking apps cannot use."
+          "Can I pay by card at Chatuchak?",
+          "Ask each seller before buying. Payment methods and exchange terms vary; there is no single acceptance policy established by this guide."
         ]
       ],
       "slug": "bangkok-chatuchak",
@@ -2793,7 +2812,7 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose a plan that fits your day",
+        "caption": "Chatuchak visit choices: government visitor guide and separate visitor website checked 21 October 2026",
         "headers": [
           "Visit",
           "What to expect",
@@ -2802,7 +2821,7 @@
         "rows": [
           [
             "Saturday or Sunday",
-            "Main market; visitor website lists 9am–6pm",
+            "Main weekend market: 9am–6pm; free admission (government visitor guide)",
             "Choose this for the broadest range of stalls"
           ],
           [
@@ -2817,14 +2836,41 @@
           ]
         ]
       },
-      "dateModified": "2026-10-19",
-      "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
+      "dateModified": "2026-10-21",
+      "researchNote": "Selected access, route or transport references and the planning sections were updated on 21 October 2026. Other property and place-card details retain their stated review scope. This is independent desk research, not a firsthand visit; suggested itineraries and cost comparisons are editorial analysis.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-10-21",
+        "method": "Search-intent revision, selected primary-source checks and original trip-planning comparisons.",
+        "scope": "Specific sections and snippets only; not exhaustive factual clearance, a room inspection or image-rights signoff."
       },
-      "seoTitle": "Chatuchak Market Bangkok: Shopping & Route Guide"
+      "seoTitle": "Chatuchak Market Bangkok: Hours, MRT & Shopping",
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Choose a Chatuchak arrival station",
+        "summary": "These are two alternative arrival areas from the government visitor guide, not a route through the market. Check the station signage for the stated exit.",
+        "stops": [
+          {
+            "name": "MRT Kamphaeng Phet",
+            "query": "Kamphaeng Phet MRT Station, Bangkok, Thailand",
+            "note": "Visitor guide: Exit 2. Save the actual market entrance and section sign after arriving."
+          },
+          {
+            "name": "BTS Mo Chit",
+            "query": "Mo Chit BTS Station, Bangkok, Thailand",
+            "note": "Visitor guide: Exit 1. Choose this option if the BTS fits your starting point; it is not an extra stop after the MRT."
+          }
+        ]
+      },
+      "planLinks": [
+        [
+          "Official visitor page: access, weekend hours and admission",
+          "https://www.am2026thailand.go.th/explore-bangkok/chatuchak-weekend-market"
+        ],
+        [
+          "Fit the market into a three-day Bangkok visit",
+          "/guides/bangkok-three-day-first-visit"
+        ]
+      ]
     },
     {
       "id": "bkk-loy-krathong",
@@ -3544,12 +3590,12 @@
       "city": "bkk",
       "cat": "hotels",
       "kind": "list",
-      "mins": 3,
-      "title": "Bangkok riverside hotels: compare the stay you will actually book",
-      "dek": "Four listings, with location, room category and booking terms kept separate from reputation.",
+      "mins": 4,
+      "title": "Bangkok hotels: Sukhumvit or riverside, then choose your room",
+      "dek": "Compare rail access, river transfers and your daily plans before choosing an area, then compare four riverside hotel listings by room and rate.",
       "body": [
-        "A riverside hotel comparison should begin with the trip you are planning. Ask whether you want time at the hotel, frequent sightseeing transfers or a particular dining experience. Those needs can matter more than the building’s age or a place in a hotel ranking.",
-        "Use these four listings as starting points for enquiries. Compare the actual room and rate offered for your dates, including cancellation terms and any services you expect to use. A photograph of one room or a general hotel description does not establish the features of every booking."
+        "Choose Sukhumvit near a usable rail station if repeated journeys across the city shape your trip; consider the riverside if hotel time and river outings are the main attraction. This is a planning rule, not a claim that every hotel in either area is convenient. Compare the exact entrance, first destination and return after dinner before you book.",
+        "Start with the area comparison below, then use the four riverside property notes to compare actual rooms and rates. This is not a ranked list of Sukhumvit hotels or a room inspection. Your dates, guest count and cancellation needs determine which offers are meaningfully comparable."
       ],
       "items": [
         {
@@ -3570,6 +3616,34 @@
         }
       ],
       "sections": [
+        {
+          "h": "Sukhumvit versus riverside: start with tomorrow’s journeys",
+          "p": [
+            "For a trip with several appointments or outings, shortlist a Sukhumvit hotel only after checking the walk from its actual entrance to the station you will use. A district name is too broad for that decision. BTS provides an origin-and-destination route and fare tool, with station area information; use your intended destinations rather than just the nearest rail icon.",
+            "For a stay centred on the river, compare the bank and the hotel’s own transfer arrangements. The four riverside properties below are not at one interchangeable landing point. Ask where a hotel boat goes, who can use it and when the last return runs. If the itinerary relies on a late dinner away from the hotel, price a road return as an alternative before choosing the room."
+          ],
+          "sourceIds": [
+            "bts-route-planner"
+          ]
+        },
+        {
+          "h": "Compare two sample days before comparing nightly prices",
+          "p": [
+            "Write down one busy sightseeing day and one evening you expect to finish late. For each hotel, list the entrance-to-station walk, changes of transport and the final return. A riverside stay may suit a leisurely hotel morning while a rail-adjacent stay may suit repeated journeys; neither label establishes a faster trip to every attraction.",
+            "Then compare the complete stay cost: room, mandatory charges, transfers and the meals you expect to buy. Do not assume Sukhumvit is always cheaper or a river-view rate includes a private pool. If two offers cost the same, choose the journey pattern you are more willing to repeat, rather than the property with the most striking cover photograph."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Check the BTS route and fare tool",
+              "https://www.bts.co.th/eng/routemap.html"
+            ],
+            [
+              "Plan your airport-to-hotel transfer",
+              "/guides/bangkok-suvarnabhumi-airport-transfer"
+            ]
+          ]
+        },
         {
           "h": "Mandarin Oriental: separate the room from the dining booking",
           "p": [
@@ -3636,8 +3710,8 @@
           "Three or four nights is a good first visit. That gives a day for the temples, a day for markets and neighbourhoods, and time for a day trip or simply for eating."
         ],
         [
-          "Which area is best for first-timers?",
-          "The riverside if sightseeing is your priority, or Sukhumvit near a BTS station if you want restaurants and nightlife on your doorstep."
+          "Is Sukhumvit or riverside better for a first Bangkok visit?",
+          "Choose by your actual journeys. A Sukhumvit hotel near a useful rail station can suit repeated city outings; a riverside stay can suit hotel time and river trips. Check the exact entrance, bank, boat eligibility and late return before booking."
         ],
         [
           "How do I get from the airport?",
@@ -3653,7 +3727,7 @@
       "quickPlan": [
         [
           "Best for",
-          "Comparing four riverside hotels before choosing a location and room."
+          "Choosing a Bangkok area, then comparing four riverside hotel listings."
         ],
         [
           "Time to allow",
@@ -3665,32 +3739,32 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose a plan that fits your day",
+        "caption": "Sukhumvit or riverside? An editorial comparison by trip needs, not a hotel ranking",
         "headers": [
-          "Hotel",
-          "Location emphasis",
-          "Compare before booking"
+          "Your priority",
+          "Area to investigate first",
+          "Verify for the actual hotel"
         ],
         "rows": [
           [
-            "Mandarin Oriental",
-            "Charoen Krung riverside",
-            "Room category and restaurant reservation terms"
+            "Several rail-based outings",
+            "Sukhumvit near a station you will use",
+            "Entrance-to-station walk and route to each destination"
           ],
           [
-            "The Peninsula",
-            "Opposite riverbank",
-            "Your transfer route and room category"
+            "Hotel time and river outings",
+            "Riverside",
+            "Which bank, boat landing and guest eligibility"
           ],
           [
-            "The Siam",
-            "Dusit riverside",
-            "Travel to the places on your itinerary"
+            "Late dinners across town",
+            "Either, with a return plan",
+            "Last useful transport and a road alternative"
           ],
           [
-            "Capella",
-            "Charoen Krung riverside",
-            "Rate inclusions and cancellation terms"
+            "Lowest complete stay cost",
+            "Compare both on identical dates",
+            "Room inclusions, compulsory charges and transfers"
           ]
         ]
       },
@@ -3698,16 +3772,27 @@
         "mo-bangkok",
         "peninsula-bangkok",
         "siam-bangkok",
-        "capella-bangkok"
+        "capella-bangkok",
+        "bts-route-planner"
       ],
-      "dateModified": "2026-10-19",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-10-21",
+      "researchNote": "Selected access, route or transport references and the planning sections were updated on 21 October 2026. Other property and place-card details retain their stated review scope. This is independent desk research, not a firsthand visit; suggested itineraries and cost comparisons are editorial analysis.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-10-21",
+        "method": "Search-intent revision, selected primary-source checks and original trip-planning comparisons.",
+        "scope": "Specific sections and snippets only; not exhaustive factual clearance, a room inspection or image-rights signoff."
       },
-      "seoTitle": "Bangkok Riverside Hotels: Compare Your Stay"
+      "seoTitle": "Sukhumvit vs Riverside Bangkok: Where to Stay",
+      "planLinks": [
+        [
+          "Use a three-day Bangkok itinerary to test your hotel location",
+          "/guides/bangkok-three-day-first-visit"
+        ],
+        [
+          "Compare airport transfer options",
+          "/guides/bangkok-suvarnabhumi-airport-transfer"
+        ]
+      ]
     },
     {
       "id": "cnx-yi-peng",
@@ -10509,7 +10594,7 @@
       "cat": "things",
       "kind": "guide",
       "title": "Dubai Creek: an Al Fahidi walk, Al Seef and abra routes",
-      "dek": "Choose an Old Dubai walk or Creek crossing, compare RTA route names and published fares, and avoid planning around a suspended service.",
+      "dek": "Al Seef–Baniyas CR6 fares and hours, the suspended CR7 route, private TR10 hire, and a separate Al Fahidi waterfront walk.",
       "img": "dxb-creek-photo",
       "src": [
         "dxb-burdubai-official",
@@ -10536,7 +10621,7 @@
         ]
       ],
       "body": [
-        "For a first Dubai Creek outing, choose Al Fahidi for a neighbourhood walk, Al Seef for a waterfront stop, or a specific abra route for a crossing. These are different choices: a route name, station pair and return plan matter more than simply asking for an abra. The comparison table separates commuter services from private hire.",
+        "For an Al Seef abra crossing, RTA lists CR6 between Al Seef and Baniyas at AED2. Its CR7 service via Al Fahidi and Dubai Old Souq is marked temporarily on hold at our 21 October 2026 check. TR10 is a separate private electric-abra tour, charged per boat and duration. Choose the route code before comparing prices.",
         "Begin with the bank where you intend to spend most of your time. Choose a meal or a cultural stop there, then decide whether a crossing adds something you want. A short boat journey does not remove the walking, waiting and return arrangements around it. Keep the afternoon small enough that sitting down remains part of the experience."
       ],
       "sections": [
@@ -10561,20 +10646,20 @@
           ]
         },
         {
-          "h": "Which abra route and fare should you use?",
+          "h": "Al Seef abra: CR6 route, fare and published hours",
           "p": [
-            "The selected routes and fares above come from RTA’s Creek listing, checked on 18 October 2026. CR7 is marked temporarily on hold; TR10 is private hire. Do not transfer one service’s price to another boat. Follow the current station notice if it changes.",
-            "Choose the landing closest to the place you actually want to visit, not just the nearest boat. Save the station name on each bank and ask how to pay before boarding. Keep the return separate from any shopping or meal, so that a shorter visit is still possible."
+            "RTA lists CR6 Al Seef–Baniyas at AED2, Monday–Saturday 7:30am–11:45pm and Sunday 10am–11:50pm. Its station guidance says departure times vary by station, so treat these as published service windows rather than a promise of a departure at every moment. Holiday and Ramadan schedules can differ.",
+            "For a Baniyas visit, select CR6 and confirm the return at the station before exploring. For an Al Fahidi walk, do not assume CR6 calls there: the listed station pair is Al Seef–Baniyas. Keep the same-bank walk separate from the crossing, and do not substitute suspended CR7 just because its route description includes the place you want."
           ],
           "sourceIds": [
             "dxb-rta-official"
           ]
         },
         {
-          "h": "Make the return part of the afternoon",
+          "h": "Crossing or private tour: compare the total for your group",
           "p": [
-            "On reaching the opposite bank, choose one reason to stay: a market browse, a meal or a defined walk. If none of those interests you, a crossing need not become a long excursion. Keep the return service or another departure route available on your phone before you move away from the landing.",
-            "For planning, separate transport, food and optional purchases. Allow for waiting, outdoor conditions and a rest; a boat’s sailing time is only one part of the outing. If the walk feels too long, finish at the nearer waterfront rather than forcing an additional district. The purpose is a Creek experience that fits your afternoon, with a clear route back to the rest of your trip."
+            "At the published AED2 CR6 fare, four fare-paying adults would budget AED8 for one crossing, or AED16 for two crossings if that fare applies in each direction. That is our arithmetic example, excluding food and onward transport; confirm the actual return service and tickets before boarding.",
+            "A private TR10 tour buys time on the water rather than four commuter seats. Compare the whole boat price with the whole group’s crossing cost, then decide whether you want transport to another bank or a sightseeing booking. An Al Seef meal followed by a walk can also be a complete outing without either purchase."
           ],
           "sourceIds": []
         },
@@ -10599,6 +10684,10 @@
       ],
       "faq": [
         [
+          "Which abra runs from Al Seef to Baniyas?",
+          "RTA lists CR6 Al Seef–Baniyas at AED2. The published windows are Monday–Saturday 7:30am–11:45pm and Sunday 10am–11:50pm; confirm the departure at the station."
+        ],
+        [
           "Are Al Fahidi and Al Seef the same place?",
           "No. Al Fahidi is a historical neighbourhood; Al Seef is a separate creek-side development that can be paired with it."
         ],
@@ -10612,7 +10701,7 @@
         ],
         [
           "Which Creek abra route is listed as suspended?",
-          "At the 18 October 2026 check, RTA marked CR7 as temporarily on hold. Recheck the official listing before travelling."
+          "At the 21 October 2026 check, RTA marked CR7 as temporarily on hold. Recheck the official listing before travelling."
         ],
         [
           "Is the electric abra fare per passenger?",
@@ -10624,7 +10713,7 @@
         ]
       ],
       "planTable": {
-        "caption": "Selected RTA Creek services checked 18 October 2026; confirm at the station",
+        "caption": "Selected RTA Creek services checked 21 October 2026; station notices and holiday schedules may differ",
         "headers": [
           "Route / stations",
           "Published fare",
@@ -10644,7 +10733,7 @@
           [
             "CR6 · Al Seef – Baniyas",
             "AED 2",
-            "Check the day-specific timetable"
+            "Mon–Sat 7:30am–11:45pm; Sun 10am–11:50pm; confirm station departure"
           ],
           [
             "CR7 · Al Seef – Al Fahidi – Dubai Old Souq",
@@ -10669,10 +10758,10 @@
         "dxb-abra-creek"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-10-21",
+      "researchNote": "Selected access, route or transport references and the planning sections were updated on 21 October 2026. Other property and place-card details retain their stated review scope. This is independent desk research, not a firsthand visit; suggested itineraries and cost comparisons are editorial analysis.",
       "mins": 4,
-      "seoTitle": "Dubai Creek: Al Fahidi, Al Seef & Abra Guide",
+      "seoTitle": "Al Seef Abra: CR6 Fares, Hours & Dubai Creek Walk",
       "planLinks": [
         [
           "Check RTA’s current Creek routes and fares",
@@ -10701,9 +10790,9 @@
         ]
       },
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-10-21",
+        "method": "Search-intent revision, selected primary-source checks and original trip-planning comparisons.",
+        "scope": "Specific sections and snippets only; not exhaustive factual clearance, a room inspection or image-rights signoff."
       }
     },
     {
@@ -10965,7 +11054,7 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-21",
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
@@ -10978,7 +11067,13 @@
         "date": "2026-10-19",
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+      },
+      "planLinks": [
+        [
+          "Compare Sukhumvit and riverside hotel locations",
+          "/guides/bangkok-hotels"
+        ]
+      ]
     },
     {
       "id": "bangkok-three-day-first-visit",
@@ -11097,7 +11192,7 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-21",
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
@@ -11110,6 +11205,10 @@
         [
           "Plan a Talat Noi neighbourhood walk",
           "/guides/bangkok-talatnoi"
+        ],
+        [
+          "Check Chatuchak opening days and arrival stations",
+          "/guides/bangkok-chatuchak"
         ]
       ],
       "compositionReview": {
