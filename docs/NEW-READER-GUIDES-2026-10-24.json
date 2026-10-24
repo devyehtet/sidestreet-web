@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-24",
+  "purpose": "Three new practical guides with destination-specific photographs and original visitor decision aids.",
+  "newGuides": [
+    "kuala-lumpur-klia-airport-to-city",
+    "hong-kong-airport-express-city-transfer",
+    "bangkok-rainy-day-museums-bacc-museum-siam"
+  ],
+  "newImages": [
+    "kul-klia-express",
+    "hkg-airport-express",
+    "bkk-museum-siam"
+  ],
+  "imageMetadata": "Author, capture context and CC licence verified from Commons imageinfo; originals visually inspected; local 2000/960/480px JPEGs prepared.",
+  "primarySources": [
+    {
+      "name": "KLIA Ekspres — published fares, journey times and late services",
+      "url": "https://www.kliaekspres.com/products-fares/klia-ekspres/",
+      "consultedAt": "2026-10-24"
+    },
+    {
+      "name": "KLIA Transit — stations, fares and ticket conditions",
+      "url": "https://www.kliaekspres.com/products-fares/klia-transit/",
+      "consultedAt": "2026-10-24"
+    },
+    {
+      "name": "MTR — Airport Express ticket types and fares",
+      "url": "https://www.mtr.com.hk/en/customer/tickets/tf_index.html",
+      "consultedAt": "2026-10-24"
+    },
+    {
+      "name": "MTR — Airport Express timetable and journey times",
+      "url": "https://www.mtr.com.hk/en/customer/services/timetable_index.html",
+      "consultedAt": "2026-10-24"
+    },
+    {
+      "name": "Citybus — airport, hotel-area and overnight routes",
+      "url": "https://www.citybus.com.hk/routes/airport-bus/route/index.aspx?textOnly=true",
+      "consultedAt": "2026-10-24"
+    },
+    {
+      "name": "Museum Siam — opening days, admission and MRT access",
+      "url": "https://www.museumsiam.org/museumsiam-visit.php",
+      "consultedAt": "2026-10-24"
+    },
+    {
+      "name": "Bangkok Art and Culture Centre — official visit information",
+      "url": "https://www.bacc.or.th/en/plan-your-visit/",
+      "consultedAt": "2026-10-24"
+    }
+  ],
+  "readerNeeds": [
+    "Airport terminal and ticket selection",
+    "Whole-party transfer budgets",
+    "Late arrivals and final hotel connections",
+    "Opening-day and admission comparisons",
+    "One-venue indoor plan and a shorter option",
+    "Alternative map destinations without invented walking routes"
+  ],
+  "inboundLinks": [
+    [
+      "kuala-lumpur-gokl-bus-foreign-visitors",
+      "kuala-lumpur-klia-airport-to-city",
+      "Plan your airport-to-hotel arrival first"
+    ],
+    [
+      "hong-kong-harbour",
+      "hong-kong-airport-express-city-transfer",
+      "Compare the airport arrival before the harbour outing"
+    ],
+    [
+      "hong-kong-tram-first-ride",
+      "hong-kong-airport-express-city-transfer",
+      "Plan the airport-to-hotel connection separately"
+    ],
+    [
+      "bangkok-three-day-first-visit",
+      "bangkok-rainy-day-museums-bacc-museum-siam",
+      "Choose an indoor alternative for a wet afternoon"
+    ]
+  ],
+  "cityEntries": [
+    "kuala-lumpur",
+    "hong-kong",
+    "bangkok"
+  ],
+  "correction": "BACC hours 9pm to 8pm and admission exceptions, based on the official visitor page.",
+  "limits": "Independent desk research, no firsthand claims or live bookings; historical photographs explicitly dated; current operational details need reconfirmation for travel.",
+  "validation": {
+    "lint": "passed",
+    "tests": "19 passed",
+    "productionBuild": "passed",
+    "contentAudit": "96 guides, 186 places, 144 images; zero errors or warnings",
+    "renderedChecks": "All three guides, homepage/city entry links, credit page, sitemap and all nine JPEG sizes passed locally.",
+    "responsive": "All three at 390px; Bangkok and Hong Kong at 320px: no horizontal page overflow. New photos loaded; Bangkok destination selector works."
+  }
+}

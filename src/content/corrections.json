@@ -1,5 +1,18 @@
 [
   {
+    "id": "bacc-current-visitor-hours-2026",
+    "date": "2026-10-24",
+    "title": "BACC: correct the published closing time and admission scope",
+    "guide": "bangkok-rainy-day-museums-bacc-museum-siam",
+    "text": [
+      "The place card previously stated a 9pm closing time. BACC’s official visitor page publishes 8pm; the card now uses that closing time and records the source check.",
+      "The admission description now distinguishes exhibition entry from special events, concerts and plays instead of presenting every programme as free."
+    ],
+    "sources": [
+      "bacc-visit-official"
+    ]
+  },
+  {
     "id": "dadaocheng-centre-closures-2026",
     "date": "2026-10-24",
     "title": "Dadaocheng: check temporary visitor-centre closures before planning a start",

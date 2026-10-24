@@ -1300,6 +1300,41 @@
       "name": "State Railway of Thailand — English D-Ticket booking help",
       "url": "https://dticket.railway.co.th/DTicketPublicWeb/help/",
       "consultedAt": "2026-10-24"
+    },
+    "klia-ekspres-visitor": {
+      "name": "KLIA Ekspres — published fares, journey times and late services",
+      "url": "https://www.kliaekspres.com/products-fares/klia-ekspres/",
+      "consultedAt": "2026-10-24"
+    },
+    "klia-transit-visitor": {
+      "name": "KLIA Transit — stations, fares and ticket conditions",
+      "url": "https://www.kliaekspres.com/products-fares/klia-transit/",
+      "consultedAt": "2026-10-24"
+    },
+    "mtr-airport-fares": {
+      "name": "MTR — Airport Express ticket types and fares",
+      "url": "https://www.mtr.com.hk/en/customer/tickets/tf_index.html",
+      "consultedAt": "2026-10-24"
+    },
+    "mtr-airport-timetable": {
+      "name": "MTR — Airport Express timetable and journey times",
+      "url": "https://www.mtr.com.hk/en/customer/services/timetable_index.html",
+      "consultedAt": "2026-10-24"
+    },
+    "citybus-airport-routes": {
+      "name": "Citybus — airport, hotel-area and overnight routes",
+      "url": "https://www.citybus.com.hk/routes/airport-bus/route/index.aspx?textOnly=true",
+      "consultedAt": "2026-10-24"
+    },
+    "museum-siam-visit": {
+      "name": "Museum Siam — opening days, admission and MRT access",
+      "url": "https://www.museumsiam.org/museumsiam-visit.php",
+      "consultedAt": "2026-10-24"
+    },
+    "bacc-visit-official": {
+      "name": "Bangkok Art and Culture Centre — official visit information",
+      "url": "https://www.bacc.or.th/en/plan-your-visit/",
+      "consultedAt": "2026-10-24"
     }
   },
   "cities": [
@@ -1332,9 +1367,10 @@
         "bangkok-talatnoi",
         "bangkok-temples",
         "bangkok-street-food",
-        "bangkok-suvarnabhumi-airport-transfer"
+        "bangkok-suvarnabhumi-airport-transfer",
+        "bangkok-rainy-day-museums-bacc-museum-siam"
       ],
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-24"
     },
     {
       "name": "Chiang Mai",
@@ -1468,7 +1504,13 @@
       "slug": "kuala-lumpur",
       "img": "kul-batu-caves",
       "timezone": "Asia/Kuala_Lumpur",
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-24",
+      "startGuides": [
+        "kuala-lumpur-klia-airport-to-city",
+        "kuala-lumpur-gokl-bus-foreign-visitors",
+        "kuala-lumpur-breakfast"
+      ],
+      "planningIntro": "Start with the airport-to-hotel journey, then check city-bus rules and choose one breakfast. Compare the complete transfer and your actual ticket rather than assuming every city connection is included."
     },
     {
       "name": "Ho Chi Minh City",
@@ -1824,10 +1866,11 @@
       "img": "hkg-ferry-photo",
       "dateModified": "2026-10-24",
       "startGuides": [
+        "hong-kong-airport-express-city-transfer",
         "hong-kong-tram-first-ride",
         "hong-kong-harbour"
       ],
-      "planningIntro": "Compare a first tram ride with a harbour crossing. Choose the journey you want to experience, then plan the return instead of turning every transport option into a compulsory circuit."
+      "planningIntro": "Plan the airport-to-hotel connection first, then compare a tram ride or harbour crossing as a separate outing. Choose the city-side rail station using your actual destination and keep the first activity flexible."
     },
     {
       "id": "par",
@@ -9043,7 +9086,7 @@
           "No. Check an MTR or bus route from your final location before starting, then choose the return that fits your plan."
         ]
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "mins": 3,
       "compositionReview": {
         "date": "2026-10-19",
@@ -9070,7 +9113,13 @@
             "HK$5.60"
           ]
         ]
-      }
+      },
+      "planLinks": [
+        [
+          "Compare the airport arrival before the harbour outing",
+          "/guides/hong-kong-airport-express-city-transfer"
+        ]
+      ]
     },
     {
       "id": "g-paris-seine-islands",
@@ -9719,7 +9768,7 @@
       ],
       "tips": [],
       "researchNote": "Ordinary adult fare, payment instructions and route distinctions checked against Hong Kong Tramways on 19 October 2026. The calculations use that published fare; check travel-day notices. No personal ride or measured journey time is claimed.",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "mins": 4,
       "compositionReview": {
         "date": "2026-10-19",
@@ -9731,6 +9780,10 @@
         [
           "Operator routes, fare and payment methods",
           "https://www.hktramways.com/en/schedules-fares/"
+        ],
+        [
+          "Plan the airport-to-hotel connection separately",
+          "/guides/hong-kong-airport-express-city-transfer"
         ]
       ],
       "planTable": {
@@ -11534,6 +11587,10 @@
         [
           "Compare the onward sleeper to Chiang Mai",
           "/guides/world-trains"
+        ],
+        [
+          "Choose an indoor alternative for a wet afternoon",
+          "/guides/bangkok-rainy-day-museums-bacc-museum-siam"
         ]
       ],
       "compositionReview": {
@@ -14532,6 +14589,10 @@
         [
           "Kuala Lumpur breakfast guide",
           "/guides/kuala-lumpur-breakfast"
+        ],
+        [
+          "Plan your airport-to-hotel arrival first",
+          "/guides/kuala-lumpur-klia-airport-to-city"
         ]
       ],
       "faq": [
@@ -14553,7 +14614,7 @@
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
       "imageNote": "Kuala Lumpur skyline reference photograph; no bus or current boarding point is shown.",
       "compositionReview": {
@@ -14857,6 +14918,597 @@
         "method": "Research-based text and context corrections; no personal visit is claimed.",
         "scope": "Specific corrections, not full factual or rights clearance."
       }
+    },
+    {
+      "id": "kuala-lumpur-klia-airport-to-city",
+      "slug": "kuala-lumpur-klia-airport-to-city",
+      "city": "kul",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "KLIA to Kuala Lumpur: airport train, terminal and hotel transfer",
+      "seoTitle": "KLIA to Kuala Lumpur: Train Fares & Hotel Transfer",
+      "dek": "Compare KLIA Ekspres and Transit, budget for the final hotel journey, and make a separate plan for a late arrival.",
+      "img": "kul-klia-express",
+      "src": [
+        "klia-ekspres-visitor",
+        "klia-transit-visitor"
+      ],
+      "body": [
+        "Choose KLIA Ekspres when its KL Sentral arrival works with the rest of your hotel journey; compare KLIA Transit when an intermediate station is the destination. First confirm whether your flight uses Terminal 1 or Terminal 2. Buying an airport-train ticket solves a rail journey, not the final trip to every Kuala Lumpur hotel.",
+        "This guide starts with the terminal, then compares the ticket and onward connection. The most useful route is the one you can complete with your luggage and arrival time. For a group, compare the total for all travellers with a direct-transfer quote rather than comparing one rail ticket with a whole car."
+      ],
+      "sections": [
+        {
+          "h": "Ekspres or Transit: match the product to the destination",
+          "p": [
+            "The operator publishes 28 minutes between KL Sentral and KLIA T1, plus three minutes between T1 and T2 for Ekspres. It also describes late all-stations working from 11pm. Those are service references, not a flight-to-hotel duration; immigration, bags, waiting and the hotel connection sit outside the train ride.",
+            "Transit lists intermediate stops including Bandar Tasik Selatan, Putrajaya & Cyberjaya and Salak Tinggi. Its published T2–KL Sentral end-to-end journey is 39 minutes. The operator says Ekspres and Transit tickets are not interchangeable. Choose the required product before entering rather than treating any airport-train ticket as valid for every service."
+          ],
+          "sourceIds": [
+            "klia-ekspres-visitor",
+            "klia-transit-visitor"
+          ]
+        },
+        {
+          "h": "Compare the full fare for your party",
+          "p": [
+            "At the published Ekspres standard adult fare, two adults travelling one way total RM110 and four total RM220. This is our arithmetic example before the final hotel leg, not a group discount or a quote for your travel date. Compare an actual offer using the same party size.",
+            "For a direct road-transfer enquiry, give the terminal, flight date, passenger count, luggage and destination address. Ask what the quote includes and what happens if the flight is late. For rail, add the onward fare for everyone. A smaller headline number does not settle the comparison when one option ends at a station and the other at your accommodation."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Make KL Sentral an interchange, not an assumed hotel stop",
+          "p": [
+            "Before departure, save the hotel’s address and decide how you would continue after leaving the airport train. Write down a station or pickup area and the final entrance you need. A hotel described as central can still require another journey from KL Sentral.",
+            "If you intend to use city transport, check the route and current ticket rules separately. Our GoKL guide explains why a visitor should check eligibility and fares rather than assuming a city bus is free. If bags, children or limited mobility make a change difficult, compare a direct transfer on those terms as well as cost."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Check GoKL visitor fares before planning a city bus ride",
+              "/guides/kuala-lumpur-gokl-bus-foreign-visitors"
+            ]
+          ]
+        },
+        {
+          "h": "Late arrival: keep the station deadline separate from landing",
+          "p": [
+            "The Ekspres product page currently describes service extended until 1am from the airport terminals, with all-stations running late at night. Recheck the day’s departure information rather than using the daytime journey time as a late-night promise. An onward connection can also finish before the airport service.",
+            "Our suggested backup is a transfer plan that remains usable if bags or arrival formalities take longer than expected. Save the hotel’s late-check-in instructions and a way to contact it. Do not pre-book a tight connection solely because a timetable shows a train after the scheduled landing time."
+          ],
+          "sourceIds": [
+            "klia-ekspres-visitor"
+          ]
+        },
+        {
+          "h": "Keep the first city outing small",
+          "p": [
+            "After reaching the hotel or an agreed bag-storage point, choose one easy activity: a meal, a rest or a short local browse. An airport transfer is already a sequence of decisions. A demanding sightseeing booking immediately afterwards can turn a manageable delay into a missed reservation.",
+            "For a morning arrival, confirm whether early check-in or luggage storage is available rather than assuming it is included. For an evening arrival, finish with the hotel connection and a simple meal if practical. Our Kuala Lumpur breakfast guide can help choose the next morning’s food stop without adding another cross-city task on arrival."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Choose a Kuala Lumpur breakfast for the next morning",
+              "/guides/kuala-lumpur-breakfast"
+            ]
+          ]
+        }
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "researchNote": "Published operator or venue information checked 24 October 2026. This is independent desk research, not a firsthand visit. Suggested time budgets and cost comparisons are editorial analysis; confirm current notices and your exact ticket before travel.",
+      "compositionReview": {
+        "date": "2026-10-24",
+        "method": "Primary-source research, original visitor decisions and licence-checked reference photography.",
+        "scope": "The specific references and comparisons in this guide; not a live booking, personal inspection, exhaustive access review or guarantee of future fares."
+      },
+      "quickPlan": [
+        [
+          "Start here",
+          "Confirm KLIA T1 or T2, then save the exact hotel address."
+        ],
+        [
+          "Rail reference",
+          "Ekspres standard adult: RM55 single or RM100 return, checked 24 October 2026."
+        ],
+        [
+          "Final leg",
+          "Plan the connection from KL Sentral or your actual rail destination to the hotel."
+        ],
+        [
+          "Late arrival",
+          "Check the current terminal departure and onward transport; a flight arrival time is not a boarding time."
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose the complete KLIA-to-hotel journey; references checked 24 October 2026",
+        "headers": [
+          "Your situation",
+          "Compare first",
+          "Before buying"
+        ],
+        "rows": [
+          [
+            "Hotel journey via KL Sentral",
+            "Ekspres plus the final city connection",
+            "Terminal, ticket product and onward fare"
+          ],
+          [
+            "Intermediate rail destination",
+            "The Transit station list",
+            "Your ticket must match the service"
+          ],
+          [
+            "Several adults or bulky bags",
+            "Whole-party rail total against a direct-transfer quote",
+            "Luggage capacity and what the quote includes"
+          ],
+          [
+            "Late landing",
+            "Actual station departure and the hotel’s check-in",
+            "A backup that does not depend on the last train"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "How much is the KLIA Ekspres to KL Sentral?",
+          "The published standard adult fare checked on 24 October 2026 is RM55 single or RM100 return. Confirm the offer and travel date before buying."
+        ],
+        [
+          "Does the 28-minute train time include my hotel transfer?",
+          "No. It is the operator’s rail time between KL Sentral and T1; waiting, terminal formalities and your hotel journey are separate."
+        ],
+        [
+          "Can I use an Ekspres ticket on Transit?",
+          "The operator says the products are not interchangeable. Check the ticket and station pair for the train you intend to use."
+        ],
+        [
+          "Should four people automatically take a car?",
+          "Compare the actual whole-party rail cost, the final hotel connection and a direct-transfer quote. There is no universally cheaper option established by this guide."
+        ]
+      ],
+      "planLinks": [
+        [
+          "Check official Ekspres fares and current service details",
+          "https://www.kliaekspres.com/products-fares/klia-ekspres/"
+        ],
+        [
+          "Check Transit stations and ticket conditions",
+          "https://www.kliaekspres.com/products-fares/klia-transit/"
+        ],
+        [
+          "Open the Kuala Lumpur city guide",
+          "/city/kuala-lumpur"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Check the terminal and city interchange",
+        "summary": "These are separate terminal and station areas for planning, not a walking circuit or verified boarding pins. Follow airport and station signs for the actual service.",
+        "stops": [
+          {
+            "name": "KLIA Terminal 1",
+            "query": "Kuala Lumpur International Airport Terminal 1, Malaysia",
+            "note": "Match this terminal to the flight and the station departure you will use."
+          },
+          {
+            "name": "KLIA Terminal 2",
+            "query": "Kuala Lumpur International Airport Terminal 2, Malaysia",
+            "note": "Do not substitute a T1 departure time or pickup instruction without checking the terminal."
+          },
+          {
+            "name": "KL Sentral",
+            "query": "KL Sentral Station, Kuala Lumpur, Malaysia",
+            "note": "Plan the final hotel connection from this interchange separately from the airport train."
+          }
+        ]
+      },
+      "relatedGuides": [
+        "kuala-lumpur-gokl-bus-foreign-visitors",
+        "kuala-lumpur-breakfast"
+      ],
+      "tips": [
+        "Save the terminal and hotel address before travelling.",
+        "Compare the same party size and luggage needs for rail and road.",
+        "Recheck the service notice for your actual travel date."
+      ],
+      "mins": 3
+    },
+    {
+      "id": "hong-kong-airport-express-city-transfer",
+      "slug": "hong-kong-airport-express-city-transfer",
+      "city": "hkg",
+      "cat": "travel",
+      "kind": "guide",
+      "title": "Hong Kong airport to the city: Airport Express, fares and the final connection",
+      "seoTitle": "Hong Kong Airport Express: Fares & City Transfer",
+      "dek": "Choose Hong Kong, Kowloon or Tsing Yi station, compare ticket media and keep an alternative for a late arrival.",
+      "img": "hkg-airport-express",
+      "src": [
+        "mtr-airport-fares",
+        "mtr-airport-timetable",
+        "citybus-airport-routes"
+      ],
+      "body": [
+        "For a first Hong Kong arrival, choose the city-side station that fits your actual accommodation, then compare the Airport Express ticket and the last hotel connection. Hong Kong, Kowloon and Tsing Yi are different arrival choices. The fastest rail segment is not necessarily the simplest complete journey with bags.",
+        "Use the fare table for the ticket medium you will actually use, not a price copied from an old promotion. Keep the flight arrival, time at the station and hotel check-in as separate parts of the plan. This is a transport comparison, not a live journey planner or a promise that a particular connection will be running."
+      ],
+      "sections": [
+        {
+          "h": "Choose a station using the hotel journey",
+          "p": [
+            "MTR publishes rail journey references of 24 minutes between Hong Kong and the Airport, 22 minutes for Kowloon and 14 for Tsing Yi. These figures stop at the rail station. Add the journey to the actual hotel entrance before deciding which station makes sense for your stay.",
+            "Save the address, entrance and any pickup instructions. If a hotel name is used by several properties, confirm the branch. A cheaper rail endpoint can become less useful when it creates an awkward final change, while a direct road option can suit luggage needs even when the rail segment is quicker."
+          ],
+          "sourceIds": [
+            "mtr-airport-timetable"
+          ]
+        },
+        {
+          "h": "Ticket medium changes the comparison",
+          "p": [
+            "MTR’s published adult fares distinguish Octopus or contactless bank-card payment from a Smart Ticket. Use the matching column above. Its fare page says contactless bank-card payment uses the adult Octopus fare; do not assume a child fare applies when tapping an adult-priced bank card.",
+            "For four adults travelling to Hong Kong station, the table gives HK$480 using the first column or HK$520 using Smart Tickets. That is our calculation before the hotel connection, not a promotional group offer. Compare an actual direct-transfer quote against the complete party cost rather than one passenger’s rail fare."
+          ],
+          "sourceIds": [
+            "mtr-airport-fares"
+          ]
+        },
+        {
+          "h": "A late flight needs a separate city-arrival plan",
+          "p": [
+            "The Airport Express timetable lists Airport-to-city trains from 05:54 to 00:48. Treat the last departure as a station deadline, not a target flight landing time. You still need to leave the aircraft, complete arrival formalities and collect bags before reaching the train.",
+            "For an alternative, Citybus publishes airport routes and overnight N-route information, with a hotel-area stop finder. Check the actual destination and day’s service rather than assuming every daytime airport bus runs overnight. If you choose a road transfer instead, establish the pickup, destination, luggage capacity and total charge through the official provider."
+          ],
+          "sourceIds": [
+            "mtr-airport-timetable",
+            "citybus-airport-routes"
+          ]
+        },
+        {
+          "h": "A useful arrival note has four fields",
+          "p": [
+            "Before leaving the terminal, keep a note with the hotel address, selected city-side station, final connection and late-check-in instructions. Save it somewhere you can read without relying on a page loading at the next interchange. This is a planning habit, not a claim that a given Wi-Fi or mobile service will be available.",
+            "If travelling with others, agree where to meet if you separate while handling bags or tickets. Choose a recognisable staffed location when possible rather than only a broad station name. Check the group’s boarding and movement needs before making the plan depend on several short changes."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Make the first outing optional",
+          "p": [
+            "Once the luggage and hotel arrangements are settled, choose one small next activity. A harbour crossing or first tram ride can be researched separately, but neither needs to happen immediately after an international flight. Leave the first timed reservation for a point in the trip with a comfortable buffer.",
+            "Our suggested arrival-day sequence is transfer, storage or check-in, food and then a decision about an outing. It is an order of tasks, not a measured duration. If the journey takes longer than expected, remove the optional outing rather than rushing the steps that get you to your accommodation."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Compare a first Hong Kong tram ride",
+              "/guides/hong-kong-tram-first-ride"
+            ],
+            [
+              "Plan one harbour crossing",
+              "/guides/hong-kong-harbour"
+            ]
+          ]
+        }
+      ],
+      "items": [],
+      "places": [],
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "researchNote": "Published operator or venue information checked 24 October 2026. This is independent desk research, not a firsthand visit. Suggested time budgets and cost comparisons are editorial analysis; confirm current notices and your exact ticket before travel.",
+      "compositionReview": {
+        "date": "2026-10-24",
+        "method": "Primary-source research, original visitor decisions and licence-checked reference photography.",
+        "scope": "The specific references and comparisons in this guide; not a live booking, personal inspection, exhaustive access review or guarantee of future fares."
+      },
+      "quickPlan": [
+        [
+          "Choose the station",
+          "Compare your hotel route from Hong Kong, Kowloon or Tsing Yi."
+        ],
+        [
+          "Choose the ticket",
+          "Octopus/contactless bank-card fares differ from Smart Ticket fares."
+        ],
+        [
+          "Late arrival",
+          "MTR lists the Airport-to-city last train at 00:48; check the current timetable."
+        ],
+        [
+          "Final connection",
+          "Save the hotel entrance and a workable station-to-hotel journey before boarding."
+        ]
+      ],
+      "planTable": {
+        "caption": "MTR adult Airport Express single fares, HK$, checked 24 October 2026; adult age 12+",
+        "headers": [
+          "Airport to / from",
+          "Octopus or contactless bank card",
+          "Smart Ticket"
+        ],
+        "rows": [
+          [
+            "Hong Kong",
+            "120",
+            "130"
+          ],
+          [
+            "Kowloon",
+            "105",
+            "115"
+          ],
+          [
+            "Tsing Yi",
+            "73",
+            "80"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Does Airport Express run all night?",
+          "The published Airport-to-city window checked on 24 October 2026 is 05:54–00:48. Recheck the timetable and keep a separate plan if your station arrival may fall outside it."
+        ],
+        [
+          "Which Airport Express station should I choose?",
+          "Compare the complete journey from Hong Kong, Kowloon or Tsing Yi station to the exact hotel entrance. A broad district label is not enough to decide."
+        ],
+        [
+          "Why are two adult fares shown?",
+          "The MTR fare page distinguishes Octopus/contactless bank-card payment from Smart Tickets. Match the ticket medium and any current offer to your journey."
+        ],
+        [
+          "Does the train ticket establish a hotel shuttle?",
+          "No hotel shuttle or door-to-door connection is established by this guide. Arrange the final journey separately."
+        ]
+      ],
+      "planLinks": [
+        [
+          "Check the current MTR fare table",
+          "https://www.mtr.com.hk/en/customer/tickets/tf_index.html"
+        ],
+        [
+          "Check first and last trains",
+          "https://www.mtr.com.hk/en/customer/services/timetable_index.html"
+        ],
+        [
+          "Compare Citybus airport and overnight services",
+          "https://www.citybus.com.hk/routes/airport-bus/route/index.aspx?textOnly=true"
+        ],
+        [
+          "Open the Hong Kong city guide",
+          "/city/hong-kong"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Compare city-side Airport Express stations",
+        "summary": "Three alternative station areas, not a walking sequence. Check the final hotel connection before selecting an endpoint.",
+        "stops": [
+          {
+            "name": "Hong Kong Station",
+            "query": "Hong Kong Station Airport Express, Central, Hong Kong",
+            "note": "Compare the actual hotel entrance and any onward connection on Hong Kong Island."
+          },
+          {
+            "name": "Kowloon Station",
+            "query": "Kowloon Station Airport Express, Hong Kong",
+            "note": "Check the final journey to the property rather than treating the station name as every Kowloon hotel."
+          },
+          {
+            "name": "Tsing Yi Station",
+            "query": "Tsing Yi Station Airport Express, Hong Kong",
+            "note": "Choose this endpoint only after checking its onward connection for your actual destination."
+          }
+        ]
+      },
+      "relatedGuides": [
+        "hong-kong-tram-first-ride",
+        "hong-kong-harbour"
+      ],
+      "tips": [
+        "Keep flight arrival and station boarding times separate.",
+        "Match the fare to the actual ticket medium.",
+        "Check your hotel’s late-arrival instructions before departure."
+      ],
+      "mins": 3
+    },
+    {
+      "id": "bangkok-rainy-day-museums-bacc-museum-siam",
+      "slug": "bangkok-rainy-day-museums-bacc-museum-siam",
+      "city": "bkk",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Bangkok on a rainy day: Museum Siam or an art-centre afternoon?",
+      "seoTitle": "Bangkok Rainy-Day Guide: Museum Siam or BACC",
+      "dek": "Compare Museum Siam and BACC by location, admission and opening day, then build a two-hour indoor visit with a separate journey home.",
+      "img": "bkk-museum-siam",
+      "src": [
+        "museum-siam-visit",
+        "bacc-visit-official"
+      ],
+      "body": [
+        "Choose Museum Siam for a museum-focused visit near Sanam Chai, or Bangkok Art and Culture Centre for a current-exhibition visit near National Stadium. Start with the part of the city you can reach comfortably, then check the day’s programme. Both publish a regular Monday closure, so they are not interchangeable every-day fallbacks.",
+        "This is a plan for ordinary wet-weather changes, not a recommendation to travel through severe weather or a confirmation that the whole journey is sheltered. Pick one venue and leave the other for another outing. A useful rainy afternoon has a confirmed destination, room to read or look, a break and a clear way back."
+      ],
+      "sections": [
+        {
+          "h": "Museum Siam: choose a museum visit before adding an old-city walk",
+          "p": [
+            "Museum Siam’s own visitor page publishes Tuesday–Sunday opening, 10am–6pm, and MRT Sanam Chai Exit 1. Its general adult admission is THB100 for Thai and foreign visitors. The same page has concession categories, so check eligibility rather than transferring a discounted price to everyone in the group.",
+            "Our suggested approach is to make the museum the main activity and leave the nearby outdoor walk optional. Choose what you want to understand from the displays, then spend time on that thread instead of trying to photograph every room. A seated break after the visit can be enough; you do not need another attraction to justify the afternoon."
+          ],
+          "sourceIds": [
+            "museum-siam-visit"
+          ]
+        },
+        {
+          "h": "BACC: choose the current exhibition and its entry rules",
+          "p": [
+            "BACC’s official visit page publishes Tuesday–Sunday opening, 10am–8pm, with regular Monday and listed holiday closures. It describes a third-floor connection to BTS National Stadium. Exhibition entry is free except for special events, while concert and play charges vary. A free building visit does not mean every programme is included.",
+            "Before travelling, select an exhibition or programme from the centre’s current listing. For a first visit, give one display enough time before adding another floor. If a programme has a separate ticket or start time, make that the anchor rather than treating it as a walk-in activity guaranteed by the building’s general hours."
+          ],
+          "sourceIds": [
+            "bacc-visit-official"
+          ]
+        },
+        {
+          "h": "A two-hour indoor plan with a shorter version",
+          "p": [
+            "Our suggested two-hour budget is 15 minutes for arrival and orientation, about an hour for the chosen exhibition or display area, 30 minutes for a break, and 15 minutes to prepare for leaving. It excludes transport and is not a measured queue or gallery duration. Adapt it to the actual programme and the group’s pace.",
+            "With an hour, keep the plan to one display area and skip the extra stop. With children or anyone needing frequent rests, put the break earlier rather than insisting on the same viewing time. Check current access or support with the venue if it is essential; an indoor address alone does not certify a fully accessible route."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Rain changes the last few metres as well as the main plan",
+          "p": [
+            "Save the venue entrance and the route back to your accommodation. A rail-linked destination can simplify one part of the visit without establishing sheltered access from every station exit or hotel. Check the weather and current operating notices before departure, and shorten the outing when the journey no longer suits the conditions.",
+            "Keep the return allowance separate from admission and shopping. If you are carrying bags, check storage rules and availability before relying on them. A museum or art centre is not automatically a luggage service, and an old photograph of a cloakroom does not confirm that a large suitcase will be accepted."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Do not force both venues into the same afternoon",
+          "p": [
+            "Compare the two options by location and purpose, not by how many places you can tick off. Museum Siam and BACC are different city outings. A transfer between them adds a second arrival, another decision about the programme and a return plan that may no longer start where you expected.",
+            "If conditions improve after the chosen visit, decide whether one short additional activity fits. The temple guide is a separate cultural plan, not a required extension to Museum Siam; a shopping or service outing near central Bangkok has its own hours and costs. Leaving after one satisfying indoor visit is a complete plan."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Plan Bangkok temples as a separate outing",
+              "/guides/bangkok-temples"
+            ],
+            [
+              "Compare central Bangkok browsing and practical stops",
+              "/guides/bangkok-shops-services-best-for-city-visit"
+            ]
+          ]
+        }
+      ],
+      "items": [],
+      "places": [
+        "bkk-museum-siam",
+        "bkk-bacc"
+      ],
+      "datePublished": "2026-10-24",
+      "dateModified": "2026-10-24",
+      "researchNote": "Published operator or venue information checked 24 October 2026. This is independent desk research, not a firsthand visit. Suggested time budgets and cost comparisons are editorial analysis; confirm current notices and your exact ticket before travel.",
+      "compositionReview": {
+        "date": "2026-10-24",
+        "method": "Primary-source research, original visitor decisions and licence-checked reference photography.",
+        "scope": "The specific references and comparisons in this guide; not a live booking, personal inspection, exhaustive access review or guarantee of future fares."
+      },
+      "quickPlan": [
+        [
+          "Choose one",
+          "Museum Siam near Sanam Chai, or BACC near National Stadium."
+        ],
+        [
+          "Check the day",
+          "Both publish regular Monday closures; confirm holiday and temporary notices."
+        ],
+        [
+          "Our time budget",
+          "Allow about two hours for the chosen venue and a break, plus transport."
+        ],
+        [
+          "Budget",
+          "Keep admission, any special event, refreshments and the return journey separate."
+        ]
+      ],
+      "planTable": {
+        "caption": "Published visitor references checked 24 October 2026; temporary notices can change access",
+        "headers": [
+          "Option",
+          "Regular hours and arrival",
+          "Admission reference"
+        ],
+        "rows": [
+          [
+            "Museum Siam",
+            "Tue–Sun, 10am–6pm; MRT Sanam Chai Exit 1",
+            "Published general adult THB100; concessions have eligibility rules"
+          ],
+          [
+            "BACC",
+            "Tue–Sun, 10am–8pm; 3rd-floor connection to BTS National Stadium",
+            "Exhibitions free except special events; performances may charge"
+          ],
+          [
+            "Monday or a special closure",
+            "Check another confirmed destination",
+            "Do not assume either option is operating"
+          ]
+        ]
+      },
+      "faq": [
+        [
+          "Are Museum Siam and BACC open on Monday?",
+          "Both publish regular Monday closures. Check current venue notices before choosing either as a fallback."
+        ],
+        [
+          "Is BACC free?",
+          "Its visit page says exhibitions are free except special events; concerts and plays can have separate charges. Confirm the actual programme."
+        ],
+        [
+          "How much is Museum Siam?",
+          "The visitor page checked on 24 October 2026 publishes general adult admission at THB100. Confirm any concession eligibility and current ticket terms."
+        ],
+        [
+          "Should I visit both on a rainy afternoon?",
+          "Our suggestion is to choose one by its programme and your starting location, allow a break, and plan transport separately. This guide does not establish an entirely sheltered journey."
+        ]
+      ],
+      "planLinks": [
+        [
+          "Check Museum Siam’s current visitor information",
+          "https://www.museumsiam.org/museumsiam-visit.php"
+        ],
+        [
+          "Check BACC’s visit information and programme",
+          "https://www.bacc.or.th/en/plan-your-visit/"
+        ],
+        [
+          "Open the Bangkok city guide",
+          "/city/bangkok"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Choose one indoor destination",
+        "summary": "Two alternative visits in different areas, not a suggested walking circuit. Check current opening and the actual journey before leaving.",
+        "stops": [
+          {
+            "name": "Museum Siam",
+            "query": "Museum Siam, 4 Sanam Chai Road, Bangkok, Thailand",
+            "note": "The museum publishes MRT Sanam Chai Exit 1. Check the date and admission category before travelling."
+          },
+          {
+            "name": "Bangkok Art and Culture Centre",
+            "query": "Bangkok Art and Culture Centre, Pathum Wan, Bangkok, Thailand",
+            "note": "The centre publishes a connection from BTS National Stadium. Choose a current exhibition or programme first."
+          }
+        ]
+      },
+      "relatedGuides": [
+        "bangkok-temples",
+        "bangkok-three-day-first-visit",
+        "bangkok-shops-services-best-for-city-visit"
+      ],
+      "tips": [
+        "Check opening and the current programme before setting off.",
+        "Keep ticket, food and return transport in separate budget lines.",
+        "Treat an exterior reference photograph as orientation, not proof of current access."
+      ],
+      "mins": 3
     }
   ],
   "places": [
@@ -14978,15 +15630,25 @@
       "kind": "see",
       "name": "Bangkok Art and Culture Centre",
       "area": "Pathum Wan",
-      "hours": "10am to 9pm (usually closed Mondays)",
-      "price": "Free",
+      "hours": "Tuesday–Sunday, 10am–8pm; closed Mondays and listed holidays",
+      "price": "Exhibitions free except special events; concerts and plays may charge",
       "url": "https://www.bacc.or.th/",
       "src": [
-        "ytg"
+        "bacc-visit-official"
       ],
       "blurb": "An art-centre visit can anchor an indoor afternoon near National Stadium. Choose a current exhibition rather than assuming every gallery or event shares the same admission.",
       "img": "bkk-bacc",
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-10-24",
+        "sourceIds": [
+          "bacc-visit-official"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     },
     {
       "id": "bkk-lumphini",
@@ -17442,6 +18104,32 @@
       "url": "https://www.divanawellness.com/spa-location/",
       "verify": true,
       "imageNote": "Bangkok city reference photograph. This business is not pictured."
+    },
+    {
+      "id": "bkk-museum-siam",
+      "city": "bkk",
+      "kind": "see",
+      "name": "Museum Siam",
+      "area": "Sanam Chai",
+      "url": "https://www.museumsiam.org/museumsiam-visit.php",
+      "src": [
+        "museum-siam-visit"
+      ],
+      "img": "bkk-museum-siam",
+      "blurb": "Choose a museum-focused visit near Sanam Chai and check the current ticket category before adding an outdoor activity.",
+      "hours": "Tuesday–Sunday, 10am–6pm; closed Mondays",
+      "price": "Published general adult admission THB100; concessions subject to eligibility",
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-10-24",
+        "sourceIds": [
+          "museum-siam-visit"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     }
   ],
   "events": [
@@ -20686,6 +21374,72 @@
         },
         {
           "src": "/images/sin-airlines-a350-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "kul-klia-express": {
+      "src": "/images/kul-klia-express.jpg",
+      "w": 2000,
+      "h": 1328,
+      "title": "KLIA Ekspres train passing through Putrajaya Sentral",
+      "alt": "A KLIA Ekspres train on the track at Putrajaya Sentral",
+      "by": "My Train Pix",
+      "lic": "CC BY 2.0",
+      "licUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Klia_express_1.jpg",
+      "note": "Train photographed in June 2011; this reference image does not establish current departure arrangements.",
+      "variants": [
+        {
+          "src": "/images/kul-klia-express-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kul-klia-express-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "hkg-airport-express": {
+      "src": "/images/hkg-airport-express.jpg",
+      "w": 2000,
+      "h": 1500,
+      "title": "MTR Airport Express train at Sunny Bay",
+      "alt": "An MTR Airport Express train photographed at Sunny Bay in Hong Kong",
+      "by": "LN9267",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:A_Train_MTR_Airport_Express_10-04-2020.jpg",
+      "note": "Train exterior photographed in April 2020; current carriage details may differ.",
+      "variants": [
+        {
+          "src": "/images/hkg-airport-express-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkg-airport-express-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bkk-museum-siam": {
+      "src": "/images/bkk-museum-siam.jpg",
+      "w": 2000,
+      "h": 1333,
+      "title": "Museum Siam exterior in Bangkok",
+      "alt": "The yellow facade and forecourt of Museum Siam in Bangkok",
+      "by": "Supanut Arunoprayote",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Museum_Siam_20250825.jpg",
+      "note": "Museum exterior photographed in August 2025; exhibition access is a separate current check.",
+      "variants": [
+        {
+          "src": "/images/bkk-museum-siam-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-museum-siam-960.jpg",
           "w": 960
         }
       ]
