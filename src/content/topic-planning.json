@@ -67,5 +67,28 @@
       ]
     ],
     "description": "Compare Sukhumvit and riverside Bangkok by daily journeys, then assess four riverside hotels by room category, transfers and booking terms."
+  },
+  "food": {
+    "title": "City Food Guides: Markets, Meals & Coffee Stops",
+    "description": "Choose a food market, neighbourhood meal or coffee stop with practical visiting plans. Start with Tsukiji, Bangkok street food or Seoul’s Euljiro.",
+    "intro": "Plan a meal around what you want to eat and the time you have, then keep extra tastings optional. These research guides distinguish market-wide information from individual shop hours, and suggest a manageable way to browse without turning every recommendation into a compulsory stop.",
+    "heading": "Choose your next food outing",
+    "links": [
+      [
+        "tokyo-tsukiji",
+        "A Tsukiji morning in Tokyo",
+        "Compare station options, public shopping hours and a 90-minute or two-hour visit."
+      ],
+      [
+        "bangkok-street-food",
+        "A focused Bangkok food evening",
+        "Turn a shortlist into one meal with a separate budget for getting home."
+      ],
+      [
+        "seoul-euljiro",
+        "Soup or an Euljiro evening?",
+        "Compare a soup-led meal with a separate Nogari Street outing."
+      ]
+    ]
   }
 }

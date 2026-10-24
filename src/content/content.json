@@ -474,12 +474,12 @@
     "tsukiji-info": {
       "name": "Tsukiji Outer Market — official visitor information",
       "url": "https://www.tsukiji.or.jp/english/plattsukiji/",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-10-24"
     },
     "tsukiji-calendar": {
       "name": "Tsukiji Outer Market — official operating calendar",
-      "url": "https://www.tsukiji.or.jp/calendar/",
-      "consultedAt": "2026-10-09"
+      "url": "https://www.tsukiji.or.jp/english/calendar/",
+      "consultedAt": "2026-10-24"
     },
     "euljiro-seoul": {
       "name": "Seoul Tourism Organization — Euljiro meal and Nogari Street outing",
@@ -1209,7 +1209,7 @@
     "tsukiji-main-official": {
       "name": "Tsukiji Outer Market — shop categories and visitor guide",
       "url": "https://www.tsukiji.or.jp/english/",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-10-24"
     },
     "beitou-anniversary-2026": {
       "name": "Beitou Hot Spring Museum — 2026 anniversary programme",
@@ -1290,6 +1290,11 @@
       "name": "BTS — official routes, fares and station area maps",
       "url": "https://www.bts.co.th/eng/routemap.html",
       "consultedAt": "2026-10-21"
+    },
+    "tsukiji-access": {
+      "name": "Tsukiji Outer Market — official subway and bus access",
+      "url": "https://www.tsukiji.or.jp/english/access/",
+      "consultedAt": "2026-10-24"
     }
   },
   "cities": [
@@ -1505,7 +1510,13 @@
       "slug": "tokyo",
       "img": "tyo-sensoji",
       "timezone": "Asia/Tokyo",
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-24",
+      "startGuides": [
+        "tokyo-tsukiji",
+        "tokyo-solo-asakusa",
+        "tokyo-listening"
+      ],
+      "planningIntro": "Choose a food-focused Tsukiji morning, an Asakusa first-day outing or a listening café. Start with one main purpose and check its hours before adding another neighbourhood."
     },
     {
       "name": "Seoul",
@@ -1551,7 +1562,11 @@
       "slug": "london",
       "img": "lon-tate-modern",
       "timezone": "Europe/London",
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-24",
+      "startGuides": [
+        "london-free"
+      ],
+      "planningIntro": "Choose one museum by what you want to see. The comparison guide separates permanent collections from exhibitions and booking arrangements, so a free-entry plan still has a clear destination."
     },
     {
       "name": "Lisbon",
@@ -1773,7 +1788,13 @@
       ],
       "timezone": "Asia/Taipei",
       "img": "tpe-dihua-photo",
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-24",
+      "startGuides": [
+        "taipei-slow-weekend",
+        "taipei-dadaocheng",
+        "taipei-beitou-museum"
+      ],
+      "planningIntro": "Start with a two-day outline, then choose a Dadaocheng afternoon or a Beitou museum visit. Keep any bathing booking separate from museum entry and allow time for the journey between districts."
     },
     {
       "id": "hkg",
@@ -1796,7 +1817,12 @@
       ],
       "timezone": "Asia/Hong_Kong",
       "img": "hkg-ferry-photo",
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-24",
+      "startGuides": [
+        "hong-kong-tram-first-ride",
+        "hong-kong-harbour"
+      ],
+      "planningIntro": "Compare a first tram ride with a harbour crossing. Choose the journey you want to experience, then plan the return instead of turning every transport option into a compulsory circuit."
     },
     {
       "id": "par",
@@ -6007,7 +6033,7 @@
           "Confirm opening, minimum order, charges, access and house rules."
         ]
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "compositionReview": {
         "date": "2026-10-19",
         "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
@@ -6053,6 +6079,10 @@
         [
           "Find Meikyoku Kissa Lion",
           "https://www.google.com/maps/search/?api=1&query=Meikyoku+Kissa+Lion+Shibuya+Tokyo"
+        ],
+        [
+          "Plan a separate Tsukiji food morning",
+          "/guides/tokyo-tsukiji"
         ]
       ]
     },
@@ -6061,17 +6091,43 @@
       "city": "tyo",
       "cat": "food",
       "kind": "feature",
-      "mins": 3,
-      "title": "Tsukiji Outer Market: build a morning around a few shops",
-      "dek": "Use the official directory to choose browsing and food stops, with your own queue and spending limits.",
+      "mins": 6,
+      "title": "Tsukiji Outer Market: opening hours, access and a morning food plan",
+      "dek": "Choose a station, distinguish public shopping hours from individual shop schedules, and plan one meal with time to browse.",
       "places": [
         "tyo-tsukiji"
       ],
       "body": [
-        "A Tsukiji outing becomes more useful when you arrive with a few specific interests. Choose ingredients, kitchen goods or a meal as the anchor, then use the official shop directory to identify businesses serving that purpose. The outer market is not a single venue with one shared shop schedule.",
+        "Tsukiji Outer Market is a collection of food shops and eateries in Tokyo, not a single hall with one opening time. The official calendar publishes 9am–2pm as public-buyer hours and says to check each outer-market shop separately. Choose one food stop or shopping purpose before deciding how much of the morning to spend here.",
         "Check the current market calendar and the individual shop’s information. Decide how much waiting fits the morning before joining a food queue. A shorter visit with a meal you wanted can be preferable to following every busy stall."
       ],
       "sections": [
+        {
+          "h": "Tsukiji opening hours: public buyers, individual shops and the calendar",
+          "p": [
+            "The official calendar distinguishes professional-buyer hours, 6am–9am, from public-buyer hours, 9am–2pm, followed by flexible opening. It explicitly says the calendar follows Tokyo Central Wholesale Market business days; each Tsukiji Outer Market shop has its own schedule. Do not read a calendar closure as proof that every outer-market restaurant is closed, or a trading day as a promise that every stall opens.",
+            "For a named restaurant or knife shop, check that business before travelling. For a flexible browse, use after 9am as your starting plan, then set a latest departure time before joining a queue. If your visit is on a holiday, choose a backup meal rather than treating the information counter’s timetable as a shop reservation."
+          ],
+          "sourceIds": [
+            "tsukiji-calendar"
+          ]
+        },
+        {
+          "h": "How to get to Tsukiji Outer Market by subway",
+          "p": [
+            "The market’s official access page lists Tsukijishijo on the Toei Oedo Line, Tsukiji on the Tokyo Metro Hibiya Line, and Higashi-ginza on the Toei Asakusa and Hibiya lines. Compare those options with your starting station. A nearby station name alone does not tell you how many changes your journey needs.",
+            "Save the destination shop as well as the station. The map choices here are alternative arrival areas, not a route requiring you to visit all three. For luggage or step-free requirements, check the transport operator’s station facilities and plan storage before entering narrow market lanes."
+          ],
+          "sourceIds": [
+            "tsukiji-access"
+          ],
+          "links": [
+            [
+              "Open the official access map",
+              "https://www.tsukiji.or.jp/english/access/"
+            ]
+          ]
+        },
         {
           "h": "Use Plat Tsukiji for the map, not every shop’s opening time",
           "p": [
@@ -6114,6 +6170,20 @@
             "For cooking ingredients or utensils, decide how you will use and carry the purchase before comparing products. Ask about sizes, packing and storage where relevant. Leave goods you cannot take home out of the shopping plan rather than relying on an assumed import allowance.",
             "For food, choose a main order first and keep another tasting optional. Ask where eating is permitted and avoid stopping where deliveries need to pass. Browsing a working market should leave room for the people using it for ordinary business."
           ]
+        },
+        {
+          "h": "A 90-minute visit or a two-hour morning",
+          "p": [
+            "For a 90-minute visit, our suggested split is 15 minutes to orient yourself, 45 minutes for your chosen meal including any wait, and 30 minutes for one shopping category and departure. If the queue would use most of the meal allowance, choose your backup instead. This is an editorial time budget, not measured service or walking time.",
+            "With two hours, add a seated pause or compare a second shop. Keep a 20-minute buffer inside that allowance before any later booking. Asakusa is another Tokyo outing with its own journey and visiting plan; compare the two guides before combining them into one day."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Compare an Asakusa first-day outing",
+              "/guides/tokyo-solo-asakusa"
+            ]
+          ]
         }
       ],
       "tips": [
@@ -6134,6 +6204,18 @@
         [
           "Can I use a card?",
           "Ask the individual business; the market directory does not establish one payment rule for every counter."
+        ],
+        [
+          "What time should visitors go to Tsukiji Outer Market?",
+          "The official calendar publishes public-buyer hours of 9am–2pm, with flexible opening later. Check each shop’s hours and the calendar for your date; this is not one shared restaurant schedule."
+        ],
+        [
+          "Which subway station is closest to Tsukiji Outer Market?",
+          "The official access page lists Tsukiji, Tsukijishijo and Higashi-ginza. Choose the line that suits your starting point and save the actual shop destination, rather than treating the stations as a walking circuit."
+        ],
+        [
+          "How long should I spend at Tsukiji?",
+          "Our suggested allowance is 90 minutes to two hours for one meal and a small shopping task. Queues, shop opening and your onward journey can require more time."
         ]
       ],
       "slug": "tokyo-tsukiji",
@@ -6141,17 +6223,22 @@
       "src": [
         "tsukiji-info",
         "tsukiji-calendar",
-        "tsukiji-main-official"
+        "tsukiji-main-official",
+        "tsukiji-access"
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
+        "date": "2026-10-24",
+        "method": "Verified market-access and calendar scope, restored visible planning tools and added original time-budget examples.",
+        "scope": "Named sections and selected official references; no firsthand visit or exhaustive factual or rights signoff."
       },
-      "seoTitle": "Tsukiji Outer Market Tokyo: A Morning Visit Guide",
-      "researchNote": "Visitor-centre hours, market etiquette and directory categories checked 19 October 2026. Individual shop hours, stock, payments and queues are not guaranteed. The suggested pace is editorial planning, with no on-site inspection.",
+      "seoTitle": "Tsukiji Outer Market: Hours, Access & Food Guide",
+      "researchNote": "Access options, the calendar’s scope and visitor-centre guidance checked 24 October 2026 against the market’s official pages. Individual shop hours, availability and payments remain separate checks. This is independent desk research; time budgets are editorial suggestions, not an on-site timed route.",
       "planLinks": [
+        [
+          "Compare the official subway arrival options",
+          "https://www.tsukiji.or.jp/english/access/"
+        ],
         [
           "Official visitor centre and map",
           "https://www.tsukiji.or.jp/english/plattsukiji/"
@@ -6162,7 +6249,7 @@
         ],
         [
           "Check the market calendar",
-          "https://www.tsukiji.or.jp/calendar/"
+          "https://www.tsukiji.or.jp/english/calendar/"
         ]
       ],
       "planTable": {
@@ -6188,6 +6275,46 @@
             "Current Toyosu visitor information",
             "Tsukiji Outer Market is a different destination"
           ]
+        ]
+      },
+      "quickPlan": [
+        [
+          "Public shopping",
+          "The market publishes 9am–2pm for public buyers; individual shops differ."
+        ],
+        [
+          "Arriving by rail",
+          "Compare Tsukiji, Tsukijishijo or Higashi-ginza for your starting line."
+        ],
+        [
+          "Our suggested visit",
+          "Allow 90 minutes to two hours for one meal, a focused browse and a break; queues can extend this."
+        ],
+        [
+          "Before leaving",
+          "Save a shop, check its own hours and choose a second option if it is closed."
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Choose a Tsukiji arrival station",
+        "summary": "Alternative rail arrival areas listed by the market. Choose one for your starting line, then check the actual shop address and station exit. These are not a walking circuit.",
+        "stops": [
+          {
+            "name": "Tsukiji Station",
+            "query": "Tsukiji Station, Tokyo, Japan",
+            "note": "Tokyo Metro Hibiya Line. Check the operator’s exit and accessibility information for your onward shop."
+          },
+          {
+            "name": "Tsukijishijo Station",
+            "query": "Tsukijishijo Station, Tokyo, Japan",
+            "note": "Toei Oedo Line. Compare your starting line rather than adding a change just to use another arrival."
+          },
+          {
+            "name": "Higashi-ginza Station",
+            "query": "Higashi-ginza Station, Tokyo, Japan",
+            "note": "Toei Asakusa and Tokyo Metro Hibiya lines. Save the shop destination separately."
+          }
         ]
       }
     },
@@ -9720,7 +9847,7 @@
       "kind": "guide",
       "items": [],
       "tips": [],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "id": "g-tokyo-solo-asakusa",
       "slug": "tokyo-solo-asakusa",
       "city": "tyo",
@@ -9820,7 +9947,13 @@
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
-      "seoTitle": "Tokyo Solo Travel: Your First Day in Asakusa"
+      "seoTitle": "Tokyo Solo Travel: Your First Day in Asakusa",
+      "planLinks": [
+        [
+          "Plan a separate Tsukiji food morning",
+          "/guides/tokyo-tsukiji"
+        ]
+      ]
     },
     {
       "kind": "guide",

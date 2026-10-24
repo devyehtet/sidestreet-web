@@ -1,0 +1,146 @@
+{
+  "checkedAt": "2026-10-24",
+  "property": "sc-domain:sidestreetguides.com",
+  "dataThrough": "2026-10-21",
+  "source": "Authenticated Google Search Console UI after the user completed account verification.",
+  "filters": {
+    "search": "Web",
+    "country": "All",
+    "device": "All",
+    "query": "None",
+    "page": "None"
+  },
+  "comparison": {
+    "current": [
+      "2026-10-15",
+      "2026-10-21"
+    ],
+    "previous": [
+      "2026-10-08",
+      "2026-10-14"
+    ],
+    "clicks": [
+      3,
+      2
+    ],
+    "impressions": [
+      367,
+      237
+    ],
+    "ctrPercent": [
+      0.8,
+      0.8
+    ],
+    "averagePosition": [
+      31.7,
+      25.3
+    ],
+    "impressionGrowthPercent": 54.9,
+    "limits": "Three vs two clicks is a very small sample. This window includes releases and does not establish their causal effect. Later GSC dates were not available."
+  },
+  "pages": {
+    "phuket-dragon-line-free-town-bus": {
+      "clicks": [
+        3,
+        1
+      ],
+      "impressions": [
+        55,
+        30
+      ],
+      "position": [
+        8,
+        7.9
+      ]
+    },
+    "chiang-mai-design-week-2026-dates": {
+      "clicks": [
+        0,
+        1
+      ],
+      "impressions": [
+        48,
+        30
+      ],
+      "position": [
+        5.5,
+        6
+      ]
+    },
+    "bangkok-chatuchak": {
+      "clicks": [
+        0,
+        0
+      ],
+      "impressions": [
+        48,
+        15
+      ],
+      "position": [
+        60.6,
+        52.5
+      ]
+    },
+    "tokyo-tsukiji": {
+      "clicks": [
+        0,
+        0
+      ],
+      "impressions": [
+        14,
+        3
+      ],
+      "position": [
+        49.4,
+        25.7
+      ]
+    }
+  },
+  "changes": {
+    "primaryGuide": "tokyo-tsukiji",
+    "observedIssue": "planTable and three planLinks existed in content but GuidePlan returned null because quickPlan was absent. Added a useful quickPlan so these render.",
+    "newResearch": [
+      "https://www.tsukiji.or.jp/english/access/",
+      "https://www.tsukiji.or.jp/english/calendar/",
+      "https://www.tsukiji.or.jp/english/plattsukiji/",
+      "https://www.tsukiji.or.jp/english/"
+    ],
+    "cityPlanning": [
+      "tokyo",
+      "hong-kong",
+      "taipei",
+      "london"
+    ],
+    "topic": "food-and-drink",
+    "contextualInbound": [
+      "tokyo-solo-asakusa",
+      "tokyo-listening"
+    ]
+  },
+  "analytics": {
+    "source": "Refreshed authenticated GA4 UI after user sign-in",
+    "property": "Sidestreet Guides, 558299287",
+    "period": [
+      "2026-09-26",
+      "2026-10-23"
+    ],
+    "views": 47,
+    "activeUsers": 5,
+    "sessionStartEvents": 11,
+    "averageEngagementPerActiveUser": "2m 56s",
+    "limits": "All-user report, not an organic-only cohort. Very small sample and possible publisher/test visits; do not equate page views or events with unique readers or Search Console clicks."
+  },
+  "nextMeasurement": "Recheck the same page cohort and equal complete seven-day periods after newer data and crawls are available; avoid repeated rewrites without new evidence.",
+  "maintenance": {
+    "observed": "Build reported a dependency security advisory; npm audit confirmed Next.js 16.4.0 affected and identified 16.4.3 as a non-major fix.",
+    "action": "Upgraded Next.js to 16.4.3 and applied the compatible transitive zod fix; final npm audit: zero vulnerabilities."
+  },
+  "validation": {
+    "lint": "passed",
+    "tests": "19 passed",
+    "productionBuild": "passed on Next.js 16.4.3",
+    "contentAudit": "93 guides; zero errors or warnings",
+    "renderedPages": "Eight revised guide/city/topic URLs passed local content, link and canonical checks as applicable.",
+    "responsive": "Tsukiji at 390px/320px, food topic at 320px: no horizontal overflow; station selector works."
+  }
+}
