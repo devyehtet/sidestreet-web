@@ -308,7 +308,7 @@
     "taipei-visitor": {
       "name": "Taipei City tourism · Dadaocheng Visitor Center",
       "url": "https://travel.taipei/vintage-clothing/en",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-10-24"
     },
     "hongkong-transit": {
       "name": "Hong Kong Tourism Board · getting around",
@@ -429,7 +429,7 @@
     "srt-booking": {
       "name": "State Railway of Thailand — D-Ticket",
       "url": "https://dticket.railway.co.th/",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-10-24"
     },
     "cm-walking-government": {
       "name": "Chiang Mai Tourism and Sports Office — walking streets (2012 archive)",
@@ -1295,6 +1295,11 @@
       "name": "Tsukiji Outer Market — official subway and bus access",
       "url": "https://www.tsukiji.or.jp/english/access/",
       "consultedAt": "2026-10-24"
+    },
+    "srt-dticket-help": {
+      "name": "State Railway of Thailand — English D-Ticket booking help",
+      "url": "https://dticket.railway.co.th/DTicketPublicWeb/help/",
+      "consultedAt": "2026-10-24"
     }
   },
   "cities": [
@@ -2106,7 +2111,11 @@
       "line": "Two stupa outings with space for worship and a quiet meal.",
       "code": "KTM",
       "img": "ktm-destination-photo",
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-24",
+      "startGuides": [
+        "kathmandu-swayambhu-boudha-first-visit"
+      ],
+      "planningIntro": "Choose a Swayambhu hilltop visit or a Boudha stupa-area outing first. The comparison guide separates the approach, time at the site and return transport; it is not a walking route linking both."
     },
     {
       "id": "rak",
@@ -8352,45 +8361,69 @@
       "city": "world",
       "cat": "travel",
       "kind": "feature",
-      "mins": 2,
-      "title": "Bangkok–Chiang Mai sleeper train: compare berths and arrival plans",
-      "dek": "Compare the actual Thai rail service, berth product and first day after arrival before booking.",
+      "mins": 5,
+      "title": "Bangkok–Chiang Mai sleeper train: booking, berths and the arrival day",
+      "dek": "Follow the official D-Ticket booking sequence, compare the actual sleeper coach and berth, and plan the first morning after arrival.",
       "body": [
-        "An overnight train combines transport with time you would otherwise spend sleeping, but the useful comparison is your actual ticket and next day. Decide whether the journey is part of the experience or mainly a way to reach the destination. That changes which compromises you are willing to make.",
-        "For Bangkok–Chiang Mai or another route, check the rail operator’s current service and berth products. Compare what you will book, not a general image of a sleeper carriage. Arrival time, luggage arrangements and sleep needs belong in the decision alongside the fare."
+        "For a Bangkok–Chiang Mai sleeper, use the State Railway of Thailand’s D-Ticket site to select a train, an available sleeper coach and the actual seat or berth allocation. The operator’s help page places these in separate booking steps: finding a train does not by itself confirm that you have chosen a sleeper product.",
+        "Begin with your travel date, passenger count and the departure station shown for the service. Then compare the overnight journey with what you want to do after arrival. This guide explains the booking decisions and a flexible arrival plan; it does not quote a live fare, guarantee availability or claim a personal inspection of a carriage."
       ],
       "sections": [
         {
-          "h": "Bangkok to Chiang Mai, step by step",
+          "h": "How to book the Bangkok–Chiang Mai sleeper on D-Ticket",
           "p": [
-            "Check the State Railway’s booking system for the actual train number, departure station, arrival time and berth class. Train timings and departure arrangements are service-specific; use the information on your ticket.",
-            "Read the carriage and berth description for the specific service. A photograph of an older sleeper does not establish the layout, privacy or facilities of the carriage you will book."
+            "The operator’s English help describes this sequence: register or log in, choose the Northern line, select origin and destination, set the travel date and passenger count, then search. Choose a train using its departure and arrival times, followed by an available coach; the help distinguishes air-conditioned, fan and sleeper coach types.",
+            "After entering passenger details, check the allocated places rather than assuming everyone is together. Review the booking summary before payment. The practical checkpoint is the product you selected: if the coach, date or allocation does not fit the trip, go back and compare another option before paying."
+          ],
+          "sourceIds": [
+            "srt-dticket-help"
           ]
         },
         {
-          "h": "Choosing a berth",
+          "h": "Upper or lower berth: compare the actual allocation",
           "p": [
-            "Compare upper and lower berths using the operator’s product description for your train. Ask about dimensions, access, curtains and cabin sharing where these affect your choice. Do not infer the same layout or price difference across every train."
+            "Choose the sleeping arrangement before comparing the final price. For each traveller, note whether climbing, sharing a compartment or being separated from the group would be a problem. Use the coach and allocation shown for your service, and ask SRT about any feature you cannot establish from the booking screen.",
+            "For a couple or family, record where each person will sleep and whether that arrangement is acceptable before continuing. For a solo traveller, decide which aspects of the shared space matter to you. An illustration of one train does not establish berth dimensions, privacy, charging facilities or washing facilities on another; this guide does not certify those features."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Check the departure date and station before arranging a transfer",
+          "p": [
+            "Keep a short booking note with four fields: departure date, departure station, train number and passenger names as booked. Use that station when planning the journey from your accommodation. The word Bangkok is not a substitute for the departure station printed on the actual ticket.",
+            "For an overnight journey, put the departure day and the following arrival day into your itinerary separately. A hotel checkout, dinner plan and station transfer all happen before the night on the train. Keep enough margin for reaching the station and finding the booked coach, rather than making a close connection depend on an estimated journey time."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Food, luggage and sleep are separate checks",
+          "p": [
+            "Check SRT’s current food, luggage and carriage rules for the service you intend to use. Keep essential booking information and permitted personal items accessible, and plan storage so you do not block an aisle or exit. Ask about assistance directly if the boarding or berth arrangement may be difficult.",
+            "Choose a simple sleep kit based on your own needs, such as an extra layer or eye mask. Treat a dining service, shower or charging socket as something to confirm for the specific carriage, not an inclusion established by a general sleeper-train photograph."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Plan the first two hours after arrival",
+          "p": [
+            "Our suggested first two hours are for leaving the station, getting to your accommodation or agreed luggage-storage point, having a meal and deciding how rested you feel. This is a flexible planning allowance, not a measured transfer duration. Confirm storage or early check-in before using it as the basis of the day.",
+            "Keep a timed activity out of the immediate arrival window unless you can accommodate a delay. If you slept poorly, shorten the first outing rather than squeezing an unchanged itinerary into the afternoon. Use the Chiang Mai two-day guide to choose one manageable first area, then add the second day’s main visit separately."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Choose a flexible Chiang Mai first day",
+              "/guides/chiang-mai-two-day-itinerary"
+            ]
           ]
         },
         {
-          "h": "Food, drink and sleep",
+          "h": "Compare the complete journey with flying",
           "p": [
-            "Check the operator’s current food, drink and carriage rules. Pack food that is permitted and easy to carry, a warm layer and an eye mask if you need them. Do not assume a dining service or power socket is available in your booked carriage."
-          ]
-        },
-        {
-          "h": "Other routes to consider",
-          "p": [
-            "Treat other international routes as separate research projects. Confirm the actual service, border formalities, booking channel and transfer arrangements with the relevant operator before comparing them with a Thai domestic sleeper."
-          ]
-        },
-        {
-          "h": "Compare the next day, not only the fare",
-          "p": [
-            "Write down what you intend to do after arrival. An early arrival can be awkward if accommodation is not available or the first activity needs concentration. Ask about luggage storage or early check-in separately instead of assuming an overnight ticket solves those questions.",
-            "Compare berth type, group separation, cancellation and total onward cost. A lower fare is not automatically the better choice if it leaves a difficult connection. Keep the first activity flexible so the trip can adapt to the amount of rest you actually get."
-          ]
+            "Use the same dates and passenger count for both options. Write down the ticket total, baggage or other required charges, transport to the departure point, transport after arrival, and any accommodation arrangements you still need. Compare the arrival day as well as the amount paid.",
+            "A sleeper can be a journey you want to experience, but it does not automatically replace a comfortable hotel night or cost less than a flight. Choose it when the available product, sleep arrangement and next-day plan work together. If the only remaining allocation creates a difficult trip for the group, compare another date or mode rather than treating a search result as an obligation to book."
+          ],
+          "sourceIds": []
         }
       ],
       "tips": [
@@ -8401,38 +8434,102 @@
       ],
       "faq": [
         [
-          "How far ahead should I book?",
-          "Check when your chosen service opens for booking, then reserve a suitable berth once your dates are firm. Availability varies; a few days ahead is not guaranteed."
+          "Where do I book a Bangkok–Chiang Mai sleeper train?",
+          "Use SRT’s D-Ticket system. Its published help requires registration or login, then selection of the train, available coach and allocation before reviewing and paying."
         ],
         [
-          "Is it safe to travel alone?",
-          "Consider the booked carriage, your comfort and current operator arrangements. Ask about assistance and any dedicated carriage options directly; this guide does not guarantee availability or personal safety."
+          "Does choosing a train mean I have booked a sleeper?",
+          "No. Check the coach type and actual allocation in the booking details before payment. A train may offer different products."
         ],
         [
-          "Are there washing facilities?",
-          "Check the facilities for your exact carriage and class. A shower or other facility described for one train may not be present on another."
+          "Should I choose an upper or lower berth?",
+          "Compare the actual allocation with your climbing, sharing and group needs. Confirm the carriage features with SRT rather than assuming every train has the same layout."
         ],
         [
-          "What about luggage?",
-          "Check the operator’s allowance and available storage for your class. Pack valuables where you can keep them with you, and avoid obstructing aisles or exits."
+          "How much is the sleeper train ticket?",
+          "Check the current total for your travel date, train, coach and allocation on D-Ticket. This guide does not provide a live fare or guarantee availability."
         ],
         [
-          "Why not just fly?",
-          "Compare the total fare, airport or station transfers, luggage charges, accommodation implications and arrival time. A sleeper is not automatically the same price as a flight or a substitute for a comfortable hotel night."
+          "Can I start sightseeing immediately after arrival?",
+          "Keep the first activity flexible. Confirm your accommodation or luggage-storage arrangement and allow for the actual arrival time and the rest you got overnight."
         ]
       ],
       "slug": "world-trains",
       "img": "t-sleeper",
       "src": [
-        "srt-booking"
+        "srt-booking",
+        "srt-dticket-help"
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-10-24",
+        "method": "Official booking-workflow check and original booking and arrival comparison.",
+        "scope": "Published booking steps and selected planning decisions; not a live availability or facility audit."
       },
-      "seoTitle": "Bangkok–Chiang Mai Sleeper Train Planning"
+      "seoTitle": "Bangkok to Chiang Mai Sleeper Train: Booking & Berths",
+      "quickPlan": [
+        [
+          "Booking channel",
+          "SRT D-Ticket; its help page requires registration or login before booking."
+        ],
+        [
+          "Product to confirm",
+          "Train number, departure station, coach type and the actual seat or berth allocation."
+        ],
+        [
+          "Before payment",
+          "Check every passenger, travel date and the final booking details."
+        ],
+        [
+          "After arrival",
+          "Arrange luggage storage and a flexible first activity separately from the rail ticket."
+        ]
+      ],
+      "planLinks": [
+        [
+          "Open the official SRT D-Ticket site",
+          "https://dticket.railway.co.th/"
+        ],
+        [
+          "Read SRT’s booking, changes and cancellation help",
+          "https://dticket.railway.co.th/DTicketPublicWeb/help/"
+        ],
+        [
+          "Plan the Chiang Mai arrival day",
+          "/guides/chiang-mai-two-day-itinerary"
+        ]
+      ],
+      "planTable": {
+        "caption": "Before paying: compare the actual overnight rail booking",
+        "headers": [
+          "Decision",
+          "Record for your chosen service",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Train",
+            "Date, origin station, train number, arrival day",
+            "Use the exact station for the transfer"
+          ],
+          [
+            "Coach and allocation",
+            "Sleeper product and each passenger’s assigned place",
+            "A train search is not a berth confirmation"
+          ],
+          [
+            "Group needs",
+            "Sharing, climbing and proximity requirements",
+            "Resolve an unsuitable allocation before payment"
+          ],
+          [
+            "First morning",
+            "Storage, check-in and one flexible activity",
+            "The ticket does not include the hotel arrangement"
+          ]
+        ]
+      },
+      "researchNote": "The English D-Ticket booking workflow was read on 24 October 2026. No live booking was made and no current fare, service timetable or carriage inspection is claimed. Berth comparisons and arrival time allowances are independent editorial planning suggestions."
     },
     {
       "id": "g-hanoi-old-quarter",
@@ -8674,23 +8771,21 @@
       "slug": "taipei-dadaocheng",
       "cat": "travel",
       "kind": "guide",
-      "title": "Dadaocheng for beginners: a slower Taipei afternoon",
-      "dek": "Start with Dihua Street, leave space for tea and use the visitor centre to shape an outing that fits your time.",
+      "title": "Dadaocheng Taipei: a Dihua Street walk and visitor-centre checks",
+      "dek": "Plan a compact Dihua Street outing around Yongle Market and Xia-Hai, with dated visitor-centre closures and a separate check for any booked activity.",
       "img": "tpe-dihua-photo",
       "body": [
-        "Choose Dadaocheng when you want a Taipei afternoon built around a neighbourhood rather than a ticketed landmark. Dihua Street provides the starting point, with a visitor centre and market area that help orient a first visit. Our suggested route keeps the focus narrow so you can spend time browsing instead of travelling between unrelated districts.",
-        "The tourism administration presents Dihua Street as a way to understand the city’s past. Read that background alongside the shops you see today, without expecting every business to function as a museum. The aim here is to give you a practical order for exploring, not to claim an inspection of individual shops."
+        "For a Dadaocheng visit, choose a small Dihua Street area before adding a tea or shopping stop. First check the visitor-centre notice: the official site announces a closure on 24 October 2026 due to the typhoon, and maintenance closure from 28 October to 15 November 2026. Do not rely on the centre or costume programme during those dates.",
+        "These notices concern the visitor centre, not a shared timetable for every independent shop in Dadaocheng. Check current city notices and your intended business before travelling. The walk below is an editorial neighbourhood plan; it does not establish outdoor access during severe weather or certify that the centre will reopen as scheduled."
       ],
       "sections": [
         {
-          "h": "Start with the visitor centre",
+          "h": "Check the dated visitor-centre notice before choosing a start",
           "p": [
-            "Taipei’s official visitor-centre page places it on Dihua Street opposite Yongle Market. That makes it a useful orientation stop for this outing. Check its current schedule if you want help or a particular activity; you can still plan an outdoor visit without relying on an interior being open.",
-            "Ask about the area you want to explore rather than collecting a large list of attractions. Our suggestion is to choose one street segment, one browsing stop and one refreshment break. If an activity needs a reservation, treat that as a separate booking rather than a guaranteed walk-in option."
+            "The official reservation site’s announcements take priority over its regular visitor hours. The maintenance notice also suspends online reservations during the closure. Check for a later update before relying on reopening or booking a costume session.",
+            "For a later visit when access is confirmed, the centre’s published address is No. 44, Section 1, Dihua Street, across from Yongle Market. Save that address as an orientation point. If staff assistance or an indoor visit is essential to the outing, choose a confirmed operating day rather than treating an outdoor map pin as a substitute."
           ],
           "sourceIds": [
-            "taipei-dihua",
-            "taipei-mrt",
             "taipei-visitor"
           ]
         },
@@ -8703,10 +8798,10 @@
           "sourceIds": []
         },
         {
-          "h": "A small triangle around Yongle, the visitor centre and Xia-Hai",
+          "h": "Orient around Yongle Market, the visitor-centre address and Xia-Hai",
           "p": [
-            "Taipei’s 2025 Dadaocheng feature places the visitor centre at 44 Dihua Street, opposite the market area, with Taipei Xia-Hai City God Temple just north of Yongle Market. Use those three named points to orient the beginning of the walk before continuing further along Dihua Street.",
-            "Give each point a different role: obtain orientation at the centre, browse the market area for its trading setting, and approach the temple as a working place of worship. The visitor centre’s costume experience uses a reservation system; an orientation stop does not mean a dress-up session is available without booking. This short loop also gives your group an obvious place to regroup."
+            "Taipei’s 2025 Dadaocheng feature places the visitor centre opposite the market area and Xia-Hai City God Temple just north of Yongle Market. Use those named points to understand the neighbourhood layout, with each interior visit checked separately.",
+            "Give the points different roles: use the centre’s address for orientation, choose the market area for browsing and approach the temple as a working place of worship. When the centre is closed, do not plan on its toilets, advice, indoor exhibitions or costume session being available. Confirm current access at each destination rather than promising a continuous sheltered circuit."
           ],
           "sourceIds": [
             "taipei-dadaocheng-quarterly",
@@ -8727,6 +8822,20 @@
             "For a tea purchase, decide whether it is for immediate drinking, a gift or later preparation at home. Ask how the quantity and packaging fit that purpose. For fabric or other products, use the same idea: what will you do with the purchase and how will you carry it?",
             "A browsing afternoon can be complete without buying. Save a shop name if you want to compare another option before deciding, and allow a seated pause before the final purchase. Separate curiosity from the feeling that you must spend money to justify the visit."
           ]
+        },
+        {
+          "h": "A shorter visit or a browsing afternoon",
+          "p": [
+            "For about an hour, our suggestion is to stay around the Yongle Market area, choose one browsing purpose and leave room for a pause. For two to three hours, add a selected Dihua Street segment and one seated stop. These are suggested time budgets, not measured route durations or promises that businesses are open.",
+            "If you have only one main interest, such as tea or fabric, plan the visit around a named business after checking its details. Keep the second stop optional. Use the two-day Taipei guide to compare this neighbourhood afternoon with a separate Beitou outing rather than trying to fit both into the same short session."
+          ],
+          "sourceIds": [],
+          "links": [
+            [
+              "Compare a slow Taipei weekend",
+              "/guides/taipei-slow-weekend"
+            ]
+          ]
         }
       ],
       "places": [
@@ -8742,6 +8851,10 @@
       ],
       "quickPlan": [
         [
+          "Visitor-centre access",
+          "Check the dated closure notice and latest official update before relying on staff or a costume booking."
+        ],
+        [
           "Best for",
           "First-time visitors who want a flexible, neighbourhood-focused plan."
         ],
@@ -8754,7 +8867,7 @@
           "Separate MRT or bus fares from refreshments and shopping. Set a spending limit before browsing tea and gifts."
         ]
       ],
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "researchNote": "The visitor-centre closure announcements and address were checked on the official Taipei City reservation site on 24 October 2026. Other historical references retain their earlier dates. This is desk research; reopening, individual shops and outdoor access require their own current checks.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -8768,16 +8881,68 @@
         [
           "Do I need to book a tasting?",
           "No tasting is included in this route. Check availability, prices and booking conditions with the shop you choose."
+        ],
+        [
+          "Is the Dadaocheng Visitor Center always open?",
+          "No. Check the date-specific closure announcements on the official reservation site before relying on its regular hours or programme."
         ]
       ],
-      "dateModified": "2026-10-19",
-      "mins": 3,
+      "dateModified": "2026-10-24",
+      "mins": 4,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-10-24",
+        "method": "Official temporary-closure and address check, with revised neighbourhood planning.",
+        "scope": "Centre access notices and named planning sections; not a verification of all businesses, street access or image rights."
       },
-      "seoTitle": "Dadaocheng Taipei: A Relaxed Afternoon Guide"
+      "seoTitle": "Dadaocheng Taipei: Dihua Street Walk & Visitor Centre",
+      "planLinks": [
+        [
+          "Read the current visitor-centre announcements",
+          "https://travel.taipei/vintage-clothing/en"
+        ],
+        [
+          "Compare a separate Beitou museum outing",
+          "/guides/taipei-beitou-museum"
+        ],
+        [
+          "Use the slower two-day Taipei plan",
+          "/guides/taipei-slow-weekend"
+        ]
+      ],
+      "planTable": {
+        "caption": "Separate the neighbourhood outing from visitor-centre services",
+        "headers": [
+          "You need",
+          "Check first",
+          "Planning consequence"
+        ],
+        "rows": [
+          [
+            "Visitor advice or exhibitions",
+            "Current centre announcements",
+            "A map pin does not confirm an operating service"
+          ],
+          [
+            "Costume session",
+            "Programme opening and reservation availability",
+            "The regular programme is not guaranteed walk-in access"
+          ],
+          [
+            "Tea, shopping or a meal",
+            "The named independent business",
+            "Centre closure is not a universal shop timetable"
+          ],
+          [
+            "Weather-affected visit",
+            "Current city and destination notices",
+            "A suggested street walk is not an access confirmation"
+          ]
+        ]
+      },
+      "travelNotice": {
+        "text": "Announced Dadaocheng Visitor Center closures: 24 October and 28 October–15 November 2026. Check the latest official notice before relying on centre services or a costume booking.",
+        "sourceId": "taipei-visitor"
+      }
     },
     {
       "id": "g-hong-kong-harbour",
@@ -9959,7 +10124,7 @@
       "kind": "guide",
       "items": [],
       "tips": [],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-24",
       "id": "g-taipei-slow-weekend",
       "slug": "taipei-slow-weekend",
       "city": "tpe",
@@ -9992,7 +10157,7 @@
           "Our suggestion: one main district each day, with unscheduled time before and after."
         ]
       ],
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "researchNote": "A date-specific Dadaocheng Visitor Center closure note was added from the official reservation site on 24 October 2026. Other source-linked sections retain their 19 October review scope. This is desk research, not a firsthand visit or a fresh check of every venue.",
       "body": [
         "A slower Taipei weekend starts by choosing what to leave out. Give Dadaocheng one afternoon and Beitou a separate day instead of combining both with a long list of city landmarks. You still need to check transport and opening times, but you can leave space for a meal, a change in weather and the shop you actually want to browse.",
         "This plan is for visitors who prefer fewer transfers and longer pauses. It does not require a particular hotel or a shopping budget. Keep your accommodation as the starting point for both days, and decide how much walking is comfortable before adding anything else. The two outings can be swapped if the museum’s opening day makes that more practical."
@@ -10006,6 +10171,25 @@
           ],
           "sourceIds": [
             "taipei-shopping-district"
+          ]
+        },
+        {
+          "h": "Check Dadaocheng Visitor Center closures separately",
+          "p": [
+            "The centre’s official site announces closure on 24 October 2026 and maintenance from 28 October to 15 November 2026. Check the latest notice before relying on its services or costume programme; other shops and outdoor access need separate confirmation."
+          ],
+          "sourceIds": [
+            "taipei-visitor"
+          ],
+          "links": [
+            [
+              "Read the latest centre notice",
+              "https://travel.taipei/vintage-clothing/en"
+            ],
+            [
+              "Use the revised Dadaocheng guide",
+              "/guides/taipei-dadaocheng"
+            ]
           ]
         },
         {
@@ -10064,7 +10248,11 @@
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
       },
-      "seoTitle": "Taipei Weekend Itinerary: Two Relaxed Days"
+      "seoTitle": "Taipei Weekend Itinerary: Two Relaxed Days",
+      "travelNotice": {
+        "text": "Announced Dadaocheng Visitor Center closures: 24 October and 28 October–15 November 2026. Check the latest official notice before relying on centre services or a costume booking.",
+        "sourceId": "taipei-visitor"
+      }
     },
     {
       "kind": "guide",
@@ -11325,7 +11513,7 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-10-24",
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
@@ -11342,6 +11530,10 @@
         [
           "Check Chatuchak opening days and arrival stations",
           "/guides/bangkok-chatuchak"
+        ],
+        [
+          "Compare the onward sleeper to Chiang Mai",
+          "/guides/world-trains"
         ]
       ],
       "compositionReview": {
@@ -11603,7 +11795,7 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-10-24",
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "relatedGuides": [
@@ -11626,6 +11818,10 @@
         [
           "Airport arrival options",
           "/guides/chiang-mai-airport-to-old-town-transfer"
+        ],
+        [
+          "Plan a sleeper-train arrival from Bangkok",
+          "/guides/world-trains"
         ]
       ],
       "compositionReview": {
@@ -16310,7 +16506,7 @@
       "src": [
         "taipei-visitor"
       ],
-      "blurb": "An orientation stop to check before relying on staff assistance or a booked activity. Use it to narrow the outing to your interests.",
+      "blurb": "Check the official temporary-closure announcements before relying on visitor advice, exhibitions or a costume session. The centre address can orient a map without confirming that services are operating.",
       "verify": true
     },
     {

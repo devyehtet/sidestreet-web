@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-24",
+  "property": "sc-domain:sidestreetguides.com",
+  "period": [
+    "2026-10-15",
+    "2026-10-21"
+  ],
+  "comparison": [
+    "2026-10-08",
+    "2026-10-14"
+  ],
+  "filters": "Web; all countries/devices; no query/page filter; full 100-row Pages table",
+  "priorityPages": [
+    {
+      "slug": "world-trains",
+      "impressions": 5,
+      "clicks": 0,
+      "position": 12,
+      "previousPosition": 40.6,
+      "action": "Official booking workflow, coach-selection explanation, comparison table, arrival plan and contextual inbound links.",
+      "target": "Work toward a page average of 10 or better while earning relevant clicks."
+    },
+    {
+      "slug": "taipei-dadaocheng",
+      "impressions": 5,
+      "clicks": 0,
+      "position": 15.8,
+      "previousPosition": 5.8,
+      "action": "Correct dated centre closures, improve visit decisions, source links and snippet.",
+      "target": "Work toward 10 or better; measure clicks alongside visibility."
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "impressions": 7,
+      "clicks": 0,
+      "position": 8.3,
+      "previousPosition": 17.2,
+      "action": "Add an explicit city-page starting guide without rewriting the article.",
+      "target": "Maintain relevant Top 10 visibility and earn a first click."
+    }
+  ],
+  "limits": "Small samples, not exact keyword ranks or search volume. No causal claim; recent Oct21/24 revisions to other priority pages left unchanged. Targets are experiments, not guarantees.",
+  "sourceEvidence": {
+    "rail": "Official English D-Ticket home and help read in browser; no booking or fare search submitted.",
+    "taipei": "Official reservation page read in browser after web fetch returned 403. Announcements: Oct24 closure due to typhoon, Oct28–Nov15 maintenance, reservations suspended during maintenance."
+  },
+  "changedGuides": [
+    "world-trains",
+    "taipei-dadaocheng",
+    "taipei-slow-weekend",
+    "bangkok-three-day-first-visit",
+    "chiang-mai-two-day-itinerary"
+  ],
+  "changedCity": "kathmandu",
+  "measurement": "Compare equal complete seven-day periods after newer data is available; review query and country mix before treating average-position movement as a loss or gain.",
+  "validation": {
+    "lint": "passed",
+    "tests": "19 passed",
+    "productionBuild": "passed",
+    "contentAudit": "93 guides, zero errors or warnings",
+    "renderedChecks": "Five changed guides, Kathmandu city start and public correction passed; dated notices precede photographs on both affected Taipei guides.",
+    "responsive": "Dadaocheng at 390/320px and sleeper guide at 320px: no horizontal page overflow."
+  }
+}
