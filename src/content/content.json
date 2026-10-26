@@ -1388,6 +1388,26 @@
     "borough-qa-oct26": {
       "name": "Borough Market — visitor FAQs",
       "url": "https://boroughmarket.org.uk/frequently-asked-questions/"
+    },
+    "best-thipsamai": {
+      "name": "Thipsamai — official restaurant and original address",
+      "url": "https://thipsamai.com/",
+      "consultedAt": "2026-10-26"
+    },
+    "best-jayfai": {
+      "name": "MICHELIN Guide — Jay Fai restaurant listing",
+      "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/jay-fai",
+      "consultedAt": "2026-10-26"
+    },
+    "best-mandarin": {
+      "name": "Mandarin Oriental Bangkok — official hotel",
+      "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+      "consultedAt": "2026-10-26"
+    },
+    "best-peninsula": {
+      "name": "The Peninsula Bangkok — official hotel",
+      "url": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+      "consultedAt": "2026-10-26"
     }
   },
   "cities": [
@@ -16343,6 +16363,170 @@
         ]
       },
       "mins": 3
+    },
+    {
+      "city": "bkk",
+      "kind": "guide",
+      "roundup": true,
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "sections": [],
+      "tips": [],
+      "faq": [
+        [
+          "Are these ranked from best to worst?",
+          "No. Each pick matches a specific visitor need. These are researched editorial selections, not firsthand ratings or an exhaustive city ranking."
+        ],
+        [
+          "Are these paid placements?",
+          "No payment or sponsorship is recorded for these selections. Any future sponsored inclusion must be labelled separately."
+        ]
+      ],
+      "researchNote": "Published sources checked 26 October 2026. Selection is based on a distinct visitor use, identifiable location and a relevant venue photograph. We have not personally tested these businesses. Order is for reading convenience, not a score.",
+      "imageNote": "Licensed archive photograph of the named venue; appearance and services may have changed.",
+      "mins": 3,
+      "id": "best-bangkok-restaurants-pad-thai-crab-omelette",
+      "slug": "best-bangkok-restaurants-pad-thai-crab-omelette",
+      "cat": "food",
+      "title": "The best Bangkok food stops for pad thai or a crab-omelette splurge",
+      "seoTitle": "Best Bangkok Food Stops: Thipsamai & Jay Fai",
+      "dek": "Two Maha Chai Road addresses, two very different meals. Pick a pad-thai stop or make time and budget for Jay Fai—each with its own venue photograph.",
+      "img": "bkk-thipsamai",
+      "body": [
+        "A memorable Bangkok meal does not always need a long restaurant list. Our edit puts two named Maha Chai Road businesses side by side: Thipsamai for a pad-thai-led stop and Jay Fai for a crab-omelette-focused occasion. Choose by the dish and the kind of time you want to give lunch, rather than trying to collect both in one sitting.",
+        "These are “best for” recommendations built from the businesses’ published focus and location. We have not tasted the dishes or scored service. The photographs show the actual named venues from licensed archives; they do not establish what is on the menu today. Start with the option that fits your group, then verify opening and ordering arrangements.",
+        "Our practical preference is one main food destination and an optional later drink or walk. Read the current menu before joining a queue, set a spending limit and ask the restaurant about ingredients if needed. Familiar dish names do not guarantee the same recipe, portion or dietary suitability at every business."
+      ],
+      "items": [
+        {
+          "p": "bkk-thipsamai",
+          "bestFor": "A pad-thai-focused meal",
+          "text": "Thipsamai’s official site identifies the original Maha Chai Road address at 313–315 and presents pad thai as its central speciality. Choose it when your plan is built around that dish, rather than a broad menu of shared Thai plates. Save this branch’s location: finding the same brand elsewhere is a different arrival plan.",
+          "whyPick": "A clear dish-led choice for someone who wants to commit to a noodle meal. Compare the available versions and inclusions on the current menu; our recommendation is about purpose, not a claim that one recipe will suit every palate.",
+          "beforeYouGo": "Confirm the original branch’s current opening and menu. Ask about prawns, egg and sauces if ingredients matter, and check the total for your actual order. No fixed meal price or queue time is assumed here.",
+          "sourceIds": [
+            "best-thipsamai"
+          ]
+        },
+        {
+          "p": "bkk-jay-fai",
+          "bestFor": "A crab-omelette-focused occasion",
+          "text": "The MICHELIN listing places Jay Fai at 327 Maha Chai Road and identifies crab omelettes among its signature dishes, alongside other cooked-to-order choices. It also warns visitors to expect a wait and bring cash. Choose this as the main meal event rather than a quick stop between fixed appointments.",
+          "whyPick": "A useful enquiry when the crab omelette is the reason for going and you can leave time and budget flexible. A recognised name is not a table guarantee, and we do not adopt the inspector’s tasting judgement as our own.",
+          "beforeYouGo": "Check the current opening days, ordering process, payment and dish price before travelling. Agree a queue limit with your companion and keep an alternative meal in mind. Do not infer availability from an archive photograph.",
+          "sourceIds": [
+            "best-jayfai"
+          ]
+        }
+      ],
+      "places": [
+        "bkk-thipsamai",
+        "bkk-jay-fai"
+      ],
+      "src": [
+        "best-thipsamai",
+        "best-jayfai"
+      ],
+      "relatedGuides": [
+        "bangkok-street-food",
+        "bangkok-night-markets"
+      ],
+      "quickPlan": [
+        [
+          "Our edit",
+          "2 named businesses, selected for different visitor needs"
+        ],
+        [
+          "Compare by",
+          "What you want, location and the actual purchase"
+        ],
+        [
+          "Photos",
+          "Named-venue archive images with author and licence credits"
+        ]
+      ]
+    },
+    {
+      "city": "bkk",
+      "kind": "guide",
+      "roundup": true,
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "sections": [],
+      "tips": [],
+      "faq": [
+        [
+          "Are these ranked from best to worst?",
+          "No. Each pick matches a specific visitor need. These are researched editorial selections, not firsthand ratings or an exhaustive city ranking."
+        ],
+        [
+          "Are these paid placements?",
+          "No payment or sponsorship is recorded for these selections. Any future sponsored inclusion must be labelled separately."
+        ]
+      ],
+      "researchNote": "Published sources checked 26 October 2026. Selection is based on a distinct visitor use, identifiable location and a relevant venue photograph. We have not personally tested these businesses. Order is for reading convenience, not a score.",
+      "imageNote": "Licensed archive photograph of the named venue; appearance and services may have changed.",
+      "mins": 3,
+      "id": "best-bangkok-riverside-hotels-two-stays",
+      "slug": "best-bangkok-riverside-hotels-two-stays",
+      "cat": "hotels",
+      "title": "The best Bangkok riverside stays for a classic hotel escape",
+      "seoTitle": "Best Bangkok Riverside Stays: Mandarin Oriental & Peninsula",
+      "dek": "Two named riverfront hotels, pictured and compared by location and the stay you want to book. Start with the bank of the river, then the room offer.",
+      "img": "bkk-mandarin-oriental",
+      "body": [
+        "A riverside hotel can be the centre of a Bangkok trip rather than simply somewhere to sleep. Our small edit compares Mandarin Oriental, Bangkok and The Peninsula Bangkok: two established names to consider when you intend to spend meaningful time at the property. This is a practical shortlist, not a complete ranking of Bangkok’s luxury hotels.",
+        "The useful first choice is the location. Save the hotel’s exact address and compare it with the places you expect to visit most. Then compare the room category and inclusions for your dates. A building photograph tells you where you are considering staying; it does not show the view from every room or certify the facilities included in every rate.",
+        "We suggest comparing the same number of nights, occupancy and cancellation conditions on both official booking pages. Put breakfast, transfers and other extras on separate lines. A rate that initially appears cheaper can be a different product once those details are counted. Our recommendations below explain why each property belongs on the enquiry list without inventing a stay experience."
+      ],
+      "items": [
+        {
+          "p": "bkk-mandarin-oriental",
+          "bestFor": "A Bang Rak base with hotel dining to explore",
+          "text": "The official hotel page gives 48 Oriental Avenue in Bang Rak as its riverbank address. It also lists several distinct dining venues, including The Authors’ Lounge for afternoon tea. This makes it a sensible first enquiry when both the hotel stay and a particular dining occasion are part of the reason for your trip.",
+          "whyPick": "Consider it when you want to compare a room offer with a separate hotel dining plan. Choose the restaurant or lounge by its actual menu and booking terms; staying at the hotel does not establish that a table or tea service is included.",
+          "beforeYouGo": "Ask about the exact room outlook, occupancy, breakfast and cancellation terms. If a meal is essential, confirm that reservation separately. Match the booking confirmation to the property and room category rather than relying on the exterior photograph.",
+          "sourceIds": [
+            "best-mandarin"
+          ]
+        },
+        {
+          "p": "bkk-peninsula",
+          "bestFor": "A Charoennakorn Road riverfront base",
+          "text": "The Peninsula’s official Bangkok page identifies its address as 333 Charoennakorn Road. Start here if that location makes sense for the time you expect to spend around the river and at the property. Compare the map with your planned outings before selecting a room.",
+          "whyPick": "A distinct address to compare with an Oriental Avenue stay, especially when the location of the hotel itself matters more than simply choosing a famous brand. The recommendation is to compare the actual offer, not to assume that every room, transfer or facility has identical terms.",
+          "beforeYouGo": "Confirm the room’s stated outlook, check-in arrangements and any transfer service directly with the hotel. If you need a boat connection, ask about the destination and operating times for your travel date; no timetable or complimentary service is promised by this guide.",
+          "sourceIds": [
+            "best-peninsula"
+          ]
+        }
+      ],
+      "places": [
+        "bkk-mandarin-oriental",
+        "bkk-peninsula"
+      ],
+      "src": [
+        "best-mandarin",
+        "best-peninsula"
+      ],
+      "relatedGuides": [
+        "bangkok-hotels",
+        "bangkok-rooftops"
+      ],
+      "quickPlan": [
+        [
+          "Our edit",
+          "2 named businesses, selected for different visitor needs"
+        ],
+        [
+          "Compare by",
+          "What you want, location and the actual purchase"
+        ],
+        [
+          "Photos",
+          "Named-venue archive images with author and licence credits"
+        ]
+      ]
     }
   ],
   "places": [
