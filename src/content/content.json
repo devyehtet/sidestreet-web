@@ -1360,6 +1360,34 @@
       "name": "Chiang Mai Design Week — official 2026 overview",
       "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about",
       "consultedAt": "2026-10-26"
+    },
+    "ngs-visit-oct26": {
+      "name": "National Gallery Singapore — visitor information",
+      "url": "https://www.nationalgallery.sg/sg/en/visit/visitor-information.html"
+    },
+    "ngs-imagine-2026": {
+      "name": "National Gallery Singapore — Let’s Imagine the World Together",
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Lets-Imagine-the-World-Together.html"
+    },
+    "meiji-hours-oct26": {
+      "name": "Meiji Jingu — opening hours and admission",
+      "url": "https://www.meijijingu.or.jp/en/opening/"
+    },
+    "meiji-qa-oct26": {
+      "name": "Meiji Jingu — visitor questions",
+      "url": "https://www.meijijingu.or.jp/en/qa/"
+    },
+    "meiji-access-oct26": {
+      "name": "Meiji Jingu — access",
+      "url": "https://www.meijijingu.or.jp/en/access/"
+    },
+    "borough-visit-oct26": {
+      "name": "Borough Market — plan your visit",
+      "url": "https://boroughmarket.org.uk/visit-us/"
+    },
+    "borough-qa-oct26": {
+      "name": "Borough Market — visitor FAQs",
+      "url": "https://boroughmarket.org.uk/frequently-asked-questions/"
     }
   },
   "cities": [
@@ -15899,6 +15927,422 @@
         ]
       },
       "mins": 3
+    },
+    {
+      "id": "singapore-national-gallery-november-2026-exhibition",
+      "slug": "singapore-national-gallery-november-2026-exhibition",
+      "city": "sin",
+      "cat": "news",
+      "kind": "news",
+      "title": "A new reason to spend an afternoon at National Gallery Singapore",
+      "seoTitle": "National Gallery Singapore: New Exhibition from 5 November 2026",
+      "dek": "Let’s Imagine the World Together opens on 5 November. Here’s how to build an art afternoon around it, with ticket choices and the current gallery closure explained.",
+      "img": "sin-national-gallery",
+      "places": [
+        "sin-national-gallery"
+      ],
+      "items": [],
+      "body": [
+        "An art afternoon does not need a dozen must-see stops. Sometimes it needs one exhibition you are curious about and enough space to look properly. National Gallery Singapore has announced Let’s Imagine the World Together: Art in Southeast Asia for 5 November 2026–26 September 2027, in the City Hall Wing’s Level 4 Gallery.",
+        "Our edit is a focused visit rather than an attempt to see the whole building. Choose a question before you arrive: how do artists picture a person, a place or everyday life? Take that question into the rooms, then leave time afterwards to talk about the work that stayed with you. This is a preview based on the venue’s information, not a review of an exhibition we have attended."
+      ],
+      "sections": [
+        {
+          "h": "Put the opening date ahead of the wish list",
+          "p": [
+            "The exhibition requires a General Admission ticket. If this is the reason for your trip, choose a date from 5 November onwards; an October visit cannot include it. Save the official exhibition page with your travel plan, so the title and location are easy to show at the visitor desk.",
+            "We suggest keeping the first visit simple: one exhibition, a break and an optional second room. Choose the additional room after checking what is actually open that day. A shorter plan you enjoy is more useful than an ambitious route that turns every artwork into a checkpoint."
+          ],
+          "sourceIds": [
+            "ngs-imagine-2026"
+          ]
+        },
+        {
+          "h": "Check the closure before building your route",
+          "p": [
+            "The visitor page currently says the UOB Southeast Asia Gallery is closed until late 2027, while National Collection works remain on display elsewhere. That closure is not a closure of the entire museum. It does mean an old itinerary may direct you towards rooms you cannot enter.",
+            "At arrival, ask for the current floor map and mark your main exhibition first. Treat saved social posts as inspiration, then use the venue’s map to decide the actual sequence. If you are travelling with someone who tires easily, agree that the optional room can be dropped without changing the purpose of the outing."
+          ],
+          "sourceIds": [
+            "ngs-visit-oct26"
+          ]
+        },
+        {
+          "h": "Buy the ticket that covers your plan",
+          "p": [
+            "As checked on 26 October, standard General Admission for other nationalities is S$20; Singapore citizens and permanent residents receive free General Admission. Special exhibitions have separate ticket terms. Confirm your eligibility and the included exhibitions on the official booking page rather than assuming every visitor or every show has the same price.",
+            "Before payment, write down who is going and which exhibition you want to see. Compare the total for the group with your afternoon budget. Keep any meal or shop purchase separate so it does not quietly become part of an apparently inexpensive cultural outing."
+          ],
+          "sourceIds": [
+            "ngs-visit-oct26"
+          ]
+        },
+        {
+          "h": "Give the visit a beginning and an ending",
+          "p": [
+            "The published gallery hours are daily 10am–7pm, with last admission at 6.30pm. A late-admission deadline is not a recommended arrival time for a full visit. Our suggestion is to reserve a comfortable two-hour block for a selective look, then adjust it to the exhibition and your group.",
+            "For a simple looking exercise, each person chooses one work to discuss without using a rating. What drew your eye first? What did the title change? You do not need to agree. This makes the visit a conversation rather than a contest to identify the most famous object."
+          ],
+          "sourceIds": [
+            "ngs-visit-oct26"
+          ]
+        },
+        {
+          "h": "Keep the next stop optional",
+          "p": [
+            "The official visitor page identifies City Hall MRT Exit B and an approximately seven-minute walk via the Art Connector. Check directions from your own starting point and choose a meeting entrance before splitting up.",
+            "If food is next, use our Singapore hawker comparison to decide between a dedicated meal outing and a quick bite. Keep the meal independent of the museum ticket: you should be able to change one without losing the other. On a rainy afternoon, a clear route home is a better final decision than adding another distant attraction."
+          ],
+          "sourceIds": [
+            "ngs-visit-oct26"
+          ]
+        }
+      ],
+      "faq": [
+        [
+          "When does the exhibition open?",
+          "The official dates are 5 November 2026–26 September 2027."
+        ],
+        [
+          "Is the whole Gallery closed?",
+          "No. The closure notice concerns the UOB Southeast Asia Gallery; check the current room map."
+        ],
+        [
+          "Is admission free for tourists?",
+          "Standard General Admission for other nationalities is currently S$20; eligibility and exhibition terms vary."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Opening",
+          "5 November 2026"
+        ],
+        [
+          "Location",
+          "City Hall Wing, Level 4"
+        ],
+        [
+          "Ticket",
+          "General Admission; check eligibility"
+        ],
+        [
+          "Our suggested plan",
+          "One exhibition, a break and one optional room"
+        ]
+      ],
+      "src": [
+        "ngs-imagine-2026",
+        "ngs-visit-oct26"
+      ],
+      "relatedGuides": [
+        "singapore-hawker"
+      ],
+      "tips": [],
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "researchNote": "Official venue pages checked 26 October 2026. Independently written research guide, not a firsthand review. Suggested activities and time budgets are editorial ideas; prices, access and programmes can change.",
+      "imageNote": "Licensed archive photograph of the venue; not a photograph of the announced exhibition or a visit made by our editorial team.",
+      "planLinks": [
+        [
+          "National Gallery Singapore — Let’s Imagine the World Together",
+          "https://www.nationalgallery.sg/sg/en/exhibitions/Lets-Imagine-the-World-Together.html"
+        ],
+        [
+          "National Gallery Singapore — visitor information",
+          "https://www.nationalgallery.sg/sg/en/visit/visitor-information.html"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Find the venue",
+        "summary": "One venue marker. Open the current map for your own starting point and access needs.",
+        "stops": [
+          {
+            "name": "National Gallery Singapore, 1 St Andrew’s Road, Singapore",
+            "query": "National Gallery Singapore, 1 St Andrew’s Road, Singapore",
+            "note": "Use the venue’s current visitor information alongside directions."
+          }
+        ]
+      },
+      "mins": 4
+    },
+    {
+      "id": "tokyo-meiji-jingu-first-visit-guide",
+      "slug": "tokyo-meiji-jingu-first-visit-guide",
+      "city": "tyo",
+      "cat": "things",
+      "kind": "guide",
+      "title": "Tokyo, take a breath: a slower first visit to Meiji Jingu",
+      "seoTitle": "Meiji Jingu Tokyo: Hours, Free Entry & First-Visit Guide",
+      "dek": "Make the shrine the main event, leave the suitcase elsewhere and give the wooded approach its own time. A practical alternative to another packed Tokyo checklist.",
+      "img": "tyo-meiji",
+      "places": [
+        "tyo-meiji"
+      ],
+      "items": [],
+      "body": [
+        "Not every Tokyo outing needs a reservation, a tasting menu and a view from the top. Meiji Jingu offers a different kind of plan: arrive with time to walk, visit the shrine and let the next stop remain undecided. The point is not to rush through a quiet place on the way to somewhere louder.",
+        "Our suggested format is a shrine-only visit first, with the Inner Garden or museum as a separate decision. That keeps the outing understandable for a first-time visitor and gives the main approach room to be part of the experience. We have researched the official visitor guidance; this is not an account of our own recent visit."
+      ],
+      "sections": [
+        {
+          "h": "Let daylight set the plan",
+          "p": [
+            "Meiji Jingu’s main grounds use monthly opening times. The official schedule lists October as 5.40am–4.40pm and November as 6.10am–4.10pm. Facilities within the grounds can keep shorter hours. This is a daytime outing, so do not carry an October closing time into a November itinerary.",
+            "Choose your arrival by working backwards from the closing time, rather than treating the final hour as spare capacity. Our preference is to leave a generous margin for the approach, finding your way and a pause. If your day runs late, move the shrine to another day instead of turning the visit into a race."
+          ],
+          "sourceIds": [
+            "meiji-hours-oct26"
+          ]
+        },
+        {
+          "h": "Separate the free visit from paid extras",
+          "p": [
+            "The shrine’s official FAQ says entry to Meiji Jingu is free, with charges at some facilities. The opening-and-admission page lists the Inner Garden and museum at ¥500 each. Check each facility’s current conditions before treating either as part of your plan.",
+            "For a first visit, decide whether you are interested in worship-space etiquette, a garden or a museum. Those are different reasons to go. You can enjoy a focused shrine visit without buying every extra, or reserve more time for one additional facility if it matches your interests."
+          ],
+          "sourceIds": [
+            "meiji-qa-oct26",
+            "meiji-hours-oct26"
+          ]
+        },
+        {
+          "h": "The entrance is not the end of the walk",
+          "p": [
+            "The access page warns that station-to-entrance timings do not include the walk to the main shrine buildings, which takes at least another ten minutes. Save the venue’s precinct map before travelling; an entrance pin is an arrival reference rather than proof you have reached the main destination.",
+            "For our suggested outing, choose one meeting point and give everyone the same map. If your group splits up for photographs, agree where to regroup before phones and crowds make a simple decision harder. Leave the onward meal flexible until you know when you will actually finish."
+          ],
+          "sourceIds": [
+            "meiji-access-oct26"
+          ]
+        },
+        {
+          "h": "Arrive light and make space for other visitors",
+          "p": [
+            "The official FAQ says there is no suitcase storage inside the grounds. It also restricts eating and drinking to designated areas and prohibits photographs in front of the main shrine where people pray. Arrange your luggage separately and follow the signs on site.",
+            "Our practical suggestion is to put the camera away for a portion of the approach. Notice the change in pace rather than trying to document every turn. When you do stop, leave the path clear. A good visit is one that allows someone else to continue their own, including people coming for prayer rather than sightseeing."
+          ],
+          "sourceIds": [
+            "meiji-qa-oct26"
+          ]
+        },
+        {
+          "h": "Choose the next stop after the shrine",
+          "p": [
+            "A longer Tokyo day can still begin with one calm destination. Keep your next meal or shopping stop outside this visit’s essential plan, and check the journey once you are ready to leave. Avoid promising your group a fixed sequence that depends on every pause being shorter than expected.",
+            "If another neighbourhood suits a different day, our Asakusa guide offers a separate first-day plan. If music is your priority, the listening-café comparison is another outing altogether. Neither needs to be squeezed into the shrine visit to make it worthwhile."
+          ]
+        }
+      ],
+      "faq": [
+        [
+          "Is Meiji Jingu free?",
+          "The shrine itself has no admission fee. The Inner Garden and museum have separate charges."
+        ],
+        [
+          "Can I take a suitcase?",
+          "The official FAQ says there is no suitcase storage inside the grounds."
+        ],
+        [
+          "Does it close at the same time all year?",
+          "No. Opening and closing times change by month; facilities can have shorter hours."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Visit style",
+          "Daytime shrine visit; optional garden or museum"
+        ],
+        [
+          "November hours",
+          "6.10am–4.10pm for the main grounds"
+        ],
+        [
+          "Luggage",
+          "Arrange storage elsewhere"
+        ],
+        [
+          "Our suggested approach",
+          "One main destination, with the next stop optional"
+        ]
+      ],
+      "src": [
+        "meiji-hours-oct26",
+        "meiji-qa-oct26",
+        "meiji-access-oct26"
+      ],
+      "relatedGuides": [
+        "tokyo-solo-asakusa",
+        "tokyo-listening"
+      ],
+      "tips": [],
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "researchNote": "Official venue pages checked 26 October 2026. Independently written research guide, not a firsthand review. Suggested activities and time budgets are editorial ideas; prices, access and programmes can change.",
+      "imageNote": "Licensed archive photograph of the venue; not a photograph taken during an editorial visit.",
+      "planLinks": [
+        [
+          "Meiji Jingu — opening hours and admission",
+          "https://www.meijijingu.or.jp/en/opening/"
+        ],
+        [
+          "Meiji Jingu — visitor questions",
+          "https://www.meijijingu.or.jp/en/qa/"
+        ],
+        [
+          "Meiji Jingu — access",
+          "https://www.meijijingu.or.jp/en/access/"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Find the venue",
+        "summary": "One venue marker. Open the current map for your own starting point and access needs.",
+        "stops": [
+          {
+            "name": "Meiji Jingu, Shibuya, Tokyo, Japan",
+            "query": "Meiji Jingu, Shibuya, Tokyo, Japan",
+            "note": "Use the venue’s current visitor information alongside directions."
+          }
+        ]
+      },
+      "mins": 3
+    },
+    {
+      "id": "london-borough-market-lunch-guide",
+      "slug": "london-borough-market-lunch-guide",
+      "city": "lon",
+      "cat": "food",
+      "kind": "guide",
+      "title": "How to do Borough Market without turning lunch into a checklist",
+      "seoTitle": "Borough Market London: Opening Times & a Better Lunch Plan",
+      "dek": "Go for a meal, a produce shop or a browse—and let that choice shape the visit. Here’s a small, useful plan for one of London’s best-known food markets.",
+      "img": "lon-borough",
+      "places": [
+        "lon-borough"
+      ],
+      "items": [],
+      "body": [
+        "A market lunch can become a strangely competitive activity: find the famous queue, collect several dishes and try to eat everything before moving on. Our Borough Market edit takes a simpler approach. Decide whether you are hungry now, shopping for later or mainly curious, then let that answer determine where you spend your time.",
+        "This is an independently researched planning guide, not a ranking of dishes we have tasted. There is no invented list of “secret” stalls or promise that one vendor is the best. The useful question is which kind of visit fits your day—and how to leave with a meal you enjoyed rather than a bag of purchases you did not need."
+      ],
+      "sections": [
+        {
+          "h": "Pick the right day before picking the food",
+          "p": [
+            "The regular published hours are Tuesday–Friday 10am–5pm, Saturday 9am–5pm and Sunday 10am–4pm, with Monday closed. Holiday and festive schedules can differ. The market’s FAQ also notes that not every trader is there every day, so a market opening time does not guarantee a specific stall.",
+            "If one trader is your main reason to go, check that business directly before building the day around it. Otherwise, give yourself permission to choose from what is available. A shortlist should make the decision easier, not turn an unavailable lunch into a failed outing."
+          ],
+          "sourceIds": [
+            "borough-visit-oct26",
+            "borough-qa-oct26"
+          ]
+        },
+        {
+          "h": "Choose one of three visits",
+          "p": [
+            "The venue describes three main market areas: Three Crown Square for larger producers and merchants, Green Market for specialist produce traders and Borough Market Kitchen for street food. Use the official map to choose the part that matches your purpose.",
+            "Our three versions are deliberately small. The lunch visit has one main dish and an optional extra. The shopping visit has a list and a carrying plan. The curious visit has time to look without an obligation to buy at every counter. You can combine them, but choose a primary purpose so the budget and timing stay clear."
+          ],
+          "sourceIds": [
+            "borough-visit-oct26"
+          ]
+        },
+        {
+          "h": "Set a queue limit and a meal budget",
+          "p": [
+            "Before joining a line, read the menu and decide what you would actually order. Our suggestion is to agree a queue limit with your companion in advance. If the wait exceeds it, choose a second option without treating the change as a compromise.",
+            "For a shared outing, separate the food budget from drinks and take-home purchases. Check the total at the stall rather than using old social posts as a price list. Ask about ingredients and dietary needs directly; a photograph, a dish name or a broad market guide cannot establish whether an individual meal is suitable."
+          ]
+        },
+        {
+          "h": "Build in room to move",
+          "p": [
+            "The official access guidance describes uneven surfaces, including cobbles, and high visitor numbers at busy periods, particularly Saturday afternoons. Public areas are on ground level, but that does not make every passage or restaurant equally easy to use. Check the current access information if anyone in your group needs a specific arrangement.",
+            "Our suggestion is to keep bags light and find a place to pause without blocking a counter or passageway. A group can choose a clear reunion point before ordering separately. With children, agree who carries the food and who stays with the group; that small decision is often more useful than adding another stall."
+          ],
+          "sourceIds": [
+            "borough-visit-oct26"
+          ]
+        },
+        {
+          "h": "Make the market the destination, then decide what follows",
+          "p": [
+            "Borough Market is beside London Bridge station at 8 Southwark Street. Use the official map for arrival and facilities, then check your own transport connection. Free market access does not make the lunch, travel or a guided tour free.",
+            "Keep an onward museum visit optional, especially if it requires a separate ticket or arrival time. Our London museum comparison can help with another part of the day, but it is fine for lunch and browsing to be the whole outing. The aim is a satisfying stop, not a record number of London attractions."
+          ],
+          "sourceIds": [
+            "borough-visit-oct26"
+          ]
+        }
+      ],
+      "faq": [
+        [
+          "Is Borough Market open on Mondays?",
+          "Regular hours list Monday as closed; festive and holiday schedules can differ."
+        ],
+        [
+          "Is entry free?",
+          "Access to the market is free. Food, drinks, shopping and tours are separate purchases."
+        ],
+        [
+          "Will every trader be open?",
+          "No. The official FAQ says not all traders attend every day."
+        ]
+      ],
+      "quickPlan": [
+        [
+          "Regular opening",
+          "Tuesday–Sunday; check holiday exceptions"
+        ],
+        [
+          "Arrival",
+          "London Bridge station / 8 Southwark Street"
+        ],
+        [
+          "Our lunch plan",
+          "One main dish, an optional extra and a queue limit"
+        ],
+        [
+          "Budget",
+          "Separate eating from take-home shopping"
+        ]
+      ],
+      "src": [
+        "borough-visit-oct26",
+        "borough-qa-oct26"
+      ],
+      "relatedGuides": [
+        "london-free"
+      ],
+      "tips": [],
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "researchNote": "Official venue pages checked 26 October 2026. Independently written research guide, not a firsthand review. Suggested activities and time budgets are editorial ideas; prices, access and programmes can change.",
+      "imageNote": "Licensed archive photograph of the venue; not a photograph taken during an editorial visit.",
+      "planLinks": [
+        [
+          "Borough Market — plan your visit",
+          "https://boroughmarket.org.uk/visit-us/"
+        ],
+        [
+          "Borough Market — visitor FAQs",
+          "https://boroughmarket.org.uk/frequently-asked-questions/"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Find the venue",
+        "summary": "One venue marker. Open the current map for your own starting point and access needs.",
+        "stops": [
+          {
+            "name": "Borough Market, 8 Southwark Street, London, UK",
+            "query": "Borough Market, 8 Southwark Street, London, UK",
+            "note": "Use the venue’s current visitor information alongside directions."
+          }
+        ]
+      },
+      "mins": 3
     }
   ],
   "places": [
@@ -19010,6 +19454,24 @@
       "imageAlt": "Bangkok Art and Culture Centre building",
       "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
       "end": "2026-11-29"
+    },
+    {
+      "id": "sin-imagine-world-2026",
+      "city": "sin",
+      "cat": "Exhibition",
+      "title": "Let’s Imagine the World Together",
+      "date": "2026-11-05",
+      "end": "2027-09-26",
+      "where": "National Gallery Singapore, City Hall Wing, Level 4",
+      "blurb": "Southeast Asian art through people, stories and places. General Admission ticket required.",
+      "src": [
+        "ngs-imagine-2026"
+      ],
+      "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Lets-Imagine-the-World-Together.html",
+      "img": "sin-national-gallery",
+      "imageAlt": "Interior of National Gallery Singapore",
+      "imageNote": "Licensed venue archive photograph, not an exhibition installation view.",
+      "verifiedAt": "2026-10-26"
     }
   ],
   "images": {
