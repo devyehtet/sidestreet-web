@@ -86,3 +86,5 @@
 .section-photo{margin:22px 0 28px}.section-photo img{width:100%;height:auto;max-height:620px;object-fit:cover}.section-photo figcaption{font-size:11px;line-height:1.7;margin-top:10px;color:var(--muted)}.service-card-photo{margin:0 0 20px}.service-card-photo img{width:100%;aspect-ratio:4/3;object-fit:cover}.service-card-photo figcaption{font-size:10px;line-height:1.6;color:var(--muted);margin-top:8px}.service-card-photo .photo-note{display:block}
 
 .city-edit-nav{margin:28px 0;scroll-margin-top:24px}.city-edit-note{max-width:850px;font-size:13px;line-height:1.8;color:var(--muted);padding:20px;background:var(--paper);border-left:3px solid var(--red)}
+
+.happening-card>a{position:relative;display:block}.happening-photo-label{position:absolute;left:12px;top:12px;background:#121214d9;color:white;padding:5px 8px;font-size:9px;font-weight:600;letter-spacing:.06em}@media(max-width:760px){.happening-card>a{display:grid}.happening-photo-label{left:6px;top:6px;font-size:8px;padding:4px 6px}}

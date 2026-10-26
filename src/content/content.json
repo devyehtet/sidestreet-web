@@ -15908,14 +15908,14 @@
       "title": "Three reasons to visit BACC: graphic design, acoustic music and underwater art",
       "seoTitle": "BACC Events: Art & Music in October and November 2026",
       "dek": "Creative Ward opens 27 October, a free acoustic set follows on 31 October, and aquascapes arrive in November. Choose the date that fits your kind of afternoon.",
-      "img": "bkk-bacc",
+      "img": "bacc-architecture-2-photo",
       "items": [],
       "places": [
         "bkk-bacc"
       ],
       "datePublished": "2026-10-26",
       "dateModified": "2026-10-26",
-      "imageNote": "Reference photograph of Bangkok Art and Culture Centre; not a photograph of the announced 2026 events.",
+      "imageNote": "Archive BACC venue view; not an image of the announced 2026 performances or exhibitions.",
       "researchNote": "Official BACC listings checked 26 October 2026. This is an independently written preview, not a firsthand review. Suggested viewing exercises and time allowances are editorial recommendations; individual event terms may change.",
       "tips": [],
       "faq": [
@@ -16087,14 +16087,14 @@
       "title": "Bangkok Theatre Festival 2026: how to choose your first show",
       "seoTitle": "Bangkok Theatre Festival 2026: Dates, Venues & Tickets",
       "dek": "The 14–29 November festival announces 103 performances across several venues. Start with the show’s language, location and ticket terms, then build your evening around it.",
-      "img": "bkk-bacc",
+      "img": "bacc-architecture-5-photo",
       "items": [],
       "places": [
         "bkk-bacc"
       ],
       "datePublished": "2026-10-26",
       "dateModified": "2026-10-26",
-      "imageNote": "Reference photograph of Bangkok Art and Culture Centre; not a photograph of the announced 2026 events.",
+      "imageNote": "Archive BACC venue view; not an image of the announced 2026 performances or exhibitions.",
       "researchNote": "Official BACC listings checked 26 October 2026. This is an independently written preview, not a firsthand review. Suggested viewing exercises and time allowances are editorial recommendations; individual event terms may change.",
       "tips": [],
       "faq": [
@@ -22481,10 +22481,11 @@
       ],
       "verifiedAt": "2026-10-26",
       "url": "https://www.bacc.or.th/en/events/96447",
-      "img": "bkk-bacc",
-      "imageAlt": "Bangkok Art and Culture Centre building",
-      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
-      "end": "2026-11-01"
+      "img": "bacc-architecture-3-photo",
+      "imageAlt": "Bangkok Art and Culture Centre interior — archive venue photograph",
+      "imageNote": "Archive BACC venue photograph; not a photograph of this announced event.",
+      "end": "2026-11-01",
+      "imageRole": "venue"
     },
     {
       "id": "bkk-unplugged-october-2026",
@@ -22499,10 +22500,11 @@
       ],
       "verifiedAt": "2026-10-26",
       "url": "https://www.bacc.or.th/en/events/96357",
-      "img": "bkk-bacc",
-      "imageAlt": "Bangkok Art and Culture Centre building",
-      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
-      "time": "15:00–17:00"
+      "img": "bacc-view-0-photo",
+      "imageAlt": "Bangkok Art and Culture Centre exterior — archive venue photograph",
+      "imageNote": "Archive BACC venue photograph; not a photograph of this announced event.",
+      "time": "15:00–17:00",
+      "imageRole": "venue"
     },
     {
       "id": "bkk-aquascape-2026",
@@ -22517,10 +22519,11 @@
       ],
       "verifiedAt": "2026-10-26",
       "url": "https://www.bacc.or.th/en/events/95818",
-      "img": "bkk-bacc",
-      "imageAlt": "Bangkok Art and Culture Centre building",
-      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
-      "end": "2026-11-15"
+      "img": "bacc-architecture-1-photo",
+      "imageAlt": "Bangkok Art and Culture Centre interior — archive venue photograph",
+      "imageNote": "Archive BACC venue photograph; not a photograph of this announced event.",
+      "end": "2026-11-15",
+      "imageRole": "venue"
     },
     {
       "id": "bkk-theatre-festival-2026",
@@ -22535,10 +22538,11 @@
       ],
       "verifiedAt": "2026-10-26",
       "url": "https://www.bacc.or.th/en/events/93046",
-      "img": "bkk-bacc",
-      "imageAlt": "Bangkok Art and Culture Centre building",
-      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
-      "end": "2026-11-29"
+      "img": "bacc-view-3-photo",
+      "imageAlt": "Bangkok Art and Culture Centre exterior — archive venue photograph",
+      "imageNote": "Archive BACC venue photograph; not a photograph of this announced event.",
+      "end": "2026-11-29",
+      "imageRole": "venue"
     },
     {
       "id": "sin-imagine-world-2026",
@@ -26109,6 +26113,134 @@
         },
         {
           "src": "/images/bkk-bts-service-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bacc-architecture-2-photo": {
+      "src": "/images/bacc-architecture-2-photo.jpg",
+      "by": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) \n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:BKK_Art_and_Culture_Centre_(III).jpg",
+      "title": "BKK Art and Culture Centre (III).jpg",
+      "w": 1067,
+      "h": 1600,
+      "alt": "Bangkok Art and Culture Centre interior — archive venue photograph",
+      "note": "Archive venue photograph, not a photograph of the announced 2026 event.",
+      "variants": [
+        {
+          "src": "/images/bacc-architecture-2-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bacc-architecture-2-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bacc-architecture-5-photo": {
+      "src": "/images/bacc-architecture-5-photo.jpg",
+      "by": "Christophe95",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bangkok_Art_and_Culture_Centre_2.jpg",
+      "title": "Bangkok Art and Culture Centre 2.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Bangkok Art and Culture Centre interior — archive venue photograph",
+      "note": "Archive venue photograph, not a photograph of the announced 2026 event.",
+      "variants": [
+        {
+          "src": "/images/bacc-architecture-5-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bacc-architecture-5-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bacc-architecture-3-photo": {
+      "src": "/images/bacc-architecture-3-photo.jpg",
+      "by": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) \n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:BKK_Art_and_Culture_Centre_(IV).jpg",
+      "title": "BKK Art and Culture Centre (IV).jpg",
+      "w": 1600,
+      "h": 1080,
+      "alt": "Bangkok Art and Culture Centre interior — archive venue photograph",
+      "note": "Archive venue photograph, not a photograph of the announced 2026 event.",
+      "variants": [
+        {
+          "src": "/images/bacc-architecture-3-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bacc-architecture-3-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bacc-view-0-photo": {
+      "src": "/images/bacc-view-0-photo.jpg",
+      "by": "Cush2k",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bangkok_Art_and_Culture_Centre_building.jpg",
+      "title": "Bangkok Art and Culture Centre building.jpg",
+      "w": 800,
+      "h": 533,
+      "alt": "Bangkok Art and Culture Centre exterior — archive venue photograph",
+      "note": "Archive venue photograph, not a photograph of the announced 2026 event.",
+      "variants": [
+        {
+          "src": "/images/bacc-view-0-photo-480.jpg",
+          "w": 480
+        }
+      ]
+    },
+    "bacc-architecture-1-photo": {
+      "src": "/images/bacc-architecture-1-photo.jpg",
+      "by": "Welcome to Thailand",
+      "lic": "CC0",
+      "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:BACC_2024_(2).jpg",
+      "title": "BACC 2024 (2).jpg",
+      "w": 1200,
+      "h": 1600,
+      "alt": "Bangkok Art and Culture Centre interior — archive venue photograph",
+      "note": "Archive venue photograph, not a photograph of the announced 2026 event.",
+      "variants": [
+        {
+          "src": "/images/bacc-architecture-1-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bacc-architecture-1-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bacc-view-3-photo": {
+      "src": "/images/bacc-view-3-photo.jpg",
+      "by": "This Photo was taken by Supanut Arunoprayote.\n\nFeel free to use any of my images, but please mention me as the author and may send me a message.  (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) \n\n\n\nPlease do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:BKK_Art_and_Culture_Centre.jpg",
+      "title": "BKK Art and Culture Centre.jpg",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Bangkok Art and Culture Centre exterior — archive venue photograph",
+      "note": "Archive venue photograph, not a photograph of the announced 2026 event.",
+      "variants": [
+        {
+          "src": "/images/bacc-view-3-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bacc-view-3-photo-960.jpg",
           "w": 960
         }
       ]
