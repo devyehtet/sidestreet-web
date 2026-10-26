@@ -3413,7 +3413,10 @@
           ],
           "sourceIds": [
             "talatnoi-tat"
-          ]
+          ],
+          "photoId": "bkk-talat-noi",
+          "photoAlt": "Talat Noi",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "A small walking route: Soi Wanit 2 and the riverside",
@@ -5590,7 +5593,10 @@
           ],
           "sourceIds": [
             "yangon-tea-regional"
-          ]
+          ],
+          "photoId": "t-mohinga",
+          "photoAlt": "Lucky Seven",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Keep a useful note about the order you receive",
@@ -5941,7 +5947,10 @@
           "sourceIds": [
             "laupasat-operator",
             "laupasat-satay"
-          ]
+          ],
+          "photoId": "sin-lau-pa-sat",
+          "photoAlt": "Lau Pa Sat",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Use an ordering plan that prevents a surprise bill",
@@ -6251,7 +6260,10 @@
               "Open the official access map",
               "https://www.tsukiji.or.jp/english/access/"
             ]
-          ]
+          ],
+          "photoId": "tyo-tsukiji",
+          "photoAlt": "Tsukiji Outer Market",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Use Plat Tsukiji for the map, not every shop’s opening time",
@@ -6487,7 +6499,10 @@
             "Save the station name for your chosen meal, not just “Euljiro”. Similar district and station names are easy to confuse when a group is arriving separately. Share a specific business entrance or station meeting point and use the live map for the onward journey.",
             "If you want both formats, make the second stop optional after the first meal. Check the route and whether the group still wants another order before setting off. We do not assign an unmeasured walking time between the stops, and the map links below are separate destinations rather than a verified accessible walking route."
           ],
-          "sourceIds": []
+          "sourceIds": [],
+          "photoId": "sel-euljiro",
+          "photoAlt": "Euljiro",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "A plan for a solo visitor and a plan for a group",
@@ -7038,7 +7053,10 @@
           ],
           "sourceIds": [
             "tate-visitlondon"
-          ]
+          ],
+          "photoId": "lon-tate-modern",
+          "photoAlt": "Tate Modern",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Build a two-hour plan without turning it into a timed race",
@@ -7177,7 +7195,10 @@
           ],
           "sourceIds": [
             "lisboa-tram"
-          ]
+          ],
+          "photoId": "lis-tram-28",
+          "photoAlt": "Tram 28",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Use a one-hill plan before adding Graça or another district",
@@ -7673,7 +7694,10 @@
           ],
           "sourceIds": [
             "tortoni-operator"
-          ]
+          ],
+          "photoId": "bue-tortoni",
+          "photoAlt": "Café Tortoni",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "El Ateneo: bookstore access and a paid experience are different",
@@ -8670,7 +8694,10 @@
           "sourceIds": [
             "hanoi-tourism",
             "hanoi-arrival"
-          ]
+          ],
+          "photoId": "han-hoan-kiem-photo",
+          "photoAlt": "Hoàn Kiếm Lake",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Choose two trading streets, not all of them",
@@ -8807,7 +8834,10 @@
             "Our suggestion is to make Angkor Wat the anchor of the day, with time to pause rather than racing straight through to the next temple. Discuss the entrance and meeting point with your driver. Keep a saved contact method in case the return arrangement changes.",
             "A sunrise start is optional, not a requirement for a worthwhile visit. Ask about the relevant opening arrangements before planning a very early departure. Follow signs for permitted paths and clothing requirements, and treat any closed stairway or conservation area as outside your itinerary."
           ],
-          "sourceIds": []
+          "sourceIds": [],
+          "photoId": "rep-angkor-photo",
+          "photoAlt": "Angkor Wat",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Decide between two stops and three",
@@ -8911,7 +8941,10 @@
             "Tea, everyday trading and heritage streetscape give Dihua Street its appeal. Decide whether you are looking for a gift, interested in shopfronts or simply hoping to sit down for a drink. That choice will make it easier to spend time in the shops that interest you.",
             "When buying tea or packaged goods, ask about the size, price and what is included before ordering. A tasting may have its own terms. Check the rules for any goods you intend to take home; this guide does not make customs or import guarantees."
           ],
-          "sourceIds": []
+          "sourceIds": [],
+          "photoId": "tpe-dihua-photo",
+          "photoAlt": "Dihua Street",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Orient around Yongle Market, the visitor-centre address and Xia-Hai",
@@ -9225,7 +9258,10 @@
             "The tourism board describes Pont Saint-Louis as the bridge connecting the two islands for pedestrians and cyclists. Use it as the middle of the outing, then explore a manageable section of Île Saint-Louis rather than hurrying to another distant landmark.",
             "Our suggestion is to decide at the crossing whether you want a longer wander or a seated break. Give other people room to pass when stopping for a photograph. A bridge view is a useful pause, not a reason to block the route while coordinating a large group."
           ],
-          "sourceIds": []
+          "sourceIds": [],
+          "photoId": "par-pont-saint-louis-photo",
+          "photoAlt": "Pont Saint-Louis",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Notre-Dame is a separate, free cathedral visit",
@@ -10086,7 +10122,10 @@
           ],
           "sourceIds": [
             "istanbul-spicebazaar"
-          ]
+          ],
+          "photoId": "ist-spices-photo",
+          "photoAlt": "Spice Bazaar",
+          "photoNote": "Archive photograph of this venue."
         }
       ],
       "places": [
@@ -10540,7 +10579,10 @@
           ],
           "sourceIds": [
             "bcn-guell-official"
-          ]
+          ],
+          "photoId": "bcn-park-guell-photo",
+          "photoAlt": "Park Güell",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Spend on the part you actually want",
@@ -10657,7 +10699,10 @@
           ],
           "sourceIds": [
             "rom-pantheon-official"
-          ]
+          ],
+          "photoId": "rom-pantheon-photo",
+          "photoAlt": "Pantheon",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Read the Colosseum product as a list of permissions",
@@ -10667,7 +10712,10 @@
           ],
           "sourceIds": [
             "rom-colosseum-official"
-          ]
+          ],
+          "photoId": "rom-colosseum-photo",
+          "photoAlt": "Colosseum",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Give the Forum and Palatine their own energy budget",
@@ -10795,7 +10843,10 @@
           ],
           "sourceIds": [
             "ams-rijks-official"
-          ]
+          ],
+          "photoId": "ams-rijksmuseum-photo",
+          "photoAlt": "Rijksmuseum",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Make the canal walk a route rather than a theme",
@@ -10938,7 +10989,10 @@
           ],
           "sourceIds": [
             "ber-gate-official"
-          ]
+          ],
+          "photoId": "ber-gate-photo",
+          "photoAlt": "Brandenburg Gate",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "Museum Island needs a museum choice",
@@ -10948,7 +11002,10 @@
           ],
           "sourceIds": [
             "ber-museums-official"
-          ]
+          ],
+          "photoId": "ber-museum-island-photo",
+          "photoAlt": "Museum Island",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Use Tiergarten for a bounded break",
@@ -12673,7 +12730,10 @@
           ],
           "sourceIds": [
             "morocco-medina"
-          ]
+          ],
+          "photoId": "rak-jemaa-photo",
+          "photoAlt": "Jemaa el-Fna",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         }
       ],
       "quickPlan": [
@@ -12753,7 +12813,7 @@
       "kind": "guide",
       "title": "Bangkok restaurants: best for a focused pad Thai stop or a reserved meal",
       "dek": "Choose between a specialist noodle stop and a branch-specific sit-down dinner near Bangkok’s historic district.",
-      "img": "bkk-wat-arun",
+      "img": "bkk-thipsamai",
       "src": [
         "thipsamai-official",
         "supanniga-tha-tien"
@@ -12825,9 +12885,7 @@
       ],
       "datePublished": "2026-10-10",
       "dateModified": "2026-10-19",
-      "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
-      ],
+      "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
@@ -12838,7 +12896,8 @@
         "date": "2026-10-19",
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+      },
+      "imageNote": "Thipsamai venue archive photograph; Supanniga is not pictured."
     },
     {
       "id": "chiang-mai-restaurants-best-for-noodles-and-sharing",
@@ -12848,7 +12907,7 @@
       "kind": "guide",
       "title": "Chiang Mai restaurants: best for a noodle lunch or a shared northern Thai meal",
       "dek": "Khao Soi Mae Sai and Huen Muan Jai serve different meal plans; choose the format that fits your group.",
-      "img": "cnx-doi-suthep",
+      "img": "t-khao-soi",
       "src": [
         "mae-sai-michelin",
         "huen-muan-jai-michelin"
@@ -12920,9 +12979,7 @@
       ],
       "datePublished": "2026-10-10",
       "dateModified": "2026-10-19",
-      "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
-      ],
+      "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
@@ -12934,7 +12991,8 @@
         "date": "2026-10-19",
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+      },
+      "imageNote": "Khao soi category reference photograph; the shortlisted restaurants are not pictured."
     },
     {
       "id": "phuket-restaurants-best-for-old-town-meals",
@@ -12944,7 +13002,7 @@
       "kind": "guide",
       "title": "Phuket town restaurants: best for a shared Thai meal or a pork noodle stop",
       "dek": "One Chun and Go Benz offer two distinct reasons to eat in Phuket town; a beach stay still needs a separate transport plan.",
-      "img": "hkt-promthep",
+      "img": "hkt-one-chun-photo",
       "src": [
         "one-chun-michelin",
         "go-benz-michelin"
@@ -12961,7 +13019,10 @@
           ],
           "sourceIds": [
             "one-chun-michelin"
-          ]
+          ],
+          "photoId": "hkt-one-chun-photo",
+          "photoAlt": "One Chun",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Go Benz: best for a focused pork rice or noodle meal",
@@ -13022,9 +13083,7 @@
       ],
       "datePublished": "2026-10-10",
       "dateModified": "2026-10-21",
-      "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
-      ],
+      "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
@@ -13036,7 +13095,8 @@
         "date": "2026-10-19",
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+      },
+      "imageNote": "One Chun venue archive photograph; Go Benz is not pictured."
     },
     {
       "id": "bangkok-shops-services-best-for-city-visit",
@@ -13046,7 +13106,7 @@
       "kind": "guide",
       "title": "Bangkok shops and services: best for gifts, mall browsing and rail planning",
       "dek": "Compare ICONSIAM for a multi-store outing, Jim Thompson for a focused gift and BTS information for the journey between stops.",
-      "img": "bkk-wat-arun",
+      "img": "bkk-iconsiam-photo",
       "src": [
         "iconsiam-official",
         "jim-retail-official",
@@ -13065,7 +13125,10 @@
           ],
           "sourceIds": [
             "iconsiam-official"
-          ]
+          ],
+          "photoId": "bkk-iconsiam-photo",
+          "photoAlt": "ICONSIAM",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Jim Thompson: best for a specific textile or accessory gift",
@@ -13130,9 +13193,7 @@
       ],
       "datePublished": "2026-10-10",
       "dateModified": "2026-10-19",
-      "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
-      ],
+      "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
@@ -13143,7 +13204,8 @@
         "date": "2026-10-19",
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+      },
+      "imageNote": "ICONSIAM archive photograph; other listed businesses are not pictured."
     },
     {
       "id": "chiang-mai-shops-services-best-for-gifts-and-cooking",
@@ -13153,7 +13215,7 @@
       "kind": "guide",
       "title": "Chiang Mai shops and services: best for creative browsing, markets and a cooking class",
       "dek": "Choose Jing Jai for creative browsing, Warorot for a market stop or a booked Thai Farm cooking session with pickup checked separately.",
-      "img": "cnx-doi-suthep",
+      "img": "cnx-warorot",
       "src": [
         "jing-jai-official",
         "thai-farm-official"
@@ -13234,9 +13296,7 @@
       ],
       "datePublished": "2026-10-10",
       "dateModified": "2026-10-19",
-      "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
-      ],
+      "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
@@ -13248,7 +13308,8 @@
         "date": "2026-10-19",
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+      },
+      "imageNote": "Warorot Market archive photograph; other listed businesses are not pictured."
     },
     {
       "id": "phuket-shops-services-best-for-town-and-transfers",
@@ -13258,7 +13319,7 @@
       "kind": "guide",
       "title": "Phuket shops and services: best for mall errands, a town market and bus planning",
       "dek": "Use Central Phuket for specific mall errands, Lard Yai for a dated market outing and route-specific bus information for transport.",
-      "img": "hkt-promthep",
+      "img": "hkt-central-phuket-photo",
       "src": [
         "central-phuket-official",
         "phuket-bus-official"
@@ -13275,7 +13336,10 @@
           ],
           "sourceIds": [
             "central-phuket-official"
-          ]
+          ],
+          "photoId": "hkt-central-phuket-photo",
+          "photoAlt": "Central Phuket",
+          "photoNote": "Licensed archive photograph of this place; current appearance may differ."
         },
         {
           "h": "Lard Yai: best when a walking-market visit fits your date",
@@ -13345,9 +13409,7 @@
       ],
       "datePublished": "2026-10-10",
       "dateModified": "2026-10-21",
-      "tips": [
-        "The lead photograph shows the destination, not every business in this shortlist."
-      ],
+      "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
       "relatedGuides": [
@@ -13359,7 +13421,8 @@
         "date": "2026-10-19",
         "method": "Place-specific primary-source expansion and original planning analysis.",
         "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+      },
+      "imageNote": "Central Phuket archive photograph; other listed businesses are not pictured."
     },
     {
       "id": "chiang-mai-design-week-2026-dates",
@@ -13833,8 +13896,8 @@
       "serviceCategory": "tailoring",
       "title": "Bangkok tailors: three shops to compare for your next suit or shirt",
       "dek": "Compare Tailor On Ten, Jesse & Son and The Empire Tailors by appointment format, location and the fitting plan your trip can accommodate.",
-      "img": "bkk-chatuchak",
-      "imageNote": "Bangkok city reference photograph. The listed businesses are not pictured.",
+      "img": "category-tailoring-photo",
+      "imageNote": "Tailoring category reference photograph; none of the named Bangkok shops is pictured.",
       "src": [
         "tailor-on-ten-contact",
         "jesse-son-faq",
@@ -13979,8 +14042,8 @@
       "serviceCategory": "dental",
       "title": "Bangkok dental clinics for visitors: three appointment options to compare",
       "dek": "Compare BIDC Ratchada, BIDH Sukhumvit Soi 2 and Bangkok Smile Asok by location and appointment arrangements, with clinician assessment and follow-up kept central.",
-      "img": "bkk-mahanakhon",
-      "imageNote": "Bangkok city reference photograph. The listed businesses are not pictured.",
+      "img": "category-dental-photo",
+      "imageNote": "Dental treatment-room category reference photograph; none of the named Bangkok clinics is pictured.",
       "src": [
         "bidc-contact",
         "bidh-official",
@@ -14128,8 +14191,8 @@
       "serviceCategory": "spa",
       "title": "Bangkok spas: three options for a massage, onsen or reserved spa session",
       "dek": "Compare Health Land Asoke, Let’s Relax Thonglor Onsen & Spa and Divana Nurture by the session format and location you want.",
-      "img": "bkk-lumphini",
-      "imageNote": "Bangkok city reference photograph. The listed businesses are not pictured.",
+      "img": "category-spa-photo",
+      "imageNote": "YHI Spa in Bali: spa-room category reference photograph; none of the named Bangkok spas is pictured.",
       "src": [
         "health-land-asoke",
         "lets-relax-thonglor",
@@ -15447,7 +15510,10 @@
           ],
           "sourceIds": [
             "museum-siam-visit"
-          ]
+          ],
+          "photoId": "bkk-museum-siam",
+          "photoAlt": "Museum Siam",
+          "photoNote": "Archive photograph of this venue."
         },
         {
           "h": "BACC: choose the current exhibition and its entry rules",
@@ -16906,8 +16972,9 @@
         "aufood"
       ],
       "blurb": "A Pratunam chicken-rice option that may fit a shopping-area meal. Check the current location, hours and menu before making it the anchor of a trip.",
-      "img": null,
-      "verify": true
+      "img": "bkk-go-ang-photo",
+      "verify": true,
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "bkk-prachak",
@@ -16935,8 +17002,9 @@
         "aufood"
       ],
       "blurb": "A rice-porridge option to check for the meal time you want. Ask what the offered bowl contains and whether additions are separate purchases.",
-      "img": null,
-      "verify": true
+      "img": "bkk-jok-prince-photo",
+      "verify": true,
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "bkk-mae-varee",
@@ -17009,11 +17077,12 @@
       "name": "Octave Rooftop Lounge",
       "area": "Thong Lo",
       "blurb": "Choose the venue for the kind of evening you want, then check its current menu and seating arrangements. A wide view does not establish a particular table allocation.",
-      "img": null,
+      "img": "bkk-octave-photo",
       "src": [
         "octave-marriott"
       ],
-      "verify": true
+      "verify": true,
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "bkk-mandarin-oriental",
@@ -17494,10 +17563,11 @@
       "hours": "Evenings",
       "verify": true,
       "blurb": "Use the street’s food association as cultural background. Confirm specific businesses and current local conditions rather than assuming an operating barbecue evening.",
-      "img": null,
+      "img": "ygn-19th-street-photo",
       "src": [
         "totygn"
-      ]
+      ],
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "ygn-999-shan",
@@ -17634,11 +17704,12 @@
       "area": "Bukit Bintang",
       "hours": "Evenings",
       "blurb": "Choose one actual menu and meal format rather than trying every food listing. Ask about current serving, ingredients and the displayed total before ordering.",
-      "img": null,
+      "img": "kul-jalan-alor-photo",
       "src": [
         "kl-malaysia"
       ],
-      "verify": true
+      "verify": true,
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "sgn-ben-thanh",
@@ -17858,11 +17929,12 @@
       "name": "LX Factory",
       "area": "Alcântara",
       "blurb": "Select a current shop, exhibition or meal as the anchor. A former-industrial setting does not establish collective opening or admission across independent businesses.",
-      "img": null,
+      "img": "lis-lx-factory-photo",
       "src": [
         "lx-lisboa"
       ],
-      "verify": true
+      "verify": true,
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "nyc-high-line",
@@ -18094,7 +18166,9 @@
         "hanoi-tourism"
       ],
       "blurb": "Use the lake as an orientation and meeting point for a smaller Hanoi outing. A temple interior is a separate optional visit with its own arrangements.",
-      "verify": true
+      "verify": true,
+      "img": "han-hoan-kiem-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "han-hang-bac",
@@ -18107,7 +18181,9 @@
         "hanoi-tourism"
       ],
       "blurb": "Browse this trading-street area for the subject that interests you. Historical silver associations do not describe every business operating today.",
-      "verify": true
+      "verify": true,
+      "img": "han-hang-bac-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "han-hang-ma",
@@ -18120,7 +18196,9 @@
         "hanoi-tourism"
       ],
       "blurb": "A street to research for decorations and ceremonial goods. Compare current shop stock and prices without assuming a particular seasonal display.",
-      "verify": true
+      "verify": true,
+      "img": "han-hang-ma-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "rep-angkor-wat",
@@ -18147,7 +18225,9 @@
         "angkor-heritage"
       ],
       "blurb": "Choose this as a distinct temple addition rather than another name to tick off. Count the vehicle transfer and current access in the day plan.",
-      "verify": true
+      "verify": true,
+      "img": "rep-bayon-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "rep-ta-prohm",
@@ -18160,7 +18240,9 @@
         "angkor-heritage"
       ],
       "blurb": "An alternative or additional temple stop requiring its own time. Follow marked visitor paths and leave conservation areas outside the route.",
-      "verify": true
+      "verify": true,
+      "img": "rep-ta-prohm-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "tpe-dihua",
@@ -18200,7 +18282,9 @@
         "taipei-visitor"
       ],
       "blurb": "A market-area reference point for Dihua browsing. Save a specific meeting place rather than assuming every group member will find the same entrance.",
-      "verify": true
+      "verify": true,
+      "img": "tpe-yongle-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "hkg-central-pier",
@@ -18213,7 +18297,9 @@
         "hongkong-ferry"
       ],
       "blurb": "Find the named Central departure point and read destination and deck instructions. A waterfront address alone does not identify the right boarding queue.",
-      "verify": true
+      "verify": true,
+      "img": "hkg-central-pier-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "hkg-star-ferry",
@@ -18240,7 +18326,9 @@
         "hongkong-transit"
       ],
       "blurb": "A far-shore pause point after the chosen ferry crossing. Take a break before deciding whether a return ferry or another onward route fits best.",
-      "verify": true
+      "verify": true,
+      "img": "hkg-tsim-sha-tsui-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "par-ile-cite",
@@ -18266,7 +18354,9 @@
         "paris-islands"
       ],
       "blurb": "Use the connection between the islands as a short part of the route. Follow current public-use instructions and keep time to pause on either shore.",
-      "verify": true
+      "verify": true,
+      "img": "par-pont-saint-louis-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "par-ile-saint-louis",
@@ -18415,7 +18505,9 @@
         "istanbul-grandbazaar"
       ],
       "url": "https://goturkiye.com/istanbul/grand-bazaar",
-      "verify": true
+      "verify": true,
+      "img": "ist-grand-bazaar-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "ist-spice-bazaar",
@@ -18469,7 +18561,9 @@
         "bcn-guell-official"
       ],
       "url": "https://parkguell.barcelona/en",
-      "verify": true
+      "verify": true,
+      "img": "bcn-park-guell-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "rom-pantheon",
@@ -18496,7 +18590,9 @@
         "rom-colosseum-official"
       ],
       "url": "https://colosseo.it/en/opening-times-and-tickets/",
-      "verify": true
+      "verify": true,
+      "img": "rom-colosseum-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "rom-forum-palatine",
@@ -18549,7 +18645,9 @@
         "ams-ndsm-official"
       ],
       "url": "https://www.iamsterdam.com/ontdek/buurten/ndsm",
-      "verify": true
+      "verify": true,
+      "img": "ams-ndsm-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "ber-brandenburg-gate",
@@ -18576,7 +18674,9 @@
         "ber-museums-official"
       ],
       "url": "https://www.visitberlin.de/en/museum-island-in-berlin",
-      "verify": true
+      "verify": true,
+      "img": "ber-museum-island-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "ber-tiergarten",
@@ -18695,7 +18795,9 @@
         "kyoto-respect"
       ],
       "url": "https://kyoto.travel/en/responsible-travel/",
-      "verify": true
+      "verify": true,
+      "img": "kyo-arashiyama-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "png-esplanade",
@@ -18747,7 +18849,9 @@
         "nepal-boudha"
       ],
       "url": "https://ntb.gov.np/en/boudha",
-      "verify": true
+      "verify": true,
+      "img": "ktm-boudha-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "rak-jemaa",
@@ -18760,7 +18864,9 @@
         "morocco-medina"
       ],
       "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
-      "verify": true
+      "verify": true,
+      "img": "rak-jemaa-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "rak-menara",
@@ -18825,7 +18931,9 @@
         "one-chun-michelin"
       ],
       "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun",
-      "verify": true
+      "verify": true,
+      "img": "hkt-one-chun-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "hkt-go-benz",
@@ -18851,7 +18959,9 @@
         "iconsiam-official"
       ],
       "url": "https://www.iconsiam.com/en",
-      "verify": true
+      "verify": true,
+      "img": "bkk-iconsiam-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "bkk-jim-retail",
@@ -18890,7 +19000,9 @@
         "central-phuket-official"
       ],
       "url": "https://www.centralphuket.com/en",
-      "verify": true
+      "verify": true,
+      "img": "hkt-central-phuket-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "cnx-thai-farm-class",
@@ -18916,7 +19028,9 @@
         "bkk-bts-official"
       ],
       "url": "https://www.bts.co.th/eng/",
-      "verify": true
+      "verify": true,
+      "img": "bkk-bts-service-photo",
+      "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
       "id": "hkt-smart-bus-service",
@@ -22548,6 +22662,666 @@
         },
         {
           "src": "/images/bkk-museum-siam-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bkk-go-ang-photo": {
+      "src": "/images/bkk-go-ang-photo.jpg",
+      "by": "กสิณธร ราชโอรส",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Go-ang_Kaomunkai_Pratunam_(8).jpg",
+      "title": "Go-ang Kaomunkai Pratunam (8).jpg",
+      "w": 1600,
+      "h": 1202,
+      "alt": "Go-Ang Pratunam Chicken Rice — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/bkk-go-ang-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-go-ang-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bkk-jok-prince-photo": {
+      "src": "/images/bkk-jok-prince-photo.jpg",
+      "by": "Chainwit.",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:2017_Jok_Prince_01.jpg",
+      "title": "2017 Jok Prince 01.jpg",
+      "w": 1600,
+      "h": 900,
+      "alt": "Jok Prince — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/bkk-jok-prince-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-jok-prince-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bkk-octave-photo": {
+      "src": "/images/bkk-octave-photo.jpg",
+      "by": "Wishva de Silva",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bangkok_City_as_viewed_from_Octave_Rooftop_Bar_and_Lounge.jpg",
+      "title": "Bangkok City as viewed from Octave Rooftop Bar and Lounge.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Octave Rooftop Lounge — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/bkk-octave-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-octave-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "ygn-19th-street-photo": {
+      "src": "/images/ygn-19th-street-photo.jpg",
+      "by": "Marcin Konsek",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:2016_Rangun,_Ulica_nr_19_noc%C4%85_(02).jpg",
+      "title": "2016 Rangun, Ulica nr 19 nocą (02).jpg",
+      "w": 1067,
+      "h": 1600,
+      "alt": "19th Street — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/ygn-19th-street-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ygn-19th-street-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "kul-jalan-alor-photo": {
+      "src": "/images/kul-jalan-alor-photo.jpg",
+      "by": "Alexander Synaptic from Toronto, Canada",
+      "lic": "CC BY-SA 2.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jalan_Alor_Street_View1.jpg",
+      "title": "Jalan Alor Street View1.jpg",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Jalan Alor — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/kul-jalan-alor-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kul-jalan-alor-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "lis-lx-factory-photo": {
+      "src": "/images/lis-lx-factory-photo.jpg",
+      "by": "Bex Walton from London, England",
+      "lic": "CC BY 2.0",
+      "licUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:LX_Factory_(22379332901).jpg",
+      "title": "LX Factory (22379332901).jpg",
+      "w": 1600,
+      "h": 1600,
+      "alt": "LX Factory — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/lis-lx-factory-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/lis-lx-factory-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "han-hoan-kiem-photo": {
+      "src": "/images/han-hoan-kiem-photo.jpg",
+      "by": "Vyacheslav Argenberg",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hanoi,_Vietnam,_Hoan_Kiem_Lake.jpg",
+      "title": "Hanoi, Vietnam, Hoan Kiem Lake.jpg",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Hoàn Kiếm Lake — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/han-hoan-kiem-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/han-hoan-kiem-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "han-hang-bac-photo": {
+      "src": "/images/han-hang-bac-photo.jpg",
+      "by": "Benjamin Smith",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hanoi_-_H%C3%A0ng_B%E1%BA%A1c_Street_-_1.jpg",
+      "title": "Hanoi - Hàng Bạc Street - 1.jpg",
+      "w": 1600,
+      "h": 1068,
+      "alt": "Hàng Bạc — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/han-hang-bac-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/han-hang-bac-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "han-hang-ma-photo": {
+      "src": "/images/han-hang-ma-photo.jpg",
+      "by": "Christophe95",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:H%C3%A0ng_M%C3%A3_Street,_Hanoi.jpg",
+      "title": "Hàng Mã Street, Hanoi.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Hàng Mã — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/han-hang-ma-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/han-hang-ma-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "rep-bayon-photo": {
+      "src": "/images/rep-bayon-photo.jpg",
+      "by": "Diego Delso",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG",
+      "title": "Bayon, Angkor Thom, Camboya, 2013-08-17, DD 37.JPG",
+      "w": 1600,
+      "h": 723,
+      "alt": "Bayon — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/rep-bayon-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rep-bayon-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "rep-ta-prohm-photo": {
+      "src": "/images/rep-ta-prohm-photo.jpg",
+      "by": "Diego Delso",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_14.JPG",
+      "title": "Ta Phrom, Angkor, Camboya, 2013-08-16, DD 14.JPG",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Ta Prohm — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/rep-ta-prohm-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rep-ta-prohm-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "tpe-yongle-photo": {
+      "src": "/images/tpe-yongle-photo.jpg",
+      "by": "Supanut Arunoprayote",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Yongle_Market_07.23.jpg",
+      "title": "Yongle Market 07.23.jpg",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Yongle Market area — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/tpe-yongle-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/tpe-yongle-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bkk-iconsiam-photo": {
+      "src": "/images/bkk-iconsiam-photo.jpg",
+      "by": "Slyronit",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Apple_Store_at_Iconsiam,_Bangkok.jpg",
+      "title": "Apple Store at Iconsiam, Bangkok.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "ICONSIAM — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/bkk-iconsiam-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-iconsiam-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "hkt-one-chun-photo": {
+      "src": "/images/hkt-one-chun-photo.jpg",
+      "by": "Vano111ru",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:One_Chun.jpg",
+      "title": "One Chun.jpg",
+      "w": 1600,
+      "h": 1340,
+      "alt": "One Chun — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/hkt-one-chun-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-one-chun-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "hkg-central-pier-photo": {
+      "src": "/images/hkg-central-pier-photo.jpg",
+      "by": "LN9267",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Central_Ferry_Pier_(Star_Ferry)_25-12-2022.jpg",
+      "title": "Central Ferry Pier (Star Ferry) 25-12-2022.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Central Star Ferry Pier — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/hkg-central-pier-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkg-central-pier-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "hkg-tsim-sha-tsui-photo": {
+      "src": "/images/hkg-tsim-sha-tsui-photo.jpg",
+      "by": "Baycrest",
+      "lic": "CC BY-SA 2.5",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Ferry_Pier.jpg",
+      "title": "Tsim Sha Tsui Ferry Pier.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Tsim Sha Tsui ferry waterfront — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/hkg-tsim-sha-tsui-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkg-tsim-sha-tsui-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "par-pont-saint-louis-photo": {
+      "src": "/images/par-pont-saint-louis-photo.jpg",
+      "by": "ignis",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Pont_Saint-Louis_Paris_FRA_001.JPG",
+      "title": "Pont Saint-Louis Paris FRA 001.JPG",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Pont Saint-Louis — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/par-pont-saint-louis-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/par-pont-saint-louis-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "ist-grand-bazaar-photo": {
+      "src": "/images/ist-grand-bazaar-photo.jpg",
+      "by": "Slyronit",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Istanbul_6.jpg",
+      "title": "Grand Bazaar, Istanbul 6.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Grand Bazaar — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/ist-grand-bazaar-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ist-grand-bazaar-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bcn-park-guell-photo": {
+      "src": "/images/bcn-park-guell-photo.jpg",
+      "by": "Bernard Gagnon",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Park_G%C3%BCell_02.jpg",
+      "title": "Park Güell 02.jpg",
+      "w": 1600,
+      "h": 1207,
+      "alt": "Park Güell — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/bcn-park-guell-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bcn-park-guell-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "rom-colosseum-photo": {
+      "src": "/images/rom-colosseum-photo.jpg",
+      "by": "Diliff",
+      "lic": "CC BY-SA 2.5",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+      "title": "Colosseum in Rome, Italy - April 2007.jpg",
+      "w": 1600,
+      "h": 939,
+      "alt": "Colosseum — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/rom-colosseum-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rom-colosseum-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "ams-ndsm-photo": {
+      "src": "/images/ams-ndsm-photo.jpg",
+      "by": "PA0CCB",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:NDSM_Amsterdam_panorama.jpg",
+      "title": "NDSM Amsterdam panorama.jpg",
+      "w": 1600,
+      "h": 588,
+      "alt": "NDSM neighbourhood — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/ams-ndsm-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ams-ndsm-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "ber-museum-island-photo": {
+      "src": "/images/ber-museum-island-photo.jpg",
+      "by": "Photograph by Mike Peel (www.mikepeel.net).",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Museum_Island,_Berlin_2017_001.jpg",
+      "title": "Museum Island, Berlin 2017 001.jpg",
+      "w": 1600,
+      "h": 871,
+      "alt": "Museum Island — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/ber-museum-island-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ber-museum-island-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "kyo-arashiyama-photo": {
+      "src": "/images/kyo-arashiyama-photo.jpg",
+      "by": "Basile Morin",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg",
+      "title": "Bamboo Forest, Arashiyama, Kyoto, Japan.jpg",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Arashiyama area — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/kyo-arashiyama-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/kyo-arashiyama-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "ktm-boudha-photo": {
+      "src": "/images/ktm-boudha-photo.jpg",
+      "by": "Nabin K. Sapkota",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_2018_04.jpg",
+      "title": "Boudha Stupa 2018 04.jpg",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Boudha Stupa — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/ktm-boudha-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/ktm-boudha-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "rak-jemaa-photo": {
+      "src": "/images/rak-jemaa-photo.jpg",
+      "by": "Jakub Hałun",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jamaa_El_Fna,_Marrakesh,_Morocco,_20250124_1804_7017.jpg",
+      "title": "Jamaa El Fna, Marrakesh, Morocco, 20250124 1804 7017.jpg",
+      "w": 1600,
+      "h": 871,
+      "alt": "Jemaa el-Fna — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/rak-jemaa-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/rak-jemaa-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "category-tailoring-photo": {
+      "src": "/images/category-tailoring-photo.jpg",
+      "by": "Sonia Sevilla",
+      "lic": "CC0",
+      "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Tailor_men_Behind_the_Sewing_Machine_Fingers_on_his_chin.jpg",
+      "title": "Tailor men Behind the Sewing Machine Fingers on his chin.jpg",
+      "w": 1200,
+      "h": 1600,
+      "alt": "Tailor at a sewing machine — category reference photograph",
+      "note": "Category reference photograph; none of the businesses in this guide is pictured.",
+      "variants": [
+        {
+          "src": "/images/category-tailoring-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/category-tailoring-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "category-dental-photo": {
+      "src": "/images/category-dental-photo.jpg",
+      "by": "Roseneath Dental Care",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:1._Dental_surgery.jpg",
+      "title": "1. Dental surgery.jpg",
+      "w": 1600,
+      "h": 1067,
+      "alt": "Dental treatment room — category reference photograph",
+      "note": "Category reference photograph; none of the businesses in this guide is pictured.",
+      "variants": [
+        {
+          "src": "/images/category-dental-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/category-dental-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "category-spa-photo": {
+      "src": "/images/category-spa-photo.jpg",
+      "by": "Paradisus Bali",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:YHI_Spa_treatment_room_at_Paradisus_by_Meli%C3%A1_Bali.jpg",
+      "title": "YHI Spa treatment room at Paradisus by Meliá Bali.jpg",
+      "w": 1600,
+      "h": 1383,
+      "alt": "Spa treatment room at YHI Spa in Bali — category reference photograph",
+      "note": "Category reference photograph; none of the businesses in this guide is pictured.",
+      "variants": [
+        {
+          "src": "/images/category-spa-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/category-spa-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "hkt-central-phuket-photo": {
+      "src": "/images/hkt-central-phuket-photo.jpg",
+      "by": "Deepak-nsk",
+      "lic": "CC0",
+      "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Central_Phuket_shopping_mall.jpg",
+      "title": "Central Phuket shopping mall.jpg",
+      "w": 1600,
+      "h": 1200,
+      "alt": "Central Phuket — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/hkt-central-phuket-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/hkt-central-phuket-photo-960.jpg",
+          "w": 960
+        }
+      ]
+    },
+    "bkk-bts-service-photo": {
+      "src": "/images/bkk-bts-service-photo.jpg",
+      "by": "Vyacheslav Argenberg",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Train_running_the_BTS_Skytrain,_Bangkok,_Thailand.jpg",
+      "title": "Train running the BTS Skytrain, Bangkok, Thailand.jpg",
+      "w": 1067,
+      "h": 1600,
+      "alt": "BTS Skytrain — archive photograph",
+      "note": "Licensed archive photograph; not a recent editorial inspection.",
+      "variants": [
+        {
+          "src": "/images/bkk-bts-service-photo-480.jpg",
+          "w": 480
+        },
+        {
+          "src": "/images/bkk-bts-service-photo-960.jpg",
           "w": 960
         }
       ]

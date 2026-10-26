@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-26",
+  "newLicensedImages": 30,
+  "placePhotosAdded": 27,
+  "categoryReferencePhotos": 3,
+  "heroImagesReplaced": [
+    "bangkok-restaurants-best-for-first-visit",
+    "chiang-mai-restaurants-best-for-noodles-and-sharing",
+    "phuket-restaurants-best-for-old-town-meals",
+    "bangkok-shops-services-best-for-city-visit",
+    "chiang-mai-shops-services-best-for-gifts-and-cooking",
+    "phuket-shops-services-best-for-town-and-transfers",
+    "bangkok-tailors-best-for-your-trip",
+    "bangkok-dental-clinics-for-visitors",
+    "bangkok-spas-best-for-your-trip"
+  ],
+  "images": [
+    {
+      "src": "/images/bkk-go-ang-photo.jpg",
+      "by": "กสิณธร ราชโอรส",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Go-ang_Kaomunkai_Pratunam_(8).jpg"
+    },
+    {
+      "src": "/images/bkk-jok-prince-photo.jpg",
+      "by": "Chainwit.",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:2017_Jok_Prince_01.jpg"
+    },
+    {
+      "src": "/images/bkk-octave-photo.jpg",
+      "by": "Wishva de Silva",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bangkok_City_as_viewed_from_Octave_Rooftop_Bar_and_Lounge.jpg"
+    },
+    {
+      "src": "/images/ygn-19th-street-photo.jpg",
+      "by": "Marcin Konsek",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:2016_Rangun,_Ulica_nr_19_noc%C4%85_(02).jpg"
+    },
+    {
+      "src": "/images/kul-jalan-alor-photo.jpg",
+      "by": "Alexander Synaptic from Toronto, Canada",
+      "lic": "CC BY-SA 2.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jalan_Alor_Street_View1.jpg"
+    },
+    {
+      "src": "/images/lis-lx-factory-photo.jpg",
+      "by": "Bex Walton from London, England",
+      "lic": "CC BY 2.0",
+      "licUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:LX_Factory_(22379332901).jpg"
+    },
+    {
+      "src": "/images/han-hoan-kiem-photo.jpg",
+      "by": "Vyacheslav Argenberg",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hanoi,_Vietnam,_Hoan_Kiem_Lake.jpg"
+    },
+    {
+      "src": "/images/han-hang-bac-photo.jpg",
+      "by": "Benjamin Smith",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hanoi_-_H%C3%A0ng_B%E1%BA%A1c_Street_-_1.jpg"
+    },
+    {
+      "src": "/images/han-hang-ma-photo.jpg",
+      "by": "Christophe95",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:H%C3%A0ng_M%C3%A3_Street,_Hanoi.jpg"
+    },
+    {
+      "src": "/images/rep-bayon-photo.jpg",
+      "by": "Diego Delso",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bayon,_Angkor_Thom,_Camboya,_2013-08-17,_DD_37.JPG"
+    },
+    {
+      "src": "/images/rep-ta-prohm-photo.jpg",
+      "by": "Diego Delso",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ta_Phrom,_Angkor,_Camboya,_2013-08-16,_DD_14.JPG"
+    },
+    {
+      "src": "/images/tpe-yongle-photo.jpg",
+      "by": "Supanut Arunoprayote",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Yongle_Market_07.23.jpg"
+    },
+    {
+      "src": "/images/bkk-iconsiam-photo.jpg",
+      "by": "Slyronit",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Apple_Store_at_Iconsiam,_Bangkok.jpg"
+    },
+    {
+      "src": "/images/hkt-one-chun-photo.jpg",
+      "by": "Vano111ru",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:One_Chun.jpg"
+    },
+    {
+      "src": "/images/hkg-central-pier-photo.jpg",
+      "by": "LN9267",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Central_Ferry_Pier_(Star_Ferry)_25-12-2022.jpg"
+    },
+    {
+      "src": "/images/hkg-tsim-sha-tsui-photo.jpg",
+      "by": "Baycrest",
+      "lic": "CC BY-SA 2.5",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Tsim_Sha_Tsui_Ferry_Pier.jpg"
+    },
+    {
+      "src": "/images/par-pont-saint-louis-photo.jpg",
+      "by": "ignis",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Pont_Saint-Louis_Paris_FRA_001.JPG"
+    },
+    {
+      "src": "/images/ist-grand-bazaar-photo.jpg",
+      "by": "Slyronit",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Grand_Bazaar,_Istanbul_6.jpg"
+    },
+    {
+      "src": "/images/bcn-park-guell-photo.jpg",
+      "by": "Bernard Gagnon",
+      "lic": "CC BY-SA 3.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Park_G%C3%BCell_02.jpg"
+    },
+    {
+      "src": "/images/rom-colosseum-photo.jpg",
+      "by": "Diliff",
+      "lic": "CC BY-SA 2.5",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg"
+    },
+    {
+      "src": "/images/ams-ndsm-photo.jpg",
+      "by": "PA0CCB",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:NDSM_Amsterdam_panorama.jpg"
+    },
+    {
+      "src": "/images/ber-museum-island-photo.jpg",
+      "by": "Photograph by Mike Peel (www.mikepeel.net).",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Museum_Island,_Berlin_2017_001.jpg"
+    },
+    {
+      "src": "/images/kyo-arashiyama-photo.jpg",
+      "by": "Basile Morin",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bamboo_Forest,_Arashiyama,_Kyoto,_Japan.jpg"
+    },
+    {
+      "src": "/images/ktm-boudha-photo.jpg",
+      "by": "Nabin K. Sapkota",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Boudha_Stupa_2018_04.jpg"
+    },
+    {
+      "src": "/images/rak-jemaa-photo.jpg",
+      "by": "Jakub Hałun",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Jamaa_El_Fna,_Marrakesh,_Morocco,_20250124_1804_7017.jpg"
+    },
+    {
+      "src": "/images/category-tailoring-photo.jpg",
+      "by": "Sonia Sevilla",
+      "lic": "CC0",
+      "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Tailor_men_Behind_the_Sewing_Machine_Fingers_on_his_chin.jpg"
+    },
+    {
+      "src": "/images/category-dental-photo.jpg",
+      "by": "Roseneath Dental Care",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:1._Dental_surgery.jpg"
+    },
+    {
+      "src": "/images/category-spa-photo.jpg",
+      "by": "Paradisus Bali",
+      "lic": "CC BY-SA 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:YHI_Spa_treatment_room_at_Paradisus_by_Meli%C3%A1_Bali.jpg"
+    },
+    {
+      "src": "/images/hkt-central-phuket-photo.jpg",
+      "by": "Deepak-nsk",
+      "lic": "CC0",
+      "licUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Central_Phuket_shopping_mall.jpg"
+    },
+    {
+      "src": "/images/bkk-bts-service-photo.jpg",
+      "by": "Vyacheslav Argenberg",
+      "lic": "CC BY 4.0",
+      "licUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Train_running_the_BTS_Skytrain,_Bangkok,_Thailand.jpg"
+    }
+  ],
+  "notes": "Two ambiguous restaurant-name image matches and an irrelevant elevator-sign photo were rejected. Category images are never assigned to named-business listings."
+}
