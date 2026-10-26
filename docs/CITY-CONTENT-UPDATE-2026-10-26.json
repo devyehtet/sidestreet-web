@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-26",
+  "newGuides": [
+    "bangkok-bacc-art-music-october-november-2026",
+    "bangkok-theatre-festival-2026-visitor-guide"
+  ],
+  "updatedGuides": [
+    "chiang-mai-design-week-2026-dates",
+    "phuket-dragon-line-free-town-bus",
+    "bangkok-rainy-day-museums-bacc-museum-siam"
+  ],
+  "newEvents": [
+    "bkk-creative-ward-2026",
+    "bkk-unplugged-october-2026",
+    "bkk-aquascape-2026",
+    "bkk-theatre-festival-2026"
+  ],
+  "sourceUrls": [
+    "https://www.bacc.or.th/en/events/96447",
+    "https://www.bacc.or.th/en/events/96357",
+    "https://www.bacc.or.th/en/events/95818",
+    "https://www.bacc.or.th/en/events/93046",
+    "https://www.chiangmaidesignweek.com/en/cmdw2026/about"
+  ],
+  "scope": "Independent editorial previews using primary sources; no firsthand reviews, wholesale republication or automated recurring updates.",
+  "images": "Existing BACC, Chiang Mai and Phuket files with their retained licences, credits and contextual image notes.",
+  "validation": {
+    "contentAudit": "passed with no errors or warnings",
+    "lint": "passed",
+    "tests": "19 passed",
+    "productionBuild": "passed",
+    "internalGuideReferences": "resolved"
+  }
+}

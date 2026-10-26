@@ -795,7 +795,7 @@
     "phuket-bus-official": {
       "name": "Phuket Smart Bus — timetable and routes",
       "url": "https://www.phuketsmartbus.com/timetable/",
-      "consultedAt": "2026-10-21"
+      "consultedAt": "2026-10-26"
     },
     "phuket-bus-boarding": {
       "name": "Phuket Smart Bus — airport boarding point",
@@ -885,7 +885,7 @@
     "dragon-line-official": {
       "name": "Phuket Smart Bus — Dragon Line guidance",
       "url": "https://phuketsmartbus.com/blog/dragon-line-explore-phuket-old-town-by-free-bus",
-      "consultedAt": "2026-10-21",
+      "consultedAt": "2026-10-26",
       "publishedAt": "2026-09-18"
     },
     "cmdw-2026-official": {
@@ -1274,7 +1274,7 @@
     "cmdw-scents-2026": {
       "name": "Chiang Mai Design Week — Scents Asia 2026 venue and hours announcement",
       "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/content/178436",
-      "consultedAt": "2026-10-21"
+      "consultedAt": "2026-10-26"
     },
     "cmdw-2026-announcement": {
       "name": "Creative Economy Agency — CMDW 2026 announcement and programme themes",
@@ -1334,7 +1334,32 @@
     "bacc-visit-official": {
       "name": "Bangkok Art and Culture Centre — official visit information",
       "url": "https://www.bacc.or.th/en/plan-your-visit/",
-      "consultedAt": "2026-10-24"
+      "consultedAt": "2026-10-26"
+    },
+    "bacc-creative-ward-2026": {
+      "name": "BACC — Creative Ward Exhibition",
+      "url": "https://www.bacc.or.th/en/events/96447",
+      "consultedAt": "2026-10-26"
+    },
+    "bacc-unplugged-oct-2026": {
+      "name": "BACC — Unplugged 8, 31 October 2026",
+      "url": "https://www.bacc.or.th/en/events/96357",
+      "consultedAt": "2026-10-26"
+    },
+    "bacc-aquascape-2026": {
+      "name": "BACC — The Art of Thai Aquascape 2026",
+      "url": "https://www.bacc.or.th/en/events/95818",
+      "consultedAt": "2026-10-26"
+    },
+    "bacc-theatre-2026": {
+      "name": "BACC — Bangkok Theatre Festival 2026",
+      "url": "https://www.bacc.or.th/en/events/93046",
+      "consultedAt": "2026-10-26"
+    },
+    "cmdw-about-2026": {
+      "name": "Chiang Mai Design Week — official 2026 overview",
+      "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about",
+      "consultedAt": "2026-10-26"
     }
   },
   "cities": [
@@ -13294,21 +13319,32 @@
       "city": "cnx",
       "cat": "news",
       "kind": "news",
-      "title": "Chiang Mai Design Week 2026: dates, Scents Asia venue and visit planning",
-      "dek": "Plan 5–13 December 2026: Scents Asia at TCDC Chiang Mai, its announced 10am–8pm hours, programme choices and session-specific booking checks.",
+      "title": "Chiang Mai Design Week 2026: what to plan now for December",
+      "dek": "Design, scent and a slower city outing: plan 5–13 December around Scents Asia at TCDC, then choose individual sessions as the programme develops.",
       "img": "cnx-tha-phae",
       "src": [
         "cmdw-2026-news",
         "cmdw-2026-program",
         "cmdw-2026-program-th",
         "cmdw-scents-2026",
-        "cmdw-2026-announcement"
+        "cmdw-2026-announcement",
+        "cmdw-about-2026"
       ],
       "body": [
         "Chiang Mai Design Week 2026 runs from 5 to 13 December under the announced theme “Local Thunders, Global Transformation”. One concrete starting point is Scents Asia: the organiser names TCDC Chiang Mai and a 10:00–20:00 event window for those dates. Other exhibitions, performances and workshops have their own locations and participation rules.",
         "Use the festival dates to choose your stay, then choose a named activity for each outing. This researched guide separates an announced venue from a booked session and helps you decide between design displays, a market, music and a hands-on workshop."
       ],
       "sections": [
+        {
+          "h": "26 October update: the vendor deadline has passed",
+          "p": [
+            "Scents Asia’s official notice set 25 October as the vendor-application deadline and 30 October for the selection announcement on its Facebook page. As of this update, the stated application window has ended. That timetable concerns exhibitors; it does not establish visitor admission or confirm that a particular workshop can be booked.",
+            "If you are planning a December visit, use this week to shortlist your interests rather than build a shopping list around unannounced exhibitors. Choose whether you care most about fragrance, materials or a hands-on session, then return to the dated programme once the relevant listing is available. A useful half-day can have one anchor and enough time for an unhurried meal."
+          ],
+          "sourceIds": [
+            "cmdw-scents-2026"
+          ]
+        },
         {
           "h": "When is Chiang Mai Design Week 2026?",
           "p": [
@@ -13424,12 +13460,12 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-10-26",
       "tips": [
         "Save the programme entry and any booking confirmation before you leave.",
         "Choose a venue address rather than a whole neighbourhood as your meeting point."
       ],
-      "researchNote": "Organiser announcements and programme checked 21 October 2026. The Scents Asia announcement supplies its venue and event hours; individual session admission, prices and availability remain separate checks. This is desk research, not a festival visit.",
+      "researchNote": "Update added 26 October 2026: the official overview and Scents Asia notice were rechecked, including the passed 25 October vendor deadline and planned 30 October selection announcement. Earlier programme strands retain their linked sources. This is desk research, not a festival visit; visitor admission and individual sessions require their own confirmation.",
       "mins": 3,
       "relatedGuides": [
         "chiang-mai-oldcity",
@@ -13507,7 +13543,7 @@
       "cat": "news",
       "kind": "news",
       "title": "Phuket Dragon Line: free shuttle bus route, hours and tracking",
-      "dek": "Find the free Phuket Town shuttle, published 7am–7pm hours, route areas and live map. Compare Dragon Line with the paid airport and Patong bus routes.",
+      "dek": "A free town loop, colourful streets and time for lunch: use Dragon Line for an Old Town outing, with the right route and a separate beach-hotel return.",
       "img": "hkt-old-town",
       "src": [
         "dragon-line-official",
@@ -13519,6 +13555,23 @@
         "For a visitor, the useful question is whether the loop connects the town places you already want to see. A free ride can fit an Old Town outing, but reaching that route from a beach hotel still needs a separate plan. This guide compares those journeys and gives a flexible town-day example."
       ],
       "sections": [
+        {
+          "h": "The small-day-out edit: spend the saving on time in town",
+          "p": [
+            "Make the bus the connection rather than the day’s main attraction. Our suggested outing is one short Old Town walk, one place to stop and a meal. If you prefer browsing, replace the museum block with shops; if the heat makes walking less appealing, shorten the outdoor section instead of adding another destination.",
+            "For a couple or a small group, compare two complete plans on the phone before leaving: a direct vehicle to your chosen town destination, and a paid connection plus the free loop. Put the return in both columns. This does not require guessing a taxi price; use the actual quote and decide whether the saving is worth the extra changes."
+          ],
+          "links": [
+            [
+              "Choose an Old Town meal",
+              "/guides/phuket-restaurants-best-for-old-town-meals"
+            ],
+            [
+              "Pick an Old Town walk",
+              "/guides/phuket-oldtown"
+            ]
+          ]
+        },
         {
           "h": "Which Phuket bus should you use?",
           "p": [
@@ -13642,13 +13695,13 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-10-26",
       "tips": [
         "Save an alternative return if your outing could finish after 19:00.",
         "Use the official route map for boarding; destination-area maps are for orientation.",
         "Keep hotel transfers, admission and food outside the free bus fare."
       ],
-      "researchNote": "Operator route, fare and service references checked 21 October 2026. The sample outing is an editorial plan; boarding points and travel-day operation must be checked with the operator. No firsthand ride is claimed.",
+      "researchNote": "Operator timetable and Dragon Line guidance rechecked 26 October 2026. The new small-day-out comparison is original editorial planning, not a personal ride report. Boarding points, live service and the beach-hotel connection remain travel-day checks.",
       "mins": 3,
       "relatedGuides": [
         "phuket-oldtown",
@@ -13672,7 +13725,7 @@
         ]
       ],
       "planTable": {
-        "caption": "Phuket Smart Bus services — published fares checked 21 October 2026",
+        "caption": "Phuket Smart Bus services — published fares rechecked 26 October 2026",
         "headers": [
           "Service",
           "Published route / areas",
@@ -15391,6 +15444,22 @@
               "/guides/bangkok-shops-services-best-for-city-visit"
             ]
           ]
+        },
+        {
+          "h": "Match your BACC visit to an actual exhibition date",
+          "p": [
+            "For late October or November, choose the display before choosing the afternoon. Our dated BACC preview compares graphic design, an acoustic performance and aquascapes; the separate theatre guide explains how to check a production’s language and venue. These are different outings, so keep the rainy-day museum comparison as your starting choice rather than trying to add every event."
+          ],
+          "links": [
+            [
+              "See the October and November BACC edit",
+              "/guides/bangkok-bacc-art-music-october-november-2026"
+            ],
+            [
+              "Choose a November theatre show",
+              "/guides/bangkok-theatre-festival-2026-visitor-guide"
+            ]
+          ]
         }
       ],
       "items": [],
@@ -15399,7 +15468,7 @@
         "bkk-bacc"
       ],
       "datePublished": "2026-10-24",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-10-26",
       "researchNote": "Published operator or venue information checked 24 October 2026. This is independent desk research, not a firsthand visit. Suggested time budgets and cost comparisons are editorial analysis; confirm current notices and your exact ticket before travel.",
       "compositionReview": {
         "date": "2026-10-24",
@@ -15508,6 +15577,327 @@
         "Keep ticket, food and return transport in separate budget lines.",
         "Treat an exterior reference photograph as orientation, not proof of current access."
       ],
+      "mins": 3
+    },
+    {
+      "id": "bangkok-bacc-art-music-october-november-2026",
+      "slug": "bangkok-bacc-art-music-october-november-2026",
+      "city": "bkk",
+      "cat": "news",
+      "kind": "news",
+      "title": "Three reasons to visit BACC: graphic design, acoustic music and underwater art",
+      "seoTitle": "BACC Events: Art & Music in October and November 2026",
+      "dek": "Creative Ward opens 27 October, a free acoustic set follows on 31 October, and aquascapes arrive in November. Choose the date that fits your kind of afternoon.",
+      "img": "bkk-bacc",
+      "items": [],
+      "places": [
+        "bkk-bacc"
+      ],
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "imageNote": "Reference photograph of Bangkok Art and Culture Centre; not a photograph of the announced 2026 events.",
+      "researchNote": "Official BACC listings checked 26 October 2026. This is an independently written preview, not a firsthand review. Suggested viewing exercises and time allowances are editorial recommendations; individual event terms may change.",
+      "tips": [],
+      "faq": [
+        [
+          "Can I see all three on one day?",
+          "No. Creative Ward and Unplugged overlap on 31 October, but the aquascape exhibition starts on 3 November."
+        ],
+        [
+          "Is the acoustic concert free?",
+          "The official 31 October Unplugged listing says free admission. Check that particular listing before travelling."
+        ],
+        [
+          "Is this open on Monday 26 October?",
+          "BACC publishes a normal Monday closure. Creative Ward starts on Tuesday 27 October."
+        ]
+      ],
+      "relatedGuides": [
+        "bangkok-rainy-day-museums-bacc-museum-siam",
+        "bangkok-theatre-festival-2026-visitor-guide"
+      ],
+      "src": [
+        "bacc-creative-ward-2026",
+        "bacc-unplugged-oct-2026",
+        "bacc-aquascape-2026",
+        "bacc-visit-official"
+      ],
+      "body": [
+        "Swap one more shopping stop for an afternoon with something to look at or listen to. Bangkok Art and Culture Centre has three very different dates coming up: a graphic-design exhibition, a Saturday acoustic performance and a November show built around planted underwater landscapes. The useful choice is which experience you want, rather than how many floors you can cover.",
+        "This preview was checked on Monday 26 October, when the centre is normally closed. Start with Tuesday 27 October for the first exhibition below. If music is your reason to go, put Saturday’s performance in the diary instead of expecting it on an ordinary gallery visit."
+      ],
+      "sections": [
+        {
+          "h": "For design students: Creative Ward, 27 October–1 November",
+          "p": [
+            "Creative Ward is presented by Suan Sunandha Rajabhat University in the L-floor Hall. Its design work is organised around identity, visual communication, objects and experience. That makes it a useful first pick for someone who enjoys seeing how a brief becomes a public-facing design.",
+            "Try a small viewing exercise: choose one project and work out what it needs its audience to understand before reading every panel. Then compare the lettering, image and physical presentation. Bring a notebook if you are studying branding; a page of your own observations will be more useful than collecting a phone full of unexplained pictures."
+          ],
+          "sourceIds": [
+            "bacc-creative-ward-2026"
+          ]
+        },
+        {
+          "h": "For a Saturday soundtrack: BACC Unplugged, 31 October",
+          "p": [
+            "BACC lists Unplugged 8 for 15:00–17:00 on the second-floor balcony, with free admission. The announced performers include Vocal CHAOZ and Loxon Music Studio vocal students, performing acoustic arrangements of songs from different generations.",
+            "Make the live set the fixed part of the day. Our suggested plan is to see Creative Ward before the music, take a break and then find the balcony. Leave the meal afterwards flexible: a performance has a start time, while a browsing stop can usually be shortened. This plan is a suggestion, not a reserved seat or a promise of available capacity."
+          ],
+          "sourceIds": [
+            "bacc-unplugged-oct-2026"
+          ]
+        },
+        {
+          "h": "For a November visit: The Art of Thai Aquascape, 3–15 November",
+          "p": [
+            "The Art of Thai Aquascape is announced for the L-floor Hall from 3 to 15 November. The listing includes aquascape displays, workshops and interactive activities. It follows Creative Ward rather than running alongside it, so choose the correct week if one of those subjects is your main interest.",
+            "Look at one composition from a distance before moving closer. How do rock, planting and empty space create the impression of a landscape? That is our suggested way into the display, not a specialist assessment of the works. If a workshop matters more than browsing, check its registration and session details separately."
+          ],
+          "sourceIds": [
+            "bacc-aquascape-2026"
+          ]
+        },
+        {
+          "h": "Build a small afternoon, not a building-wide checklist",
+          "p": [
+            "For an ordinary exhibition visit, our suggested allowance is 60–90 minutes for one main display, followed by a break. Add more time if you like reading every project panel; choose fewer stops if you are travelling with someone who prefers a short visit. These are planning allowances rather than published tour lengths.",
+            "Keep one main interest and one optional extra. For Saturday, the acoustic set supplies the fixed appointment. For the November aquascape visit, avoid planning around a workshop until you have confirmed the actual session. You can still have a worthwhile afternoon without trying to see every programme in the building."
+          ],
+          "links": [
+            [
+              "Compare BACC with Museum Siam",
+              "/guides/bangkok-rainy-day-museums-bacc-museum-siam"
+            ]
+          ]
+        },
+        {
+          "h": "Getting there and knowing what is free",
+          "p": [
+            "BACC publishes normal opening of Tuesday–Sunday, 10:00–20:00, and a third-floor connection to BTS National Stadium. It describes exhibition entry as free except for special events, while concerts and plays can have their own charges. The Unplugged listing specifically confirms free admission for that performance.",
+            "Keep the building’s opening hours separate from an event’s timetable. Save the event page as well as the destination map before leaving. For a longer evening, the November theatre festival is another option, but it needs a show-specific choice rather than a general gallery plan."
+          ],
+          "sourceIds": [
+            "bacc-visit-official"
+          ],
+          "links": [
+            [
+              "Plan a Bangkok Theatre Festival visit",
+              "/guides/bangkok-theatre-festival-2026-visitor-guide"
+            ]
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Graphic design",
+          "Creative Ward · 27 Oct–1 Nov · L-floor Hall"
+        ],
+        [
+          "Live music",
+          "31 Oct · 15:00–17:00 · second-floor balcony · free"
+        ],
+        [
+          "Aquascapes",
+          "3–15 Nov · L-floor Hall"
+        ],
+        [
+          "Travel",
+          "BTS National Stadium connection; closed Mondays"
+        ]
+      ],
+      "planTable": {
+        "caption": "Choose your BACC outing — official listings checked 26 October 2026",
+        "headers": [
+          "Your interest",
+          "Pick",
+          "When"
+        ],
+        "rows": [
+          [
+            "Graphic design",
+            "Creative Ward",
+            "27 Oct–1 Nov"
+          ],
+          [
+            "Acoustic music",
+            "BACC Unplugged 8",
+            "31 Oct, 15:00–17:00"
+          ],
+          [
+            "Underwater landscapes",
+            "The Art of Thai Aquascape",
+            "3–15 Nov"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Creative Ward details",
+          "https://www.bacc.or.th/en/events/96447"
+        ],
+        [
+          "Unplugged performance details",
+          "https://www.bacc.or.th/en/events/96357"
+        ],
+        [
+          "Aquascape exhibition details",
+          "https://www.bacc.or.th/en/events/95818"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "Find BACC before choosing an event",
+        "summary": "All three listings use BACC, but their floors and dates differ. This location marker is not a reserved entrance or a performance seat.",
+        "stops": [
+          {
+            "name": "Bangkok Art and Culture Centre",
+            "query": "Bangkok Art and Culture Centre, Bangkok, Thailand",
+            "note": "Check the listing for the correct floor: L-floor Hall or second-floor balcony."
+          }
+        ]
+      },
+      "mins": 3
+    },
+    {
+      "id": "bangkok-theatre-festival-2026-visitor-guide",
+      "slug": "bangkok-theatre-festival-2026-visitor-guide",
+      "city": "bkk",
+      "cat": "news",
+      "kind": "news",
+      "title": "Bangkok Theatre Festival 2026: how to choose your first show",
+      "seoTitle": "Bangkok Theatre Festival 2026: Dates, Venues & Tickets",
+      "dek": "The 14–29 November festival announces 103 performances across several venues. Start with the show’s language, location and ticket terms, then build your evening around it.",
+      "img": "bkk-bacc",
+      "items": [],
+      "places": [
+        "bkk-bacc"
+      ],
+      "datePublished": "2026-10-26",
+      "dateModified": "2026-10-26",
+      "imageNote": "Reference photograph of Bangkok Art and Culture Centre; not a photograph of the announced 2026 events.",
+      "researchNote": "Official BACC listings checked 26 October 2026. This is an independently written preview, not a firsthand review. Suggested viewing exercises and time allowances are editorial recommendations; individual event terms may change.",
+      "tips": [],
+      "faq": [
+        [
+          "When is Bangkok Theatre Festival 2026?",
+          "BACC’s official announcement lists 14–29 November 2026. Individual productions have their own dates and times."
+        ],
+        [
+          "Is every show at BACC?",
+          "No. The announcement also names TK Park, T. Namcharoen Playhouse and Tai Siam. Check the address on your chosen show."
+        ],
+        [
+          "Are all performances free or in English?",
+          "Neither is established. Some performances are free; language, tickets and age guidance need checking for each production."
+        ]
+      ],
+      "relatedGuides": [
+        "bangkok-rainy-day-museums-bacc-museum-siam",
+        "bangkok-bacc-art-music-october-november-2026"
+      ],
+      "src": [
+        "bacc-theatre-2026",
+        "bacc-visit-official"
+      ],
+      "body": [
+        "A festival with 103 performances sounds like a reason to fill every evening. For a first visit, make it a reason to choose one show well. Bangkok Theatre Festival’s official BACC listing announces 14–29 November 2026, with theatre, dance, puppetry and other live-performance forms across several venues.",
+        "Our suggestion is to start with the kind of attention you enjoy: following a spoken story, watching movement or discovering a form you have not tried. Then check the language and exact venue. This is a researched visitor guide; we have not attended or rated the announced productions."
+      ],
+      "sections": [
+        {
+          "h": "The dates are shared; the venues are not",
+          "p": [
+            "The official announcement names BACC, TK Park on centralwOrld’s eighth floor, T. Namcharoen Playhouse and Tai Siam at Siam Square. The BACC listing identifies its fourth-floor Studio. Those are separate destinations, not rooms covered by one arrival plan.",
+            "Copy the venue from the individual show listing into your calendar alongside the title. Before paying, compare that address with the map and your accommodation. A broad search for the festival can send you to the best-known building rather than the place your performance actually uses."
+          ],
+          "sourceIds": [
+            "bacc-theatre-2026"
+          ]
+        },
+        {
+          "h": "Choose by language and format before choosing by poster",
+          "p": [
+            "The programme announcement spans spoken theatre, musical theatre, mime, dance and other forms, including work for families. A festival-wide description cannot tell you whether a particular production will suit a child or whether its spoken language will be accessible to your group.",
+            "For spoken work, check the performance language and whether surtitles are offered. For any family visit, look for the show’s age guidance and duration. For movement-led work, read the description rather than assuming it is entirely wordless. These are selection questions to ask the organiser, not confirmed features of every production."
+          ],
+          "sourceIds": [
+            "bacc-theatre-2026"
+          ]
+        },
+        {
+          "h": "Free performances do not make the whole festival free",
+          "p": [
+            "The announcement mentions selected free performances alongside ticketed shows. It does not establish a single festival price, one pass for every venue or a uniform booking process. Follow the official programme link from BACC and read the terms for your chosen production.",
+            "Write down the show, date, start time, venue, ticket quantity and total before confirming a booking. Check collection or entry instructions and any conditions for late arrivals. If an offer is unclear, contact the organiser using its own listing; a low headline price is not enough to plan the whole evening."
+          ],
+          "sourceIds": [
+            "bacc-theatre-2026"
+          ]
+        },
+        {
+          "h": "A workable first-show evening",
+          "p": [
+            "Our planning suggestion is one performance and one nearby meal. Choose the meal after you know the show’s duration and entry arrangements. Avoid fixing a second performance immediately afterwards when you have not checked the first one’s finish or the transfer between venues.",
+            "For a group, agree a meeting point at the actual venue entrance and nominate one person to keep the booking confirmation. Compare the journey home before the night begins, particularly if the performance ends later than your usual transport. These are preparation steps, not a claim about any venue’s closing time or a guaranteed connection."
+          ]
+        },
+        {
+          "h": "If your show is at BACC",
+          "p": [
+            "BACC’s visitor page describes the BTS National Stadium connection on the third floor. Use that as the arrival reference, then follow the production’s own entry instructions. The venue’s ordinary exhibition hours do not replace a theatre showtime or prove that a performance runs on a particular day.",
+            "If you want an earlier visit, compare the current exhibition dates before adding one. Keep that stop optional so it cannot make you late for the performance you booked. For a shorter outing before the festival begins, our BACC art-and-music preview covers separate October and early-November dates."
+          ],
+          "sourceIds": [
+            "bacc-visit-official"
+          ],
+          "links": [
+            [
+              "See the BACC art-and-music preview",
+              "/guides/bangkok-bacc-art-music-october-november-2026"
+            ]
+          ]
+        }
+      ],
+      "quickPlan": [
+        [
+          "Festival window",
+          "14–29 November 2026"
+        ],
+        [
+          "Programme",
+          "103 announced performances; choose a dated listing"
+        ],
+        [
+          "Venues",
+          "BACC, TK Park, T. Namcharoen Playhouse and Tai Siam"
+        ],
+        [
+          "Tickets",
+          "Show-specific; selected free performances, not a free festival pass"
+        ]
+      ],
+      "planLinks": [
+        [
+          "Official announcement and programme links",
+          "https://www.bacc.or.th/en/events/93046"
+        ],
+        [
+          "BACC arrival information",
+          "https://www.bacc.or.th/en/plan-your-visit/"
+        ]
+      ],
+      "navigationRoute": {
+        "mode": "places",
+        "title": "BACC is one festival venue",
+        "summary": "This marker is for the BACC option only. Use the individual production listing for the other venues.",
+        "stops": [
+          {
+            "name": "BACC — check the production venue",
+            "query": "Bangkok Art and Culture Centre, Bangkok, Thailand",
+            "note": "The announcement lists BACC Studio on the fourth floor; this is not the entrance for every festival show."
+          }
+        ]
+      },
       "mins": 3
     }
   ],
@@ -18548,6 +18938,78 @@
       ],
       "verifiedAt": "2026-10-10",
       "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about"
+    },
+    {
+      "id": "bkk-creative-ward-2026",
+      "city": "bkk",
+      "cat": "Design",
+      "title": "Creative Ward Exhibition",
+      "date": "2026-10-27",
+      "where": "BACC, Hall on L floor",
+      "blurb": "Graphic-design work from Suan Sunandha Rajabhat University, organised around identity, visuals, objects and experience.",
+      "src": [
+        "bacc-creative-ward-2026"
+      ],
+      "verifiedAt": "2026-10-26",
+      "url": "https://www.bacc.or.th/en/events/96447",
+      "img": "bkk-bacc",
+      "imageAlt": "Bangkok Art and Culture Centre building",
+      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
+      "end": "2026-11-01"
+    },
+    {
+      "id": "bkk-unplugged-october-2026",
+      "city": "bkk",
+      "cat": "Music",
+      "title": "BACC Unplugged 8",
+      "date": "2026-10-31",
+      "where": "BACC, second-floor balcony",
+      "blurb": "Free acoustic performance; pair it with an earlier exhibition visit.",
+      "src": [
+        "bacc-unplugged-oct-2026"
+      ],
+      "verifiedAt": "2026-10-26",
+      "url": "https://www.bacc.or.th/en/events/96357",
+      "img": "bkk-bacc",
+      "imageAlt": "Bangkok Art and Culture Centre building",
+      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
+      "time": "15:00–17:00"
+    },
+    {
+      "id": "bkk-aquascape-2026",
+      "city": "bkk",
+      "cat": "Exhibition",
+      "title": "The Art of Thai Aquascape 2026",
+      "date": "2026-11-03",
+      "where": "BACC, Hall on L floor",
+      "blurb": "Planted underwater landscapes, with workshops and interactive activities announced separately.",
+      "src": [
+        "bacc-aquascape-2026"
+      ],
+      "verifiedAt": "2026-10-26",
+      "url": "https://www.bacc.or.th/en/events/95818",
+      "img": "bkk-bacc",
+      "imageAlt": "Bangkok Art and Culture Centre building",
+      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
+      "end": "2026-11-15"
+    },
+    {
+      "id": "bkk-theatre-festival-2026",
+      "city": "bkk",
+      "cat": "Performance",
+      "title": "Bangkok Theatre Festival 2026",
+      "date": "2026-11-14",
+      "where": "BACC and other named Bangkok venues",
+      "blurb": "103 announced performances. Check the production’s venue, language, showtime and ticket terms.",
+      "src": [
+        "bacc-theatre-2026"
+      ],
+      "verifiedAt": "2026-10-26",
+      "url": "https://www.bacc.or.th/en/events/93046",
+      "img": "bkk-bacc",
+      "imageAlt": "Bangkok Art and Culture Centre building",
+      "imageNote": "Venue reference photo; not an image of the announced performance or exhibition.",
+      "end": "2026-11-29"
     }
   ],
   "images": {
