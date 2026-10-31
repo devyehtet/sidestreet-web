@@ -1412,12 +1412,12 @@
     "city-edit-bangkok-jim-thompson-house-guided-visit": {
       "name": "Jim Thompson House Museum — official visitor or publisher reference",
       "url": "https://jimthompsonhouse.org/",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-bangkok-museum-siam-interactive-history-visit": {
       "name": "Museum Siam — official visitor or publisher reference",
       "url": "https://www.museumsiam.org/museumsiam-visit.php",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-bangkok-iconsiam-shopping-food-river-plan": {
       "name": "ICONSIAM — official visitor or publisher reference",
@@ -1430,19 +1430,19 @@
       "consultedAt": "2026-10-26"
     },
     "city-edit-singapore-botanic-gardens-first-walk": {
-      "name": "Singapore Botanic Gardens — official visitor or publisher reference",
-      "url": "https://www.nparks.gov.sg/sbg",
-      "consultedAt": "2026-10-26"
+      "name": "NParks — Singapore Botanic Gardens visitor information",
+      "url": "https://sbg.nparks.gov.sg/visit/general-info/",
+      "consultedAt": "2026-10-31"
     },
     "city-edit-singapore-gardens-by-the-bay-choose-attraction": {
       "name": "Gardens by the Bay — official visitor or publisher reference",
       "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit.html",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-kuala-lumpur-petronas-towers-ticket-choice": {
       "name": "Petronas Twin Towers — official visitor or publisher reference",
       "url": "https://www.petronastwintowers.com.my/plan-your-visit/admission-ticketing/",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-kuala-lumpur-jalan-alor-dinner-plan": {
       "name": "Jalan Alor — official visitor or publisher reference",
@@ -1467,7 +1467,7 @@
     "city-edit-new-york-met-first-visit-two-galleries": {
       "name": "The Metropolitan Museum of Art — official visitor or publisher reference",
       "url": "https://www.metmuseum.org/plan-your-visit",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-mexico-city-anthropology-museum-focused-visit": {
       "name": "Museo Nacional de Antropología — official visitor or publisher reference",
@@ -1492,7 +1492,7 @@
     "city-edit-sydney-opera-house-tour-or-show": {
       "name": "Sydney Opera House — official visitor or publisher reference",
       "url": "https://www.sydneyoperahouse.com/visit",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-sydney-royal-botanic-garden-harbour-pause": {
       "name": "Royal Botanic Garden — official visitor or publisher reference",
@@ -1507,7 +1507,7 @@
     "city-edit-seoul-gyeongbokgung-daytime-palace-plan": {
       "name": "Gyeongbokgung Palace — official visitor or publisher reference",
       "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87740",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-seoul-gwangjang-market-food-shopping-choice": {
       "name": "Gwangjang Market — official visitor or publisher reference",
@@ -1537,12 +1537,12 @@
     "city-edit-barcelona-park-guell-timed-visit-plan": {
       "name": "Park Güell — official visitor or publisher reference",
       "url": "https://parkguell.barcelona/en/planning-your-visit/access-regulations",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-rome-colosseum-ticket-product-explained": {
       "name": "Colosseum — official visitor or publisher reference",
       "url": "https://colosseo.it/en/opening-times-and-tickets/",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-10-31"
     },
     "city-edit-ubud-monkey-forest-first-visit-rules": {
       "name": "Sacred Monkey Forest Sanctuary — official visitor or publisher reference",
@@ -1558,6 +1558,61 @@
       "name": "Bo-Kaap — official visitor or publisher reference",
       "url": "https://www.capetown.travel/neighbourhood/bo-kaap/",
       "consultedAt": "2026-10-26"
+    },
+    "oct31-jim-visitor": {
+      "name": "Jim Thompson House Museum — visitor information",
+      "url": "https://jimthompsonhouse.org/visitor-information/",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-sbg-visitor": {
+      "name": "NParks — Singapore Botanic Gardens visitor information",
+      "url": "https://sbg.nparks.gov.sg/visit/general-info/",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-orchid": {
+      "name": "NParks — National Orchid Garden visitor information",
+      "url": "https://sbg.nparks.gov.sg/attractions/national-orchid-garden/",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-gbtb-arrival": {
+      "name": "Gardens by the Bay — getting here",
+      "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit/getting-here.html",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-gbtb-hours": {
+      "name": "Gardens by the Bay — attraction hours and closures",
+      "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-opera-tours": {
+      "name": "Sydney Opera House — tours and check-in locations",
+      "url": "https://www.sydneyoperahouse.com/tours",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-opera-arrival": {
+      "name": "Sydney Opera House — getting here",
+      "url": "https://www.sydneyoperahouse.com/visit/getting-here",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-siam-exhibition": {
+      "name": "Museum Siam — permanent exhibition overview",
+      "url": "https://www.museumsiam.org/exhibition-detail.php?CID=203&CONID=2545",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-met-dendur": {
+      "name": "The Met — Temple of Dendur collection record",
+      "url": "https://www.metmuseum.org/art/collection/search/547802",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-met-krater": {
+      "name": "The Met — Hirschfeld Workshop terracotta krater",
+      "url": "https://www.metmuseum.org/art/collection/search/248904",
+      "consultedAt": "2026-10-31"
+    },
+    "oct31-guell-stairway": {
+      "name": "Park Güell — Dragon Stairway",
+      "url": "https://parkguell.barcelona/en/park-guell/emblematic-features/dragon-stairway",
+      "consultedAt": "2026-10-31"
     }
   },
   "cities": [
@@ -16642,8 +16697,16 @@
       "kind": "guide",
       "roundup": true,
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
-      "sections": [],
+      "dateModified": "2026-10-31",
+      "sections": [
+        {
+          "h": "How we chose this two-stop shortlist",
+          "p": [
+            "This comparison is limited to two named Maha Chai Road businesses with published dish identities and traceable venue references. We selected them to answer a narrow decision: a pad-thai-led meal or a crab-omelette-focused occasion. We have not compared every Bangkok restaurant, conducted a tasting or awarded scores. “Best for” describes the fit to that decision, not a city-wide quality ranking."
+          ],
+          "sourceIds": []
+        }
+      ],
       "tips": [],
       "faq": [
         [
@@ -16717,15 +16780,48 @@
           "Photos",
           "Named-venue archive images with author and licence credits"
         ]
-      ]
+      ],
+      "planTable": {
+        "caption": "Choose by the trip you are actually planning",
+        "headers": [
+          "Your meal goal",
+          "Our starting point",
+          "Main trade-off"
+        ],
+        "rows": [
+          [
+            "Pad thai is the dish you want",
+            "Thipsamai",
+            "Choose the branch and version you intend to order"
+          ],
+          [
+            "Crab omelette is the occasion",
+            "Jay Fai",
+            "Keep time and spending flexible"
+          ],
+          [
+            "A fixed short meal break",
+            "Choose by confirmed service arrangements",
+            "A famous name alone cannot promise a quick meal"
+          ]
+        ]
+      }
     },
     {
       "city": "bkk",
       "kind": "guide",
       "roundup": true,
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
-      "sections": [],
+      "dateModified": "2026-10-31",
+      "sections": [
+        {
+          "h": "How we chose this riverside comparison",
+          "p": [
+            "This is a location-and-booking comparison of two named riverfront hotels, using their published property information. Selection is based on their different addresses and the practical decision between those bases. We have not stayed in or inspected the rooms, scored service or compared all Bangkok luxury hotels. Request a quote for the same dates and conditions before deciding; the hotel name alone cannot establish the best value."
+          ],
+          "sourceIds": []
+        }
+      ],
       "tips": [],
       "faq": [
         [
@@ -16799,7 +16895,32 @@
           "Photos",
           "Named-venue archive images with author and licence credits"
         ]
-      ]
+      ],
+      "planTable": {
+        "caption": "Choose by the trip you are actually planning",
+        "headers": [
+          "Your decision",
+          "Compare",
+          "Question for the hotel"
+        ],
+        "rows": [
+          [
+            "Where to stay",
+            "Oriental Avenue or Charoennakorn Road",
+            "Which address fits my actual outings?"
+          ],
+          [
+            "What to pay",
+            "Same nights, occupancy and room category",
+            "Are taxes, breakfast and cancellation comparable?"
+          ],
+          [
+            "How to travel",
+            "Confirmed transfer arrangements",
+            "Which destination, operating hours and charges apply?"
+          ]
+        ]
+      }
     },
     {
       "id": "bangkok-jim-thompson-house-guided-visit",
@@ -16807,71 +16928,88 @@
       "city": "bkk",
       "cat": "things",
       "kind": "guide",
-      "title": "A house, a collection and a slower Bangkok morning",
-      "seoTitle": "A house, a collection and a slower Bangkok morning",
-      "dek": "Make Jim Thompson House the focus of a guided visit, with the ticket, language and a small looking exercise decided before you arrive.",
+      "title": "Jim Thompson House: tickets, guided entry and a Bangkok morning plan",
+      "seoTitle": "Jim Thompson House: tickets, guided entry and a Bangkok morning plan",
+      "dek": "Choose a guided house visit, understand the admission categories and leave enough room for the tour departure.",
       "img": "bkk-jim-thompson",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "bkk-jim-thompson"
       ],
       "items": [],
       "src": [
-        "city-edit-bangkok-jim-thompson-house-guided-visit"
+        "city-edit-bangkok-jim-thompson-house-guided-visit",
+        "oct31-jim-visitor"
       ],
       "body": [
-        "Bangkok can encourage the habit of adding one more stop. Jim Thompson House is a reason to try the opposite: give one house and its collection your attention, then leave the next appointment open. Our edit suits visitors who enjoy interiors, objects and the way a home tells a story. Choose it as a guided visit rather than a quick photograph between malls. The reward is a manageable cultural outing with a clear beginning and end, not a competition to see every museum in town."
+        "Jim Thompson House works best as a guided cultural stop rather than an unstructured walk through a historic home. The important decision is whether your group wants an introduction to the house and collection: independent entry to the main house is not offered. If you only want a quick photograph, paying for the house tour may not match your purpose.",
+        "Our suggested planning allowance is 90 minutes on site, including waiting and a pause afterwards. That is a flexible itinerary allowance, not the museum’s promised tour length. Leave the next booking loose until you know your actual departure time. For two adults, the published house admission adds up to THB500 before transport, food or any separate activity."
       ],
       "sections": [
         {
-          "h": "The guide is part of the visit",
+          "h": "Admission and the tour language",
           "p": [
-            "The museum identifies the property as Jim Thompson’s former Bangkok home and Asian art collection. Its current visitor information requires a guide for entry to the main house and lists several tour languages. Adults are listed at 250 baht. Use the official admission links and confirm the next suitable language departure at the ticket office. A ticket purchase and an immediately available English tour are different things; leave some room between arrival and your next fixed booking."
+            "The museum lists daily hours of 10am–5pm and a last guided departure at 5pm. Adult entry is THB250; ages 10–21 pay THB150 with ID. Under-10s enter free with an accompanying adult. Guides are available in Thai, English, French, Chinese and Japanese. These are published options, not a promise that every language departs when you arrive."
           ],
           "sourceIds": [
             "city-edit-bangkok-jim-thompson-house-guided-visit"
           ]
         },
         {
-          "h": "Look at a room before looking for a famous object",
+          "h": "Walk-in or advance booking?",
           "p": [
-            "Our suggestion is to choose one room to remember. Notice the relationship between the objects, the light and the space around them, then use the guide’s explanation to test your first impression. Ask one question about how the collection came together rather than trying to record every date. Keep photography secondary to the tour and follow the rules in each area. This makes the visit useful even if art collecting is a new subject for you."
+            "The official site links authorised online admission and says daytime walk-in tours remain available when online reservations are full. Start with its own booking link if you need a fixed slot. If you walk in, ask about the next departure in your language before committing to another timed activity. Avoid treating a reseller’s availability as a complete view of the museum’s capacity."
+          ],
+          "sourceIds": [
+            "city-edit-bangkok-jim-thompson-house-guided-visit"
+          ]
+        },
+        {
+          "h": "How to get more from the visit",
+          "p": [
+            "Choose one room or object to discuss with the guide. Ask what it tells you about the collection rather than trying to memorise every name. A useful group exercise is to compare what each person noticed first: an object, the room arrangement or a material. This is our suggested way to participate, not an official tour assignment."
           ],
           "sourceIds": []
         },
         {
-          "h": "Keep the afterwards simple",
+          "h": "House museum or Art Center?",
           "p": [
-            "After the tour, choose between a break and another destination according to your energy. Do not book a tight lunch slot on the assumption that the tour begins the moment you enter the grounds. If BACC is also on your wish list, treat it as a separate optional visit and check its programme first. For a mixed-interest group, agree that completing the house visit is already a successful morning; the person who wants more culture can plan it without hurrying everyone else."
+            "The Jim Thompson Art Center is in the same compound but has its own exhibition programme. Choose the house for the domestic setting and collection; investigate the Art Center separately if contemporary exhibitions are your main interest. Do not count on the house ticket covering an exhibition unless the current offer explicitly says so."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "city-edit-bangkok-jim-thompson-house-guided-visit"
+          ]
         }
       ],
       "quickPlan": [
         [
-          "Visit format",
-          "Guided main-house visit"
+          "Format",
+          "Guided entry to the main house"
         ],
         [
-          "Check first",
-          "Admission and tour language"
+          "Adult budget",
+          "THB250 each; THB500 for two"
         ],
         [
-          "Our edit",
-          "One tour, one room to remember, an optional break"
+          "Our suggested allowance",
+          "90 minutes including waiting; not a tour-duration guarantee"
         ]
       ],
       "faq": [
         [
-          "Can I enter the main house alone?",
-          "The current museum information requires a guide for the main house."
+          "Can I visit without booking online?",
+          "Yes. The museum advertises daytime walk-in tours, including when online reservations are full. Ask the ticket office about the next suitable departure."
         ],
         [
-          "Is this a firsthand review?",
-          "No. It combines the museum’s published information with our own suggested visit format."
+          "Can I explore the main house without a guide?",
+          "No. A guide is required for the main house."
+        ],
+        [
+          "Which should I choose: the house or the Art Center?",
+          "Choose the house for its home and collection; use the Art Center’s separate programme when a contemporary exhibition is your priority."
         ]
       ],
       "relatedGuides": [
@@ -16883,9 +17021,34 @@
           "https://jimthompsonhouse.org/"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Choose the visit that matches your interest",
+        "headers": [
+          "Your priority",
+          "Our suggestion",
+          "Before committing"
+        ],
+        "rows": [
+          [
+            "House and collection",
+            "Book or join a guided house visit",
+            "Confirm departure language"
+          ],
+          [
+            "Contemporary exhibition",
+            "Look at the Art Center programme",
+            "Check its separate ticket terms"
+          ],
+          [
+            "Tight schedule",
+            "Make one visit the main appointment",
+            "Avoid a fixed meal immediately afterwards"
+          ]
+        ]
+      }
     },
     {
       "id": "bangkok-museum-siam-interactive-history-visit",
@@ -16893,71 +17056,99 @@
       "city": "bkk",
       "cat": "things",
       "kind": "guide",
-      "title": "Make room for questions at Museum Siam",
-      "seoTitle": "Make room for questions at Museum Siam",
-      "dek": "An indoor Bangkok stop for curious visitors who want to discuss Thai identity rather than rush through another collection of objects.",
+      "title": "Museum Siam: tickets, MRT access and a practical first visit",
+      "seoTitle": "Museum Siam: tickets, MRT access and a practical first visit",
+      "dek": "Plan an old-town museum stop with Sanam Chai MRT directions, published admission and a selective exhibition itinerary.",
       "img": "bkk-museum-siam",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "bkk-museum-siam"
       ],
       "items": [],
       "src": [
-        "city-edit-bangkok-museum-siam-interactive-history-visit"
+        "city-edit-bangkok-museum-siam-interactive-history-visit",
+        "oct31-siam-exhibition"
       ],
       "body": [
-        "A useful museum visit can begin with a question you cannot yet answer. At Museum Siam, our suggested question is how a place explains its own identity to newcomers. Choose this outing if your group enjoys reading, comparing ideas and talking after an exhibition. It makes a different kind of old-town stop from a temple visit, and gives an indoor afternoon a purpose beyond shelter from the weather. This guide helps shape a selective visit; it does not claim to assess every installation currently on display."
+        "Museum Siam is a useful choice when you want an indoor cultural visit in Bangkok’s old town with a straightforward rail arrival. Start at Sanam Chai MRT rather than planning a taxi between every attraction. Its appeal for our itinerary is the opportunity to spend time with an exhibition, not simply to add another building to a temple checklist.",
+        "We suggest a 90-minute visit followed by a meal or a break. This is our planning estimate, not an official minimum or a guarantee that every exhibition can be completed. A family interested in discussion may want longer; a group already tired from outdoor sightseeing should choose a smaller goal. Start with one question you want the exhibition to help answer."
       ],
       "sections": [
         {
-          "h": "Use the museum’s own visitor page",
+          "h": "Arrival, days and admission",
           "p": [
-            "Museum Siam publishes visitor information, ticket links and contact details on its official site. Start there for your chosen day instead of borrowing a museum opening time from a neighbouring attraction. Check what exhibition is actually available and whether the language support suits your group. If you have limited time, ask the visitor desk which part can be visited meaningfully within it. A current floor map is more useful than an old list of supposedly essential rooms."
+            "Museum Siam directs MRT visitors to Sanam Chai station, Exit 1. It publishes Tuesday–Sunday opening, 10am–6pm, with Monday closure. General adult admission is THB100; the listed student category for ages 15 and above is THB50. Under-15s and visitors aged 60 or above are among the free-entry categories. Carry relevant identification and confirm eligibility at ticketing."
           ],
           "sourceIds": [
             "city-edit-bangkok-museum-siam-interactive-history-visit"
           ]
         },
         {
-          "h": "Try a question-and-answer visit",
+          "h": "What to look for: the idea of Thainess",
           "p": [
-            "Our suggested approach is to split the visit into two rounds: first follow the exhibition’s own sequence, then return to the one idea your group interpreted differently. What did a label assume the visitor already knew? Which object needed more context? Make a note of a question rather than a verdict. This gives adults and older children a shared activity without turning the visit into a quiz or pretending that one afternoon can explain an entire country."
+            "The museum’s permanent-exhibition overview describes “ถอดรหัสไทย”, an exploration of Thai identity through subjects including history, food, dress and architecture. It introduces rooms such as “Is This Thai?” and “Defining Thainess”. The overview is a long-standing exhibition description, not a live confirmation that every installation works today. Our suggested focus is to compare one familiar-looking object with its explanation: what did you assume it represented before reading the label? That makes the visit about interpretation rather than collecting photographs. Ask at arrival about today’s available rooms and language support."
+          ],
+          "sourceIds": [
+            "oct31-siam-exhibition"
+          ]
+        },
+        {
+          "h": "A realistic budget for two",
+          "p": [
+            "At the published adult rate, two general-admission tickets total THB200. Keep train fares and food outside that figure. If you qualify for a concession, use the category that applies rather than buying a standard ticket automatically. The museum lists audio guides and wheelchair facilities; ask the desk for current availability and the route that fits your group."
+          ],
+          "sourceIds": [
+            "city-edit-bangkok-museum-siam-interactive-history-visit"
+          ]
+        },
+        {
+          "h": "Our suggested 90-minute structure",
+          "p": [
+            "Use the first ten minutes for orientation and the current exhibition map. Give roughly an hour to the areas that interest you, then leave time to return to a confusing label or compare notes. This is a suggested structure rather than a room-by-room official route. Choose an idea to discuss afterwards; that gives the visit a purpose even if you do not complete every room."
           ],
           "sourceIds": []
         },
         {
-          "h": "Pair it with one outdoor pause",
+          "h": "Museum first, temple second?",
           "p": [
-            "Leave an optional outdoor pause after the exhibition rather than fixing another timed attraction immediately afterwards. In wet weather, decide the onward transport before stepping outside with bags and phones. If a temple is also part of your day, check its admission and dress requirements separately; a museum ticket does not simplify those decisions. Our preference is one substantial indoor stop followed by a meal or short walk, with the freedom to stop if the group has had enough."
+            "If you combine this with a temple, make one of them optional. Museum exhibits and temple grounds ask for different kinds of attention, and the second stop is less enjoyable when everyone is racing a deadline. Decide after the exhibition whether you want another substantial visit or simply a meal. Buy each attraction’s own admission and follow its own visitor rules."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Best fit",
-          "An indoor visit built around questions"
+          "Arrival",
+          "Sanam Chai MRT, Exit 1"
         ],
         [
-          "Before travel",
-          "Current exhibition, language and admission"
+          "Published opening",
+          "Tuesday–Sunday 10am–6pm; Monday closed"
         ],
         [
-          "Suggested pace",
-          "A selective exhibition visit and a discussion afterwards"
+          "Adult admission",
+          "THB100; concessions depend on eligibility"
         ]
       ],
       "faq": [
         [
-          "Can I use temple hours for this museum?",
-          "No. Use Museum Siam’s own current visitor information."
+          "How do I reach Museum Siam by MRT?",
+          "Use Sanam Chai station and Exit 1, as directed by the museum."
         ],
         [
-          "Does this guide promise particular interactive displays?",
-          "No. Check the current exhibition before choosing specific activities."
+          "Is Museum Siam open on Monday?",
+          "Its regular published schedule closes on Monday."
+        ],
+        [
+          "How much should two adults budget for admission?",
+          "THB200 at the published general adult rate, excluding transport and food."
+        ],
+        [
+          "How long should I allow?",
+          "Our suggestion is 90 minutes for orientation, a selective exhibition visit and a short discussion. Adjust this to the exhibition and your group."
         ]
       ],
       "relatedGuides": [
@@ -16967,11 +17158,40 @@
         [
           "Official planning reference",
           "https://www.museumsiam.org/museumsiam-visit.php"
+        ],
+        [
+          "Museum Siam — permanent exhibition overview",
+          "https://www.museumsiam.org/exhibition-detail.php?CID=203&CONID=2545"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Build an old-town plan around one main stop",
+        "headers": [
+          "Situation",
+          "Suggested plan",
+          "Trade-off"
+        ],
+        "rows": [
+          [
+            "Rainy afternoon",
+            "Museum first, meal afterwards",
+            "Less outdoor sightseeing"
+          ],
+          [
+            "Already visiting temples",
+            "Keep the museum as the main indoor stop",
+            "Avoid attempting every nearby attraction"
+          ],
+          [
+            "Short visit",
+            "Choose one exhibition interest",
+            "You may leave some rooms for another day"
+          ]
+        ]
+      }
     },
     {
       "id": "bangkok-iconsiam-shopping-food-river-plan",
@@ -17151,71 +17371,96 @@
       "city": "sin",
       "cat": "things",
       "kind": "guide",
-      "title": "A Singapore morning with no shopping list: the Botanic Gardens",
-      "seoTitle": "A Singapore morning with no shopping list: the Botanic Gardens",
-      "dek": "Choose a modest garden loop, a starting gate and one botanical question before you set out.",
+      "title": "Singapore Botanic Gardens: entrances, free entry and the Orchid Garden",
+      "seoTitle": "Singapore Botanic Gardens: entrances, free entry and the Orchid Garden",
+      "dek": "Choose the right MRT arrival and decide whether a free garden walk or a ticketed orchid visit fits your day.",
       "img": "sin-botanic",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "sin-botanic"
       ],
       "items": [],
       "src": [
-        "city-edit-singapore-botanic-gardens-first-walk"
+        "city-edit-singapore-botanic-gardens-first-walk",
+        "oct31-sbg-visitor",
+        "oct31-orchid"
       ],
       "body": [
-        "A garden visit works best when it is allowed to be a garden visit. Leave the attraction-counting behind and choose Singapore Botanic Gardens for a morning of looking closely, walking at your own pace and deciding when to stop. Our edit is for travellers who want greenery without committing to a long excursion. Begin with a manageable section of the grounds rather than drawing a line through every named feature. You can always plan another visit after discovering what interests you."
+        "Before setting off for Singapore Botanic Gardens, choose your entrance and whether the National Orchid Garden is the reason for the trip. Those two decisions are more useful than trying to walk across every collection. Our suggested first visit is a manageable area with one clear interest, leaving a longer garden exploration for a day when you want it.",
+        "A garden walk suits a flexible outing; an orchid-focused visit needs its own admission and closing-time plan. For a mixed-interest group, agree which matters more before leaving the station. Otherwise a person expecting a short free stroll can find themselves committed to a paid attraction and a much longer walk."
       ],
       "sections": [
         {
-          "h": "Free grounds are not every possible garden purchase",
+          "h": "Match the entrance to the train",
           "p": [
-            "The government garden page identifies Singapore Botanic Gardens at 1 Cluny Road and lists free general admission. Read the current visitor pages for separately managed attractions, closures and any additional admission before adding them. A free entrance is a useful starting point, but transport, refreshments or a specialist attraction can still change the day’s total. Build your plan around the grounds first, then decide whether a paid addition has a clear purpose."
+            "NParks identifies Napier MRT for the Tanglin Entrance and Botanic Gardens MRT for the Bukit Timah Entrance. They serve different sides of the grounds. Choose an entrance on the official map first, then set your navigation destination. Meeting simply “at the gardens” leaves too much room for people to arrive far apart."
           ],
           "sourceIds": [
-            "city-edit-singapore-botanic-gardens-first-walk"
+            "oct31-sbg-visitor"
           ]
         },
         {
-          "h": "Start and finish with the same map",
+          "h": "Separate free access from the orchid ticket",
           "p": [
-            "Our suggestion is a loop with one meeting point, particularly if the group may separate. Choose a gate that makes sense for your onward journey rather than the first pin your map app supplies. Save the current garden map and identify a shorter version before setting out. For a mixed-energy group, agreeing where to turn back is kinder than presenting the longest possible route as the only successful visit."
+            "General garden entry is free. The National Orchid Garden has separate admission; NParks lists the standard adult rate as S$15 and a local adult category of S$5. Local eligibility includes specified resident/pass categories. Use the table on the visitor page for your own group rather than assuming every adult pays the local rate."
+          ],
+          "sourceIds": [
+            "oct31-sbg-visitor"
+          ]
+        },
+        {
+          "h": "A first walk without crossing everything",
+          "p": [
+            "Our suggestion is to choose an arrival gate, one garden interest and an exit before starting. Keep a screenshot of the map available, and decide where to turn back if the heat or rain changes the group’s energy. Walking every path is not the measure of a successful visit; being able to enjoy one area and return comfortably is."
           ],
           "sourceIds": []
         },
         {
-          "h": "Use a plant as the day’s souvenir",
+          "h": "If orchids are the priority",
           "p": [
-            "Try noticing one leaf shape, bark texture or growth habit you would otherwise walk past. Read the label, make a sketch or photograph the plant without touching it, and compare your observation with someone else’s. This is our suggested activity, not an organised garden programme. Add water and a weather check to your preparations, and keep the rest of the afternoon flexible. A small observation can be a better reminder of Singapore than another bag to carry."
+            "The National Orchid Garden publishes 8.30am–7pm opening with last ticket sales and entry at 6pm. Its visitor page identifies Tyersall as the convenient drop-off point and notes wheelchair access. Plan arrival for time inside, not just the last-entry deadline. Anyone needing a particular accessible route should use the current map and visitor-desk advice."
+          ],
+          "sourceIds": [
+            "oct31-orchid"
+          ]
+        },
+        {
+          "h": "Our budget choice",
+          "p": [
+            "Choose the free walk if you want flexible time outdoors and have only a loose interest in orchids. Choose the paid garden if orchids are the main subject you want to see. For two standard-rate adults, that decision adds S$30 to the outing before transport and refreshments. It is a useful budget distinction, not a judgement that either visit is better for everyone."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Visit style",
-          "A selective garden walk"
+          "MRT choice",
+          "Napier for Tanglin; Botanic Gardens for Bukit Timah"
         ],
         [
-          "General grounds",
-          "Official page lists free admission"
+          "Admission choice",
+          "Free gardens or separately ticketed National Orchid Garden"
         ],
         [
-          "Plan first",
-          "Gate, shorter loop and onward connection"
+          "Planning priority",
+          "Choose entrance and main interest before departure"
         ]
       ],
       "faq": [
         [
-          "Does free admission cover every attraction?",
-          "Not necessarily. Check separately managed attractions and current conditions."
+          "Is Singapore Botanic Gardens free?",
+          "General garden entry is free; the National Orchid Garden requires a separate ticket."
         ],
         [
-          "Is the proposed loop an official tour?",
-          "No. Choose your own route using the current garden map."
+          "Which MRT station should I use?",
+          "Choose Napier for the Tanglin Entrance or Botanic Gardens station for the Bukit Timah Entrance."
+        ],
+        [
+          "Can I use the gardens’ hours for the Orchid Garden?",
+          "No. The Orchid Garden has its own opening and last-entry times."
         ]
       ],
       "relatedGuides": [
@@ -17227,9 +17472,34 @@
           "https://www.nparks.gov.sg/sbg"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Free walk or orchid visit?",
+        "headers": [
+          "Priority",
+          "Choose",
+          "Planning consequence"
+        ],
+        "rows": [
+          [
+            "Flexible outdoor time",
+            "General gardens",
+            "Choose a compact area and an exit"
+          ],
+          [
+            "Orchid collection",
+            "National Orchid Garden",
+            "Add its ticket and last-entry deadline"
+          ],
+          [
+            "Meeting friends",
+            "One named entrance",
+            "Share the exact gate rather than the whole park"
+          ]
+        ]
+      }
     },
     {
       "id": "singapore-gardens-by-the-bay-choose-attraction",
@@ -17237,45 +17507,59 @@
       "city": "sin",
       "cat": "things",
       "kind": "guide",
-      "title": "Gardens by the Bay: choose your experience before buying",
-      "seoTitle": "Gardens by the Bay: choose your experience before buying",
-      "dek": "An outdoor stroll and an indoor attraction are different plans. Here’s how to choose a manageable visit instead of buying every add-on.",
+      "title": "Gardens by the Bay: choose your attraction and MRT arrival",
+      "seoTitle": "Gardens by the Bay: choose your attraction and MRT arrival",
+      "dek": "Separate the outdoor visit from a ticketed attraction, then match the station exit and closure calendar to that choice.",
       "img": "sin-gardens",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "sin-gardens"
       ],
       "items": [],
       "src": [
-        "city-edit-singapore-gardens-by-the-bay-choose-attraction"
+        "city-edit-singapore-gardens-by-the-bay-choose-attraction",
+        "oct31-gbtb-arrival",
+        "oct31-gbtb-hours"
       ],
       "body": [
-        "Gardens by the Bay can mean several different afternoons. You might want a landscape walk, a particular indoor attraction or an evening organised around one show. Start by naming that purpose before comparing ticket products. Our edit is for a visitor who wants a satisfying version of the gardens without assuming that the largest bundle is the best purchase. Choose the part you would be disappointed to miss, then make the rest optional."
+        "Gardens by the Bay is a collection of different experiences, not one interchangeable ticket. Begin with the attraction you most want to see: an outdoor garden outing, a conservatory, or an elevated viewpoint. Our recommendation for a first visit is to choose one main experience and leave the rest optional rather than buy a bundle before reading its inclusions.",
+        "The practical cost of an extra attraction is both money and attention. A ticket can look appealing while leaving too little time for the thing you came to see. Write down the named attractions, entry windows and meeting point before paying. If two people want different experiences, agree on a shared finish point rather than trying to force every attraction into the same afternoon."
       ],
       "sections": [
         {
-          "h": "Read the advisory before the ticket grid",
+          "h": "Choose the right rail approach",
           "p": [
-            "The official planning page publishes attraction-specific closure notices and route advisories. On our 26 October research check it listed a Cloud Forest maintenance closure for that date, illustrating why a broad opening statement cannot confirm access to every attraction. Use the advisory for your actual travel day rather than carrying this dated notice forward as a permanent closure. Decide which experience matters, confirm it is operating and only then compare the available tickets."
+            "The operator directs Bayfront MRT visitors to Exit B and the underground linkway, then across Dragonfly or Meadow Bridge. Gardens by the Bay MRT is another arrival option, using Exit 1. Select the entrance that suits your chosen destination on the map; the station names alone do not tell you which gives the best arrival for your own plan."
+          ],
+          "sourceIds": [
+            "oct31-gbtb-arrival"
+          ]
+        },
+        {
+          "h": "Compare the experience, not the bundle name",
+          "p": [
+            "The operator lists Flower Dome, Cloud Forest, Floral Fantasy, OCBC Skyway and Supertree Observatory as distinct attractions. Compare the actual inclusions of the current ticket you are considering. Our decision rule is to buy for the experiences you can name and want, rather than for a saving calculated against attractions you would otherwise skip."
           ],
           "sourceIds": [
             "city-edit-singapore-gardens-by-the-bay-choose-attraction"
           ]
         },
         {
-          "h": "Compare a product, not a photograph",
+          "h": "One site does not mean one closing time",
           "p": [
-            "Write down the attractions included in each option, the valid date and any entry conditions. Our suggestion is to compare the smallest purchase that delivers your priority with a larger combination, then ask what you would actually use from the difference. A dramatic photograph can represent one viewpoint or installation; it does not describe everything in a pass. If the group splits between indoor and outdoor activities, agree a reunion point before anyone queues."
+            "The published hours differ between outdoor areas and ticketed attractions, and maintenance can affect a single attraction. Use the attraction-specific closure calendar for your date. Do not transfer a dated closure from an old guide into a permanent rule, or assume that general garden access means your booked attraction is available."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "oct31-gbtb-hours"
+          ]
         },
         {
-          "h": "Leave the evening some space",
+          "h": "Build an afternoon that can change",
           "p": [
-            "An attraction finish time is not the moment you will automatically reach dinner or the next transport stop. Keep time for exits, a pause and the journey between parts of the gardens. Check show schedules separately when a performance is essential, and do not build the whole evening around an unverified clip from social media. Our preference is one main garden experience, a flexible meal and a clear way home—enough structure to enjoy the setting without turning it into a timed obstacle course."
+            "Our suggested sequence is arrival, one main attraction, a break and then an optional outdoor look. In poor weather or low energy, remove the optional section before sacrificing the main booking. Keep a separate travel allowance between the station and the attraction check-in. This structure is deliberately flexible; it is not an official timed route or a promise of a particular evening show."
           ],
           "sourceIds": []
         }
@@ -17283,25 +17567,29 @@
       "quickPlan": [
         [
           "First decision",
-          "Outdoor visit, indoor attraction or scheduled show"
+          "Outdoor outing, conservatory or elevated viewpoint"
         ],
         [
-          "Before buying",
-          "Date-specific advisories and inclusions"
+          "Rail arrivals",
+          "Bayfront Exit B or Gardens by the Bay Exit 1"
         ],
         [
-          "Our approach",
-          "One priority, with extras chosen deliberately"
+          "Before payment",
+          "Named inclusions, entry window and attraction-specific closures"
         ]
       ],
       "faq": [
         [
-          "Can an attraction close while the gardens remain accessible?",
-          "Yes. The official page publishes attraction-specific advisories."
+          "Which MRT exits serve Gardens by the Bay?",
+          "The operator gives Bayfront Exit B via the linkway, and Gardens by the Bay station Exit 1. Match the route to your chosen attraction."
         ],
         [
-          "Does this guide guarantee a particular show?",
-          "No. Confirm the current programme for your chosen date."
+          "Does one ticket cover every attraction?",
+          "Check the named inclusions of the product you select; do not assume a site-wide ticket."
+        ],
+        [
+          "How many attractions should I book for a first visit?",
+          "Our suggestion is one main experience, with extra activities only if your time and energy allow."
         ]
       ],
       "relatedGuides": [
@@ -17313,9 +17601,34 @@
           "https://www.gardensbythebay.com.sg/en/plan-your-visit.html"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Choose a plan before choosing a ticket",
+        "headers": [
+          "Your aim",
+          "Our approach",
+          "What to verify"
+        ],
+        "rows": [
+          [
+            "Outdoor scenery",
+            "Keep the visit flexible",
+            "Weather and path notices"
+          ],
+          [
+            "One named attraction",
+            "Make it the fixed appointment",
+            "Admission window and closure date"
+          ],
+          [
+            "Several attractions",
+            "List the order before buying",
+            "Bundle inclusions and time between entries"
+          ]
+        ]
+      }
     },
     {
       "id": "kuala-lumpur-petronas-towers-ticket-choice",
@@ -17323,13 +17636,13 @@
       "city": "kul",
       "cat": "things",
       "kind": "guide",
-      "title": "PETRONAS Twin Towers: make the view a deliberate choice",
-      "seoTitle": "PETRONAS Twin Towers: make the view a deliberate choice",
-      "dek": "Decide whether you want the ticketed tower experience or a ground-level look before committing your Kuala Lumpur afternoon.",
+      "title": "PETRONAS Twin Towers: ticket categories and timed-entry planning",
+      "seoTitle": "PETRONAS Twin Towers: ticket categories and timed-entry planning",
+      "dek": "Compare the actual access product, visitor category and arrival deadline before buying a Kuala Lumpur skyline visit.",
       "img": "kul-petronas",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "kul-petronas"
@@ -17339,55 +17652,80 @@
         "city-edit-kuala-lumpur-petronas-towers-ticket-choice"
       ],
       "body": [
-        "A landmark can be enjoyed without buying every way to see it. At the PETRONAS Twin Towers, first decide whether entering the visitor experience matters to you or whether the building itself is the reason for coming. Our edit is for travellers comparing time, tickets and the rest of a Kuala Lumpur day. Make the decision before a queue or a convincing photograph makes it for you. The right choice depends on the kind of visit you want, not on completing a universal must-do list."
+        "Choose a PETRONAS Twin Towers ticket by its named access areas and your visitor category, not by a photograph of the towers. The official admission table separates normal admission, evening, premium and priority products. Those labels describe different offers; they are not a reason to assume that the most expensive one matches your own trip best.",
+        "Our suggested buying process is to settle the date, the people travelling and the access you want before comparing prices. A price copied without its weekday/weekend or resident category can be misleading. This guide intentionally leaves the live booking quote to the operator while explaining which decisions change that quote."
       ],
       "sections": [
         {
-          "h": "Use the operator’s admission channel",
+          "h": "Read the access line carefully",
           "p": [
-            "The official tower website has an admission-and-ticketing page that directs visitors to its booking system. Start from that page rather than treating a search advert or a similarly named reseller as the operator. Compare the date, product and visitor category before payment. If you are buying close to your arrival, use the operator’s current instructions for short-notice visits; a screenshot showing availability on another day does not establish a place in your preferred slot."
+            "The official table distinguishes Premium Sky Access products for the SkyBridge alone from products including the SkyBridge and Observation Deck 86. Normal admission and other categories have their own columns. Compare the access line of the exact product before adding merchandise or other extras. A familiar product name is less useful than a written list of what your booking includes."
           ],
           "sourceIds": [
             "city-edit-kuala-lumpur-petronas-towers-ticket-choice"
           ]
         },
         {
-          "h": "Write down what you want from the experience",
+          "h": "Match the category to each traveller",
           "p": [
-            "Our suggestion is to choose one question: are you most interested in the building, the elevated perspective or the shared occasion with your companion? That answer helps you judge the value of the ticket against other plans. Do not promise a particular sunset, cloud-free view or exact photograph. Allow room for visibility and the pace of the organised visit, and read any rules about bags or arrival requirements before leaving your accommodation."
+            "The published table separates Malaysian MyKad/MyKid categories from general admission and divides the rates by age and, for some products, day type. Build a separate line for each person in your group before checkout. A mixed group may need different ticket categories even when everyone enters together."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "city-edit-kuala-lumpur-petronas-towers-ticket-choice"
+          ]
         },
         {
-          "h": "Plan the part after the towers",
+          "h": "Reserve time for check-in",
           "p": [
-            "Leave the next meal flexible until you know the arrival and entry arrangements for the product you selected. For a group, keep the booking confirmation with one nominated person while everyone saves the meeting location. If someone prefers to remain at ground level, agree the reunion plan in advance rather than assuming they can follow the same route. A well-chosen landmark visit should leave you with a view you wanted and enough energy to enjoy the next part of the city."
+            "The official guidance asks visitors to reach the entry point 15 minutes before the visiting time and warns that missed slots can be refused without a refund. Treat this as a check-in requirement, then add your own travel buffer. A train arrival at the booked visit time is already too late for the published instruction."
+          ],
+          "sourceIds": [
+            "city-edit-kuala-lumpur-petronas-towers-ticket-choice"
+          ]
+        },
+        {
+          "h": "Do not rely on a blanket Monday rule",
+          "p": [
+            "The 2026 admission page lists selected Monday openings and individual closure dates. Some older booking material says Monday closed, so use the current official date selector and admission page together. If they conflict for your intended date, resolve it with the operator before paying rather than guessing from a general weekly schedule."
+          ],
+          "sourceIds": [
+            "city-edit-kuala-lumpur-petronas-towers-ticket-choice"
+          ]
+        },
+        {
+          "h": "Our decision rule",
+          "p": [
+            "Choose normal access when its stated inclusions cover your goal. Consider a premium option only when you can identify an extra access area or service that you actually value. Keep a screenshot of the purchased inclusions and confirmation so that the comparison remains clear after booking."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Choose first",
-          "Ticketed visitor experience or exterior viewing"
+          "Buying order",
+          "Date → visitor categories → included areas → total"
         ],
         [
-          "Book from",
-          "The official admission page"
+          "Published arrival rule",
+          "At the entry point 15 minutes before the visit"
         ],
         [
-          "Keep flexible",
-          "Visibility and the onward meal"
+          "Schedule caution",
+          "Selected Mondays open; check the actual date"
         ]
       ],
       "faq": [
         [
-          "Is a skyline photograph proof of ticket availability?",
-          "No. Check the official product and date."
+          "Are PETRONAS Twin Towers always closed on Mondays?",
+          "No. The official 2026 page lists selected Monday openings and particular closure dates. Check your date in the current booking system."
         ],
         [
-          "Does every visitor need the same ticket category?",
-          "Check the operator’s categories for your group before paying."
+          "Does every premium ticket include the observation deck?",
+          "No. The official table distinguishes SkyBridge-only products from those including Observation Deck 86."
+        ],
+        [
+          "How early should I arrive?",
+          "The published instruction is to be at the entry point 15 minutes before your visit. Add your own travel buffer."
         ]
       ],
       "relatedGuides": [
@@ -17399,9 +17737,39 @@
           "https://www.petronastwintowers.com.my/plan-your-visit/admission-ticketing/"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Check these four lines before payment",
+        "headers": [
+          "Line",
+          "What to compare",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Date",
+            "Actual bookable slot",
+            "Weekly summaries may omit exceptions"
+          ],
+          [
+            "Traveller",
+            "Age and applicable ID category",
+            "The same group can need different categories"
+          ],
+          [
+            "Access",
+            "Named included areas",
+            "Premium labels can describe different products"
+          ],
+          [
+            "Arrival",
+            "Check-in deadline",
+            "Entry time is not the time to begin travelling"
+          ]
+        ]
+      }
     },
     {
       "id": "kuala-lumpur-jalan-alor-dinner-plan",
@@ -17753,71 +18121,114 @@
       "city": "nyc",
       "cat": "things",
       "kind": "guide",
-      "title": "The Met for people who do not want to see everything",
-      "seoTitle": "The Met for people who do not want to see everything",
-      "dek": "Two gallery priorities, one proper break and a museum day you can actually enjoy.",
+      "title": "The Met first visit: admission, opening days and a two-gallery plan",
+      "seoTitle": "The Met first visit: admission, opening days and a two-gallery plan",
+      "dek": "Check admission eligibility, choose two collection interests and avoid turning a museum day into a race.",
       "img": "nyc-met",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "nyc-met"
       ],
       "items": [],
       "src": [
-        "city-edit-new-york-met-first-visit-two-galleries"
+        "city-edit-new-york-met-first-visit-two-galleries",
+        "oct31-met-dendur",
+        "oct31-met-krater"
       ],
       "body": [
-        "A large museum can make a first visit feel like a test of endurance. Our Met edit starts by removing that expectation. Choose two areas you genuinely want to understand and let the rest remain for another trip. This is a visit for someone who prefers remembering a few objects to recognising dozens from a distance. It works for solo travellers and companions with different tastes, provided everyone agrees that a selective visit is a complete one."
+        "For a first visit to The Met Fifth Avenue, choose two collection interests before you arrive. The museum is too broad for a useful promise that one short visit will cover everything. Our suggested plan is one main collection, a break and a second contrasting collection, with permission to stop after the first if that already makes a satisfying visit.",
+        "A budget decision comes before the gallery decision: pay-what-you-wish admission does not apply to every tourist. Check your own category, then plan the collections rather than trying to recover the ticket price by rushing through more rooms. A careful hour with one subject can be more useful than a hurried circuit that leaves every room indistinct."
       ],
       "sections": [
         {
-          "h": "Check the location and ticket category",
+          "h": "Budget for the right admission category",
           "p": [
-            "The Met’s visitor page distinguishes Fifth Avenue from its other location and publishes general admission and eligibility rules. For Fifth Avenue it currently lists a Wednesday closure and notes gallery renovations. Use those current details to choose your day and rooms. Do not assume that pay-what-you-wish admission applies to every visitor; check the museum’s actual residency or student conditions. A famous gallery being on your wish list does not establish that it is open during your visit."
+            "The museum lists general adult admission at US$30, students at US$17 and free entry for children 12 and under. Pay-what-you-wish is available to New York State residents and eligible students in New York, New Jersey and Connecticut, with verification conditions. Online purchase is available, but advance tickets are not required."
           ],
           "sourceIds": [
             "city-edit-new-york-met-first-visit-two-galleries"
           ]
         },
         {
-          "h": "Build a two-room conversation",
+          "h": "A contrasting second anchor: a Greek terracotta krater",
           "p": [
-            "Choose one familiar interest and one unfamiliar area from the current map. Our suggested exercise is to select an object in each and explain why it held your attention before reading every label. Then use the interpretation to revise your first impression. If you are visiting together, give each person a turn choosing the next object. Avoid moving on solely because a room lacks a work you recognise; curiosity is a better guide than a list of famous names."
+            "For a contrasting subject, the collection record locates a large terracotta krater attributed to the Hirschfeld Workshop in Gallery 151. It identifies the main imagery as a funerary scene. Our suggested comparison is how a story is arranged on a curved vessel rather than on a building: notice what occupies the broadest surface and how the decoration guides your eye. These two anchors make a selective visit possible without claiming to represent all Egyptian or Greek art. Confirm both gallery locations on the day."
+          ],
+          "sourceIds": [
+            "oct31-met-krater"
+          ]
+        },
+        {
+          "h": "A concrete first anchor: the Temple of Dendur",
+          "p": [
+            "The museum’s collection record places the Temple of Dendur in Gallery 131. Its interpretation discusses plant imagery and scenes of offerings on the stone surfaces. Our suggested first task is to look for one small carved detail before stepping back to consider the whole building. This gives the visit two scales of looking: the object as architecture and the marks on its surface. Use the current museum map and access notices; a collection record does not guarantee that a room stays open through every operational change."
+          ],
+          "sourceIds": [
+            "oct31-met-dendur"
+          ]
+        },
+        {
+          "h": "Choose a day before choosing galleries",
+          "p": [
+            "The Met Fifth Avenue regularly closes on Wednesday. Its published hours are 10am–5pm on Sunday, Monday, Tuesday and Thursday, and 10am–9pm on Friday and Saturday, with additional holiday closures. The address is 1000 Fifth Avenue. A calendar check is more useful than assuming the museum opens every day."
+          ],
+          "sourceIds": [
+            "city-edit-new-york-met-first-visit-two-galleries"
+          ]
+        },
+        {
+          "h": "Our two-gallery planning exercise",
+          "p": [
+            "Write down one interest you already have and one you want to discover. At the current map, choose an available area for each. Spend your first block following the familiar subject, then take a break before starting the unfamiliar one. Use one object in each to ask what materials, purpose and context change your interpretation. These are suggested looking prompts, not an official museum tour."
           ],
           "sourceIds": []
         },
         {
-          "h": "Decide when to stop while you are still enjoying it",
+          "h": "Use same-day access thoughtfully",
           "p": [
-            "Plan a break before the group becomes too tired to choose one. Keep shopping optional and avoid using the final minutes for a hurried attempt to cover an entire department. If you want another cultural stop later, make it a separate decision after leaving the museum. Our preferred record of the visit is a note about two objects and one question you would return to explore—not a checklist proving you walked through every open room."
+            "The museum says tickets include exhibitions and same-day entry to both Met locations. That inclusion does not remove travel time or guarantee that every gallery is open. Our recommendation for a first visit is to resist adding a second location purely because it is included. Use the current map and closure list to select the rooms actually available."
+          ],
+          "sourceIds": [
+            "city-edit-new-york-met-first-visit-two-galleries"
+          ]
+        },
+        {
+          "h": "When to shorten the plan",
+          "p": [
+            "If your group stops reading labels or starts searching only for somewhere to sit, drop the second collection. Keep a note of what you want to revisit. A museum ticket gives access; it does not create a requirement to see as much as possible. This is especially useful for a mixed-interest group with different attention spans."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Our visit format",
-          "Two gallery priorities and a break"
+          "Location",
+          "The Met Fifth Avenue, 1000 Fifth Avenue"
         ],
         [
-          "Confirm first",
-          "Location, admission category and room closures"
+          "Regular closed day",
+          "Wednesday; additional holiday closures apply"
         ],
         [
-          "Current reference",
-          "The Met visitor page"
+          "Our visit structure",
+          "One main collection, a break, one optional contrast"
         ]
       ],
       "faq": [
         [
-          "Is pay-what-you-wish admission universal?",
-          "No. The museum publishes specific eligibility conditions."
+          "Can all visitors pay what they wish?",
+          "No. Eligibility is limited to specified residents and students, with verification rules on the museum’s admission page."
         ],
         [
-          "Are all galleries open?",
-          "No. Check the museum’s current closure list."
+          "Is The Met Fifth Avenue open on Wednesday?",
+          "Wednesday is its regular closed day."
+        ],
+        [
+          "Do I need to buy in advance?",
+          "The museum says advance tickets are not required, although online purchase is available."
         ]
       ],
       "relatedGuides": [
@@ -17827,11 +18238,44 @@
         [
           "Official planning reference",
           "https://www.metmuseum.org/plan-your-visit"
+        ],
+        [
+          "The Met — Temple of Dendur collection record",
+          "https://www.metmuseum.org/art/collection/search/547802"
+        ],
+        [
+          "The Met — Hirschfeld Workshop terracotta krater",
+          "https://www.metmuseum.org/art/collection/search/248904"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 4,
+      "planTable": {
+        "caption": "Keep the first visit selective",
+        "headers": [
+          "Situation",
+          "Our suggestion",
+          "Reason"
+        ],
+        "rows": [
+          [
+            "One strong interest",
+            "Start with that collection",
+            "Gives the visit a clear purpose"
+          ],
+          [
+            "Mixed interests",
+            "Choose one area per person",
+            "Makes the compromise explicit"
+          ],
+          [
+            "Limited energy",
+            "Keep the second collection optional",
+            "Allows a satisfying shorter visit"
+          ]
+        ]
+      }
     },
     {
       "id": "mexico-city-anthropology-museum-focused-visit",
@@ -18183,71 +18627,96 @@
       "city": "syd",
       "cat": "things",
       "kind": "guide",
-      "title": "Sydney Opera House: a tour, a show or the view?",
-      "seoTitle": "Sydney Opera House: a tour, a show or the view?",
-      "dek": "Choose what you want to experience before turning a harbour landmark into a ticket purchase.",
+      "title": "Sydney Opera House: choose a tour, a performance or an exterior visit",
+      "seoTitle": "Sydney Opera House: choose a tour, a performance or an exterior visit",
+      "dek": "Compare the experience you want, then save the correct tour meeting point or performance entrance.",
       "img": "syd-opera-house",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "syd-opera-house"
       ],
       "items": [],
       "src": [
-        "city-edit-sydney-opera-house-tour-or-show"
+        "city-edit-sydney-opera-house-tour-or-show",
+        "oct31-opera-tours",
+        "oct31-opera-arrival"
       ],
       "body": [
-        "You can want to see a building without wanting the same visit as everyone else. At Sydney Opera House, decide whether your interest is the architecture, the experience of a live performance or an exterior harbour look. Our edit separates those choices so a famous silhouette does not quietly become a purchase you did not mean to make. Choose one main experience and give it time; adding a second only helps when the schedules and your energy genuinely fit."
+        "Choose a Sydney Opera House visit by what you want to do. A tour explains the building, a performance is a live cultural event, and an exterior visit focuses on the setting and architecture from outside. They are different plans rather than increasing levels of the same admission. Our recommendation is to make one the main purpose before adding extras.",
+        "This distinction is useful for a group with different interests. Someone who wants to understand how the building works may prefer a guided visit, while a music or theatre enthusiast may value a specific performance more. Compare the actual event or tour rather than buying a generic “Opera House experience” because the landmark is famous."
       ],
       "sections": [
         {
-          "h": "Use the right part of the venue site",
+          "h": "Choose a tour for the building",
           "p": [
-            "The Opera House’s official visitor information separates tours, experiences, getting here, accessibility and performances. Follow the section that answers your purpose. A tour and a performance are different products, and a broad visit page cannot confirm access to a specific interior or an available seat. For a show, save the production, venue, date and start time together. For a tour, compare what is included and the arrival instructions."
+            "The official tours page lists the standard guided tour, an Architectural Tour, a Backstage Tour and a Mobility Access Tour. Language options are published for the standard tour, while other formats have their own arrangements. Read the page for the selected departure; a language listed across the programme is not proof of availability at every time."
+          ],
+          "sourceIds": [
+            "oct31-opera-tours"
+          ]
+        },
+        {
+          "h": "Save the right meeting point",
+          "p": [
+            "The operator identifies the Welcome Centre on the lower concourse for the standard tour, Tour & Dine and Architectural Tour. Backstage and Mobility Access tours depart from Stage Door. Those are different check-in destinations. Save the one on your confirmation and use the wayfinding information before setting off."
+          ],
+          "sourceIds": [
+            "oct31-opera-tours"
+          ]
+        },
+        {
+          "h": "Choose a performance for the work on stage",
+          "p": [
+            "Start with the actual title, date, venue and seat you want. Our buying checklist is: performance duration, any interval, age guidance, seat view and the arrival instructions on the confirmation. A tour booking should not be treated as a performance ticket, and a performance seat should not be treated as a promise of a guided building visit."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Choose an exterior visit for flexibility",
+          "p": [
+            "If your goal is the landmark’s shape and setting, an exterior-focused stop may fit without committing to a tour departure or show. Our suggestion is to keep it as a flexible part of the day, then decide separately whether a paid activity adds something you want. Public access can change for operations or events; use current precinct information rather than treating every outdoor area as permanently unrestricted."
           ],
           "sourceIds": [
             "city-edit-sydney-opera-house-tour-or-show"
           ]
         },
         {
-          "h": "Choose by curiosity rather than recognition",
+          "h": "Plan the finish as carefully as the start",
           "p": [
-            "Our suggestion is to ask what would make you remember the visit a month later. If it is understanding how a building works, a suitable tour may be the enquiry to make. If it is a shared evening, read the programme by format and audience needs instead of selecting only the most familiar title. If it is the harbour setting, an exterior plan may meet the purpose without another booking. None of these choices needs to be justified by completing all three."
-          ],
-          "sourceIds": []
-        },
-        {
-          "h": "Make arrival part of the evening",
-          "p": [
-            "Do not set a meal reservation against the exact show finish without checking duration and entry arrangements. Agree a meeting point outside the correct venue and leave room for companions to arrive separately. Check accessibility needs through the dedicated venue information rather than inferring them from the building’s fame. Our preferred ending is a comfortable return journey and one experience enjoyed properly, not a rushed photograph between two incompatible ticket times."
+            "For a show, arrange the meal around the published performance rather than fitting a rushed dinner between uncertain transport and curtain time. For a tour, protect the check-in window. For an exterior visit, keep an alternative in mind if weather makes a long outdoor pause unattractive. These are itinerary choices, not operator promises."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Choose first",
-          "Tour, performance or exterior visit"
+          "Building interest",
+          "Compare standard, architectural or backstage tours"
         ],
         [
-          "Official checks",
-          "Product, venue and arrival instructions"
+          "Access needs",
+          "Look at the Mobility Access Tour and its own meeting point"
         ],
         [
-          "Keep separate",
-          "Meals, show tickets and tours"
+          "Check-in",
+          "Save the meeting point for your exact product"
         ]
       ],
       "faq": [
         [
-          "Does a tour ticket include a show?",
-          "No such inclusion is assumed; read the exact product terms."
+          "Does a guided tour include a performance?",
+          "Treat them as separate bookings unless the product explicitly combines them."
         ],
         [
-          "Is an exterior look a valid visit?",
-          "Yes. Choose according to what you actually want from the landmark."
+          "Where do Opera House tours meet?",
+          "The official tours page uses the Welcome Centre for several tours and Stage Door for Backstage and Mobility Access tours. Follow your selected tour confirmation."
+        ],
+        [
+          "Is there a tour for limited mobility?",
+          "Yes. The operator lists a Mobility Access Tour; check its current schedule and arrangements before booking."
         ]
       ],
       "relatedGuides": [
@@ -18259,9 +18728,34 @@
           "https://www.sydneyoperahouse.com/visit"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Choose the experience before the ticket",
+        "headers": [
+          "Your goal",
+          "Investigate",
+          "Key detail"
+        ],
+        "rows": [
+          [
+            "Understand the building",
+            "Guided or Architectural Tour",
+            "Language and meeting point"
+          ],
+          [
+            "See a work on stage",
+            "The specific performance",
+            "Venue, seat and arrival instructions"
+          ],
+          [
+            "Keep the day flexible",
+            "Exterior-focused stop",
+            "Current precinct access and weather"
+          ]
+        ]
+      }
     },
     {
       "id": "sydney-royal-botanic-garden-harbour-pause",
@@ -18441,13 +18935,13 @@
       "city": "sel",
       "cat": "things",
       "kind": "guide",
-      "title": "Gyeongbokgung: plan the palace, not just the photograph",
-      "seoTitle": "Gyeongbokgung: plan the palace, not just the photograph",
-      "dek": "Choose a daytime visit, check the closure pattern and leave ceremonies as a separately confirmed extra.",
+      "title": "Gyeongbokgung Palace: seasonal hours and a daytime visit plan",
+      "seoTitle": "Gyeongbokgung Palace: seasonal hours and a daytime visit plan",
+      "dek": "Check the Tuesday exception, plan around winter closing and keep ceremonies separate from the palace visit.",
       "img": "sel-gyeongbokgung",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "sel-gyeongbokgung"
@@ -18457,55 +18951,76 @@
         "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
       ],
       "body": [
-        "A palace visit becomes easier when it has a purpose beyond reproducing a picture. Our Gyeongbokgung edit focuses on understanding the layout of a royal space: how you approach it, what the courtyards make you notice and how the buildings relate to each other. It is a daytime planning guide for a first visit to Seoul. A costume rental, ceremony or special evening opening can be a separate choice, but none is needed to make the palace itself worth your attention."
+        "Plan Gyeongbokgung as a daytime palace visit first, then add a ceremony only if its current programme fits. The most useful practical decisions are your date and arrival time: the closing hour changes by season, and a weekly closure can move around a public holiday. A palace plan built around an unchecked ceremony time is fragile.",
+        "Our suggestion is a two-hour daytime block for arrival, a selective walk and a pause. This is a flexible itinerary allowance rather than an official visit duration. Give the architecture and courtyards your attention instead of treating the grounds as a route between photographs. If costume hire is part of the day, keep that appointment separate from the time inside."
       ],
       "sections": [
         {
-          "h": "Check the day before the outfit",
+          "h": "Check the season and the Tuesday exception",
           "p": [
-            "VisitKorea identifies the palace at 161 Sajik-ro and describes its Tuesday closure, with a following-business-day exception when Tuesday is a public holiday. Use the current official visitor information to confirm your specific date, not simply the pattern remembered from another trip. Keep any special admission programme separate from ordinary daytime access. An announcement for one season’s evening visits does not establish a permanent night-opening schedule."
+            "VisitKorea lists November–February opening of 9am–5pm, with last admission at 4pm. March–May and September–October run to 6pm; June–August to 6.30pm, with last admission an hour before closing. Tuesday is the normal closed day; when it is a public holiday, closure shifts to the following business day."
           ],
           "sourceIds": [
             "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
           ]
         },
         {
-          "h": "Read the sequence of spaces",
+          "h": "Why an earlier winter arrival helps",
           "p": [
-            "Our suggested looking exercise is to notice how your pace changes between a gate, an open courtyard and a building frontage. Use the map and interpretation to ask what each space was for rather than treating every structure as another backdrop. Keep restricted areas and working visitor routes clear. If companions want photographs, agree a short pause and a reunion point, so one person’s image-making does not become everyone else’s entire palace experience."
+            "For a November visit, our preference is to put the palace before a long lunch rather than after it. The published earlier closing leaves less room for delays. Set your own target arrival well before last admission so that a queue, a wrong turn or a slower companion does not turn the palace into a rushed final hour."
           ],
           "sourceIds": []
         },
         {
-          "h": "Choose one extension, if any",
+          "h": "Keep a ceremony as an extra",
           "p": [
-            "Nearby museum references can suggest a fuller day, but they do not prove that every institution shares the palace’s ticket or closure calendar. Select one additional visit according to your interests and check it separately. If your energy is limited, finish with a meal instead. A palace morning with time to talk about what you saw can be more useful than several museums joined by increasingly hurried walks through the city."
+            "Palace access and a ceremony timetable answer different questions. Start with a plan you would still enjoy if no ceremony happens during your visit. Then check the official palace programme for an event that genuinely fits your date. Do not make an unsupported promise that a particular performance accompanies every ticket."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Three architectural interests to choose between",
+          "p": [
+            "VisitKorea identifies Geunjeongjeon Hall, Gyeonghoeru Pavilion and Hyangwonjeong Pavilion with its pond among the palace’s features. Our suggested comparison is the different relationship between a hall, a pavilion and water. Pick two rather than treating every building as mandatory. Observe from the permitted visitor route and use the palace’s own interpretation for their history. This is a selection of interests, not a promise of interior or pavilion access; particular areas can have their own arrangements."
+          ],
+          "sourceIds": [
+            "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
+          ]
+        },
+        {
+          "h": "Leave space for the rest of the day",
+          "p": [
+            "Decide after the palace whether to add another substantial cultural stop. If your group is cold, hungry or tired, a break can be the better continuation. Write down a return or meeting point before separating, particularly when people are making different clothing-hire or photography plans."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Primary visit",
-          "Daytime palace grounds"
+          "Winter schedule",
+          "November–February 9am–5pm; last admission 4pm"
         ],
         [
-          "Date check",
-          "Tuesday closure and holiday exceptions"
+          "Closed day",
+          "Usually Tuesday, with a public-holiday exception"
         ],
         [
-          "Optional extras",
-          "Ceremonies, rentals and museums need separate checks"
+          "Our suggested allowance",
+          "Two hours, adjusted to weather and interest"
         ]
       ],
       "faq": [
         [
-          "Is Tuesday always an ordinary opening day?",
-          "No. VisitKorea lists Tuesday closure with a holiday exception."
+          "Is Gyeongbokgung closed every Tuesday without exception?",
+          "Tuesday is the normal closure, but VisitKorea says a public holiday moves the closure to the following business day."
         ],
         [
-          "Is a ceremony guaranteed with admission?",
-          "No. Check its actual programme separately."
+          "What changes in November?",
+          "The published winter schedule ends at 5pm, with last admission at 4pm."
+        ],
+        [
+          "How long should I set aside?",
+          "Our suggested daytime block is two hours. It is a planning allowance, not an official required duration."
         ]
       ],
       "relatedGuides": [
@@ -18517,9 +19032,34 @@
           "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87740"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Build the day around the date",
+        "headers": [
+          "Situation",
+          "Our priority",
+          "Keep separate"
+        ],
+        "rows": [
+          [
+            "Winter visit",
+            "Arrive with daylight and time to spare",
+            "A long meal before entry"
+          ],
+          [
+            "Ceremony interest",
+            "Verify the current programme",
+            "General palace admission"
+          ],
+          [
+            "Clothing hire",
+            "Allow fitting and return time",
+            "The time available inside"
+          ]
+        ]
+      }
     },
     {
       "id": "seoul-gwangjang-market-food-shopping-choice",
@@ -18957,71 +19497,102 @@
       "city": "bcn",
       "cat": "things",
       "kind": "guide",
-      "title": "Park Güell: plan around the place, not one camera angle",
-      "seoTitle": "Park Güell: plan around the place, not one camera angle",
-      "dek": "A Barcelona visit with the ticket choice, arrival and looking time given equal attention.",
+      "title": "Park Güell: timed entry, arrival planning and re-entry rules",
+      "seoTitle": "Park Güell: timed entry, arrival planning and re-entry rules",
+      "dek": "Choose the entrance before travelling, understand the entry window and finish your outdoor plan before leaving.",
       "img": "bcn-park-guell-photo",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "bcn-park-guell"
       ],
       "items": [],
       "src": [
-        "city-edit-barcelona-park-guell-timed-visit-plan"
+        "city-edit-barcelona-park-guell-timed-visit-plan",
+        "oct31-guell-stairway"
       ],
       "body": [
-        "A recognisable viewpoint can make a whole park feel like a queue for one photograph. Our Park Güell edit asks you to decide what else you want from the visit: architectural detail, a relationship between buildings and landscape or time looking across the city. Choose that purpose before arranging the ticket. The result is a more flexible visit, because the day does not depend on reaching a particular spot in perfect light or finding it empty."
+        "A useful Park Güell visit begins with the arrival route, not the first viewpoint you want to photograph. Buy for the date and time you can realistically reach, identify the appropriate entrance, and leave your next appointment loose enough to enjoy the visit. Our recommendation is to make this one substantial outing rather than a short gap between other timed attractions.",
+        "The entry window is a safety margin, not a reason to plan a late arrival. A missed turn or a slower approach can use that margin quickly. Keep the confirmation available before reaching the access point and agree a meeting place if members of your group arrive separately. Choose a plan that works for the slowest comfortable pace."
       ],
       "sections": [
         {
-          "h": "Begin with the official access rules",
+          "h": "Understand the entry and re-entry conditions",
           "p": [
-            "Park Güell publishes access regulations and ticket information through its official website. Read the current conditions for the product you choose, including any dated or timed arrangements. Do not treat a third-party photograph, a transport ticket or a citywide suggestion as proof of entry. Save the booking confirmation and compare the arrival point with your actual route, particularly if someone in the group needs a specific access arrangement."
+            "The official terms allow admission during the 30 minutes after the reserved time. Once a ticket has been validated, leaving and re-entering is not permitted. Keep the ticket during the visit. The operator warns that immediate availability is not guaranteed for visitors arriving without a ticket. These rules make it worth settling food, meeting and onward-travel decisions before entering."
           ],
           "sourceIds": [
             "city-edit-barcelona-park-guell-timed-visit-plan"
           ]
         },
         {
-          "h": "Look at a detail before the panorama",
+          "h": "Beyond the photograph: read the Dragon Stairway",
           "p": [
-            "Our suggested exercise is to start small: a join between materials, a curve, a column or the way a path changes your view. Then look outward and consider how that detail sits within the landscape. Follow the visitor routes and give other people space to pass. If a popular photo area is busy, spend time on the feature that interests you rather than allowing a crowd to dictate the entire pace of your visit."
+            "The park’s interpretation describes the mosaic-covered salamander on the Dragon Stairway and a water feature formerly supplied from a tank beneath the Hypostyle Room. Our suggested looking exercise is to follow that relationship between decoration, steps and water instead of stopping only for the familiar close-up. Notice how a feature works within the larger approach. Follow the permitted route and keep circulation clear; this is an interpretive suggestion, not an accessible-route guarantee or a promise of an uncrowded staircase."
+          ],
+          "sourceIds": [
+            "oct31-guell-stairway"
+          ]
+        },
+        {
+          "h": "Choose an entrance, then plan transport",
+          "p": [
+            "The park advises advance-ticket holders to check which entrance is closest to their intended arrival. Use its current visitor information rather than navigating only to the park’s broad map label. Our practical rule is to save both the chosen entrance and the ticket, then add a travel buffer before the reserved slot."
+          ],
+          "sourceIds": [
+            "city-edit-barcelona-park-guell-timed-visit-plan"
+          ]
+        },
+        {
+          "h": "Our suggested visit structure",
+          "p": [
+            "Start with orientation at the entrance, choose the parts you most want to see, then leave room for an unhurried final look before exiting. Treat a viewpoint as part of the visit rather than a guaranteed empty photograph. If you are travelling with someone who needs a gentler route, agree the essential areas first and remove optional detours."
           ],
           "sourceIds": []
         },
         {
-          "h": "Keep the rest of Barcelona realistic",
+          "h": "Keep other Gaudí visits separate",
           "p": [
-            "A timed attraction can make the surrounding day tighter than it appears on a map. Leave enough time for the journey to the entrance and keep the next appointment flexible. If you want another Gaudí-related visit, check its location and admission as a separate experience instead of treating the architect’s name as a combined ticket. Our edit is complete when you have looked properly and left comfortably, not when every landmark in a theme has been fitted into one afternoon."
+            "If another Gaudí attraction is on your list, compare its own ticket and travel time independently. Two famous names do not necessarily make a relaxed half-day pairing. Our preference is one main timed attraction and an optional later activity. A shorter day with time to stop can be more enjoyable than a sequence of reservations that leaves no room for delays."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "When plans change",
+          "p": [
+            "Read the current change and cancellation conditions before payment rather than assuming that a timed ticket is freely movable. If a route, weather or mobility concern makes the booked slot unrealistic, resolve it with the operator using the actual booking details. A third-party itinerary cannot override the ticket’s conditions."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Choose a purpose",
-          "Architecture, landscape or city perspective"
+          "Entry window",
+          "Up to 30 minutes after the reserved time under the published terms"
         ],
         [
-          "Before travelling",
-          "Official ticket and access conditions"
+          "Re-entry",
+          "Not permitted after ticket validation and exit"
         ],
         [
-          "Our looking idea",
-          "Detail first, panorama second"
+          "Arrival task",
+          "Save the entrance closest to your approach"
         ]
       ],
       "faq": [
         [
-          "Does this article guarantee a quiet viewpoint?",
-          "No. Visitor numbers and conditions vary."
+          "How late can I enter Park Güell?",
+          "The official terms allow entry for 30 minutes after the reserved time. Aim to arrive for your slot rather than relying on the margin."
         ],
         [
-          "Is another Gaudí attraction included automatically?",
-          "No. Read each product’s exact inclusions."
+          "Can I leave and come back using the same ticket?",
+          "No. The published rules do not permit re-entry after validation and exit."
+        ],
+        [
+          "Can I buy a ticket when I arrive?",
+          "The operator warns that immediate availability is not guaranteed. Advance booking is the more dependable way to plan a timed visit."
         ]
       ],
       "relatedGuides": [
@@ -19031,11 +19602,40 @@
         [
           "Official planning reference",
           "https://parkguell.barcelona/en/planning-your-visit/access-regulations"
+        ],
+        [
+          "Park Güell — Dragon Stairway",
+          "https://parkguell.barcelona/en/park-guell/emblematic-features/dragon-stairway"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Protect the visit from avoidable timing problems",
+        "headers": [
+          "Before travel",
+          "Our action",
+          "Why"
+        ],
+        "rows": [
+          [
+            "Choose arrival",
+            "Save the relevant entrance",
+            "The whole-park map label is imprecise"
+          ],
+          [
+            "Plan breaks",
+            "Settle essentials before entry",
+            "Re-entry is not permitted"
+          ],
+          [
+            "Add another attraction",
+            "Check its separate timing",
+            "Avoid a chain of tight reservations"
+          ]
+        ]
+      }
     },
     {
       "id": "rome-colosseum-ticket-product-explained",
@@ -19043,13 +19643,13 @@
       "city": "rom",
       "cat": "things",
       "kind": "guide",
-      "title": "The Colosseum: choose the visit before choosing the ticket",
-      "seoTitle": "The Colosseum: choose the visit before choosing the ticket",
-      "dek": "Separate the monument, restricted areas and the wider archaeological park before paying.",
+      "title": "Colosseum tickets: standard access, arena choices and a Forum plan",
+      "seoTitle": "Colosseum tickets: standard access, arena choices and a Forum plan",
+      "dek": "Read the named access areas before booking, and plan the Forum as a visit rather than an extra line on a ticket.",
       "img": "rom-colosseum-photo",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-10-31",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "rom-colosseum"
@@ -19059,55 +19659,74 @@
         "city-edit-rome-colosseum-ticket-product-explained"
       ],
       "body": [
-        "A famous monument can produce a surprisingly complicated ticket decision. Our Colosseum edit starts with the part you actually want to understand: the building itself, a particular access area or a wider archaeological outing. Write that down before comparing products. This is a practical first-visit guide for Rome, not a claim that one pass is best for everyone. A clear choice protects your attention as well as your budget, because you know what the visit is meant to include."
+        "For the Colosseum, the important question is which areas your chosen ticket includes. Do not start with a reseller’s “complete” or “skip-the-line” label. Start with the operator’s product description, then compare the reserved time and named access areas. Our recommendation is to buy for a specific experience you want, not for the longest list of monuments.",
+        "The Roman Forum and Palatine also need attention and time. A ticket that includes them can be useful, but inclusion alone does not make it sensible to rush all the areas between other appointments. Keep a separate block for the archaeological landscape and decide where to take a break before the visit begins."
       ],
       "sections": [
         {
-          "h": "Read the park operator’s product description",
+          "h": "What the standard 24-hour product says",
           "p": [
-            "The archaeological park’s official opening-and-ticket page is the reference for available admission products and their conditions. Compare the exact named areas, validity and arrival arrangements rather than buying on the strength of the word Colosseum alone. If the arena, underground or another restricted area is essential, confirm that your product explicitly includes it. A photo showing an area is not an inclusion statement, and a larger bundle is not automatically better value for your day."
+            "The official Colosseum, Roman Forum and Palatine product is valid for 24 hours and includes one Colosseum access to the first and second levels, without arena access, plus one access to the Forum–Palatine archaeological areas. The operator also lists other products. Use the named inclusions on the product you are actually buying rather than transferring these terms to every ticket."
           ],
           "sourceIds": [
             "city-edit-rome-colosseum-ticket-product-explained"
           ]
         },
         {
-          "h": "Give the building a question",
+          "h": "Arena and underground are separate decisions",
           "p": [
-            "Our suggestion is to think about movement: where people arrived, how crowds were organised and what the scale of the structure suggests about its use. Follow the interpretation and permitted visitor route instead of trying to reconstruct an ancient event from imagination alone. Choose one feature you want to remember and read its context. With companions, agree where to pause so nobody feels obliged to spend the entire visit following another person’s camera."
+            "If arena or underground access is the main reason for your trip, filter the official options for that named area before comparing the price. Do not infer access from a photograph, a general monument list or a premium-sounding title. If the description does not resolve it, ask the seller before paying and keep the written answer."
           ],
           "sourceIds": []
         },
         {
-          "h": "Treat the wider park as real time",
+          "h": "Our booking comparison",
           "p": [
-            "If your ticket includes other areas, plan their visits with the same care as the monument entry. Do not schedule a meal at the earliest theoretical finish and assume every route, queue and transfer will fit. Carry the identification and booking information required by the current terms, and check rules before arriving with luggage. Our preferred plan is an admission you understand, one main historical question and enough room to enjoy what you paid to see."
+            "Write three lines for each offer: areas included, timed appointments and other services. Then compare like with like. A guided tour can be worth considering if interpretation matters to you; an admission-only product may fit if you prefer your own pace. Neither is automatically the better choice, and a guide service should not be confused with wider access."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Give the Forum its own place in the day",
+          "p": [
+            "Our suggested itinerary makes the Colosseum the fixed appointment, then uses an unhurried separate block for the Forum and Palatine within the purchased ticket’s conditions. Allow a break rather than scheduling a meal at the exact moment you expect to exit. Choose fewer areas if your group’s interest or energy is limited."
+          ],
+          "sourceIds": []
+        },
+        {
+          "h": "Before confirming",
+          "p": [
+            "Match traveller details and your intended date to the selected product. Save the official confirmation and its instructions for identification, entry and arrival. Keep any accessibility or support needs as a booking question rather than assuming every access area has the same route. This guide explains how to compare; it does not promise availability in restricted areas."
           ],
           "sourceIds": []
         }
       ],
       "quickPlan": [
         [
-          "Compare by",
-          "Exact areas and admission conditions"
+          "Start here",
+          "Named areas on the official ticket description"
         ],
         [
-          "Essential check",
-          "Any restricted-area inclusion"
+          "Standard 24-hour product",
+          "Does not include the arena"
         ],
         [
-          "Our focus",
-          "How the building organised movement"
+          "Our itinerary choice",
+          "Fixed Colosseum appointment plus separate Forum time"
         ]
       ],
       "faq": [
         [
-          "Does every ticket include the underground?",
-          "Do not assume so. Check the named access areas in the product."
+          "Does the standard 24-hour Colosseum ticket include the arena?",
+          "The operator’s standard Colosseum, Roman Forum and Palatine description excludes the arena. Other products have different terms."
         ],
         [
-          "Does a bundle remove the need to plan the Forum separately?",
-          "No. Included places still need time and their own current access checks."
+          "Does every ticket include the underground?",
+          "No. Choose a product that explicitly names underground access if that is your priority."
+        ],
+        [
+          "Should I visit the Forum just because it is included?",
+          "Include it when you can give it time and attention; our suggestion is to plan it as a separate block within the ticket’s rules."
         ]
       ],
       "relatedGuides": [
@@ -19119,9 +19738,34 @@
           "https://colosseo.it/en/opening-times-and-tickets/"
         ]
       ],
-      "researchNote": "Research reference checked 26 October 2026. This is an independently written planning guide, not a firsthand review. Suggested sequences, exercises and time allowances are editorial ideas; confirm live availability and operating details with the venue.",
+      "researchNote": "Desk research checked 31 October 2026 against the linked primary references. Admission and access facts are separate from our suggested timings and comparisons. This is not a firsthand review; photographs are credited archive images.",
       "tips": [],
-      "mins": 2
+      "mins": 3,
+      "planTable": {
+        "caption": "Compare access and service separately",
+        "headers": [
+          "Question",
+          "What to read",
+          "Avoid assuming"
+        ],
+        "rows": [
+          [
+            "Which monument areas?",
+            "The product inclusion list",
+            "Every ticket includes arena or underground"
+          ],
+          [
+            "Which appointments?",
+            "The reservation and entry conditions",
+            "One time applies to every included place"
+          ],
+          [
+            "Which interpretation?",
+            "The guide or audio-service description",
+            "A guide automatically adds restricted access"
+          ]
+        ]
+      }
     },
     {
       "id": "ubud-monkey-forest-first-visit-rules",
@@ -20415,10 +21059,13 @@
       "name": "Singapore Botanic Gardens",
       "area": "Tanglin",
       "price": "Free. The National Orchid Garden is ticketed",
-      "url": "https://www.nparks.gov.sg/sbg",
+      "url": "https://sbg.nparks.gov.sg/",
       "blurb": "Choose one garden interest and a manageable area rather than trying to cover every collection. Use current visitor information for paths and separately charged activities.",
       "img": "sin-botanic",
-      "verify": true
+      "verify": true,
+      "src": [
+        "oct31-sbg-visitor"
+      ]
     },
     {
       "id": "sin-national-gallery",
@@ -20595,13 +21242,23 @@
       "kind": "see",
       "name": "Gyeongbokgung Palace",
       "area": "Jongno",
-      "hours": "Closed Tuesdays",
+      "hours": "Usually closed Tuesdays; public-holiday exception applies. November–February 9am–5pm, last admission 4pm",
       "blurb": "Plan a palace visit from current admission and programme information. Ask about any clothing-related concession instead of assuming a particular outfit always grants entry.",
       "img": "sel-gyeongbokgung",
       "src": [
-        "gyeongbokgung-seoul"
+        "gyeongbokgung-seoul",
+        "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
       ],
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-10-31",
+        "sourceIds": [
+          "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
+        ],
+        "fields": [
+          "hours"
+        ]
+      }
     },
     {
       "id": "sel-gwangjang",

@@ -1,0 +1,913 @@
+{
+  "date": "2026-10-31",
+  "scope": "10 substantive guide rewrites and 2 shortlist-method updates after AdSense low-value-content feedback",
+  "notAClaim": "This records changes, not Google approval, a plagiarism clearance or sitewide publisher sign-off.",
+  "guides": [
+    {
+      "slug": "bangkok-jim-thompson-house-guided-visit",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-bangkok-jim-thompson-house-guided-visit",
+        "oct31-jim-visitor"
+      ]
+    },
+    {
+      "slug": "bangkok-museum-siam-interactive-history-visit",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-bangkok-museum-siam-interactive-history-visit",
+        "oct31-siam-exhibition"
+      ]
+    },
+    {
+      "slug": "singapore-botanic-gardens-first-walk",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-singapore-botanic-gardens-first-walk",
+        "oct31-sbg-visitor",
+        "oct31-orchid"
+      ]
+    },
+    {
+      "slug": "singapore-gardens-by-the-bay-choose-attraction",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-singapore-gardens-by-the-bay-choose-attraction",
+        "oct31-gbtb-arrival",
+        "oct31-gbtb-hours"
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-petronas-towers-ticket-choice",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-kuala-lumpur-petronas-towers-ticket-choice"
+      ]
+    },
+    {
+      "slug": "new-york-met-first-visit-two-galleries",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-new-york-met-first-visit-two-galleries",
+        "oct31-met-dendur",
+        "oct31-met-krater"
+      ]
+    },
+    {
+      "slug": "seoul-gyeongbokgung-daytime-palace-plan",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
+      ]
+    },
+    {
+      "slug": "sydney-opera-house-tour-or-show",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-sydney-opera-house-tour-or-show",
+        "oct31-opera-tours",
+        "oct31-opera-arrival"
+      ]
+    },
+    {
+      "slug": "rome-colosseum-ticket-product-explained",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-rome-colosseum-ticket-product-explained"
+      ]
+    },
+    {
+      "slug": "barcelona-park-guell-timed-visit-plan",
+      "scope": "Substantive reader-task rewrite, practical comparison table and intent-specific FAQs",
+      "sources": [
+        "city-edit-barcelona-park-guell-timed-visit-plan",
+        "oct31-guell-stairway"
+      ]
+    },
+    {
+      "slug": "best-bangkok-restaurants-pad-thai-crab-omelette",
+      "scope": "Clear selection method and limits; practical comparison table; no new operational claims",
+      "sources": [
+        "best-thipsamai",
+        "best-jayfai"
+      ]
+    },
+    {
+      "slug": "best-bangkok-riverside-hotels-two-stays",
+      "scope": "Clear selection method and limits; practical comparison table; no new operational claims",
+      "sources": [
+        "best-mandarin",
+        "best-peninsula"
+      ]
+    }
+  ],
+  "sourceLimitations": [
+    "PETRONAS admission page timed out on direct retrieval; official indexed admission text was inspected. No price quote or universal Monday closure is published in the rewrite.",
+    "No firsthand visit, tasting or hotel inspection was added. Existing licensed archive photos retained."
+  ],
+  "remaining": [
+    "The other 121 guides have not received this substantive rewrite.",
+    "Publisher factual and image-rights sign-off remains incomplete.",
+    "No Request Review submitted."
+  ],
+  "inventory": [
+    {
+      "slug": "bangkok-night-markets",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-temples",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-street-food",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-rooftops",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-chatuchak",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-loy-krathong",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-biennale",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-gigs",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 7
+    },
+    {
+      "slug": "bangkok-talatnoi",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-daytrips",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-hotels",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 5
+    },
+    {
+      "slug": "chiang-mai-yi-peng",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-markets",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "chiang-mai-khaosoi",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-oldcity",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-vegetarian",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-big-buddha",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "phuket-beaches",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 6
+    },
+    {
+      "slug": "phuket-oldtown",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "yangon-thadingyut",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "yangon-shwedagon",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "yangon-circular",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 5
+    },
+    {
+      "slug": "yangon-teashops",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "yangon-walk",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-deepavali",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-hawker",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "tokyo-listening",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "tokyo-tsukiji",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "seoul-euljiro",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kuala-lumpur-breakfast",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "ho-chi-minh-city-coffee",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "london-lord-mayor",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "london-free",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "lisbon-views",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "new-york-autumn",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "new-york-slices",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "mexico-city-markets",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "buenos-aires-cafes",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "sydney-sculpture",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "sydney-pools",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "cape-town-hikes",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "world-festivals",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 5
+    },
+    {
+      "slug": "world-neighbourhoods",
+      "kind": "list",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 5
+    },
+    {
+      "slug": "world-trains",
+      "kind": "feature",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "hanoi-old-quarter",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "siem-reap-angkor",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "taipei-dadaocheng",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "hong-kong-harbour",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "paris-seine-islands",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "istanbul-neighbourhoods-ferry",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "hanoi-culture-choices",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "siem-reap-craft-afternoon",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "taipei-beitou-museum",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "hong-kong-tram-first-ride",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "paris-carnavalet-budget",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "tokyo-solo-asakusa",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "taipei-slow-weekend",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 5
+    },
+    {
+      "slug": "mexico-city-food-outing",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "barcelona-first-visit-neighbourhoods",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "rome-pantheon-colosseum-planning",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "amsterdam-museum-canals-ferry",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "berlin-history-museum-park",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "dubai-creek-al-fahidi-outing",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-three-day-first-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "chiang-mai-doi-suthep-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "chiang-mai-two-day-itinerary",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 5
+    },
+    {
+      "slug": "phuket-airport-to-beach-transfer",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "kyoto-first-visit-two-area-plan",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "marrakech-medina-first-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-restaurants-best-for-first-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-shops-services-best-for-town-and-transfers",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-design-week-2026-dates",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 6
+    },
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-tailors-best-for-your-trip",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-dental-clinics-for-visitors",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "bangkok-spas-best-for-your-trip",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "chiang-mai-airport-to-old-town-transfer",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-national-museum-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "phuket-thai-hua-museum-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "kuala-lumpur-klia-airport-to-city",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "hong-kong-airport-express-city-transfer",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-rainy-day-museums-bacc-museum-siam",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-bacc-art-music-october-november-2026",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 4
+    },
+    {
+      "slug": "bangkok-theatre-festival-2026-visitor-guide",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-national-gallery-november-2026-exhibition",
+      "kind": "news",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "tokyo-meiji-jingu-first-visit-guide",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 3
+    },
+    {
+      "slug": "london-borough-market-lunch-guide",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 2
+    },
+    {
+      "slug": "best-bangkok-restaurants-pad-thai-crab-omelette",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 2
+    },
+    {
+      "slug": "best-bangkok-riverside-hotels-two-stays",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-jim-thompson-house-guided-visit",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-museum-siam-interactive-history-visit",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-iconsiam-shopping-food-river-plan",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "phuket-one-chun-shared-meal-guide",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "singapore-botanic-gardens-first-walk",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 3
+    },
+    {
+      "slug": "singapore-gardens-by-the-bay-choose-attraction",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 3
+    },
+    {
+      "slug": "kuala-lumpur-petronas-towers-ticket-choice",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kuala-lumpur-jalan-alor-dinner-plan",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "lisbon-pasteis-de-belem-bakery-stop",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "lisbon-lx-factory-market-browsing",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "new-york-high-line-design-walk",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "new-york-met-first-visit-two-galleries",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 1
+    },
+    {
+      "slug": "mexico-city-anthropology-museum-focused-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "mexico-city-bellas-artes-museum-or-performance",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "buenos-aires-el-ateneo-bookshop-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "buenos-aires-cafe-tortoni-coffee-break",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "sydney-opera-house-tour-or-show",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 3
+    },
+    {
+      "slug": "sydney-royal-botanic-garden-harbour-pause",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "cape-town-kirstenbosch-garden-day",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "seoul-gyeongbokgung-daytime-palace-plan",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 1
+    },
+    {
+      "slug": "seoul-gwangjang-market-food-shopping-choice",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "ho-chi-minh-war-remnants-museum-thoughtful-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "ho-chi-minh-central-post-office-short-stop",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "amsterdam-ndsm-art-afternoon-guide",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "berlin-museum-island-pick-one-museum",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "barcelona-park-guell-timed-visit-plan",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 1
+    },
+    {
+      "slug": "rome-colosseum-ticket-product-explained",
+      "kind": "guide",
+      "action": "updated-in-this-pass",
+      "sourceCount": 1
+    },
+    {
+      "slug": "ubud-monkey-forest-first-visit-rules",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "istanbul-spice-bazaar-shopping-checklist",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    },
+    {
+      "slug": "cape-town-bo-kaap-respectful-neighbourhood-visit",
+      "kind": "guide",
+      "action": "manual-reader-task-review-pending",
+      "sourceCount": 1
+    }
+  ]
+}

@@ -1,5 +1,18 @@
 [
   {
+    "id": "gyeongbokgung-tuesday-exception-2026-10-31",
+    "date": "2026-10-31",
+    "title": "Gyeongbokgung: clarify the Tuesday public-holiday exception",
+    "guide": "seoul-gyeongbokgung-daytime-palace-plan",
+    "text": [
+      "The shared place card previously said only “Closed Tuesdays”. It now explains that a Tuesday public holiday shifts closure to the following business day, as published by VisitKorea.",
+      "The guide also distinguishes the November–February closing time and last admission from the longer seasonal schedules."
+    ],
+    "sources": [
+      "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
+    ]
+  },
+  {
     "id": "bacc-current-visitor-hours-2026",
     "date": "2026-10-24",
     "title": "BACC: correct the published closing time and admission scope",
