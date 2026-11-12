@@ -1,0 +1,1087 @@
+{
+  "date": "2026-11-12",
+  "scope": "Inventory-based editorial cleanup, not a guarantee of AdSense approval or plagiarism clearance",
+  "before": 133,
+  "after": 124,
+  "changes": [
+    {
+      "slug": "lisbon-pasteis-de-belem-bakery-stop",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "lisbon-lx-factory-market-browsing",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "kuala-lumpur-jalan-alor-dinner-plan",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "seoul-gwangjang-market-food-shopping-choice",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "sydney-royal-botanic-garden-harbour-pause",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "cape-town-kirstenbosch-garden-day",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "cape-town-bo-kaap-respectful-neighbourhood-visit",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "mexico-city-anthropology-museum-focused-visit",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "mexico-city-bellas-artes-museum-or-performance",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "ho-chi-minh-war-remnants-museum-thoughtful-visit",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "ho-chi-minh-central-post-office-short-stop",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "new-york-high-line-design-walk",
+      "action": "improve-specific-reader-task"
+    },
+    {
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "bangkok-iconsiam-shopping-food-river-plan",
+      "action": "consolidated",
+      "destination": "bangkok-shops-services-best-for-city-visit"
+    },
+    {
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "phuket-one-chun-shared-meal-guide",
+      "action": "consolidated",
+      "destination": "phuket-restaurants-best-for-old-town-meals"
+    },
+    {
+      "slug": "buenos-aires-cafes",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "buenos-aires-el-ateneo-bookshop-visit",
+      "action": "consolidated",
+      "destination": "buenos-aires-cafes"
+    },
+    {
+      "slug": "buenos-aires-cafes",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "buenos-aires-cafe-tortoni-coffee-break",
+      "action": "consolidated",
+      "destination": "buenos-aires-cafes"
+    },
+    {
+      "slug": "amsterdam-museum-canals-ferry",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "amsterdam-ndsm-art-afternoon-guide",
+      "action": "consolidated",
+      "destination": "amsterdam-museum-canals-ferry"
+    },
+    {
+      "slug": "berlin-history-museum-park",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "berlin-museum-island-pick-one-museum",
+      "action": "consolidated",
+      "destination": "berlin-history-museum-park"
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "ubud-monkey-forest-first-visit-rules",
+      "action": "consolidated",
+      "destination": "ubud-town-forest-ridge-planning"
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "istanbul-spice-bazaar-shopping-checklist",
+      "action": "consolidated",
+      "destination": "istanbul-bazaar-shopping"
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "action": "consolidate-overlapping-guide"
+    },
+    {
+      "slug": "phuket-big-buddha",
+      "action": "consolidated",
+      "destination": "phuket-three-day-itinerary"
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "action": "replace-disclaimer-faq"
+    },
+    {
+      "slug": "bangkok-spas-best-for-your-trip",
+      "action": "replace-disclaimer-faq"
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "action": "replace-disclaimer-faq"
+    },
+    {
+      "slug": "phuket-vegetarian",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "yangon-thadingyut",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "singapore-deepavali",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "new-york-autumn",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "sydney-sculpture",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "bangkok-biennale",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "london-lord-mayor",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "chiang-mai-design-week-2026-dates",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "bangkok-bacc-art-music-october-november-2026",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "bangkok-theatre-festival-2026-visitor-guide",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "singapore-national-gallery-november-2026-exhibition",
+      "action": "date-bounded-news-and-archive-context"
+    },
+    {
+      "slug": "bangkok-loy-krathong",
+      "action": "classify-cultural-background-not-confirmed-event-news"
+    },
+    {
+      "slug": "chiang-mai-yi-peng",
+      "action": "classify-cultural-background-not-confirmed-event-news"
+    },
+    {
+      "slug": "world-festivals",
+      "action": "classify-cultural-background-not-confirmed-event-news"
+    },
+    {
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "action": "dated-announcement-not-live-flight-availability"
+    },
+    {
+      "slug": "bangkok-rainy-day-museums-bacc-museum-siam",
+      "action": "correct-stale-programme-context"
+    },
+    {
+      "slug": "bangkok-gigs",
+      "action": "correct-stale-programme-context"
+    },
+    {
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "action": "correct-stale-programme-context"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "nov12-pasteis-contact",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-lxmarket",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-jalan-guide",
+      "method": "official-indexed-text"
+    },
+    {
+      "id": "nov12-bukit-food",
+      "method": "official-indexed-text"
+    },
+    {
+      "id": "nov12-seoul-market-guide",
+      "method": "official-indexed-text"
+    },
+    {
+      "id": "nov12-sydney-garden",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-sydney-pond",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-kirstenbosch-info",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-kirstenbosch-canopy",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-bokaap",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-mna-map",
+      "method": "official-indexed-text"
+    },
+    {
+      "id": "nov12-mna-info",
+      "method": "official-indexed-text"
+    },
+    {
+      "id": "nov12-bellas-booklet",
+      "method": "official-indexed-text"
+    },
+    {
+      "id": "nov12-hcmc-context",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-highline-map",
+      "method": "official-indexed-text"
+    },
+    {
+      "id": "nov12-bab-venues",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-kyoto-calendar",
+      "method": "primary-page-read"
+    },
+    {
+      "id": "nov12-ngs-exhibition",
+      "method": "primary-page-read"
+    }
+  ],
+  "redirects": {
+    "bangkok-iconsiam-shopping-food-river-plan": "bangkok-shops-services-best-for-city-visit",
+    "phuket-one-chun-shared-meal-guide": "phuket-restaurants-best-for-old-town-meals",
+    "buenos-aires-el-ateneo-bookshop-visit": "buenos-aires-cafes",
+    "buenos-aires-cafe-tortoni-coffee-break": "buenos-aires-cafes",
+    "amsterdam-ndsm-art-afternoon-guide": "amsterdam-museum-canals-ferry",
+    "berlin-museum-island-pick-one-museum": "berlin-history-museum-park",
+    "ubud-monkey-forest-first-visit-rules": "ubud-town-forest-ridge-planning",
+    "istanbul-spice-bazaar-shopping-checklist": "istanbul-bazaar-shopping",
+    "phuket-big-buddha": "phuket-three-day-itinerary"
+  },
+  "inventory": [
+    {
+      "slug": "bangkok-night-markets",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-temples",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-street-food",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-rooftops",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-chatuchak",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-loy-krathong",
+      "action": "classify-cultural-background-not-confirmed-event-news",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-biennale",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 4
+    },
+    {
+      "slug": "bangkok-gigs",
+      "action": "correct-stale-programme-context",
+      "basis": "targeted edit",
+      "sourceCount": 7
+    },
+    {
+      "slug": "bangkok-talatnoi",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-daytrips",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-hotels",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 5
+    },
+    {
+      "slug": "chiang-mai-yi-peng",
+      "action": "classify-cultural-background-not-confirmed-event-news",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-markets",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "chiang-mai-khaosoi",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-oldcity",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-vegetarian",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-beaches",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 6
+    },
+    {
+      "slug": "phuket-oldtown",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "yangon-thadingyut",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "yangon-shwedagon",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 4
+    },
+    {
+      "slug": "yangon-circular",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 5
+    },
+    {
+      "slug": "yangon-teashops",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "yangon-walk",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-deepavali",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-hawker",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "tokyo-listening",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "tokyo-tsukiji",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 4
+    },
+    {
+      "slug": "seoul-euljiro",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kuala-lumpur-breakfast",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "ho-chi-minh-city-coffee",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "london-lord-mayor",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "london-free",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "lisbon-views",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "new-york-autumn",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "new-york-slices",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "mexico-city-markets",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "buenos-aires-cafes",
+      "action": "consolidate-overlapping-guide",
+      "basis": "targeted edit",
+      "sourceCount": 4
+    },
+    {
+      "slug": "sydney-sculpture",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "sydney-pools",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "cape-town-hikes",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "world-festivals",
+      "action": "classify-cultural-background-not-confirmed-event-news",
+      "basis": "targeted edit",
+      "sourceCount": 5
+    },
+    {
+      "slug": "world-neighbourhoods",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 5
+    },
+    {
+      "slug": "world-trains",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "hanoi-old-quarter",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "siem-reap-angkor",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "taipei-dadaocheng",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 4
+    },
+    {
+      "slug": "hong-kong-harbour",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "paris-seine-islands",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "istanbul-neighbourhoods-ferry",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "hanoi-culture-choices",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "siem-reap-craft-afternoon",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "taipei-beitou-museum",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "hong-kong-tram-first-ride",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "paris-carnavalet-budget",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "action": "replace-disclaimer-faq",
+      "basis": "targeted edit",
+      "sourceCount": 4
+    },
+    {
+      "slug": "tokyo-solo-asakusa",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "taipei-slow-weekend",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 5
+    },
+    {
+      "slug": "mexico-city-food-outing",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "barcelona-first-visit-neighbourhoods",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "rome-pantheon-colosseum-planning",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "amsterdam-museum-canals-ferry",
+      "action": "consolidate-overlapping-guide",
+      "basis": "targeted edit",
+      "sourceCount": 5
+    },
+    {
+      "slug": "berlin-history-museum-park",
+      "action": "consolidate-overlapping-guide",
+      "basis": "targeted edit",
+      "sourceCount": 4
+    },
+    {
+      "slug": "dubai-creek-al-fahidi-outing",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 4
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "action": "replace-disclaimer-faq",
+      "basis": "targeted edit",
+      "sourceCount": 5
+    },
+    {
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-three-day-first-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 4
+    },
+    {
+      "slug": "chiang-mai-doi-suthep-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "chiang-mai-two-day-itinerary",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 5
+    },
+    {
+      "slug": "phuket-airport-to-beach-transfer",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "action": "consolidate-overlapping-guide",
+      "basis": "targeted edit",
+      "sourceCount": 5
+    },
+    {
+      "slug": "kyoto-first-visit-two-area-plan",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "marrakech-medina-first-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "bangkok-restaurants-best-for-first-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "action": "consolidate-overlapping-guide",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "action": "consolidate-overlapping-guide",
+      "basis": "targeted edit",
+      "sourceCount": 5
+    },
+    {
+      "slug": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "phuket-shops-services-best-for-town-and-transfers",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-design-week-2026-dates",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 6
+    },
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-tailors-best-for-your-trip",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-dental-clinics-for-visitors",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 4
+    },
+    {
+      "slug": "bangkok-spas-best-for-your-trip",
+      "action": "replace-disclaimer-faq",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "chiang-mai-airport-to-old-town-transfer",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "chiang-mai-national-museum-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "phuket-thai-hua-museum-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 4
+    },
+    {
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "action": "correct-stale-programme-context",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "action": "dated-announcement-not-live-flight-availability",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "kuala-lumpur-klia-airport-to-city",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "hong-kong-airport-express-city-transfer",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "bangkok-rainy-day-museums-bacc-museum-siam",
+      "action": "correct-stale-programme-context",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-bacc-art-music-october-november-2026",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 4
+    },
+    {
+      "slug": "bangkok-theatre-festival-2026-visitor-guide",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-national-gallery-november-2026-exhibition",
+      "action": "date-bounded-news-and-archive-context",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "tokyo-meiji-jingu-first-visit-guide",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "london-borough-market-lunch-guide",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "best-bangkok-restaurants-pad-thai-crab-omelette",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "best-bangkok-riverside-hotels-two-stays",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-jim-thompson-house-guided-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "bangkok-museum-siam-interactive-history-visit",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "singapore-botanic-gardens-first-walk",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "singapore-gardens-by-the-bay-choose-attraction",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "kuala-lumpur-petronas-towers-ticket-choice",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "kuala-lumpur-jalan-alor-dinner-plan",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "lisbon-pasteis-de-belem-bakery-stop",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "lisbon-lx-factory-market-browsing",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "new-york-high-line-design-walk",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "new-york-met-first-visit-two-galleries",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "mexico-city-anthropology-museum-focused-visit",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "mexico-city-bellas-artes-museum-or-performance",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "sydney-opera-house-tour-or-show",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 3
+    },
+    {
+      "slug": "sydney-royal-botanic-garden-harbour-pause",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "cape-town-kirstenbosch-garden-day",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 3
+    },
+    {
+      "slug": "seoul-gyeongbokgung-daytime-palace-plan",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "seoul-gwangjang-market-food-shopping-choice",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "ho-chi-minh-war-remnants-museum-thoughtful-visit",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "ho-chi-minh-central-post-office-short-stop",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    },
+    {
+      "slug": "barcelona-park-guell-timed-visit-plan",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 2
+    },
+    {
+      "slug": "rome-colosseum-ticket-product-explained",
+      "action": "retain-existing-researched-guide",
+      "basis": "existing source-linked guide retained; no new operating-fact certification",
+      "sourceCount": 1
+    },
+    {
+      "slug": "cape-town-bo-kaap-respectful-neighbourhood-visit",
+      "action": "improve-specific-reader-task",
+      "basis": "targeted edit",
+      "sourceCount": 2
+    }
+  ],
+  "limits": [
+    "Publisher editorial sign-off is not invented or marked complete.",
+    "Some official sites restricted direct retrieval; evidence records distinguish indexed primary text from a fully read page.",
+    "Existing licensed images were retained; metadata/file checks are not a new legal clearance of every photograph.",
+    "No Google account review or resubmission has been performed."
+  ],
+  "retainedReview": [
+    {
+      "slug": "kuala-lumpur-klia-airport-to-city",
+      "reason": "Existing specific admission/route/visitor comparison retained after text inspection; source dates remain their actual recorded dates."
+    },
+    {
+      "slug": "hong-kong-airport-express-city-transfer",
+      "reason": "Existing specific admission/route/visitor comparison retained after text inspection; source dates remain their actual recorded dates."
+    },
+    {
+      "slug": "tokyo-meiji-jingu-first-visit-guide",
+      "reason": "Existing specific admission/route/visitor comparison retained after text inspection; source dates remain their actual recorded dates."
+    },
+    {
+      "slug": "london-borough-market-lunch-guide",
+      "reason": "Existing specific admission/route/visitor comparison retained after text inspection; source dates remain their actual recorded dates."
+    }
+  ],
+  "summary": {
+    "retainedArticles": 124,
+    "consolidatedUrls": 9,
+    "retainedArticlesChanged": 40,
+    "substantiveGuideRewrites": 12,
+    "remainingDisclaimerFaqFlags": 0
+  }
+}

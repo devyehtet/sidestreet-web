@@ -1,0 +1,85 @@
+{
+  "date": "2026-11-12",
+  "decision": "Technical and targeted editorial release checks passed; ready for publisher final review, not a Google approval certification.",
+  "checks": {
+    "lint": "PASS",
+    "tests": {
+      "passed": 21,
+      "failed": 0
+    },
+    "build": "PASS",
+    "contentReferences": "PASS",
+    "sitemapAndHtml": {
+      "scope": "Production preview crawl, not Google indexing or AdSense approval",
+      "pages": 178,
+      "sitemapUrls": 178,
+      "internalDestinationsOutsideSitemap": 0,
+      "redirects": [
+        {
+          "from": "bangkok-iconsiam-shopping-food-river-plan",
+          "to": "bangkok-shops-services-best-for-city-visit",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "phuket-one-chun-shared-meal-guide",
+          "to": "phuket-restaurants-best-for-old-town-meals",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "buenos-aires-el-ateneo-bookshop-visit",
+          "to": "buenos-aires-cafes",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "buenos-aires-cafe-tortoni-coffee-break",
+          "to": "buenos-aires-cafes",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "amsterdam-ndsm-art-afternoon-guide",
+          "to": "amsterdam-museum-canals-ferry",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "berlin-museum-island-pick-one-museum",
+          "to": "berlin-history-museum-park",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "ubud-monkey-forest-first-visit-rules",
+          "to": "ubud-town-forest-ridge-planning",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "istanbul-spice-bazaar-shopping-checklist",
+          "to": "istanbul-bazaar-shopping",
+          "status": 308,
+          "pass": true
+        },
+        {
+          "from": "phuket-big-buddha",
+          "to": "phuket-three-day-itinerary",
+          "status": 308,
+          "pass": true
+        }
+      ],
+      "adsTxtMatches": true,
+      "robots": "User-Agent: *\nAllow: /\n\nSitemap: https://sidestreetguides.com/sitemap.xml\n",
+      "issues": []
+    },
+    "mobile390px": "PASS: homepage and archive guide, with table overflow contained inside its region",
+    "newsLifecycle": "PASS: ended coverage removed from current picks and archive context shown",
+    "publisherFinalSignoff": "NOT_RECORDED",
+    "GoogleAdSenseReview": "NOT_SUBMITTED",
+    "fullImageLegalReclearance": "NOT_RUN: existing licensed archive assets retained, credit metadata and local files validated"
+  },
+  "policy": "Do not enable the local publisher sign-off merely to make a script pass. Do not report Google approval, live indexing or a new human inspection of every image.",
+  "rollback": "Revert this release commit in Git and deploy; retain the consolidation map when preserving the new URL policy is desired."
+}

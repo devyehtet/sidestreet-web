@@ -1,3 +1,5 @@
+import {connection} from 'next/server';
+import {newsPhase} from '@/lib/news-lifecycle.mjs';
 import Link from 'next/link';
 import StructuredData from '@/components/structured-data';
 import {collectionSchema,breadcrumbSchema} from '@/lib/seo.mjs';
@@ -18,7 +20,11 @@ export default async function Topic({params}){
  const {slug}=await params;
  const id=Object.keys(topicSlugs).find(id=>topicSlugs[id]===slug);
  if(!id)notFound();
+ if(id==='news')await connection();
  const stories=data.stories.filter(s=>s.cat===id);
+ const active=stories.filter(s=>['active','upcoming'].includes(newsPhase(s,data.cities)));
+ const reports=stories.filter(s=>newsPhase(s,data.cities)==='report');
+ const archive=stories.filter(s=>newsPhase(s,data.cities)==='archive');
  if(id==='news')stories.reverse().sort((a,b)=>(b.datePublished||'').localeCompare(a.datePublished||''));
  const plan=planning[id];
  return <main id="main" className="container directory">
@@ -26,7 +32,7 @@ export default async function Topic({params}){
   <StructuredData value={breadcrumbSchema(config.siteUrl,[['Home','/'],[data.categories[id],'/topics/'+slug]])}/>
   <div className="page-heading"><span className="eyebrow">THE EDITORIAL SECTORS / {stories.length} GUIDES</span><h1>{data.categories[id]}</h1><p>{plan?.intro||'Local favourites, practical field notes and a different perspective.'}</p></div>
   {plan&&<section className="city-planning" aria-labelledby="topic-start"><h2 id="topic-start">{plan.heading}</h2><ul className="city-planning-links">{plan.links.map(([guide,label,description])=><li key={guide}><Link href={'/guides/'+guide}>{label} ↗</Link><p>{description}</p></li>)}</ul></section>}
-  <div className="story-grid three">{stories.map(s=><StoryCard story={s} key={s.id}/>)}</div>
+  {id==='news'?<>{[["Announced programme periods",active],["Dated announcements and reports",reports],["Archive: ended programme periods",archive]].map(([title,entries])=>entries.length>0&&<section className="editorial-section" key={title}><h2>{title}</h2><div className="story-grid three">{entries.map(s=><StoryCard story={s} key={s.id}/>)}</div></section>)}</>:<div className="story-grid three">{stories.map(s=><StoryCard story={s} key={s.id}/>)}</div>}
   {id==='hotels'&&<section className="editorial-section"><SectionTitle eyebrow="WHERE TO STAY" title="HOTELS IN OUR GUIDE"/><Places places={data.places.filter(p=>p.kind==='stay')}/></section>}
  </main>
 }

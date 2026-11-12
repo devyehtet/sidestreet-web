@@ -1,5 +1,19 @@
 [
   {
+    "id": "nov12-news-context-and-consolidation",
+    "date": "2026-11-12",
+    "title": "Correct stale previews and consolidate overlapping guides",
+    "guide": "bangkok-bacc-art-music-october-november-2026",
+    "text": [
+      "October BACC activities are identified as past programmes; the announced November aquascape dates remain separate. The Kyoto calendar now has its 2026 heading, and the BAB venue directory now supplies the current edition. Earlier pre-opening descriptions have been corrected.",
+      "Nine overlapping or unresolved standalone guides have been consolidated into related planning articles. Their old URLs redirect to the relevant complete guide; the City Edit counts now reflect the retained inventory."
+    ],
+    "sources": [
+      "nov12-kyoto-calendar",
+      "nov12-bab-venues"
+    ]
+  },
+  {
     "id": "gyeongbokgung-tuesday-exception-2026-10-31",
     "date": "2026-10-31",
     "title": "Gyeongbokgung: clarify the Tuesday public-holiday exception",
@@ -56,7 +70,7 @@
     "id": "big-buddha-access",
     "date": "2026-10-19",
     "title": "Phuket Big Buddha: access remains unconfirmed",
-    "guide": "phuket-big-buddha",
+    "guide": "phuket-three-day-itinerary",
     "text": [
       "An old opening-hours claim remained in the place card after the article had explained that current access was unconfirmed. The hours and unsupported free-entry statement have been removed.",
       "This correction does not assert that the site is open or closed. The guide explains what to establish before arranging a visit and offers separate Old Town and museum alternatives."

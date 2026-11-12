@@ -42,6 +42,15 @@ for (const event of data.events) {
   if (!event.sample && event.publicationStatus !== 'research' && !event.url && !event.src?.length) errors.push(`${event.id}: published event has no source`);
   if (!event.sample && !event.recur && event.publicationStatus !== 'research' && !event.verifiedAt) errors.push(`${event.id}: dated public event needs a source-check date`);
 }
+const redirects=JSON.parse(fs.readFileSync(new URL('src/content/guide-redirects.json',root),'utf8'));
+const storySlugs=known(data.stories,'slug');
+for(const [from,to] of Object.entries(redirects)) {
+ if(storySlugs.has(from)||!storySlugs.has(to)||from===to||redirects[to])errors.push(`Consolidation ${from}: invalid or chained destination ${to}`);
+}
+for(const story of data.stories) {
+ for(const related of story.relatedGuides||[])if(!storySlugs.has(related)||related===story.slug)errors.push(`${story.slug}: invalid related guide ${related}`);
+ if(story.newsWindow&&(!/^\d{4}-\d{2}-\d{2}$/.test(story.newsWindow.start)||!/^\d{4}-\d{2}-\d{2}$/.test(story.newsWindow.end)||story.newsWindow.start>story.newsWindow.end))errors.push(`${story.slug}: invalid programme period`);
+}
 const corrections=JSON.parse(fs.readFileSync(new URL('src/content/corrections.json',root),'utf8'));
 unique(corrections,'id','Correction');
 for(const entry of corrections){
