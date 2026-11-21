@@ -1,5 +1,19 @@
 [
   {
+    "id": "borough-festive-monday-exception-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Borough Market: add the 2026 festive Monday opening and holiday closures",
+    "guide": "london-borough-market-lunch-guide",
+    "text": [
+      "The regular Monday closure was previously shown without the published 30 November–December exception in the shared place card. The guide and card now distinguish the normal week from festive trading, Christmas closures and the 1 January 2027 closure.",
+      "Three researched food choices now distinguish market stalls from a restaurant; their own service times must be checked separately."
+    ],
+    "sources": [
+      "nov21-borough-visit",
+      "nov21-borough-festive"
+    ]
+  },
+  {
     "id": "nov12-news-context-and-consolidation",
     "date": "2026-11-12",
     "title": "Correct stale previews and consolidate overlapping guides",

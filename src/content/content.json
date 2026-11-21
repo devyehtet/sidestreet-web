@@ -1703,6 +1703,76 @@
       "name": "National Gallery Singapore — current exhibition listing",
       "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Lets-Imagine-the-World-Together.html",
       "consultedAt": "2026-11-12"
+    },
+    "nov21-mtr-fares": {
+      "name": "MTR — Airport Express fares and ticket conditions",
+      "url": "https://www.mtr.com.hk/en/customer/tickets/tf_index.html",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-mtr-timetable": {
+      "name": "MTR — Airport Express first and last trains by origin",
+      "url": "https://www.mtr.com.hk/en/customer/services/timetable_index.html",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-mtr-jordan": {
+      "name": "MTR — Airport to Jordan route suggestion and connection-specific last train",
+      "url": "https://www.mtr.com.hk/en/customer/jp/index.php?dLabel=Jordan&dType=HRStation&dValue=4&oLabel=Airport&oType=HRStation&oValue=47",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-mtr-map": {
+      "name": "MTR — system map and station maps",
+      "url": "https://www.mtr.com.hk/en/customer/services/system_map.html",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-dragon-stops": {
+      "name": "Phuket Smart Bus — Dragon Line pickup and drop-off areas",
+      "url": "https://phuketsmartbus.com/blog/popular-pick-up-drop-off-point-dragon-line-phuket-old-town",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-dragon-hours": {
+      "name": "Phuket Smart Bus — Dragon Line operating guidance",
+      "url": "https://phuketsmartbus.com/blog/dragon-line-explore-phuket-old-town-by-free-bus",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-pksb-routes": {
+      "name": "Phuket Smart Bus — route-specific fares and timetable",
+      "url": "https://www.phuketsmartbus.com/timetable/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-gokl": {
+      "name": "KLCCC / DBKL — GoKL fares, service hours and official route maps",
+      "url": "https://klccc.dbkl.gov.my/gokl-2/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-borough-visit": {
+      "name": "Borough Market — regular hours, arrival and access",
+      "url": "https://boroughmarket.org.uk/visit-us/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-borough-festive": {
+      "name": "Borough Market — festive opening times 2026 and January 2027 exceptions",
+      "url": "https://boroughmarket.org.uk/events/bank-holiday-opening-times/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-borough-faq": {
+      "name": "Borough Market — trader attendance and visitor facilities",
+      "url": "https://boroughmarket.org.uk/frequently-asked-questions/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-borough-arabica": {
+      "name": "Borough Market — Arabica To Go trader profile",
+      "url": "https://boroughmarket.org.uk/traders/arabica/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-borough-applebees": {
+      "name": "Borough Market — Applebee’s Fish trader profile",
+      "url": "https://boroughmarket.org.uk/traders/applebee-s-fishbox/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-borough-agora": {
+      "name": "Borough Market — AGORA trader profile",
+      "url": "https://boroughmarket.org.uk/traders/agora/",
+      "consultedAt": "2026-11-21"
     }
   },
   "cities": [
@@ -1977,9 +2047,10 @@
       "slug": "london",
       "img": "lon-tate-modern",
       "timezone": "Europe/London",
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-11-21",
       "startGuides": [
-        "london-free"
+        "london-free",
+        "london-borough-market-lunch-guide"
       ],
       "planningIntro": "Choose one museum by what you want to see. The comparison guide separates permanent collections from exhibitions and booking arrangements, so a free-entry plan still has a clear destination."
     },
@@ -14054,7 +14125,10 @@
       "src": [
         "dragon-line-official",
         "phuket-bus-official",
-        "dragon-line-tracking"
+        "dragon-line-tracking",
+        "nov21-dragon-stops",
+        "nov21-dragon-hours",
+        "nov21-pksb-routes"
       ],
       "body": [
         "Dragon Line is Phuket Smart Bus’s free circular town shuttle. The operator names Central Festival, Old Town and OTOP Market on the route, with published hours of 07:00–19:00 and a 30-minute interval. Use its timetable and live map for the actual boarding stop; the named areas below are not a complete stop list.",
@@ -14095,14 +14169,24 @@
           ]
         },
         {
-          "h": "Route areas, boarding stops and the live map",
+          "h": "Use named pickup areas, then confirm the boarding point",
           "p": [
-            "Central Festival and Phuket Old Town are useful destination-area references. Our place explorer opens area searches, not verified bus-stop pins. For boarding, open the operator’s timetable, select Dragon Line and match the stop to its live map. The published area names alone do not establish stop order or the side of the road.",
-            "Save the boarding point and the return point as separate notes. A circular route need not provide a direct reverse journey from the opposite pavement. If the live map does not load, the tracking page offers a direct map link; if current service information remains unavailable, keep a different return option rather than guessing where to wait."
+            "The operator’s pickup guide names Downtown Market (Talad Dao Nua), Dibuk Road, the Krungsri Bank area, Mongkol Nimit Temple, Surin Clock Tower, Old Town Intersection and Limelight Phuket. These names are more useful search terms than simply “Old Town”. The list is not a stop-by-stop running order.",
+            "Choose the area nearest your planned visit, then match it with the operator’s timetable and live route map for the actual boarding location. Our place explorer remains an area map, not a set of verified bus-stop pins. Save a separate return point: a circular service does not necessarily take you straight back from the opposite side of the road."
           ],
           "sourceIds": [
-            "phuket-bus-official",
-            "dragon-line-tracking"
+            "nov21-dragon-stops",
+            "nov21-pksb-routes"
+          ],
+          "links": [
+            [
+              "See the operator’s named pickup areas",
+              "https://phuketsmartbus.com/blog/popular-pick-up-drop-off-point-dragon-line-phuket-old-town"
+            ],
+            [
+              "Open Dragon Line tracking",
+              "https://phuketsmartbus.com/tracking?route=dragon"
+            ]
           ]
         },
         {
@@ -14112,7 +14196,27 @@
             "For an evening meal, compare the expected finish with the return service you can actually catch. A restaurant booking at 19:00 should have a separately arranged journey home. For a daytime appointment, include the walk, waiting and traffic in the allowance; the free fare does not remove those parts of the trip."
           ],
           "sourceIds": [
-            "dragon-line-official"
+            "nov21-dragon-hours"
+          ]
+        },
+        {
+          "h": "For an evening market or dinner, bookend the outing with two different journeys",
+          "p": [
+            "The published Dragon Line finish is 19:00. If you want to stay in town for dinner or an evening market, use the free bus for the daytime leg and arrange the later return separately. A 19:00 service finish is not a departure from every stop at that time.",
+            "Our practical comparison is simple: put the paid journey into town, the free town loop and the late ride home on three separate lines. Then compare that total with a direct return vehicle. For a group, agree a reunion point before browsing or eating separately so the last part of the evening does not depend on everyone finding an unfamiliar stop."
+          ],
+          "sourceIds": [
+            "nov21-dragon-hours"
+          ],
+          "links": [
+            [
+              "Choose your Old Town streets",
+              "/guides/phuket-oldtown"
+            ],
+            [
+              "Find a town meal",
+              "/guides/phuket-restaurants-best-for-old-town-meals"
+            ]
           ]
         },
         {
@@ -14162,8 +14266,8 @@
           "The operator’s Old Town guidance lists 07:00–19:00, with buses every 30 minutes. Confirm current service and allow for traffic."
         ],
         [
-          "Which areas does it connect?",
-          "The timetable identifies Central Festival, Old Town and OTOP Market. Check the route map for your exact boarding and return stops."
+          "Where can I board Dragon Line in Phuket Old Town?",
+          "The operator names areas including Downtown Market, Dibuk Road, Mongkol Nimit Temple, Surin Clock Tower and Limelight Phuket. Use its pickup guide and live route map to confirm the precise boarding point; these names are not a complete ordered stop list."
         ],
         [
           "Does Dragon Line go to Phuket Airport?",
@@ -14180,6 +14284,10 @@
         [
           "Can I use the area map as a boarding-stop map?",
           "No. The place explorer identifies destination areas. Select Dragon Line on the operator’s timetable and live map to locate actual stops."
+        ],
+        [
+          "Can I depend on Dragon Line after dinner?",
+          "Its published operating window ends at 19:00. Arrange another return if you stay later; do not treat that time as a last departure from every stop."
         ]
       ],
       "quickPlan": [
@@ -14201,14 +14309,14 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-26",
+      "dateModified": "2026-11-21",
       "tips": [
         "Save an alternative return if your outing could finish after 19:00.",
         "Use the official route map for boarding; destination-area maps are for orientation.",
         "Keep hotel transfers, admission and food outside the free bus fare."
       ],
-      "researchNote": "Operator timetable and Dragon Line guidance rechecked 26 October 2026. The new small-day-out comparison is original editorial planning, not a personal ride report. Boarding points, live service and the beach-hotel connection remain travel-day checks.",
-      "mins": 3,
+      "researchNote": "Operator route fares, Dragon Line hours and named pickup guidance rechecked 21 November 2026. Boarding direction and actual vehicle operation remain travel-day checks. The outing and cost comparisons are original editorial planning, not a personal ride report.",
+      "mins": 4,
       "relatedGuides": [
         "phuket-oldtown",
         "phuket-airport-to-beach-transfer",
@@ -14222,6 +14330,10 @@
           "https://www.phuketsmartbus.com/timetable/"
         ],
         [
+          "Find the operator’s pickup areas",
+          "https://phuketsmartbus.com/blog/popular-pick-up-drop-off-point-dragon-line-phuket-old-town"
+        ],
+        [
           "Open Dragon Line live tracking",
           "https://phuketsmartbus.com/tracking?route=dragon"
         ],
@@ -14231,7 +14343,7 @@
         ]
       ],
       "planTable": {
-        "caption": "Phuket Smart Bus services — published fares rechecked 26 October 2026",
+        "caption": "Phuket Smart Bus services — published route fares rechecked 21 November 2026",
         "headers": [
           "Service",
           "Published route / areas",
@@ -14260,9 +14372,9 @@
         ]
       },
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Search Console-led improvement of an existing guide, primary-source research and original trip comparisons.",
+        "scope": "The fare, route or dated-hours information identified in this update; not a personal visit, live service guarantee, image-rights signoff or full publisher review."
       },
       "navigationRoute": {
         "mode": "places",
@@ -15086,16 +15198,16 @@
       "city": "kul",
       "cat": "travel",
       "kind": "guide",
-      "title": "Can foreign visitors ride GoKL buses? Kuala Lumpur fares and route checks",
-      "seoTitle": "Kuala Lumpur GoKL Bus: Fares for Foreign Visitors",
-      "dek": "GoKL is not universally free: check the official RM1 visitor fare, cashless payment and route maps before using Kuala Lumpur’s city buses.",
+      "title": "GoKL buses for tourists: RM1 fares, payment and Kuala Lumpur routes",
+      "seoTitle": "GoKL Bus for Tourists: RM1 Fare, Payment & Routes",
+      "dek": "Foreign visitors pay RM1 per ride; children aged 12 and under ride free. Compare KLCC, Bukit Bintang and Pasar Seni routes before choosing a stop.",
       "img": "kul-skyline",
       "src": [
-        "gokl-klccc-official",
-        "trends-sg-travel-oct18"
+        "nov21-gokl"
       ],
       "body": [
-        "Foreign visitors can use Kuala Lumpur’s GoKL service, but the word “free” in older descriptions can be misleading. The city’s current service page lists a visitor fare and payment methods. Identify the service you intend to board before assuming that a rule for one Malaysian bus network applies to every bus in the country."
+        "Foreign visitors can ride GoKL in Kuala Lumpur for RM1 per ride, using the payment methods listed by KLCCC: Touch ’n Go, credit card or debit card. Children aged 12 and under travel free regardless of citizenship. Free travel for Malaysian citizens has its own registration rules.",
+        "For a first outing, choose a route by its endpoints and then check the actual stop. A KLCC–Bukit Bintang journey and a Pasar Seni–Bukit Bintang journey solve different parts of a city day; neither route name establishes a door-to-door hotel transfer."
       ],
       "sections": [
         {
@@ -15104,7 +15216,7 @@
             "KLCCC lists RM1 per ride for foreign visitors, payable by Touch ’n Go, credit card or debit card. It also states that children aged 12 and under travel free regardless of citizenship. Malaysian citizens have a separate registration arrangement using MyKad with Touch ’n Go. Check the current official page if a fare or eligibility detail affects your trip."
           ],
           "sourceIds": [
-            "gokl-klccc-official"
+            "nov21-gokl"
           ]
         },
         {
@@ -15114,7 +15226,27 @@
             "For a first ride, save the destination name and the walk from the stop to your accommodation or attraction. Check the return direction separately. Getting to the correct neighbourhood is useful only if the final stretch is manageable for your group, luggage and weather."
           ],
           "sourceIds": [
-            "gokl-klccc-official"
+            "nov21-gokl"
+          ]
+        },
+        {
+          "h": "Two city-centre examples: choose the trip before the colour",
+          "p": [
+            "Use GoKL 01 to research a KLCC–Bukit Bintang trip, or GoKL 02 for Hab Pasar Seni–Bukit Bintang. The endpoint pairs below come from KLCCC’s numbered route maps. Confirm the current stop names and direction on those maps instead of relying on an old colour-based guide.",
+            "Our suggested city-day choice is one outward ride and a separate return decision after your meal or visit. Two RM1 rides cost RM2 for one fare-paying visitor; for two adults making the same two rides, allow RM4 before any other transport. This is simple per-ride arithmetic, not a day pass or a transfer discount."
+          ],
+          "sourceIds": [
+            "nov21-gokl"
+          ],
+          "links": [
+            [
+              "Open the official numbered route maps",
+              "https://klccc.dbkl.gov.my/gokl-2/"
+            ],
+            [
+              "Choose a Jalan Alor meal",
+              "/guides/kuala-lumpur-jalan-alor-dinner-plan"
+            ]
           ]
         },
         {
@@ -15124,20 +15256,34 @@
             "Carry an accepted payment method and confirm the boarding instructions at the stop or with the operator if something is unclear. A phone wallet, a bank card and a transport card are different products; do not assume that a payment method supported on one service is accepted on another."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Use the operating window as a planning boundary",
+          "p": [
+            "KLCCC publishes daily service from 06:00 to 23:00, with intervals varying by route and time. Check a particular departure and return direction before a late outing; these are network service hours, not a promise of a bus at every stop at 23:00.",
+            "Keep a payment method ready, save your destination and check the final walk in the weather you expect. If the stop would leave an awkward walk with luggage, compare a different rail or road journey. Choose the full connection that works for your group rather than adding bus changes only to save one fare."
+          ],
+          "sourceIds": [
+            "nov21-gokl"
+          ]
         }
       ],
       "quickPlan": [
         [
-          "Service covered",
-          "GoKL in Kuala Lumpur"
+          "Visitor fare",
+          "RM1 per ride; accepted payment: Touch ’n Go, credit or debit card"
         ],
         [
-          "Official visitor fare",
-          "RM1 per ride; reconfirm current terms"
+          "Children",
+          "Age 12 and under: free regardless of citizenship"
         ],
         [
-          "Payment listed",
-          "Touch ’n Go, credit or debit card"
+          "Published hours",
+          "Daily 06:00–23:00; check route-specific last service"
+        ],
+        [
+          "Route examples",
+          "01: KLCC–Bukit Bintang; 02: Hab Pasar Seni–Bukit Bintang"
         ]
       ],
       "planLinks": [
@@ -15156,30 +15302,63 @@
       ],
       "faq": [
         [
-          "Is GoKL free for every tourist?",
-          "No. KLCCC lists a fare for foreign visitors and a separate free-travel rule for children aged 12 and under."
+          "Is GoKL free for foreign tourists?",
+          "Foreign visitors pay RM1 per ride under KLCCC’s published rules. Children aged 12 and under travel free regardless of citizenship."
         ],
         [
-          "Does this explain all buses in Malaysia?",
-          "No. Check the named operator for Rapid KL, state services and intercity journeys."
+          "How do foreign visitors pay for GoKL?",
+          "KLCCC lists Touch ’n Go, credit cards and debit cards. Have an accepted method ready and check current boarding instructions."
+        ],
+        [
+          "Which GoKL bus connects KLCC and Bukit Bintang?",
+          "KLCCC’s numbered maps identify GoKL 01 for KLCC–Bukit Bintang. Use its current map to choose the actual stop and direction."
+        ],
+        [
+          "Is GoKL an airport bus?",
+          "Use the airport transfer guide for your KLIA journey. The city-centre route examples here are not an airport-to-hotel service."
+        ],
+        [
+          "Do GoKL rules apply to Rapid KL and other buses?",
+          "No. Check the named operator’s fares, payment and concessions for each separate service."
         ]
       ],
       "relatedGuides": [
-        "kuala-lumpur-breakfast",
-        "george-town-penang-heritage-walk"
+        "kuala-lumpur-jalan-alor-dinner-plan",
+        "kuala-lumpur-klia-airport-to-city",
+        "kuala-lumpur-breakfast"
       ],
       "items": [],
       "places": [],
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-24",
-      "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
+      "dateModified": "2026-11-21",
+      "researchNote": "KLCCC / DBKL fare, operating-window and numbered-route information consulted 21 November 2026. This is independent desk research, not a firsthand ride or live departure check. The sample RM2/RM4 totals are our per-ride calculations; confirm current service notices before travel.",
       "imageNote": "Kuala Lumpur skyline reference photograph; no bus or current boarding point is shown.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Search Console-led improvement of an existing guide, primary-source research and original trip comparisons.",
+        "scope": "The fare, route or dated-hours information identified in this update; not a personal visit, live service guarantee, image-rights signoff or full publisher review."
+      },
+      "planTable": {
+        "caption": "GoKL city-centre route examples — official endpoint pairs consulted 21 November 2026",
+        "headers": [
+          "Route",
+          "Published endpoints",
+          "Useful first decision"
+        ],
+        "rows": [
+          [
+            "GoKL 01",
+            "KLCC ↔ Bukit Bintang",
+            "Compare a KLCC visit with a Bukit Bintang meal"
+          ],
+          [
+            "GoKL 02",
+            "Hab Pasar Seni ↔ Bukit Bintang",
+            "Compare a Pasar Seni start with a Bukit Bintang outing"
+          ]
+        ]
       }
     },
     {
@@ -15692,18 +15871,20 @@
       "city": "hkg",
       "cat": "travel",
       "kind": "guide",
-      "title": "Hong Kong airport to the city: Airport Express, fares and the final connection",
-      "seoTitle": "Hong Kong Airport Express: Fares & City Transfer",
-      "dek": "Choose Hong Kong, Kowloon or Tsing Yi station, compare ticket media and keep an alternative for a late arrival.",
+      "title": "Hong Kong Airport Express: fares, first and last trains, and your hotel connection",
+      "seoTitle": "Hong Kong Airport Express: Fares & First/Last Trains",
+      "dek": "Compare adult fares by ticket type, check both travel directions and plan the final connection for a Yau Tsim Mong or Hong Kong Island hotel.",
       "img": "hkg-airport-express",
       "src": [
-        "mtr-airport-fares",
-        "mtr-airport-timetable",
+        "nov21-mtr-fares",
+        "nov21-mtr-timetable",
+        "nov21-mtr-jordan",
+        "nov21-mtr-map",
         "citybus-airport-routes"
       ],
       "body": [
-        "For a first Hong Kong arrival, choose the city-side station that fits your actual accommodation, then compare the Airport Express ticket and the last hotel connection. Hong Kong, Kowloon and Tsing Yi are different arrival choices. The fastest rail segment is not necessarily the simplest complete journey with bags.",
-        "Use the fare table for the ticket medium you will actually use, not a price copied from an old promotion. Keep the flight arrival, time at the station and hotel check-in as separate parts of the plan. This is a transport comparison, not a live journey planner or a promise that a particular connection will be running."
+        "Airport Express links Hong Kong Airport with Hong Kong, Kowloon and Tsing Yi stations. Adult single fares using Octopus or an eligible contactless bank card are HK$120, HK$105 and HK$73 respectively; Smart Ticket fares are HK$130, HK$115 and HK$80. Choose the station for your complete hotel journey, then check the ticket conditions.",
+        "A fast airport train is only one part of the transfer. Your flight landing time, time reaching the platform and final hotel arrival are three different things. The route examples below explain where that difference matters, including for Jordan and other Yau Tsim Mong addresses."
       ],
       "sections": [
         {
@@ -15713,7 +15894,7 @@
             "Save the address, entrance and any pickup instructions. If a hotel name is used by several properties, confirm the branch. A cheaper rail endpoint can become less useful when it creates an awkward final change, while a direct road option can suit luggage needs even when the rail segment is quicker."
           ],
           "sourceIds": [
-            "mtr-airport-timetable"
+            "nov21-mtr-timetable"
           ]
         },
         {
@@ -15723,7 +15904,7 @@
             "For four adults travelling to Hong Kong station, the table gives HK$480 using the first column or HK$520 using Smart Tickets. That is our calculation before the hotel connection, not a promotional group offer. Compare an actual direct-transfer quote against the complete party cost rather than one passenger’s rail fare."
           ],
           "sourceIds": [
-            "mtr-airport-fares"
+            "nov21-mtr-fares"
           ]
         },
         {
@@ -15733,67 +15914,69 @@
             "For an alternative, Citybus publishes airport routes and overnight N-route information, with a hotel-area stop finder. Check the actual destination and day’s service rather than assuming every daytime airport bus runs overnight. If you choose a road transfer instead, establish the pickup, destination, luggage capacity and total charge through the official provider."
           ],
           "sourceIds": [
-            "mtr-airport-timetable",
+            "nov21-mtr-timetable",
             "citybus-airport-routes"
           ]
         },
         {
-          "h": "A useful arrival note has four fields",
+          "h": "For Yau Tsim Mong, choose the actual station rather than the district name",
           "p": [
-            "Before leaving the terminal, keep a note with the hotel address, selected city-side station, final connection and late-check-in instructions. Save it somewhere you can read without relying on a page loading at the next interchange. This is a planning habit, not a claim that a given Wi-Fi or mobile service will be available.",
-            "If travelling with others, agree where to meet if you separate while handling bags or tickets. Choose a recognisable staffed location when possible rather than only a broad station name. Check the group’s boarding and movement needs before making the plan depend on several short changes."
+            "Kowloon Airport Express station is not Jordan, Yau Ma Tei or Mong Kok station. For a hotel in Yau Tsim Mong, enter the nearest named MTR station in the official journey planner and compare that journey with a transfer from Kowloon station. Save the hotel entrance as well as the neighbourhood name.",
+            "As a worked example, MTR’s Airport-to-Jordan planner offers a route changing at Tsing Yi to the Tung Chung Line, then at Lai King to the Tsuen Wan Line towards Central. That is a rail alternative to leaving at Kowloon and arranging the last leg separately. The planner’s suggested route, interchange walks and last connection can change; use the result for your travel date rather than treating this example as a live instruction."
           ],
-          "sourceIds": []
-        },
-        {
-          "h": "Make the first outing optional",
-          "p": [
-            "Once the luggage and hotel arrangements are settled, choose one small next activity. A harbour crossing or first tram ride can be researched separately, but neither needs to happen immediately after an international flight. Leave the first timed reservation for a point in the trip with a comfortable buffer.",
-            "Our suggested arrival-day sequence is transfer, storage or check-in, food and then a decision about an outing. It is an order of tasks, not a measured duration. If the journey takes longer than expected, remove the optional outing rather than rushing the steps that get you to your accommodation."
+          "sourceIds": [
+            "nov21-mtr-jordan",
+            "nov21-mtr-map"
           ],
-          "sourceIds": [],
           "links": [
             [
-              "Compare a first Hong Kong tram ride",
-              "/guides/hong-kong-tram-first-ride"
-            ],
-            [
-              "Plan one harbour crossing",
-              "/guides/hong-kong-harbour"
+              "Open MTR’s Airport-to-Jordan journey planner",
+              "https://www.mtr.com.hk/en/customer/jp/index.php?dLabel=Jordan&dType=HRStation&dValue=4&oLabel=Airport&oType=HRStation&oValue=47"
             ]
+          ]
+        },
+        {
+          "h": "The last airport train may be too late for your onward connection",
+          "p": [
+            "The general timetable lists 00:48 as the last Airport-to-city departure, but that does not establish the final usable departure for every connecting journey. In the Airport-to-Jordan planner checked for this update, the connection-specific last departure is earlier. Search the whole route to your destination station before relying on a late train.",
+            "For the return flight, MTR publishes first trains to the Airport at 05:50 from Hong Kong, 05:53 from Kowloon and 06:00 from Tsing Yi. Its last trains towards the Airport are 00:48, 00:52 and 00:59 respectively. Those are departures from city stations, not your hotel pickup times or airline check-in deadlines. For an early flight, compare the train arrival with your airline’s required reporting time and arrange another transfer if the first service is too late."
+          ],
+          "sourceIds": [
+            "nov21-mtr-timetable",
+            "nov21-mtr-jordan"
           ]
         }
       ],
       "items": [],
       "places": [],
       "datePublished": "2026-10-24",
-      "dateModified": "2026-10-24",
-      "researchNote": "Published operator or venue information checked 24 October 2026. This is independent desk research, not a firsthand visit. Suggested time budgets and cost comparisons are editorial analysis; confirm current notices and your exact ticket before travel.",
+      "dateModified": "2026-11-21",
+      "researchNote": "MTR fare, general timetable and Airport-to-Jordan route information consulted 21 November 2026. Citybus information retains its earlier source date. This is independent desk research, not a personal journey report. The Jordan example explains interchange choices; it is not a live departure recommendation.",
       "compositionReview": {
-        "date": "2026-10-24",
-        "method": "Primary-source research, original visitor decisions and licence-checked reference photography.",
-        "scope": "The specific references and comparisons in this guide; not a live booking, personal inspection, exhaustive access review or guarantee of future fares."
+        "date": "2026-11-21",
+        "method": "Search Console-led improvement of an existing guide, primary-source research and original trip comparisons.",
+        "scope": "The fare, route or dated-hours information identified in this update; not a personal visit, live service guarantee, image-rights signoff or full publisher review."
       },
       "quickPlan": [
         [
-          "Choose the station",
-          "Compare your hotel route from Hong Kong, Kowloon or Tsing Yi."
+          "Single fare to Hong Kong",
+          "HK$120 Octopus/eligible bank card; HK$130 Smart Ticket"
         ],
         [
-          "Choose the ticket",
-          "Octopus/contactless bank-card fares differ from Smart Ticket fares."
+          "Airport to city",
+          "Published 05:54–00:48; onward connections may finish earlier"
         ],
         [
-          "Late arrival",
-          "MTR lists the Airport-to-city last train at 00:48; check the current timetable."
+          "City to airport",
+          "First departure depends on station: 05:50 / 05:53 / 06:00"
         ],
         [
-          "Final connection",
-          "Save the hotel entrance and a workable station-to-hotel journey before boarding."
+          "Yau Tsim Mong hotels",
+          "Compare the actual local station with a last leg from Kowloon"
         ]
       ],
       "planTable": {
-        "caption": "MTR adult Airport Express single fares, HK$, checked 24 October 2026; adult age 12+",
+        "caption": "MTR adult Airport Express single fares, HK$, rechecked 21 November 2026; age 12+",
         "headers": [
           "Airport to / from",
           "Octopus or contactless bank card",
@@ -15819,20 +16002,24 @@
       },
       "faq": [
         [
-          "Does Airport Express run all night?",
-          "The published Airport-to-city window checked on 24 October 2026 is 05:54–00:48. Recheck the timetable and keep a separate plan if your station arrival may fall outside it."
+          "How much is Airport Express from Hong Kong Airport?",
+          "Adult singles using Octopus or an eligible contactless bank card are HK$120 to Hong Kong, HK$105 to Kowloon and HK$73 to Tsing Yi. Smart Tickets are HK$130, HK$115 and HK$80. Check the current fare and exact ticket product."
         ],
         [
-          "Which Airport Express station should I choose?",
-          "Compare the complete journey from Hong Kong, Kowloon or Tsing Yi station to the exact hotel entrance. A broad district label is not enough to decide."
+          "Can children use an adult bank card for the child fare?",
+          "MTR says contactless bank cards charge the adult fare. Ages 3–11 have separate child fares; children under 3 travel free. Select an eligible child ticket or payment medium."
         ],
         [
-          "Why are two adult fares shown?",
-          "The MTR fare page distinguishes Octopus/contactless bank-card payment from Smart Tickets. Match the ticket medium and any current offer to your journey."
+          "Does the 00:48 last train guarantee a connection to Jordan?",
+          "No. The whole-route planner can show an earlier last usable departure for a connecting destination. Check Airport to Jordan, or your actual local station, rather than only the Airport Express timetable."
         ],
         [
-          "Does the train ticket establish a hotel shuttle?",
-          "No hotel shuttle or door-to-door connection is established by this guide. Arrange the final journey separately."
+          "Is Kowloon station the same as Yau Ma Tei or Mong Kok?",
+          "No. Enter the exact destination station or hotel entrance and compare the final connection. The district name alone does not identify a station-to-hotel route."
+        ],
+        [
+          "Can I use the first train for an early flight?",
+          "Compare the station-specific first departure, rail journey and airport processing time with the airline’s reporting deadline. An early flight may require a different transfer."
         ]
       ],
       "planLinks": [
@@ -15843,6 +16030,10 @@
         [
           "Check first and last trains",
           "https://www.mtr.com.hk/en/customer/services/timetable_index.html"
+        ],
+        [
+          "Plan Airport to Jordan with MTR",
+          "https://www.mtr.com.hk/en/customer/jp/index.php?dLabel=Jordan&dType=HRStation&dValue=4&oLabel=Airport&oType=HRStation&oValue=47"
         ],
         [
           "Compare Citybus airport and overnight services",
@@ -16719,28 +16910,39 @@
       "city": "lon",
       "cat": "food",
       "kind": "guide",
-      "title": "How to do Borough Market without turning lunch into a checklist",
-      "seoTitle": "Borough Market London: Opening Times & a Better Lunch Plan",
-      "dek": "Go for a meal, a produce shop or a browse—and let that choice shape the visit. Here’s a small, useful plan for one of London’s best-known food markets.",
+      "title": "Borough Market: opening times, three lunch choices and festive dates",
+      "seoTitle": "Borough Market: Opening Times, Food & Christmas 2026",
+      "dek": "Plan a market lunch near London Bridge, compare three named food options and check the November–December opening exceptions before you go.",
       "img": "lon-borough",
       "places": [
         "lon-borough"
       ],
       "items": [],
       "body": [
-        "A market lunch can become a strangely competitive activity: find the famous queue, collect several dishes and try to eat everything before moving on. Our Borough Market edit takes a simpler approach. Decide whether you are hungry now, shopping for later or mainly curious, then let that answer determine where you spend your time.",
-        "This is an independently researched planning guide, not a ranking of dishes we have tasted. There is no invented list of “secret” stalls or promise that one vendor is the best. The useful question is which kind of visit fits your day—and how to leave with a meal you enjoyed rather than a bag of purchases you did not need."
+        "Borough Market is next to London Bridge station at 8 Southwark Street, and market entry is free. Regular trading is Tuesday–Sunday, but the published festive schedule opens Mondays from 30 November 2026 and includes Christmas closures. Start with your actual date, then choose lunch, produce shopping or a restaurant stop.",
+        "Our lunch edit offers three different formats: a wrap from Arabica To Go, a seafood stand from Applebee’s Fish or a sit-down Greek-inspired meal at AGORA. These are researched options chosen for the kind of meal, not a taste ranking. Check the individual business’s hours, menu, price and dietary information before choosing."
       ],
       "sections": [
         {
           "h": "Pick the right day before picking the food",
           "p": [
-            "The regular published hours are Tuesday–Friday 10am–5pm, Saturday 9am–5pm and Sunday 10am–4pm, with Monday closed. Holiday and festive schedules can differ. The market’s FAQ also notes that not every trader is there every day, so a market opening time does not guarantee a specific stall.",
+            "Regular hours are Tuesday–Friday 10:00–17:00, Saturday 09:00–17:00 and Sunday 10:00–16:00; Monday is normally closed. The festive schedule changes that pattern from Monday 30 November 2026. Check the dated exceptions in the table rather than applying the usual Monday rule to a December visit.",
             "If one trader is your main reason to go, check that business directly before building the day around it. Otherwise, give yourself permission to choose from what is available. A shortlist should make the decision easier, not turn an unavailable lunch into a failed outing."
           ],
           "sourceIds": [
-            "borough-visit-oct26",
-            "borough-qa-oct26"
+            "nov21-borough-visit",
+            "nov21-borough-festive",
+            "nov21-borough-faq"
+          ]
+        },
+        {
+          "h": "A December visit needs the festive calendar",
+          "p": [
+            "The venue announces seven-day trading from 30 November through December, subject to the closures and shorter days below. Normal hours resume on 2 January 2027. Market-wide opening does not guarantee that every trader attends; confirm the named business before planning a meal around it."
+          ],
+          "sourceIds": [
+            "nov21-borough-festive",
+            "nov21-borough-faq"
           ]
         },
         {
@@ -16750,7 +16952,35 @@
             "Our three versions are deliberately small. The lunch visit has one main dish and an optional extra. The shopping visit has a list and a carrying plan. The curious visit has time to look without an obligation to buy at every counter. You can combine them, but choose a primary purpose so the budget and timing stay clear."
           ],
           "sourceIds": [
-            "borough-visit-oct26"
+            "nov21-borough-visit"
+          ]
+        },
+        {
+          "h": "Three named food options, chosen by the meal you want",
+          "p": [
+            "Arabica To Go: consider the stall for a falafel wrap, shawarma or a selection of dips rather than a full restaurant sitting. The market’s profile distinguishes it from the neighbouring Arabica Bar & Kitchen. Match the exact business when checking its hours.",
+            "Applebee’s Fish: the market describes a street-food stand with seafood sandwiches and flatbreads, including fishfinger sandwiches and monkfish-and-prawn flatbreads. Choose it if a seafood meal is what you want, then ask about today’s menu and ingredients. The stand and the associated restaurant are separate choices.",
+            "AGORA: at 4 Bedale Street, this Greek-inspired restaurant centres on a charcoal rotisserie. Our reason to consider it is a restaurant meal instead of eating between market stalls. Check its own service and booking arrangements; a restaurant’s hours can extend beyond market trading.",
+            "For this shortlist, compare format first: wrap, seafood stand or restaurant. Then compare the current menu price and wait. None of these listings establishes availability, a personal tasting verdict or suitability for a particular allergy."
+          ],
+          "sourceIds": [
+            "nov21-borough-arabica",
+            "nov21-borough-applebees",
+            "nov21-borough-agora"
+          ],
+          "links": [
+            [
+              "Arabica To Go — venue profile",
+              "https://boroughmarket.org.uk/traders/arabica/"
+            ],
+            [
+              "Applebee’s Fish — venue profile",
+              "https://boroughmarket.org.uk/traders/applebee-s-fishbox/"
+            ],
+            [
+              "AGORA — venue profile",
+              "https://boroughmarket.org.uk/traders/agora/"
+            ]
           ]
         },
         {
@@ -16767,7 +16997,7 @@
             "Our suggestion is to keep bags light and find a place to pause without blocking a counter or passageway. A group can choose a clear reunion point before ordering separately. With children, agree who carries the food and who stays with the group; that small decision is often more useful than adding another stall."
           ],
           "sourceIds": [
-            "borough-visit-oct26"
+            "nov21-borough-visit"
           ]
         },
         {
@@ -16777,58 +17007,74 @@
             "Keep an onward museum visit optional, especially if it requires a separate ticket or arrival time. Our London museum comparison can help with another part of the day, but it is fine for lunch and browsing to be the whole outing. The aim is a satisfying stop, not a record number of London attractions."
           ],
           "sourceIds": [
-            "borough-visit-oct26"
+            "nov21-borough-visit"
           ]
         }
       ],
       "faq": [
         [
           "Is Borough Market open on Mondays?",
-          "Regular hours list Monday as closed; festive and holiday schedules can differ."
+          "Normally it is closed on Mondays. The venue’s 2026 festive schedule opens Mondays from 30 November through December, with separate Christmas closures. Check your exact date."
+        ],
+        [
+          "Is Borough Market open at Christmas 2026?",
+          "It publishes closures for 25–27 December 2026 and 1 January 2027, plus shorter hours on 24 and 31 December. Use the full dated schedule above."
         ],
         [
           "Is entry free?",
-          "Access to the market is free. Food, drinks, shopping and tours are separate purchases."
+          "Market access is free. Food, drinks, shopping and tours are separate purchases."
         ],
         [
-          "Will every trader be open?",
-          "No. The official FAQ says not all traders attend every day."
+          "What can I eat at Borough Market?",
+          "Our researched examples are wraps at Arabica To Go, seafood at Applebee’s Fish or a Greek-inspired restaurant meal at AGORA. Check the current menu, price and opening of the exact business."
+        ],
+        [
+          "Will every trader be open when the market is open?",
+          "No. Trader attendance varies, and restaurant service can differ from market trading. Check the individual business."
         ]
       ],
       "quickPlan": [
         [
-          "Regular opening",
-          "Tuesday–Sunday; check holiday exceptions"
+          "Regular hours",
+          "Tue–Fri 10:00–17:00; Sat 09:00–17:00; Sun 10:00–16:00"
+        ],
+        [
+          "Monday exception",
+          "Festive Mondays from 30 November 2026; see dated closures"
         ],
         [
           "Arrival",
           "London Bridge station / 8 Southwark Street"
         ],
         [
-          "Our lunch plan",
-          "One main dish, an optional extra and a queue limit"
-        ],
-        [
-          "Budget",
-          "Separate eating from take-home shopping"
+          "Choose a meal",
+          "Arabica To Go wrap, Applebee’s seafood stand or AGORA restaurant"
         ]
       ],
       "src": [
-        "borough-visit-oct26",
-        "borough-qa-oct26"
+        "nov21-borough-visit",
+        "nov21-borough-faq",
+        "nov21-borough-festive",
+        "nov21-borough-arabica",
+        "nov21-borough-applebees",
+        "nov21-borough-agora"
       ],
       "relatedGuides": [
         "london-free"
       ],
       "tips": [],
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-26",
-      "researchNote": "Official venue pages checked 26 October 2026. Independently written research guide, not a firsthand review. Suggested activities and time budgets are editorial ideas; prices, access and programmes can change.",
+      "dateModified": "2026-11-21",
+      "researchNote": "Official market visitor, festive-hours and three trader-profile pages consulted 21 November 2026. This is independent desk research, not a firsthand tasting review. Meal-format comparisons are our editorial choices. Individual menus, prices, attendance and access arrangements remain current venue checks.",
       "imageNote": "Licensed archive photograph of the venue; not a photograph taken during an editorial visit.",
       "planLinks": [
         [
           "Borough Market — plan your visit",
           "https://boroughmarket.org.uk/visit-us/"
+        ],
+        [
+          "Check the 2026 festive opening exceptions",
+          "https://boroughmarket.org.uk/events/bank-holiday-opening-times/"
         ],
         [
           "Borough Market — visitor FAQs",
@@ -16847,7 +17093,49 @@
           }
         ]
       },
-      "mins": 3
+      "mins": 4,
+      "planTable": {
+        "caption": "Borough Market festive opening 2026–27 — announced exceptions checked 21 November 2026; reconfirm before travel",
+        "headers": [
+          "Date / period",
+          "Published trading hours"
+        ],
+        "rows": [
+          [
+            "From 30 November through December, except dates below",
+            "Mon–Fri 10:00–17:00; Sat 09:00–17:00; Sun 10:00–16:00"
+          ],
+          [
+            "23 December 2026",
+            "10:00–18:00"
+          ],
+          [
+            "24 December 2026",
+            "08:00–15:00"
+          ],
+          [
+            "25–27 December 2026",
+            "Closed"
+          ],
+          [
+            "31 December 2026",
+            "10:00–15:00"
+          ],
+          [
+            "1 January 2027",
+            "Closed"
+          ],
+          [
+            "From 2 January 2027",
+            "Normal trading hours resume"
+          ]
+        ]
+      },
+      "compositionReview": {
+        "date": "2026-11-21",
+        "method": "Search Console-led improvement of an existing guide, primary-source research and original trip comparisons.",
+        "scope": "The fare, route or dated-hours information identified in this update; not a personal visit, live service guarantee, image-rights signoff or full publisher review."
+      }
     },
     {
       "city": "bkk",
@@ -20970,11 +21258,25 @@
       "kind": "market",
       "name": "Borough Market",
       "area": "Southwark",
-      "hours": "Closed Mondays",
+      "hours": "Regular Tue–Sun; normally closed Mondays. Festive Mondays open from 30 Nov 2026; closed 25–27 Dec and 1 Jan 2027. Check the dated schedule.",
       "url": "https://boroughmarket.org.uk/",
       "blurb": "A food-market option with trader-specific schedules and menus. Compare the actual journey and meal you want before adding it to a museum afternoon.",
       "img": "lon-borough",
-      "verify": true
+      "verify": true,
+      "src": [
+        "nov21-borough-visit",
+        "nov21-borough-festive"
+      ],
+      "factReview": {
+        "fields": [
+          "hours"
+        ],
+        "sourceIds": [
+          "nov21-borough-visit",
+          "nov21-borough-festive"
+        ],
+        "checkedAt": "2026-11-21"
+      }
     },
     {
       "id": "lis-senhora-do-monte",

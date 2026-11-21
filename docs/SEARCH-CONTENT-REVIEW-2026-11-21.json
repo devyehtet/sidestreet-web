@@ -1,0 +1,225 @@
+{
+  "date": "2026-11-21",
+  "property": "sc-domain:sidestreetguides.com",
+  "evidence": "Read directly from the authenticated Search Console UI on 20–21 November 2026; manually transcribed, rounded display values retained.",
+  "searchType": "Web (text)",
+  "filters": "No country, device, query or page filter; separate Google generative-AI report explicitly identified.",
+  "reportFreshness": "Main report last update 4 hours ago; AI report 3.5 hours ago when observed. Latest complete selected end date 2026-11-18.",
+  "equalPeriodComparison": {
+    "current": [
+      "2026-11-05",
+      "2026-11-18"
+    ],
+    "previous": [
+      "2026-10-22",
+      "2026-11-04"
+    ],
+    "daysEach": 14,
+    "metrics": {
+      "clicks": {
+        "current": 9,
+        "previous": 9
+      },
+      "impressionsDisplayed": {
+        "current": "1.02K",
+        "previous": "908"
+      },
+      "ctrDisplayed": {
+        "current": "0.9%",
+        "previous": "1%"
+      },
+      "averagePosition": {
+        "current": 30.2,
+        "previous": 34.6
+      }
+    },
+    "interpretation": "Clicks are flat on a small sample; impressions rose approximately 12% using rounded totals, and average position improved by 4.4. Changes do not establish a cause or predict future traffic."
+  },
+  "clipped28DayPreset": {
+    "current": [
+      "2026-10-22",
+      "2026-11-18"
+    ],
+    "previousDisplayed": [
+      "2026-10-08",
+      "2026-10-21"
+    ],
+    "currentClicks": 18,
+    "previousClicks": 5,
+    "currentImpressionsDisplayed": "1.93K",
+    "previousImpressionsDisplayed": "604",
+    "limitation": "The previous displayed period contains only 14 days. Do not describe these as a like-for-like 28-day growth comparison."
+  },
+  "current28DayPageRows": [
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "clicks": 4,
+      "impressions": 209
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "clicks": 4,
+      "impressions": 125
+    },
+    {
+      "slug": "hong-kong-airport-express-city-transfer",
+      "clicks": 2,
+      "impressions": 258
+    },
+    {
+      "slug": "chiang-mai-design-week-2026-dates",
+      "clicks": 2,
+      "impressions": 92
+    },
+    {
+      "slug": "london-borough-market-lunch-guide",
+      "clicks": 0,
+      "impressions": 167
+    }
+  ],
+  "equal14DaySelectedPages": [
+    {
+      "slug": "hong-kong-airport-express-city-transfer",
+      "clicks": [
+        2,
+        0
+      ],
+      "impressions": [
+        169,
+        89
+      ]
+    },
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "clicks": [
+        1,
+        3
+      ],
+      "impressions": [
+        128,
+        81
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "clicks": [
+        1,
+        3
+      ],
+      "impressions": [
+        73,
+        52
+      ]
+    },
+    {
+      "slug": "london-borough-market-lunch-guide",
+      "clicks": [
+        0,
+        0
+      ],
+      "impressions": [
+        122,
+        45
+      ]
+    }
+  ],
+  "googleGenerativeAi": {
+    "report": "Performance on Search generative AI features — Beta",
+    "same14DayPeriods": true,
+    "impressions": {
+      "current": 78,
+      "previous": 39
+    },
+    "selectedPageRows": [
+      {
+        "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+        "current": 33,
+        "previous": 7
+      },
+      {
+        "slug": "phuket-dragon-line-free-town-bus",
+        "current": 8,
+        "previous": 3
+      },
+      {
+        "slug": "chiang-mai-design-week-2026-dates",
+        "current": 6,
+        "previous": 7
+      }
+    ],
+    "limits": "Observed impressions in Google’s AI report. Not a count of unique people, conversion evidence, named prompt screenshots, or ChatGPT/Perplexity citations. Do not add to main report totals without checking overlap."
+  },
+  "overviewSnapshot": {
+    "indexed": 184,
+    "notIndexed": 9,
+    "coreWebVitals": "No field data displayed for mobile or desktop",
+    "breadcrumbsValid": 38,
+    "breadcrumbsInvalid": 0,
+    "limits": "Overview snapshot, not a fresh URL-by-URL indexing audit. Indexed count can include old redirects and other discovered URLs outside the current 178-entry sitemap."
+  },
+  "contentActions": [
+    {
+      "slug": "hong-kong-airport-express-city-transfer",
+      "classification": "improve-existing-url",
+      "reason": "Observed queries ask about fares and Yau Tsim Mong airport connections. Add route-specific last-train and outbound-airport guidance."
+    },
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "classification": "improve-existing-url",
+      "reason": "Impressions rose but recent clicks declined 3 to 1. Replace broad area advice with operator-named pickup areas and an evening return decision."
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "classification": "improve-existing-url",
+      "reason": "Google AI report shows 33 impressions; recent search clicks declined 3 to 1. Clarify visitor payment, two numbered routes and per-ride budgeting."
+    },
+    {
+      "slug": "london-borough-market-lunch-guide",
+      "classification": "improve-existing-url",
+      "reason": "122 recent impressions without clicks. Make opening times and three researched meal choices explicit; correct the approaching festive Monday exception."
+    }
+  ],
+  "sourceAccessLimits": [
+    "KLCCC page timed out on direct web fetch; its fare, hours and route text was available through indexed official-domain search results. This is not verification of a live vehicle feed.",
+    "Browser screenshot capture was interrupted; the later browser connection was unavailable. No screenshot is claimed."
+  ],
+  "unverified": [
+    "Current AdSense approval status",
+    "ChatGPT and Perplexity citation visibility",
+    "Full publisher reading and image-rights signoff",
+    "A ranking or traffic increase caused by these edits"
+  ],
+  "nextMeasurement": {
+    "window": "After at least 14 complete post-publication days are available",
+    "cohort": [
+      "hong-kong-airport-express-city-transfer",
+      "phuket-dragon-line-free-town-bus",
+      "kuala-lumpur-gokl-bus-foreign-visitors",
+      "london-borough-market-lunch-guide"
+    ],
+    "compare": [
+      "Clicks, impressions and CTR per unchanged URL",
+      "Position for the same query/page cohort, not only the sitewide average",
+      "Google generative-AI impressions per page"
+    ],
+    "hypothesis": "Clearer answers, actual visitor choices and corrected dates may improve qualified search discovery and clicks; measure rather than assume."
+  },
+  "internalLinkAction": "Add the existing Borough Market guide to London’s starting guides; keep all article URLs unchanged.",
+  "maintenanceFollowUp": "Recheck Borough Market festive metadata and hours when normal trading resumes on 2 January 2027; do not carry Christmas 2026 exceptions into a later season.",
+  "validation": {
+    "contentAudit": "PASS — 124 guides, 186 places, 180 images; no errors or warnings",
+    "lint": "PASS",
+    "existingTests": "PASS — 21 of 21",
+    "productionBuild": "PASS — Next.js 16.4.6, 149 static pages generated",
+    "productionDependencyAudit": "PASS — npm audit --omit=dev: 0 vulnerabilities",
+    "renderedPreview": "PASS — 8 pages, source links, visible FAQ answers, canonical URLs, article dates, 178-entry sitemap and 4 updated lastmod values",
+    "visualViewportTest": "NOT RUN — browser connection unavailable after interruption",
+    "securityPatch": {
+      "from": "16.4.3",
+      "to": "16.4.6",
+      "reason": "npm confirmed moderate Next.js advisories affecting <=16.4.4. Limited same-minor patch applied; production audit clear.",
+      "reference": "https://github.com/advisories/GHSA-7qx7-33qx-rqx2"
+    },
+    "productionDeploy": "Verify after this commit is published; not claimed by these preview checks"
+  }
+}
