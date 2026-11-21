@@ -1,0 +1,2424 @@
+{
+  "date": "2026-11-21",
+  "requestedGuideCount": 100,
+  "scope": "Every remaining URL received a targeted source/consistency disposition; this is not an all-claims factual or copyright clearance.",
+  "sourceRetrieval": {
+    "urlsAttempted": 220,
+    "http200": 173,
+    "unavailable": 47,
+    "method": "Concurrent public-HTTP retrieval plus web-tool reading/indexed official fallback. HTTP success alone is not verification."
+  },
+  "reviewed": [
+    {
+      "slug": "bangkok-street-food",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Maha Chai branch address and Tuesday closure; other vendor prices and hours not newly verified",
+      "sourceChecks": [
+        {
+          "sourceId": "thipsamai-official",
+          "url": "https://thipsamai.com/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "A named pad Thai stop: check the branch and the day",
+        "Add relevant next-step guide links without creating a competing URL",
+        "Remove unconfirmed old operational facts from linked place card: bkk-jay-fai",
+        "Remove unconfirmed old operational facts from linked place card: bkk-nai-mong",
+        "Remove unconfirmed old operational facts from linked place card: bkk-ouan-pochana",
+        "Remove unconfirmed old operational facts from linked place card: bkk-boat-noodle-alley",
+        "Remove unconfirmed old operational facts from linked place card: bkk-go-ang",
+        "Remove unconfirmed old operational facts from linked place card: bkk-prachak",
+        "Remove unconfirmed old operational facts from linked place card: bkk-jok-prince",
+        "Remove unconfirmed old operational facts from linked place card: bkk-mae-varee"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-rooftops",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Indoor/outdoor floors and the operator's conflicting ticket-price panels; no guaranteed weather access",
+      "sourceChecks": [
+        {
+          "sourceId": "mahanakhon-skywalk-official",
+          "url": "https://kingpowermahanakhon.co.th/experience/mahanakhon-skywalk",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-loy-krathong",
+      "action": "improve-existing-url",
+      "reviewedClaims": "2026 full-moon date and named Bangkok programme windows; no general floating permission",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-tat-loy-calendar",
+          "url": "https://www.tatnews.org/2026/11/loi-krathong-2026-lights-up-thailands-rivers-and-historic-cities/",
+          "access": "web-tool-full-page",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Replace absence-of-programme wording with the newly published official 2026 calendar",
+        "Add relevant next-step guide links without creating a competing URL"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-biennale",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "2026 venue list; no combined admission or universal site schedule inferred",
+      "sourceChecks": [
+        {
+          "sourceId": "bab-venues",
+          "url": "https://www.bkkartbiennale.com/venues",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-gigs",
+      "action": "improve-existing-url",
+      "reviewedClaims": "3–7 December 2026 and published ticket pre-registration requirement; no live inventory claim",
+      "sourceChecks": [
+        {
+          "sourceId": "wonderfruit-organiser",
+          "url": "https://www.wonderfruit.co/faq",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Wonderfruit: a separate December trip, not another Bangkok hall"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-talatnoi",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Museum/community route and historical Elephant Parade end date; article is not a live venue inspection",
+      "sourceChecks": [
+        {
+          "sourceId": "talatnoi-tat",
+          "url": "https://www.tourismthailand.org/Articles/1-day-in-talat-noi",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-daytrips",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Official booking channel identity; local services not all bookable online",
+      "sourceChecks": [
+        {
+          "sourceId": "srt-booking",
+          "url": "https://dticket.railway.co.th/",
+          "access": "interactive-official-channel-not-a-timetable-check",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Replace unsupported or overconfident FAQ answers"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-hotels",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Named riverside hotel locations and separate booking enquiries; no stay or nightly-rate testing",
+      "sourceChecks": [
+        {
+          "sourceId": "mo-bangkok",
+          "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "peninsula-bangkok",
+          "url": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-yi-peng",
+      "action": "improve-existing-url",
+      "reviewedClaims": "23–25 November city festival and strictly designated release context",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-tat-yi-peng",
+          "url": "https://www.tatnews.org/2026/11/tat-announces-loi-krathong-2026-celebrations-in-ayutthaya-and-five-provinces/",
+          "access": "web-tool-full-page",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Add official city dates while keeping designated release permission separate",
+        "Add relevant next-step guide links without creating a competing URL"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-markets",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Weekend-morning Jing Jai format; old walking-street notice retained as archive, not current clock times",
+      "sourceChecks": [
+        {
+          "sourceId": "jing-jai-official",
+          "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "cm-walking-government",
+          "url": "https://chiangmai.mots.go.th/news/542",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "An operator-backed weekend-morning alternative",
+        "Replace unsupported or overconfident FAQ answers",
+        "Add relevant next-step guide links without creating a competing URL",
+        "Remove unconfirmed old operational facts from linked place card: cnx-sunday-walking-street",
+        "Remove unconfirmed old operational facts from linked place card: cnx-wualai",
+        "Remove unconfirmed old operational facts from linked place card: cnx-warorot",
+        "Remove unconfirmed old operational facts from linked place card: cnx-gate-market",
+        "Remove unconfirmed old operational facts from linked place card: cnx-night-bazaar",
+        "Remove unconfirmed old operational facts from linked place card: cnx-kad-chin-haw"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-khaosoi",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Dish ingredients as historical cultural context, not current restaurant menu or all-day availability",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-tat-khao-soi",
+          "url": "https://www.tatnews.org/2020/01/much-loved-must-eat-dishes-from-different-regions-of-thailand/",
+          "access": "official-indexed-extract",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Choose the bowl from its ingredients, not only its topping",
+        "Replace unsupported or overconfident FAQ answers",
+        "Add relevant next-step guide links without creating a competing URL",
+        "Remove unconfirmed old operational facts from linked place card: cnx-lam-duan",
+        "Remove unconfirmed old operational facts from linked place card: cnx-khao-soi-islam",
+        "Remove unconfirmed old operational facts from linked place card: cnx-cowboy-hat"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-oldcity",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Named temple location and 1545 earthquake context; admission/cycling assumptions removed",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-tat-chedi-luang",
+          "url": "https://www.tourismthailand.org/Attraction/wat-chedi-luang-varavihara",
+          "access": "official-indexed-extract",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Make Wat Chedi Luang one deliberate history stop",
+        "Replace unsupported or overconfident FAQ answers",
+        "Add relevant next-step guide links without creating a competing URL"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-vegetarian",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "2026 festival period has ended; preserve shrine-specific participation and ingredient checks",
+      "sourceChecks": [
+        {
+          "sourceId": "phuket-veg-tat-2026",
+          "url": "https://www.tatnews.org/2026/10/tat-highlights-phuket-vegetarian-festival-2026-as-a-distinctive-cultural-experience/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-beaches",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Beach location comparison and conditional marine guidance; no current swimming-safety certification",
+      "sourceChecks": [
+        {
+          "sourceId": "phuket-kata-gov",
+          "url": "https://www.phuket.go.th/eng/Beaches-Kata%20Beach.php",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "phuket-naiharn-gov",
+          "url": "https://www.phuket.go.th/eng/Beaches-Nai%20Harn%20Beach.php",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "tat-beach-flags",
+          "url": "https://www.tatnews.org/2018/07/important-information-on-marine-tourism-in-thailand-during-the-southwest-monsoon-season/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-oldtown",
+      "action": "improve-existing-url",
+      "reviewedClaims": "UNESCO gastronomy membership since 2015; not a restaurant or market operating guarantee",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-unesco-phuket",
+          "url": "https://www.unesco.org/en/creative-cities/phuket",
+          "access": "official-indexed-extract",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Why food and community history belong in the same outing",
+        "Replace unsupported or overconfident FAQ answers",
+        "Add relevant next-step guide links without creating a competing URL",
+        "Remove unconfirmed old operational facts from linked place card: hkt-lard-yai"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "yangon-thadingyut",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Three-day cultural observance versus a year-specific calendar; official travel advice remains separate",
+      "sourceChecks": [
+        {
+          "sourceId": "thadingyut-ministry",
+          "url": "https://tourism.gov.mm/en/festivals/tha-din-gyut-festival",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "fcdo",
+          "url": "https://www.gov.uk/foreign-travel-advice/myanmar",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "yangon-shwedagon",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Shoulders/knees and shoe/sock visitor conduct; remove unconfirmed long operating window",
+      "sourceChecks": [
+        {
+          "sourceId": "shwedagon-regional",
+          "url": "https://travelyangon.com/the-shwedagon-pagoda/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "fcdo",
+          "url": "https://www.gov.uk/foreign-travel-advice/myanmar",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Remove unconfirmed old operational facts from linked place card: ygn-shwedagon"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "yangon-circular",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Historical railway/project context is not today's timetable or a guaranteed three-hour loop",
+      "sourceChecks": [
+        {
+          "sourceId": "yangon-transport-regional",
+          "url": "https://travelyangon.com/getting-around-2/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "yangon-rail-jica",
+          "url": "https://www.jica.go.jp/english/about/policy/environment/id/asia/southeast/a_b_fi/myanmar/c8h0vm000090rovi.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "fcdo",
+          "url": "https://www.gov.uk/foreign-travel-advice/myanmar",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "yangon-teashops",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Regional tea/food context and named branch reference; no business opening or hygiene guarantee",
+      "sourceChecks": [
+        {
+          "sourceId": "yangon-tea-regional",
+          "url": "https://travelyangon.com/traditional-teahouse/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "yangon-bowls-regional",
+          "url": "https://travelyangon.com/iconic-comfort-bowls/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "yangon-walk",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Named architecture context without a certified route, current interior access or security assessment",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-yangon-heritage",
+          "url": "https://travelyangon.com/suggested-itineraries-ii/",
+          "access": "web-tool-full-page",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "fcdo",
+          "url": "https://www.gov.uk/foreign-travel-advice/myanmar",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Replace unsupported or overconfident FAQ answers",
+        "Remove unverified building dates, fixed route duration and guaranteed café access",
+        "Add relevant next-step guide links without creating a competing URL",
+        "Remove unconfirmed old operational facts from linked place card: ygn-bogyoke"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "singapore-deepavali",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "8 November 2026 and the specified 9 November replacement holiday; event programme remains separate",
+      "sourceChecks": [
+        {
+          "sourceId": "momsg",
+          "url": "https://www.mom.gov.sg/employment-practices/public-holidays",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "singapore-hawker",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Weekday versus weekend Satay Street hours and contradictory general prose; no centre-wide stall timetable",
+      "sourceChecks": [
+        {
+          "sourceId": "laupasat-satay",
+          "url": "https://www.laupasat.sg/sataystreet/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "seoul-euljiro",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Munhwaok address, fourth-Sunday closure and distinct Euljiro arrival stations",
+      "sourceChecks": [
+        {
+          "sourceId": "euljiro-seoul",
+          "url": "https://english.visitseoul.net/City-Hall-Area/Eat-Drink-and-Rest-like-Seoulites-in-Euljiro_/31301",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Munhwaok: one closure check before choosing the soup stop"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "kuala-lumpur-breakfast",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Operator branch locator versus an old promotional menu; no new price or halal certification inferred",
+      "sourceChecks": [
+        {
+          "sourceId": "oldtown-stores",
+          "url": "https://www.oldtown.com.my/store-locator/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "oldtown-menu",
+          "url": "https://www.oldtown.com.my/fb-menu-highlight/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "ho-chi-minh-city-coffee",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Workshop address and specialty-coffee context versus phin ordering; branch/menu confirmation remains needed",
+      "sourceChecks": [
+        {
+          "sourceId": "hcmc-coffee-tourism",
+          "url": "https://vietnam.travel/things-to-do/11-cool-cafes-try-hcmc",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "cong-operator",
+          "url": "https://congcaphe.com/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "london-lord-mayor",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "14 November 2026 show retained as ended archive; viewing point and transport are separate",
+      "sourceChecks": [
+        {
+          "sourceId": "lms-viewing",
+          "url": "https://www.lordmayorsshow.london/practicalities/where-to-go/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "lisbon-views",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Rua da Senhora do Monte viewpoint identity and final-approach planning; no step-free route promised",
+      "sourceChecks": [
+        {
+          "sourceId": "senhora-lisboa",
+          "url": "https://www.visitlisboa.com/en/places/miradouro-da-senhora-do-monte",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "new-york-autumn",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "31 October parade and 1 November race remain separate ended events",
+      "sourceChecks": [
+        {
+          "sourceId": "halloween-organiser",
+          "url": "https://halloween-nyc.com/",
+          "access": "official-indexed-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "nyrr-2026-date",
+          "url": "https://prod.nyrr.org/media-center/news/2026/10/14/new-york-road-runners-celebrates-50-years-of-the-5-boro-tcs-new-york-city-marathon-course-with-limited-edition-merchandise-and-gear",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "new-york-slices",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Joe's named 7 Carmine Street branch; no tasting score or copied ranking",
+      "sourceChecks": [
+        {
+          "sourceId": "joes-operator",
+          "url": "https://www.joespizzanyc.com/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "mexico-city-markets",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Coyoacan market identity and tostada context; nearby museum admission not included",
+      "sourceChecks": [
+        {
+          "sourceId": "coyoacan-tourism",
+          "url": "https://www.mexicocity.cdmx.gob.mx/venues/coyoacan-market/",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "buenos-aires-cafes",
+      "action": "improve-existing-url",
+      "reviewedClaims": "825 Avenida de Mayo and café hours; separate performance purchase",
+      "sourceChecks": [
+        {
+          "sourceId": "tortoni-operator",
+          "url": "https://cafetortoni.com.ar/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Tortoni: keep café hours separate from a performance"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "sydney-sculpture",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Organiser homepage has rolled to 22 October–8 November 2027; preserve distinct 2026 archive",
+      "sourceChecks": [
+        {
+          "sourceId": "sxs",
+          "url": "https://sculpturebythesea.com/bondi/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Next edition: the organiser now lists 22 October–8 November 2027",
+        "Add relevant next-step guide links without creating a competing URL"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "sydney-pools",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Pool versus bistro products and Thursday cleaning caveat; no swimming-safety guarantee",
+      "sourceChecks": [
+        {
+          "sourceId": "icebergs-pool",
+          "url": "https://icebergs.com.au/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "cape-town-hikes",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Official no-solo/group, route and return planning guidance; no route safety inspection",
+      "sourceChecks": [
+        {
+          "sourceId": "sanparks-hiking",
+          "url": "https://www.sanparks.org/parks/table-mountain/useful-information/safe-hiking",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "world-festivals",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Current November announcements distinguished from ended October/early-November references",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-tat-loy-calendar",
+          "url": "https://www.tatnews.org/2026/11/loi-krathong-2026-lights-up-thailands-rivers-and-historic-cities/",
+          "access": "web-tool-full-page",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "nov21-tat-yi-peng",
+          "url": "https://www.tatnews.org/2026/11/tat-announces-loi-krathong-2026-celebrations-in-ayutthaya-and-five-provinces/",
+          "access": "web-tool-full-page",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "November 2026: distinguish confirmed dates from cultural background",
+        "Add relevant next-step guide links without creating a competing URL"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "world-neighbourhoods",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Distinct activity-led neighbourhood choices; Dubai route restrictions not a generic one-dirham promise",
+      "sourceChecks": [
+        {
+          "sourceId": "talatnoi-tat",
+          "url": "https://www.tourismthailand.org/Articles/1-day-in-talat-noi",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "hanoi-tourism",
+          "url": "https://vietnam.travel/things-to-do/explore-old-quarter-your-way",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "euljiro-seoul",
+          "url": "https://english.visitseoul.net/City-Hall-Area/Eat-Drink-and-Rest-like-Seoulites-in-Euljiro_/31301",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "dxb-rta-official",
+          "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "hanoi-old-quarter",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Lake/Old Quarter orientation and trading streets; editorial time slots not measured routes",
+      "sourceChecks": [
+        {
+          "sourceId": "hanoi-tourism",
+          "url": "https://vietnam.travel/things-to-do/explore-old-quarter-your-way",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "paris-seine-islands",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Lambert exterior versus Lauzun appointment context; no two walk-in museums promised",
+      "sourceChecks": [
+        {
+          "sourceId": "paris-islands",
+          "url": "https://parisjetaime.com/eng/article/discovering-the-islands-of-paris-a702",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "istanbul-neighbourhoods-ferry",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Kadikoy–Karakoy–Eminonu operator route and calendar footnotes; no unverified fixed departure copied",
+      "sourceChecks": [
+        {
+          "sourceId": "istanbul-ferry",
+          "url": "https://sehirhatlari.istanbul/tr/seferler/ic-hatlar/istanbul-ici-hatlar/kadikoy-karakoy-eminonu-163",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "hanoi-culture-choices",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "1070/1076 education context and distinct museum address/theme; old tourism tariffs not adopted",
+      "sourceChecks": [
+        {
+          "sourceId": "hanoi-culture",
+          "url": "https://vietnam.travel/things-to-do/11-must-see-attractions-ha-noi",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "siem-reap-craft-afternoon",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Stung Thmey town centre versus Puok Silk Farm with separate guided windows",
+      "sourceChecks": [
+        {
+          "sourceId": "siem-crafts",
+          "url": "https://artisansangkor.com/visit-us/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Grand/Spice/Arasta bazaar identities; no jewellery authenticity or universal shop hours inferred",
+      "sourceChecks": [
+        {
+          "sourceId": "istanbul-bazaars",
+          "url": "https://goturkiye.com/istanbul/historic-bazaars",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "tokyo-solo-asakusa",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Kaminarimon–Nakamise–Sensoji and optional Sumida district structure; durations are editorial",
+      "sourceChecks": [
+        {
+          "sourceId": "tokyo-asakusa",
+          "url": "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "taipei-slow-weekend",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Expired centre maintenance dates do not establish reopening; museum visit is separate from bathing",
+      "sourceChecks": [
+        {
+          "sourceId": "taipei-shopping-district",
+          "url": "https://www.travel.taipei/immersive/en/a-0-1/",
+          "access": "not-freshly-confirmed",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "beitou-museum",
+          "url": "https://hotspringmuseum.taipei/en/content.aspx?id=33&pid=29",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "The centre’s official site announces closure on 24 October 2026 a"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "mexico-city-food-outing",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Arcos de Belen is distinct from Pugibet; exact Salto del Agua/market identity",
+      "sourceChecks": [
+        {
+          "sourceId": "mex-arcos-market",
+          "url": "https://www.mexicocity.cdmx.gob.mx/venues/mercado-san-juan-arcos-de-belen/?lang=en",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "barcelona-first-visit-neighbourhoods",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Gothic Quarter and Park Guell as separate outings; timed hill visit not one citywide walking route",
+      "sourceChecks": [
+        {
+          "sourceId": "bcn-gothic-official",
+          "url": "https://bid.barcelonaturisme.com/wv3/en/page/1052/gothic-quarter.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "bcn-guell-official",
+          "url": "https://parkguell.barcelona/en",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "rome-pantheon-colosseum-planning",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Pantheon context and named standard 24-hour Colosseum product excluding arena; source access qualified",
+      "sourceChecks": [
+        {
+          "sourceId": "rom-pantheon-official",
+          "url": "https://www.turismoroma.it/it/luoghi/pantheon",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "rom-colosseum-official",
+          "url": "https://colosseo.it/en/opening-times-and-tickets/",
+          "access": "official-indexed-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "amsterdam-museum-canals-ferry",
+      "action": "improve-existing-url",
+      "reviewedClaims": "2026/2027 adult rates and booking exceptions; NDSM extension is optional",
+      "sourceChecks": [
+        {
+          "sourceId": "ams-rijks-official",
+          "url": "https://www.rijksmuseum.nl/en/visit/practical-info/opening-hours-and-prices",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "ams-ndsm-official",
+          "url": "https://www.iamsterdam.com/ontdek/buurten/ndsm",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Rijksmuseum: separate the 2026 rate from the announced 2027 rate"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "berlin-history-museum-park",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Planned 4 June 2027 Pergamon reopening remains future, not current access",
+      "sourceChecks": [
+        {
+          "sourceId": "ber-museums-official",
+          "url": "https://www.visitberlin.de/en/museum-island-in-berlin",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Remove repeated Pergamon reopening paragraph; keep 4 June 2027 as a planned future date"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "dubai-creek-al-fahidi-outing",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "CR6 AED2 window, CR7 on-hold and TR10 per-boat product distinction",
+      "sourceChecks": [
+        {
+          "sourceId": "dxb-rta-official",
+          "url": "https://rta.ae/wps/portal/rta/ae/home/promotion/dubai-creek-abra",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "No independent feeding/touching and restricted sacred areas; no staged interaction promised",
+      "sourceChecks": [
+        {
+          "sourceId": "ubd-forest-rules",
+          "url": "https://monkeyforestubud.com/guidelines-faq/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Regular taxi queue Level1 Gates4–7, THB50 surcharge and rail B1; not an all-inclusive hotel fare",
+      "sourceChecks": [
+        {
+          "sourceId": "bkk-airport-aot",
+          "url": "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-three-day-first-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "One district per day and separate airport/temple/museum arrival checks",
+      "sourceChecks": [
+        {
+          "sourceId": "talatnoi-tat",
+          "url": "https://www.tourismthailand.org/Articles/1-day-in-talat-noi",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "bkk-airport-aot",
+          "url": "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-two-day-itinerary",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Gallery Wed–Sun 09–16 versus weekday office; weekend market mornings",
+      "sourceChecks": [
+        {
+          "sourceId": "cnx-museum-calendar",
+          "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/calendar",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "jing-jai-official",
+          "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Town museum context and operator timetable versus beach/local return; Big Buddha access not assumed",
+      "sourceChecks": [
+        {
+          "sourceId": "phuket-thaihua-government",
+          "url": "https://www.phuket.go.th/eng/Museums-Phuket%20Thai%20Hua%20Museum.php",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "phuket-bus-official",
+          "url": "https://www.phuketsmartbus.com/timetable/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Hilltop versus Boudha stupa setting; no fixed fee, measured stairs or universal accessible route added",
+      "sourceChecks": [
+        {
+          "sourceId": "nepal-swayambhu",
+          "url": "https://ntb.gov.np/en/swayambhunath",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "nepal-boudha",
+          "url": "https://ntb.gov.np/en/boudha",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "marrakech-medina-first-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Medina and Jemaa el-Fna cultural context; garden tickets and transport treated separately",
+      "sourceChecks": [
+        {
+          "sourceId": "morocco-medina",
+          "url": "https://www.visitmorocco.com/en/travel/marrakech/medina",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-restaurants-best-for-first-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Old-town pad Thai versus exact Riva Arun riverside branch; no personal tasting score",
+      "sourceChecks": [
+        {
+          "sourceId": "thipsamai-official",
+          "url": "https://thipsamai.com/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "supanniga-tha-tien",
+          "url": "https://supannigaeatingroom.com/contact_riva.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Inspector's own listings confirm named addresses and meal formats, not business operating inventory",
+      "sourceChecks": [
+        {
+          "sourceId": "mae-sai-michelin",
+          "url": "https://guide.michelin.com/en/chiang-mai-region/chiang-mai/restaurant/khao-soi-mae-sai",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "huen-muan-jai-michelin",
+          "url": "https://guide.michelin.com/sg/en/chiang-mai-region/chiang-mai/restaurant/huen-muan-jai",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Inspector's own place identities/addresses, not firsthand tasting or current operator hours",
+      "sourceChecks": [
+        {
+          "sourceId": "one-chun-michelin",
+          "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/one-chun",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "go-benz-michelin",
+          "url": "https://guide.michelin.com/en/phuket-region/phuket/restaurant/go-benz",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Named mall arrival versus retailer branch; product/rate guarantees not inferred",
+      "sourceChecks": [
+        {
+          "sourceId": "iconsiam-arrival",
+          "url": "https://www.iconsiam.com/en/getting-here",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "jim-retail-official",
+          "url": "https://www.jimthompson.com/pages/stores",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Weekend market versus booked cooking-school product and transfer enquiry",
+      "sourceChecks": [
+        {
+          "sourceId": "jing-jai-official",
+          "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "thai-farm-official",
+          "url": "https://thaifarmcooking.net/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Remove unconfirmed old operational facts from linked place card: cnx-warorot"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-shops-services-best-for-town-and-transfers",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Mall identity versus bus timetable; no universal resort or late return promised",
+      "sourceChecks": [
+        {
+          "sourceId": "central-phuket-official",
+          "url": "https://www.centralphuket.com/en",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "phuket-bus-official",
+          "url": "https://www.phuketsmartbus.com/timetable/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Remove unconfirmed old operational facts from linked place card: hkt-lard-yai"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-tailors-best-for-your-trip",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Distinct addresses, fitting constraints and conflicting Empire morning hours; express offer conditional",
+      "sourceChecks": [
+        {
+          "sourceId": "tailor-on-ten-contact",
+          "url": "https://www.tailoronten.com/pages/contact-us",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "jesse-son-faq",
+          "url": "https://jesseandson.com/faq",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "empire-tailors-contact",
+          "url": "https://www.theempiretailors.com/contact-us",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Before a deposit: compare the fitting sequence and the written terms"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-dental-clinics-for-visitors",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Branch/location, outpatient versus inpatient and follow-up planning; indexed sources used where direct access fails; no clinical ranking",
+      "sourceChecks": [
+        {
+          "sourceId": "bidc-contact",
+          "url": "https://www.bidc.dental/dentalclinic_EN/contact.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "bidh-official",
+          "url": "https://dentalhospitalthailand.com/",
+          "access": "official-indexed-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "bangkok-smile-asok-contact",
+          "url": "https://www.bangkokinterdental.com/contact/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "cdc-medical-tourism",
+          "url": "https://www.cdc.gov/yellow-book/hcp/health-care-abroad/medical-tourism.html",
+          "access": "official-indexed-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-spas-best-for-your-trip",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "55/5 Asoke, fifth-floor Thonglor and Divana Nurture branch distinctions; no health-benefit certification",
+      "sourceChecks": [
+        {
+          "sourceId": "health-land-asoke",
+          "url": "https://www.healthlandspa.com/en/location/bangkok/asoke",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "lets-relax-thonglor",
+          "url": "https://letsrelaxspa.com/branches/bangkok-thonglor-onsen-and-spa/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "divana-current-locations",
+          "url": "https://www.divanawellness.com/spa-location/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-national-museum-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Exhibition versus office calendar and Lanna collection remit; no assumed Monday fallback",
+      "sourceChecks": [
+        {
+          "sourceId": "cnx-museum-calendar",
+          "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/calendar",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "cnx-national-museum-official",
+          "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/about",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-thai-hua-museum-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Krabi Road and Chinese-school/community context; current ticket and hours not established by old provincial page",
+      "sourceChecks": [
+        {
+          "sourceId": "phuket-thaihua-government",
+          "url": "https://www.phuket.go.th/eng/Museums-Phuket%20Thai%20Hua%20Museum.php",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "action": "improve-existing-url",
+      "reviewedClaims": "2026 calendar updated20 November versus prior-season2025 PDF; no citywide peak claim",
+      "sourceChecks": [
+        {
+          "sourceId": "kyoto-autumn-calendar-official",
+          "url": "https://kyoto.travel/en/seasonal-info/autumnleaves/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "The latest calendar observation is dated 20 November"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Dated15 October future deployment change; coming-weeks statement not fresh cabin availability",
+      "sourceChecks": [
+        {
+          "sourceId": "carnival-australia-oct2026-official",
+          "url": "https://www.carnival-news.com/2026/10/15/carnival-cruise-line-announces-australia-deployment-change",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "The operator also says its 2028/29 programme for those remaining "
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Progressive November rollout on flights over six hours with cabin-specific provisions; not every flight guaranteed",
+      "sourceChecks": [
+        {
+          "sourceId": "sia-amenities-oct2026-official",
+          "url": "https://www.singaporeair.com/vi_VN/vn/corporate/newsroom/press-release/2026/oct-to-dec-2026/singapore-airlines-introduces-new-range-of-in-flight-amenities-a/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-rainy-day-museums-bacc-museum-siam",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Different admission/visitor formats and BACC Monday closure; separate programme charges",
+      "sourceChecks": [
+        {
+          "sourceId": "museum-siam-visit",
+          "url": "https://www.museumsiam.org/museumsiam-visit.php",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "bacc-visit-official",
+          "url": "https://www.bacc.or.th/en/plan-your-visit/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-bacc-art-music-october-november-2026",
+      "action": "improve-existing-url",
+      "reviewedClaims": "All three programmes ended; remove remaining upcoming aquascape language",
+      "sourceChecks": [
+        {
+          "sourceId": "bacc-creative-ward-2026",
+          "url": "https://www.bacc.or.th/en/events/96447",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "bacc-unplugged-oct-2026",
+          "url": "https://www.bacc.or.th/en/events/96357",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "bacc-aquascape-2026",
+          "url": "https://www.bacc.or.th/en/events/95818",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Archive the ended aquascape programme in title, introduction, quick plan and sections"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-theatre-festival-2026-visitor-guide",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "14–29 November/103 announced performances, named venues, selected free shows rather than universal pass",
+      "sourceChecks": [
+        {
+          "sourceId": "bacc-theatre-2026",
+          "url": "https://www.bacc.or.th/en/events/93046",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "singapore-national-gallery-november-2026-exhibition",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "5Nov2026–26Sep2027 exhibition and UOB gallery-specific closure, separate eligibility/tickets",
+      "sourceChecks": [
+        {
+          "sourceId": "ngs-imagine-2026",
+          "url": "https://www.nationalgallery.sg/sg/en/exhibitions/Lets-Imagine-the-World-Together.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "ngs-visit-oct26",
+          "url": "https://www.nationalgallery.sg/sg/en/visit/visitor-information.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "tokyo-meiji-jingu-first-visit-guide",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "November06:10–16:10 versus December and paid garden/museum versus free grounds",
+      "sourceChecks": [
+        {
+          "sourceId": "meiji-hours-oct26",
+          "url": "https://www.meijijingu.or.jp/en/opening/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "meiji-qa-oct26",
+          "url": "https://www.meijijingu.or.jp/en/qa/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "best-bangkok-restaurants-pad-thai-crab-omelette",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Named restaurant comparison; Thipsamai branch/Tuesday verified, Jay Fai operating hours not freshly established",
+      "sourceChecks": [
+        {
+          "sourceId": "best-thipsamai",
+          "url": "https://thipsamai.com/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "best-jayfai",
+          "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/jay-fai",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Remove unconfirmed old operational facts from linked place card: bkk-jay-fai"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "best-bangkok-riverside-hotels-two-stays",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Two named hotel operator identities; no room availability, boat entitlement or personal stay guarantee",
+      "sourceChecks": [
+        {
+          "sourceId": "best-mandarin",
+          "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "best-peninsula",
+          "url": "https://www.peninsula.com/en/bangkok/5-star-luxury-hotel-riverside",
+          "access": "web-tool-full-page",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-jim-thompson-house-guided-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Official indexed guide-only entry, THB250 adult/150 age10–21/under10 with adult and hours; direct site inaccessible",
+      "sourceChecks": [
+        {
+          "sourceId": "oct31-jim-visitor",
+          "url": "https://jimthompsonhouse.org/visitor-information/",
+          "access": "official-indexed-homepage-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "city-edit-bangkok-jim-thompson-house-guided-visit",
+          "url": "https://jimthompsonhouse.org/",
+          "access": "official-indexed-homepage-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-museum-siam-interactive-history-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Sanam Chai Exit1, Tue–Sun10–18 and adultTHB100; concession eligibility separate",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-bangkok-museum-siam-interactive-history-visit",
+          "url": "https://www.museumsiam.org/museumsiam-visit.php",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "singapore-botanic-gardens-first-walk",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Free general gardens versus standard/local orchid ticket categories and separate last entry",
+      "sourceChecks": [
+        {
+          "sourceId": "oct31-sbg-visitor",
+          "url": "https://sbg.nparks.gov.sg/visit/general-info/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "oct31-orchid",
+          "url": "https://sbg.nparks.gov.sg/attractions/national-orchid-garden/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "singapore-gardens-by-the-bay-choose-attraction",
+      "action": "improve-existing-url",
+      "reviewedClaims": "MRT approach and attraction-specific maintenance; December5–6 access notices linked, not a whole-site closure",
+      "sourceChecks": [
+        {
+          "sourceId": "oct31-gbtb-arrival",
+          "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit/getting-here.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "oct31-gbtb-hours",
+          "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "city-edit-singapore-gardens-by-the-bay-choose-attraction",
+          "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit.html",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Read the current site notices before choosing the arrival",
+        "Add relevant next-step guide links without creating a competing URL"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "kuala-lumpur-petronas-towers-ticket-choice",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "15-minute advance entry and selected Monday openings; exact product inclusions remain decisive",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-kuala-lumpur-petronas-towers-ticket-choice",
+          "url": "https://www.petronastwintowers.com.my/plan-your-visit/admission-ticketing/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "kuala-lumpur-jalan-alor-dinner-plan",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Bukit Bintang/Jalan Alor meal identity; specific food-guide URL unavailable, no blanket new stall hours",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-bukit-food",
+          "url": "https://www.malaysia.travel/explore/bukit-bintang",
+          "access": "not-freshly-confirmed",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "city-edit-kuala-lumpur-jalan-alor-dinner-plan",
+          "url": "https://www.malaysia.travel/explore/top-places-to-visit-in-kuala-lumpur",
+          "access": "not-freshly-confirmed",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "lisbon-pasteis-de-belem-bakery-stop",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "08–21 ordinary closing versus July–September22 and holiday19 exceptions",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-pasteis-contact",
+          "url": "https://pasteisdebelem.pt/en/contact/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "lisbon-lx-factory-market-browsing",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Sunday11–18 market at Rua Rodrigues Faria103 versus permanent shops",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-lxmarket",
+          "url": "https://www.visitlisboa.com/en/places/lx-market-feira-na-fabrica",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "new-york-high-line-design-walk",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Designer identity and operator map as route research; PDF not text-parsed in HTTP cache, current lifts not certified",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-highline-map",
+          "url": "https://files.thehighline.org/pdf/High_Line_Pocket_Guide_Web.pdf",
+          "access": "document-retrieved-not-reparsed",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "city-edit-new-york-high-line-design-walk",
+          "url": "https://dsrny.com/project/the-high-line",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "new-york-met-first-visit-two-galleries",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Official indexed admission/Wednesday closure and collection-record anchors; room access not guaranteed",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-new-york-met-first-visit-two-galleries",
+          "url": "https://www.metmuseum.org/plan-your-visit",
+          "access": "official-indexed-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "oct31-met-dendur",
+          "url": "https://www.metmuseum.org/art/collection/search/547802",
+          "access": "not-freshly-confirmed",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "oct31-met-krater",
+          "url": "https://www.metmuseum.org/art/collection/search/248904",
+          "access": "not-freshly-confirmed",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "mexico-city-anthropology-museum-focused-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Museum identity/collection context; direct general info restricted, no unverified tariff adopted",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-mexico-city-anthropology-museum-focused-visit",
+          "url": "https://www.inah.gob.mx/museos/museo-nacional-de-antropologia",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "nov12-mna-info",
+          "url": "https://mna.inah.gob.mx/informacion_general.php",
+          "access": "not-freshly-confirmed",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "mexico-city-bellas-artes-museum-or-performance",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Official indexed mural museum identity distinct from performance ticket; old booklet not a live programme",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-mexico-city-bellas-artes-museum-or-performance",
+          "url": "https://inba.gob.mx/recinto/67",
+          "access": "official-indexed-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "sydney-opera-house-tour-or-show",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Tour products and Stage Door for Mobility/Backstage versus general groups desk",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-sydney-opera-house-tour-or-show",
+          "url": "https://www.sydneyoperahouse.com/visit",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "oct31-opera-tours",
+          "url": "https://www.sydneyoperahouse.com/tours",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "sydney-royal-botanic-garden-harbour-pause",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Free general garden and named Main Pond anchor; extra activities separately booked",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-sydney-garden",
+          "url": "https://www.botanicgardens.org.au/royal-botanic-garden-sydney",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "nov12-sydney-pond",
+          "url": "https://www.botanicgardens.org.au/royal-botanic-garden-sydney/garden-highlights/main-pond-sydney-harbour",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "cape-town-kirstenbosch-garden-day",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Standard non-African/SADC adultR270 and cashless terms; canopy included in garden entry",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-kirstenbosch-info",
+          "url": "https://www.sanbi.org/gardens/kirstenboch/visitor-information/information/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        },
+        {
+          "sourceId": "nov12-kirstenbosch-canopy",
+          "url": "https://www.sanbi.org/gardens/kirstenboch/tours/tree-canopy-walkway/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "seoul-gyeongbokgung-daytime-palace-plan",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Nov–Feb09–17, last16 and Tuesday/public-holiday closure exception",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-seoul-gyeongbokgung-daytime-palace-plan",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87740",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "seoul-gwangjang-market-food-shopping-choice",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Market identity; city-guide station/address record retains Nov12 scope, no blanket stall schedule",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-seoul-gwangjang-market-food-shopping-choice",
+          "url": "https://english.seoul.go.kr/gwangjang-market/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "ho-chi-minh-war-remnants-museum-thoughtful-visit",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "28VoVanTan, distressing war collection; old tourism price/split hours deliberately not republished",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-hcmc-context",
+          "url": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "ho-chi-minh-central-post-office-short-stop",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Post-office identity and architecture context; no old hours, postage or Eiffel authorship guarantee",
+      "sourceChecks": [
+        {
+          "sourceId": "nov12-hcmc-context",
+          "url": "https://vietnam.travel/things-to-do/7-must-see-attractions-hcmc/",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "barcelona-park-guell-timed-visit-plan",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "30-minute post-slot window/no re-entry and advance-purchase need; product terms distinguish ticket channels",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-barcelona-park-guell-timed-visit-plan",
+          "url": "https://parkguell.barcelona/en/planning-your-visit/access-regulations",
+          "access": "direct-html",
+          "httpStatus": 200,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "rome-colosseum-ticket-product-explained",
+      "action": "retain-existing-content-with-scoped-review",
+      "reviewedClaims": "Official indexed standard24h ticket first/second levels without arena; other24h products differ",
+      "sourceChecks": [
+        {
+          "sourceId": "city-edit-rome-colosseum-ticket-product-explained",
+          "url": "https://colosseo.it/en/opening-times-and-tickets/",
+          "access": "official-indexed-extract",
+          "httpStatus": "unavailable",
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "cape-town-bo-kaap-respectful-neighbourhood-visit",
+      "action": "improve-existing-url",
+      "reviewedClaims": "Museum operator/community history as learning anchor; residential/mosque permission separate",
+      "sourceChecks": [
+        {
+          "sourceId": "nov21-iziko-bokaap",
+          "url": "https://www.iziko.org.za/museums/bo-kaap-museum/",
+          "access": "web-tool-full-page",
+          "httpStatus": null,
+          "retrievalIsNotClaimVerification": true
+        }
+      ],
+      "changes": [
+        "Use the museum operator for the learning stop",
+        "Add relevant next-step guide links without creating a competing URL"
+      ],
+      "limits": "Targeted published-source comparison, not all-claim verification, firsthand inspection, live inventory, safety or image-rights clearance.",
+      "fullPublisherReview": false
+    }
+  ],
+  "sharedPlaceChanges": [
+    {
+      "id": "bkk-jay-fai",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Wednesday to Saturday",
+        "price": "Confirm the current menu; seafood specialities can be a splurge"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-nai-mong",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Closed Monday and Tuesday",
+        "price": "About ฿150"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-ouan-pochana",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "price": "About ฿80"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-boat-noodle-alley",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Lunch to late evening",
+        "price": "฿15 to ฿20 a bowl"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-go-ang",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "6am to 2pm and 5pm to midnight",
+        "price": "฿60 to ฿100"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-prachak",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "price": "About ฿150 for a quarter duck"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-jok-prince",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "6am to 1pm, and evenings",
+        "price": "About ฿70"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-mae-varee",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Until about 11pm",
+        "price": "About ฿150"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-sunday-walking-street",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Sundays, about 4pm to 10pm"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-wualai",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Saturdays 4.30pm to 11pm"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-warorot",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Indoor market 4am to 6pm · flower market 24 hours"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-gate-market",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Indoor 4am to 4pm · outdoor stalls 4pm to midnight"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-night-bazaar",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Daily 5pm to midnight"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-kad-chin-haw",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Fridays 6am to 11am"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-lam-duan",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Daily 8am to 4pm"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-khao-soi-islam",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "About 8am to 6pm. Friday closures reported"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "cnx-cowboy-hat",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "From about 5pm. Arrive by 6pm"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "hkt-lard-yai",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Sundays 4pm to 10pm"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "ygn-shwedagon",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "Early morning to 10pm"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "ygn-bogyoke",
+      "action": "remove-unconfirmed-operational-claim",
+      "removed": {
+        "hours": "9am to 5pm, closed Mondays"
+      },
+      "reason": "A fresh operator-specific source did not establish these old hours or prices in this pass."
+    },
+    {
+      "id": "bkk-thipsamai",
+      "action": "scope-hours-check",
+      "sourceIds": [
+        "thipsamai-official"
+      ]
+    },
+    {
+      "id": "bue-tortoni",
+      "action": "scope-hours-check",
+      "sourceIds": [
+        "tortoni-operator"
+      ]
+    }
+  ],
+  "relatedEventChanges": [
+    "bkk-loy-krathong",
+    "bkk-wonderfruit",
+    "cnx-yi-peng"
+  ],
+  "summary": {
+    "reviewed": 100,
+    "articlesChanged": 27,
+    "retainedWithoutArtificialDateChange": 73,
+    "sharedPlaceCardsChanged": 22,
+    "priorNov21Passes": 24,
+    "totalGuideInventory": 124
+  },
+  "openBoundaries": [
+    "Some sources permit only indexed extracts or retain prior dated document scope; see individual access status.",
+    "Restaurant inspector listings confirm what that publisher lists, not current business operations or personal tasting.",
+    "Publisher review, original field reporting and rights clearance remain separate.",
+    "Google Search growth and AdSense approval are not guaranteed by a source review."
+  ],
+  "validation": {
+    "contentAudit": "passed:124 guides,186 places,180 images; no errors or warnings",
+    "lint": "passed",
+    "tests": "21 passed,0 failed",
+    "productionBuild": "passed,149 static pages",
+    "previewHttp": "100 guides + 6 related pages passed;178 sitemap URLs; no detected issues",
+    "visualViewport": "Not run: browser RPC unavailable. No layout components changed.",
+    "editorialSignoff": "124 full publisher reviews remain pending; source checks do not provide that signoff."
+  },
+  "release": {
+    "status": "validated-for-release",
+    "method": "GitHub main to Vercel",
+    "liveVerification": "Recorded separately after deployment"
+  }
+}

@@ -132,7 +132,7 @@
     "sxs": {
       "name": "Sculpture by the Sea, Bondi (official)",
       "url": "https://sculpturebythesea.com/bondi/",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "lms": {
       "name": "Lord Mayor's Show (official)",
@@ -484,7 +484,7 @@
     "euljiro-seoul": {
       "name": "Seoul Tourism Organization — Euljiro meal and Nogari Street outing",
       "url": "https://english.visitseoul.net/City-Hall-Area/Eat-Drink-and-Rest-like-Seoulites-in-Euljiro_/31301",
-      "consultedAt": "2026-10-19",
+      "consultedAt": "2026-11-21",
       "publishedAt": "2019-09-06"
     },
     "santa-maria-tourism": {
@@ -655,7 +655,7 @@
     "wonderfruit-organiser": {
       "name": "Wonderfruit — organiser information",
       "url": "https://www.wonderfruit.co/faq",
-      "consultedAt": "2026-10-09"
+      "consultedAt": "2026-11-21"
     },
     "bab-organiser": {
       "name": "Bangkok Art Biennale Foundation — 2026 announcement",
@@ -710,7 +710,7 @@
     "ams-rijks-official": {
       "name": "Rijksmuseum — admissions, start times and opening hours",
       "url": "https://www.rijksmuseum.nl/en/visit/practical-info/opening-hours-and-prices",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "ams-canals-official": {
       "name": "I amsterdam — Canal Ring and City Centre",
@@ -735,7 +735,7 @@
     "ber-museums-official": {
       "name": "visitBerlin — Museum Island",
       "url": "https://www.visitberlin.de/en/museum-island-in-berlin",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "ber-tiergarten-official": {
       "name": "Berlin.de — Tiergarten",
@@ -830,7 +830,7 @@
     "thipsamai-official": {
       "name": "Thipsamai — menu and contact",
       "url": "https://thipsamai.com/",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "supanniga-tha-tien": {
       "name": "Supanniga Eating Room — Tha Tien",
@@ -870,7 +870,7 @@
     "jing-jai-official": {
       "name": "Central Group — Jing Jai Central",
       "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "central-phuket-official": {
       "name": "Central Phuket — directory",
@@ -922,12 +922,12 @@
     "jesse-son-faq": {
       "name": "Jesse & Son — tailoring FAQ",
       "url": "https://jesseandson.com/faq",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "empire-tailors-contact": {
       "name": "The Empire Tailors — contact and storefront",
       "url": "https://www.theempiretailors.com/contact-us",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "bidc-contact": {
       "name": "BIDC — main centre and branch contacts",
@@ -1018,7 +1018,7 @@
     "kyoto-autumn-calendar-official": {
       "name": "Kyoto City Official Travel Guide — autumn leaves calendar",
       "url": "https://kyoto.travel/en/seasonal-info/autumnleaves/",
-      "consultedAt": "2026-10-18"
+      "consultedAt": "2026-11-21"
     },
     "sia-amenities-oct2026-official": {
       "name": "Singapore Airlines — new in-flight amenities announcement",
@@ -1157,7 +1157,7 @@
     "tortoni-operator": {
       "name": "Café Tortoni — official visitor and contact information",
       "url": "https://cafetortoni.com.ar/",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "sxs-routes": {
       "name": "Sculpture by the Sea — shorter and easier walking routes",
@@ -1349,7 +1349,7 @@
     "bacc-aquascape-2026": {
       "name": "BACC — The Art of Thai Aquascape 2026",
       "url": "https://www.bacc.or.th/en/events/95818",
-      "consultedAt": "2026-10-26"
+      "consultedAt": "2026-11-21"
     },
     "bacc-theatre-2026": {
       "name": "BACC — Bangkok Theatre Festival 2026",
@@ -1437,7 +1437,7 @@
     "city-edit-singapore-gardens-by-the-bay-choose-attraction": {
       "name": "Gardens by the Bay — research reference",
       "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit.html",
-      "consultedAt": "2026-10-31"
+      "consultedAt": "2026-11-21"
     },
     "city-edit-kuala-lumpur-petronas-towers-ticket-choice": {
       "name": "Petronas Twin Towers — research reference",
@@ -1582,7 +1582,7 @@
     "oct31-gbtb-hours": {
       "name": "Gardens by the Bay — attraction hours and closures",
       "url": "https://www.gardensbythebay.com.sg/en/plan-your-visit/opening-hours.html",
-      "consultedAt": "2026-10-31"
+      "consultedAt": "2026-11-21"
     },
     "oct31-opera-tours": {
       "name": "Sydney Opera House — tours and check-in locations",
@@ -1937,6 +1937,41 @@
     "review21-hkt-fare": {
       "name": "Phuket Smart Bus — route-specific fares and timetable",
       "url": "https://www.phuketsmartbus.com/timetable/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-tat-loy-calendar": {
+      "name": "Tourism Authority of Thailand: Loi Krathong 2026 calendar (5 November)",
+      "url": "https://www.tatnews.org/2026/11/loi-krathong-2026-lights-up-thailands-rivers-and-historic-cities/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-tat-yi-peng": {
+      "name": "Tourism Authority of Thailand: provincial festival announcement (18 November)",
+      "url": "https://www.tatnews.org/2026/11/tat-announces-loi-krathong-2026-celebrations-in-ayutthaya-and-five-provinces/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-tat-khao-soi": {
+      "name": "Tourism Authority of Thailand: regional dishes (2020 cultural background)",
+      "url": "https://www.tatnews.org/2020/01/much-loved-must-eat-dishes-from-different-regions-of-thailand/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-tat-chedi-luang": {
+      "name": "Tourism Authority of Thailand: Wat Chedi Luang",
+      "url": "https://www.tourismthailand.org/Attraction/wat-chedi-luang-varavihara",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-unesco-phuket": {
+      "name": "UNESCO Creative Cities: Phuket",
+      "url": "https://www.unesco.org/en/creative-cities/phuket",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-yangon-heritage": {
+      "name": "Yangon Regional Tourism Executive Committee: heritage itinerary",
+      "url": "https://travelyangon.com/suggested-itineraries-ii/",
+      "consultedAt": "2026-11-21"
+    },
+    "nov21-iziko-bokaap": {
+      "name": "Iziko Museums: Bo-Kaap Museum",
+      "url": "https://www.iziko.org.za/museums/bo-kaap-museum/",
       "consultedAt": "2026-11-21"
     }
   },
@@ -3150,7 +3185,8 @@
       "src": [
         "aufood",
         "bpjf",
-        "jayfai-michelin"
+        "jayfai-michelin",
+        "thipsamai-official"
       ],
       "body": [
         "A list of nine food businesses is useful only if it helps you choose. Start with the dish you want to try, then compare the location and the effort of getting there. A famous name is less useful when it leaves you crossing Bangkok for a meal you did not especially want.",
@@ -3214,6 +3250,16 @@
           "p": [
             "Read the displayed price and portion description before ordering. Start with enough for the meal you want rather than trying every specialty immediately. Add another dish only after you know the first order’s size and what your group still wants.",
             "Keep transport, food and dessert as separate spending lines. Older prices in research sources are background, not the current bill. For a useful recommendation to a friend, note what you actually ordered and paid rather than declaring the entire shop the city’s best."
+          ]
+        },
+        {
+          "h": "A named pad Thai stop: check the branch and the day",
+          "p": [
+            "Thipsamai’s own site identifies 313–315 Maha Chai Road and lists 09:00–00:00 opening with Tuesday closure. This is the named old-town branch, not a timetable for every outlet using the brand. Read its current menu for the order you want.",
+            "Choose that stop when an old-town meal fits your day. The other vendors below are research leads rather than a set of recently inspected restaurants. We have removed unconfirmed old prices and trading hours from their shared cards; ask the business about the actual order, ingredients and opening before making a special journey."
+          ],
+          "sourceIds": [
+            "thipsamai-official"
           ]
         }
       ],
@@ -3279,11 +3325,11 @@
         ]
       },
       "researchNote": "Sidestreet’s suggested outing, based on the references below. Time allowances are planning choices, not measured journey times. Check current access, prices and services before booking.",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Bangkok Street Food: Plan Your First Food Outing",
       "planLinks": [
@@ -3292,7 +3338,10 @@
           "/guides/bangkok-talatnoi"
         ]
       ],
-      "relatedGuides": []
+      "relatedGuides": [
+        "bangkok-suvarnabhumi-airport-transfer",
+        "bangkok-restaurants-best-for-first-visit"
+      ]
     },
     {
       "id": "bkk-rooftops",
@@ -3639,12 +3688,13 @@
       "cat": "things",
       "kind": "guide",
       "mins": 2,
-      "title": "Loy Krathong in Bangkok: plan for a local programme",
-      "dek": "Choose a riverside setting, understand participation and arrange your return before joining a festival evening.",
+      "title": "Loy Krathong in Bangkok 2026: compare the announced places and dates",
+      "dek": "Use TAT’s November calendar to choose a named Bangkok location, then check the local activity, access and return journey.",
       "src": [
         "umelk",
         "thgcal",
-        "thgyp"
+        "thgyp",
+        "nov21-tat-loy-calendar"
       ],
       "body": [
         "A festival date and a venue programme are different pieces of information. Before arranging a Bangkok evening for Loy Krathong, find the notice for the actual place you hope to visit. A national calendar does not tell you when a local activity starts, where visitors gather or which areas are open.",
@@ -3652,13 +3702,14 @@
       ],
       "sections": [
         {
-          "h": "Choose a Bangkok enquiry without inventing a 2026 programme",
+          "h": "November 2026: start with a named location",
           "p": [
-            "A public holiday or lunar date is not an event schedule. The references checked for this guide did not establish a complete current Bangkok venue programme, so we do not publish a floating time, firework time or guaranteed release point. A useful plan begins with one venue enquiry, not a list of unconfirmed celebrations.",
-            "For a cultural riverside interest, ask the actual temple or venue about visitor areas, worship and any designated floating activity. For a meal-led evening, ask the restaurant about its ordinary reservation and any separate event product. A dinner table and permission to approach the water are separate questions.",
-            "If you cannot verify the intended activity, keep a normal river-area outing through our temple guide or choose a meal on its own. Do not relabel that fallback as a confirmed festival programme."
+            "TAT’s 5 November calendar puts the full moon on 24 November. Its Bangkok listings give Phra Sumen Fort and Maha Kan Fort for 23–25 November, Wat Samian Nari for 24 November, and a historical-route programme for 17–29 November. These are different date windows; the longest range does not apply to every stop.",
+            "For a short historic-city evening, choose one named fort area rather than transferring between all the listed locations. Save the latest local entrance and transport notice. The calendar does not specify every performance time, accessible approach or permission to float a krathong; those still need a venue-specific check."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "nov21-tat-loy-calendar"
+          ]
         },
         {
           "h": "Choose one place and one purpose",
@@ -3697,27 +3748,27 @@
       "slug": "bangkok-loy-krathong",
       "img": "t-loy-krathong",
       "researchNote": "Editorial research check 19 October 2026. A complete current local programme or release-permission notice was not established; this limitation is explicit rather than filled with dates from another edition.",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
-          "Purpose",
-          "Observation, permitted participation or a riverside evening."
+          "Full moon",
+          "24 November 2026, in TAT’s calendar"
         ],
         [
-          "Before booking",
-          "Confirm the actual venue programme."
+          "Named fort programmes",
+          "Phra Sumen and Maha Kan: 23–25 November"
         ],
         [
-          "Keep separate",
-          "Food, purchases and the journey home."
+          "Before travelling",
+          "Local access, activity times and the journey home"
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
-        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
-      "seoTitle": "Loy Krathong in Bangkok: plan for a local programme",
+      "seoTitle": "Bangkok Loy Krathong 2026: Dates & Venue Choices",
       "planTable": {
         "caption": "Make the choice before arranging the outing",
         "headers": [
@@ -3753,8 +3804,11 @@
           "https://www.tourismthailand.org/Events-and-Festivals"
         ]
       ],
-      "relatedGuides": [],
-      "publicationNote": "Cultural planning background. The references do not establish a complete current local programme or participation permission. Use the named organiser or authority notice for a dated event."
+      "relatedGuides": [
+        "chiang-mai-yi-peng",
+        "bangkok-three-day-first-visit"
+      ],
+      "publicationNote": "The dated 2026 references are from TAT’s 5 November announcement. After these dates, use them as archive context and check a new programme; they do not establish participation permission."
     },
     {
       "id": "bkk-biennale",
@@ -3928,6 +3982,16 @@
           "p": [
             "Check the operator’s actual last connections and choose an alternative if the finish time is uncertain. Agree a meeting point outside the busiest exit area without assuming a pickup location will remain available. Wonderfruit is an out-of-town trip and needs its own accommodation and transfer decision."
           ]
+        },
+        {
+          "h": "Wonderfruit: a separate December trip, not another Bangkok hall",
+          "p": [
+            "The organiser’s current FAQ identifies Wonderfruit as 3–7 December 2026. It also requires ticket pre-registration and an entrant code before arrival. Read the live instructions for when registration is available; an FAQ requirement is not proof that a form or a ticket category is currently available.",
+            "Before choosing this option, price the whole out-of-town stay and return journey. A Bangkok concert evening and several festival days require different accommodation, transport and leave from work. Keep the October concert examples above in the archive rather than treating their artist names as fresh availability."
+          ],
+          "sourceIds": [
+            "wonderfruit-organiser"
+          ]
         }
       ],
       "tips": [
@@ -3947,7 +4011,7 @@
       ],
       "slug": "bangkok-gigs",
       "img": "t-rajamangala",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
           "Choose first",
@@ -3963,9 +4027,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "researchNote": "Planning comparison revised 19 October 2026. Artist-listing references retain their actual earlier check dates; remaining tickets and current event changes have not been inferred.",
       "seoTitle": "Bangkok Concerts: Show & Travel Planning",
@@ -4290,19 +4354,19 @@
       "faq": [
         [
           "Can I visit Ayutthaya without a guide?",
-          "Easily. Rent a bicycle or hire a tuk-tuk with a driver for a few hours outside the station. The main ruins are signposted in English."
+          "A self-arranged outing is an option. Confirm the station-to-sights transport, current admissions and a workable return before choosing the sites; rental or driver availability is not guaranteed."
         ],
         [
-          "Is there an entrance fee at Ayutthaya?",
-          "Check current charges and any multi-site ticket at the official ticket office. Budget admissions separately from transport."
+          "Can I book every local train online?",
+          "No. Use the State Railway booking system for services it offers and ask the station about local-line tickets and connections that are not available online."
         ],
         [
           "Is the train better than a minivan?",
-          "Compare actual departure points, journey times, comfort and total transfers for your date. A train is not automatically quicker or cheaper door to door."
+          "Compare actual departure points, total transfers, your travel date and the complete return plan. There is no single answer for every hotel and destination."
         ],
         [
-          "What is the best time of year?",
-          "November to February, when it is cooler and dry. In any season, do the ruins early and late and spend the middle of the day over lunch."
+          "What if the weather changes?",
+          "Check the forecast and access notices for your day. Shorten outdoor stops or choose another outing rather than relying on a general seasonal description."
         ]
       ],
       "slug": "bangkok-daytrips",
@@ -4349,12 +4413,12 @@
       "src": [
         "srt-booking"
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Bangkok Train Day Trips: Compare Your Options",
       "relatedGuides": []
@@ -4579,7 +4643,8 @@
       "dek": "Plan a lantern-season visit around a confirmed programme, with participation and travel arranged separately.",
       "src": [
         "thgyp",
-        "umelk"
+        "umelk",
+        "nov21-tat-yi-peng"
       ],
       "body": [
         "A lantern-season trip needs more than a widely shared date. Choose the actual programme you want to attend and find the organiser or local authority notice for it. A city celebration and a ticketed lantern-release event can have different locations, access rules and travel needs.",
@@ -4587,13 +4652,14 @@
       ],
       "sections": [
         {
-          "h": "Distinguish a city evening from a ticketed release package",
+          "h": "The announced 2026 programme and the permission boundary",
           "p": [
-            "For a city evening, the useful information is a local notice naming the area, activities and current visitor arrangements. For a paid lantern-release package, the useful information is the named organiser, exact venue, admission terms and return transport. Neither establishes permission for an independent release elsewhere.",
-            "The sources checked here do not establish a complete 2026 municipal release-permission notice. We therefore do not label a public bridge, riverbank or temple as an authorised release point. Compare the package only after its actual organiser can answer the participation and transport questions.",
-            "If your interest is mainly the atmosphere of Chiang Mai, the Old City walking guide provides a separate daytime plan. Add a festival activity only when its actual programme is established. A social-media image is not evidence of permission or a current booking product."
+            "TAT’s 18 November announcement gives Chiang Mai’s Yi Peng festival as 23–25 November 2026, with Wat Chedi Luang lamp-lighting ceremonies on 20–23 November and a city procession on 25 November. Choose observation in the city or a separate organised event before arranging transport.",
+            "The same announcement describes authorised releases on 24–25 November in designated areas of Mae On, Doi Saket and San Sai, under aviation controls. Naming a district does not authorise a release anywhere within it. Obtain the exact organiser, place, time and applicable instructions; the article does not grant independent release permission."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "nov21-tat-yi-peng"
+          ]
         },
         {
           "h": "Choose the experience before the ticket",
@@ -4632,25 +4698,25 @@
       "slug": "chiang-mai-yi-peng",
       "img": "t-yipeng",
       "researchNote": "Editorial research check 19 October 2026. A complete current local programme or release-permission notice was not established; this limitation is explicit rather than filled with dates from another edition.",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
-          "Start with",
-          "A confirmed local or organiser programme."
+          "City festival",
+          "23–25 November 2026, announced by TAT"
         ],
         [
-          "Decide separately",
-          "Observation and any permitted participation."
+          "Observation choice",
+          "Lamps, decorations or the dated procession"
         ],
         [
-          "Transport",
-          "Check the event location and return before buying."
+          "Release participation",
+          "Exact authorised organiser, site and conditions required"
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
-        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Yi Peng in Chiang Mai: observing the festival and checking permission",
       "planTable": {
@@ -4688,8 +4754,11 @@
           "https://www.tourismthailand.org/Events-and-Festivals"
         ]
       ],
-      "relatedGuides": [],
-      "publicationNote": "Cultural planning background. The references do not establish a complete current local programme or participation permission. Use the named organiser or authority notice for a dated event."
+      "relatedGuides": [
+        "bangkok-loy-krathong",
+        "chiang-mai-two-day-itinerary"
+      ],
+      "publicationNote": "Dated references follow TAT’s 18 November 2026 announcement. Venue permissions and changes require their own current confirmation; this is not a release permit."
     },
     {
       "id": "cnx-markets",
@@ -4702,7 +4771,8 @@
       "src": [
         "expcm",
         "thgsws",
-        "cm-walking-government"
+        "cm-walking-government",
+        "jing-jai-official"
       ],
       "body": [
         "A market calendar is a way to reduce choices, not fill every day. Decide whether you want breakfast, groceries, a meal or souvenir browsing, then compare that purpose with the markets operating on your date. One well-chosen visit can be enough.",
@@ -4778,6 +4848,16 @@
             "For gifts, compare size, packing and your transport home before choosing between products. A small item you can use or carry may be a better purchase than one you buy because it looks unusual. Keep food spending separate so gift shopping does not absorb the dinner allowance.",
             "If you have only one evening, choose the operating market closest to the activity you most want. Do not wait for the whole weekly calendar to line up. A daily food market can be the more practical choice when you simply need a seated meal."
           ]
+        },
+        {
+          "h": "An operator-backed weekend-morning alternative",
+          "p": [
+            "Central Group describes Jing Jai as separate village, market and gallery areas, with a weekend market on Saturday and Sunday mornings. That creates a different choice from Wualai or Ratchadamnoen: a morning food-and-craft outing rather than a walking-street dinner.",
+            "Choose one shopping purpose and check the current session before travelling. A permanent business at the site and the weekend stalls need different opening checks. The old provincial walking-street notice remains historical orientation, not a current clock time for every stall."
+          ],
+          "sourceIds": [
+            "jing-jai-official"
+          ]
         }
       ],
       "tips": [
@@ -4788,20 +4868,20 @@
       ],
       "faq": [
         [
-          "Do the markets run in the rain?",
-          "In light rain, yes. A heavy storm will send many vendors home, particularly at the open-air walking streets."
+          "Do markets always operate in the rain?",
+          "No blanket schedule is established here. Check current local notices and the seller you need; weather and individual decisions can change a session."
         ],
         [
-          "Are they suitable for young children?",
-          "The Sunday market is extremely crowded by early evening. A baby carrier works better than a pushchair. Go as the stalls open at four for more space."
+          "Which market format suits a family?",
+          "Choose the actual trading day, crowd conditions, toilets and route your group needs. A morning market or shorter meal stop may fit better than a long evening; no fixed opening-time shortcut is promised."
         ],
         [
-          "Can I send purchases home?",
-          "Yes. Post offices and courier shops in the city ship internationally, and some craft sellers will arrange shipping for larger pieces."
+          "Can purchases be shipped home?",
+          "Ask a specific seller or courier about destination eligibility, packing, insurance and the full quote. Do not assume every seller offers international shipping."
         ],
         [
-          "Where are the cash machines?",
-          "There are ATMs around Tha Phae Gate and along the moat road. Withdraw before you enter the market, as there are few inside."
+          "Can I rely on one set of hours for the whole market?",
+          "No. Markets, individual shops and outdoor stalls can keep different schedules. Confirm the part that matters to your visit."
         ]
       ],
       "slug": "chiang-mai-markets",
@@ -4845,12 +4925,12 @@
           ]
         ]
       },
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Chiang Mai Markets: Shopping & Visit Planning",
       "planLinks": [
@@ -4863,7 +4943,10 @@
           "/guides/chiang-mai-oldcity"
         ]
       ],
-      "relatedGuides": []
+      "relatedGuides": [
+        "chiang-mai-two-day-itinerary",
+        "chiang-mai-national-museum-visit"
+      ]
     },
     {
       "id": "cnx-khaosoi",
@@ -4875,7 +4958,8 @@
       "dek": "Order for your appetite and preferences, with a clear distinction between noodles and a separate pork-rice option.",
       "src": [
         "thgcm",
-        "cm-food-tat"
+        "cm-food-tat",
+        "nov21-tat-khao-soi"
       ],
       "body": [
         "Begin a khao soi outing with one bowl rather than a ranking of restaurants. Read the shop’s menu, choose the offered protein and ask about ingredients that matter to you. The version you order is more useful to describe than a claim about the whole city’s best bowl.",
@@ -4937,6 +5021,16 @@
             "If you want to compare two bowls on different days, take notes on the same details: the ordered version, portion, texture and your preferred balance. Those observations describe your own meals without turning a personal preference into a universal ranking.",
             "A shop’s advertised specialty does not answer questions about stock, sauces or preparation. Ask directly rather than inferring suitability from the name of a dish. Keep dessert or another meal optional until you know how filling the first order is."
           ]
+        },
+        {
+          "h": "Choose the bowl from its ingredients, not only its topping",
+          "p": [
+            "TAT’s regional-food article describes khao soi as curry noodles commonly served with chicken or beef. It is cultural background from 2020, not a current menu or opening-hours check for the specialist shops listed below.",
+            "Our ordering method is to ask about stock, curry paste and accompaniments before selecting a topping. If a particular preparation matters, let that answer determine the order. For a short stay, one confirmed bowl near your day’s activity is more useful than travelling between several shops whose service you have not established."
+          ],
+          "sourceIds": [
+            "nov21-tat-khao-soi"
+          ]
         }
       ],
       "tips": [
@@ -4956,7 +5050,7 @@
         ],
         [
           "Is it eaten for dinner?",
-          "Traditionally it is a lunch dish, and the specialist shops close in the afternoon. Tourist restaurants serve it all day."
+          "Check the particular shop’s current lunch and dinner service. This guide does not establish that every specialist closes in the afternoon or that every visitor-focused restaurant serves it all day."
         ],
         [
           "Chicken or beef?",
@@ -5004,15 +5098,18 @@
           ]
         ]
       },
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-09",
-        "method": "Fresh editorial introduction and decision support; retained independently written planning sections.",
-        "scope": "Writing review, not a claim of personal venue inspection or full rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Khao Soi in Chiang Mai: A Noodle Meal Guide",
-      "relatedGuides": []
+      "relatedGuides": [
+        "chiang-mai-restaurants-best-for-noodles-and-sharing",
+        "chiang-mai-two-day-itinerary"
+      ]
     },
     {
       "id": "cnx-oldcity",
@@ -5091,6 +5188,16 @@
               "/guides/chiang-mai-design-week-2026-dates"
             ]
           ]
+        },
+        {
+          "h": "Make Wat Chedi Luang one deliberate history stop",
+          "p": [
+            "TAT locates Wat Chedi Luang on Phra Pokklao Road and identifies the 1545 earthquake in its account of the damaged stupa. Use that subject as a reason to pause and read the interpretation, rather than trying to complete every temple in a single circuit.",
+            "Choose a second temple only for a different interest and confirm its own visitor arrangements. This source check concerns the landmark and historical context; it does not establish current admission prices, cycling conditions or unrestricted access to religious interiors."
+          ],
+          "sourceIds": [
+            "nov21-tat-chedi-luang"
+          ]
         }
       ],
       "tips": [
@@ -5101,27 +5208,28 @@
       ],
       "faq": [
         [
-          "How long do I need?",
-          "A full day lets you see three or four temples, stop for lunch and wander the lanes without hurrying."
+          "How long should I allow?",
+          "Our starting suggestion is half a day for one main temple, a meal and an optional nearby stop. Adjust it to your interests and actual conditions; it is not a measured route time."
         ],
         [
-          "Do the temples charge admission?",
-          "Most are free. A few of the largest ask foreign visitors for a small fee to enter the main hall."
+          "Do all temples have the same admission rules?",
+          "No. Confirm the specific site’s visitor charges, religious areas, clothing and access needs directly."
         ],
         [
-          "Is it easy to cycle?",
-          "Yes. The ground is flat and the lanes inside the walls are quiet. Take care on the busy one-way roads that run along each side of the moat."
+          "Should I cycle inside the Old City?",
+          "Assess the actual route, traffic, weather, equipment and your confidence. A position inside the walls does not establish a quiet or suitable cycling route."
         ],
         [
-          "When is the best time of year?",
-          "November to February is cool and clear. March and April are hot and often hazy with smoke."
+          "Does a general season guarantee clear weather?",
+          "No. Use the current forecast and local air-quality information for your dates rather than assuming every winter day is cool and clear."
         ]
       ],
       "slug": "chiang-mai-oldcity",
       "img": "cnx-tha-phae",
       "src": [
         "timeout-cnx",
-        "cm-government"
+        "cm-government",
+        "nov21-tat-chedi-luang"
       ],
       "quickPlan": [
         [
@@ -5162,17 +5270,18 @@
           ]
         ]
       },
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-11-21",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Chiang Mai Old City: A Flexible Temple Walk",
       "relatedGuides": [
         "chiang-mai-national-museum-visit",
-        "chiang-mai-design-week-2026-dates"
+        "chiang-mai-design-week-2026-dates",
+        "chiang-mai-two-day-itinerary"
       ],
       "planLinks": [
         [
@@ -5512,7 +5621,8 @@
       "dek": "Choose one reason to explore Thalang Road and nearby streets, then leave a market evening separate.",
       "src": [
         "thgpkt",
-        "phuket-oldtown-tat"
+        "phuket-oldtown-tat",
+        "nov21-unesco-phuket"
       ],
       "places": [
         "hkt-old-town",
@@ -5576,6 +5686,16 @@
               "/guides/phuket-dragon-line-free-town-bus"
             ]
           ]
+        },
+        {
+          "h": "Why food and community history belong in the same outing",
+          "p": [
+            "UNESCO’s Creative Cities directory identifies Phuket as a City of Gastronomy, a member since 2015. That is useful city-level context for a town meal, not an award or quality guarantee for every restaurant.",
+            "Our suggested pairing is a focused Thai Hua Museum visit followed by one meal chosen from a current menu. Decide which interest leads the day. If the Sunday walking street is your priority, confirm that session separately; the UNESCO designation does not establish market hours."
+          ],
+          "sourceIds": [
+            "nov21-unesco-phuket"
+          ]
         }
       ],
       "tips": [
@@ -5587,19 +5707,19 @@
       "faq": [
         [
           "How long should I allow?",
-          "Half a day covers the main streets, a museum and a long breakfast. Add the evening if it is a Sunday."
+          "Our suggested starting point is half a day for one town interest, a meal and breaks. Add a museum or market only when its actual schedule fits."
         ],
         [
-          "Is it walkable?",
-          "Yes. The historic core is only a few blocks across, and the covered walkways give shade for much of the way."
+          "Is every part of the Old Town easy to walk?",
+          "No uniform surface or step-free route has been established here. Choose a short approach and confirm any accessibility requirement directly."
         ],
         [
           "What if it rains?",
-          "Choose an open museum or café, or shorten the walk. Some arcades provide cover, but crossings and sections of the route remain exposed."
+          "Use a confirmed indoor stop or shorten the outing. Covered arcades do not remove exposed crossings and wet surfaces."
         ],
         [
-          "Where does a taxi drop me?",
-          "Ask for Thalang Road. Parking in the old town is very limited, so arriving by taxi is easier than driving."
+          "Where should I meet a driver?",
+          "Agree a named pickup point outside any road closure. A general Thalang Road request is not a confirmed vehicle-access or parking arrangement."
         ]
       ],
       "slug": "phuket-oldtown",
@@ -5643,17 +5763,18 @@
           ]
         ]
       },
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-11-21",
       "researchNote": "Time allowances and budget methods are Sidestreet planning suggestions, not fixed schedules or guaranteed prices. This is a research-based guide; check venue and transport notices before travel.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Phuket Old Town: Walking, Food & Shopping Guide",
       "relatedGuides": [
         "phuket-thai-hua-museum-visit",
-        "phuket-dragon-line-free-town-bus"
+        "phuket-dragon-line-free-town-bus",
+        "phuket-three-day-itinerary"
       ],
       "planLinks": [
         [
@@ -5867,7 +5988,7 @@
       ],
       "slug": "yangon-shwedagon",
       "img": "ygn-shwedagon",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
           "Purpose",
@@ -5883,9 +6004,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
-        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "researchNote": "Regional visitor rules and current travel-advice page checked 19 October 2026. No current fee, opening or security assessment is certified.",
       "seoTitle": "Shwedagon Pagoda Yangon: A Respectful Visit Guide",
@@ -6236,11 +6357,14 @@
           ]
         },
         {
-          "h": "What you will pass",
+          "h": "Choose one architectural subject before considering access",
           "p": [
-            "Sule Pagoda sits in a roundabout that the city's planners made the centre of their grid. Beside it are City Hall, completed in 1936 with Burmese-style tiered roofs on a colonial frame, and the park that holds the Independence Monument. Across the park stands the red-brick High Court with its clock tower, finished in 1911.",
-            "Pansodan Street runs south from here towards the river and was the business address of colonial Rangoon. Its banks, shipping offices and trading houses are still standing, some restored and some in gentle decay. Pavement booksellers spread second-hand books along the lower end.",
-            "On Strand Road, facing the water, are the Strand Hotel of 1901 and the old customs and port buildings. A few blocks east is the Secretariat, the vast former seat of government where the independence leader Aung San was assassinated in 1947."
+            "The regional tourism committee groups City Hall, the former High Court, the Secretariat and the Pansodan–Strand streetscape as heritage references. City Hall’s tiered decorative roofs and the High Court’s red-brick clock-tower frontage offer two different subjects for architectural reading.",
+            "Our suggestion is to research one building and its context first. A regional itinerary is not confirmation that interiors, pavements or transport are accessible today. Read current official travel advice and obtain appropriate local information before deciding whether an outing is suitable."
+          ],
+          "sourceIds": [
+            "nov21-yangon-heritage",
+            "fcdo"
           ]
         },
         {
@@ -6267,43 +6391,60 @@
         }
       ],
       "tips": [
-        "The whole route is about three kilometres and takes two hours with stops.",
-        "Carry water and wear a hat. Shade is limited after 10am.",
-        "Ask before photographing people, monks and anything official.",
-        "Check current travel advice for Myanmar before making plans."
+        "Keep the route bounded and arrange a return before leaving.",
+        "Confirm permission before photographing people, worship sites or official buildings.",
+        "Historic descriptions do not establish current access or safety."
       ],
       "faq": [
         [
-          "Is downtown easy to navigate?",
-          "Yes. The streets form a grid, and the narrow north-south ones are numbered. Sule Pagoda is visible from many corners and makes a reliable landmark."
+          "Does the street grid establish an easy or safe route?",
+          "No. A map helps orientation but does not establish current restrictions, pavement conditions or security."
         ],
         [
-          "Can I go inside the old buildings?",
-          "Public access varies by building and current restrictions. Confirm directly; a historic landmark or working office is not automatically open to visitors."
+          "Can I enter heritage buildings?",
+          "Only under the responsible operator’s current visitor arrangements. A working office or an open doorway does not establish permission."
         ],
         [
-          "Where can I stop for a break?",
-          "Pavement tea shops are on almost every block. For air conditioning, the cafe at the Strand is the traditional choice."
+          "Is a particular café guaranteed to be operating?",
+          "No. Confirm the actual business, entrance, hours and a return arrangement before relying on it as a stop."
         ],
         [
-          "Is it safe to walk?",
-          "This guide cannot establish current safety. Read official travel advice and local restrictions before deciding whether to travel or walk, and check conditions with your accommodation."
+          "Is this a current safety assessment?",
+          "No. Use current official advice and appropriate local information before deciding whether to travel or walk."
         ]
       ],
       "slug": "yangon-walk",
       "img": "ygn-sule",
       "src": [
         "fcdo",
-        "ppygn"
+        "ppygn",
+        "nov21-yangon-heritage"
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Downtown Yangon: An Architecture Walking Guide",
-      "relatedGuides": []
+      "relatedGuides": [
+        "yangon-shwedagon",
+        "yangon-circular"
+      ],
+      "quickPlan": [
+        [
+          "Purpose",
+          "One building or short public-street segment"
+        ],
+        [
+          "First check",
+          "Current official travel advice and local restrictions"
+        ],
+        [
+          "Access",
+          "Confirm each interior and the return separately"
+        ]
+      ]
     },
     {
       "id": "sin-deepavali",
@@ -7086,6 +7227,16 @@
             "Save the final station and check your return journey before the evening begins. Our suggested allowance is one meal plus optional browsing, with the actual duration determined by queues and your appetite. No business on this page is being presented as a paid winner or a personally tested “best” restaurant."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Munhwaok: one closure check before choosing the soup stop",
+          "p": [
+            "Visit Seoul places Munhwaok at 62-5 Changgyeonggung-ro and lists 07:00–21:00 opening with closure on the fourth Sunday. Check the exact date rather than assuming a Sunday meal is always possible.",
+            "Use that branch for the soup-led option. Nogari Street is a different outing near Euljiro 3-ga, with individual businesses keeping their own schedules. Choose the actual meal and station before leaving; a neighbourhood label is not one restaurant reservation."
+          ],
+          "sourceIds": [
+            "euljiro-seoul"
+          ]
         }
       ],
       "tips": [
@@ -7130,11 +7281,11 @@
           "Save the right station and check the live journey."
         ]
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
-        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "researchNote": "Researched 19 October 2026 using Seoul Tourism Organization’s feature, which states an information date of 9 July 2026. Current prices and individual business operations still need direct confirmation.",
       "seoTitle": "Euljiro Seoul: Munhwaok, Nogari Street & Subway Planning",
@@ -8360,6 +8511,16 @@
           "sourceIds": [
             "city-edit-buenos-aires-cafe-tortoni-coffee-break"
           ]
+        },
+        {
+          "h": "Tortoni: keep café hours separate from a performance",
+          "p": [
+            "Tortoni’s operator lists Avenida de Mayo 825 and daily café hours of 08:00–21:00. Use that as the published café window, then check any cultural programme separately. A drink order is not a performance ticket.",
+            "Our suggestion is to decide between a seated break and a booked show before joining a queue. If books are the main interest, make El Ateneo the principal stop instead of treating two interiors as a required checklist."
+          ],
+          "sourceIds": [
+            "tortoni-operator"
+          ]
         }
       ],
       "tips": [
@@ -8385,7 +8546,7 @@
         "city-edit-buenos-aires-el-ateneo-bookshop-visit",
         "city-edit-buenos-aires-cafe-tortoni-coffee-break"
       ],
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
           "Historic café",
@@ -8401,9 +8562,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
-        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "researchNote": "Operator and city tourism pages checked 19 October 2026. The El Ateneo paid experience is explicitly distinguished from free bookstore access. No tasting, work-space policy or performance availability is independently inspected.",
       "seoTitle": "Buenos Aires coffee break: Café Tortoni or El Ateneo Grand Splendid?",
@@ -8451,14 +8612,14 @@
       "kind": "news",
       "mins": 2,
       "title": "Sculpture by the Sea: choose a short art walk or a longer coastal visit — 2026 archive",
-      "dek": "Archive: the 2026 dates covered here have passed. Plan an outing for the organiser’s announced 16 October–2 November 2026 exhibition.",
+      "dek": "Archive of the ended 16 October–2 November 2026 exhibition, with a separately labelled organiser announcement for the next Bondi edition.",
       "src": [
         "sxs",
         "sxs-routes"
       ],
       "body": [
         "The dated 2026 programme discussed below has ended. This article retains source-attributed background and planning lessons; it is not a current event recommendation or a confirmation of a future edition.",
-        "The organiser announces Sculpture by the Sea, Bondi, for 16 October–2 November 2026 along the Bondi–Tamarama coastal area. Build a visit around the work you want to spend time with rather than assuming you must cover every installation.",
+        "The 2026 Bondi exhibition covered here ran from 16 October to 2 November. Its coastal-art planning discussion remains archive background; it does not establish that those installations are still present.",
         "This guide pairs an art-focused walk with a shorter option. Use current access and visitor notices for the actual route. A coastal setting does not guarantee that every approach or viewing area suits every visitor."
       ],
       "sections": [
@@ -8491,6 +8652,16 @@
           "p": [
             "A meal, a beach pause or a longer walk can be optional additions. Decide after the main viewing rather than booking an inflexible chain of activities. Follow photography notices and do not assume an artwork is free to reproduce commercially because viewing is free."
           ]
+        },
+        {
+          "h": "Next edition: the organiser now lists 22 October–8 November 2027",
+          "p": [
+            "The organiser’s Bondi page now announces 22 October–8 November 2027. This is a separate future edition; the 2026 dates and installations in this archive should not be transferred to it.",
+            "For a future booking, return to the organiser for that edition’s route, access and programme. Our short-walk method can help choose a manageable visit, but it does not establish which works or accessible approaches will be available in 2027."
+          ],
+          "sourceIds": [
+            "sxs"
+          ]
         }
       ],
       "tips": [
@@ -8511,7 +8682,7 @@
       "slug": "sydney-sculpture",
       "img": "syd-bondi-coogee",
       "researchNote": "Organiser pages checked 19 October 2026. The route description does not certify that every approach meets an individual visitor’s access needs.",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
           "Dates",
@@ -8527,9 +8698,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
-        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Sculpture by the Sea: choose a short art walk or a longer coastal visit — 2026 archive",
       "planTable": {
@@ -8562,7 +8733,10 @@
           "https://sculpturebythesea.com/bondi/access-inclusion-program/easy-walking-routes/"
         ]
       ],
-      "relatedGuides": [],
+      "relatedGuides": [
+        "sydney-pools",
+        "sydney-opera-house-tour-or-show"
+      ],
       "newsWindow": {
         "start": "2026-10-16",
         "end": "2026-11-02"
@@ -8841,7 +9015,9 @@
         "momsg",
         "thadingyut-ministry",
         "calmm",
-        "umelk"
+        "umelk",
+        "nov21-tat-loy-calendar",
+        "nov21-tat-yi-peng"
       ],
       "body": [
         "A festival comparison should begin with the experience you want. Lights in public streets, a worship-site visit, food browsing and organised participation are different reasons to travel. A collection of seasonal names is not a guarantee that the same kind of event happens in each place.",
@@ -8878,6 +9054,17 @@
           "p": [
             "Build a separate food, neighbourhood or museum outing that you would enjoy if the programme changes. Treat it as a real alternative rather than a filler activity. A cultural trip does not need to depend entirely on one unconfirmed evening."
           ]
+        },
+        {
+          "h": "November 2026: distinguish confirmed dates from cultural background",
+          "p": [
+            "TAT’s current calendar names Bangkok locations for November 2026, while its later provincial announcement dates Chiang Mai’s city festival. The linked city guides separate those announcements from permission to participate.",
+            "For a trip now, start with those dated guides and the latest organiser notice. The October Phuket period and Singapore’s early-November holiday references in this comparison have already passed. Keep them as cultural and archive context, not interchangeable upcoming events."
+          ],
+          "sourceIds": [
+            "nov21-tat-loy-calendar",
+            "nov21-tat-yi-peng"
+          ]
         }
       ],
       "tips": [
@@ -8897,7 +9084,7 @@
       ],
       "slug": "world-festivals",
       "img": "t-thadingyut",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
           "Compare",
@@ -8913,9 +9100,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based editorial revision with place-specific choices and cited source checks; no personal visit or tasting is claimed.",
-        "scope": "Text, planning usefulness and source alignment. Publisher acceptance and non-copyright permissions are separate."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "researchNote": "Comparison revised 19 October 2026. Read the individual guide’s source dates and status; this overview supplies no blanket event or travel permission.",
       "seoTitle": "Festivals of light: choose a cultural trip with a confirmed programme",
@@ -8976,8 +9163,13 @@
           "/guides/yangon-thadingyut"
         ]
       ],
-      "relatedGuides": [],
-      "publicationNote": "Cultural planning background. The references do not establish a complete current local programme or participation permission. Use the named organiser or authority notice for a dated event."
+      "relatedGuides": [
+        "bangkok-loy-krathong",
+        "chiang-mai-yi-peng",
+        "phuket-vegetarian",
+        "singapore-deepavali"
+      ],
+      "publicationNote": "Specific 2026 announcements are distinguished from ended periods and general cultural background. Follow the destination guide for the named source and check a new programme after its dates."
     },
     {
       "id": "g-neighbourhoods",
@@ -11142,7 +11334,7 @@
       "kind": "guide",
       "items": [],
       "tips": [],
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-11-21",
       "id": "g-taipei-slow-weekend",
       "slug": "taipei-slow-weekend",
       "city": "tpe",
@@ -11194,7 +11386,7 @@
         {
           "h": "Check Dadaocheng Visitor Center closures separately",
           "p": [
-            "The centre’s official site announces closure on 24 October 2026 and maintenance from 28 October to 15 November 2026. Check the latest notice before relying on its services or costume programme; other shops and outdoor access need separate confirmation."
+            "The centre’s published closure on 24 October and maintenance period of 28 October–15 November 2026 are now past. The end date alone does not prove reopening. Obtain a current visitor notice before relying on its services or costume programme; shops and outdoor access need separate confirmation."
           ],
           "sourceIds": [
             "taipei-visitor"
@@ -11262,9 +11454,9 @@
       ],
       "mins": 3,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "seoTitle": "Taipei Weekend Itinerary: Two Relaxed Days",
       "travelNotice": {
@@ -11759,6 +11951,16 @@
           "sourceIds": [
             "city-edit-amsterdam-ndsm-art-afternoon-guide"
           ]
+        },
+        {
+          "h": "Rijksmuseum: separate the 2026 rate from the announced 2027 rate",
+          "p": [
+            "The museum’s current table lists adult admission at €25, rising to €26.50 from 2027. Visitors aged 18 and under remain listed for free admission. Match the price to the actual visiting year, then check the visitor category and arrival-time booking separately.",
+            "At the standard listed adult rates, two tickets would be €50 for 2026 or €53 for 2027. That is our admission-only arithmetic, excluding transport and purchases. A free-admission entitlement does not automatically remove the start-time requirement; consult the museum’s stated exceptions."
+          ],
+          "sourceIds": [
+            "ams-rijks-official"
+          ]
         }
       ],
       "faq": [
@@ -11811,14 +12013,14 @@
         "ams-ndsm"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "seoTitle": "Amsterdam in a day: one museum, a canal walk or a ferry outing",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "relatedGuides": []
     },
@@ -11872,8 +12074,7 @@
         {
           "h": "Museum Island needs a museum choice",
           "p": [
-            "Museum Island groups several institutions with different collections. Read the current visitor page for the particular museum that interests you and choose a ticket on that basis. A walk around the island’s buildings is an exterior outing; it should not be counted as seeing every collection.",
-            "The visitBerlin page consulted for this guide describes a future Pergamon Museum reopening in June 2027. For an October 2026 plan, do not promise an interior visit based on an older list of Berlin highlights. Check the institution’s current opening information at booking time, and choose an available collection rather than treating a future reopening announcement as present access."
+            "Museum Island groups several institutions with different collections. Read the current visitor page for the particular museum that interests you and choose a ticket on that basis. A walk around the island’s buildings is an exterior outing; it should not be counted as seeing every collection."
           ],
           "sourceIds": [
             "ber-museums-official"
@@ -11904,7 +12105,7 @@
           "h": "Choose a collection, and keep Pergamon out of a 2026 interior plan",
           "p": [
             "VisitBerlin identifies the Neues Museum with objects including the Nefertiti bust and the Berlin Gold Hat, while the Alte Nationalgalerie offers a different painting-focused visit. Pick the collection that answers your own interest before adding a second museum simply because it is nearby.",
-            "The tourism authority gives 4 June 2027 as the planned reopening of the Pergamonmuseum. That future date is not a promise of an accessible Pergamon interior for this October 2026 itinerary. Recheck the museum operator’s current notices before a later trip. For this route, an outdoor Museum Island walk and one confirmed collection make a clearer plan than an assumed all-museums day."
+            "The tourism authority gives 4 June 2027 as the planned reopening of the Pergamonmuseum. That future date is not a promise of an accessible Pergamon interior for a November 2026 itinerary. Recheck the museum operator’s current notices before a later trip. For this route, an outdoor Museum Island walk and one confirmed collection make a clearer plan than an assumed all-museums day."
           ],
           "sourceIds": [
             "ber-museums-official"
@@ -11965,14 +12166,14 @@
         "ber-tiergarten"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 3,
       "seoTitle": "Berlin first visit: city history, one museum and a Tiergarten break",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "relatedGuides": []
     },
@@ -14308,7 +14509,7 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
@@ -14318,9 +14519,9 @@
       ],
       "seoTitle": "Chiang Mai Shopping, Markets & Cooking Classes",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "imageNote": "Warorot Market archive photograph; other listed businesses are not pictured."
     },
@@ -14421,7 +14622,7 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-21",
+      "dateModified": "2026-11-21",
       "tips": [],
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "mins": 2,
@@ -14431,9 +14632,9 @@
       ],
       "seoTitle": "Phuket Shops & Services: Markets, Malls & Buses",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "imageNote": "Central Phuket archive photograph; other listed businesses are not pictured."
     },
@@ -14969,6 +15170,17 @@
             "empire-tailors-contact",
             "jesse-son-faq"
           ]
+        },
+        {
+          "h": "Before a deposit: compare the fitting sequence and the written terms",
+          "p": [
+            "Empire’s contact page gives two different morning opening references, 10:00 and 10:30, while agreeing on Sunday closure. Ask the shop for a confirmed appointment instead of using either time as a guaranteed walk-in start.",
+            "Our comparison brief is one garment specification sent to each shortlisted shop: fabric, construction, quantity, fitting opportunities, collection date and any remedy if the fit needs changing. Jesse & Son’s general express offer cannot replace confirmation for that order. Compare the complete written quotation and deposit terms, then choose the fitting plan you can actually attend."
+          ],
+          "sourceIds": [
+            "empire-tailors-contact",
+            "jesse-son-faq"
+          ]
         }
       ],
       "places": [
@@ -15027,7 +15239,7 @@
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "mins": 3,
       "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
       "tips": [
@@ -15040,9 +15252,9 @@
       ],
       "seoTitle": "Bangkok Tailors: Compare 3 Suit & Shirt Shops",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       }
     },
     {
@@ -15927,6 +16139,16 @@
             "For a group, decide which bookings genuinely need a fixed time and which walks can remain flexible. That allows you to react to venue information without rebuilding the entire trip around an unverified peak-colour claim."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "The latest calendar observation is dated 20 November",
+          "p": [
+            "The official 2026 calendar retrieved on 21 November carries a 20 November update. Read a location’s observation together with its date; this is not a live camera or a guarantee of the colour you will find on arrival.",
+            "Our suggested use is to shortlist one area, check its current observation and then check transport and any evening admission separately. The previous-season 2025 download remains a historical comparison. We do not label every Kyoto location as being at peak from a citywide update date."
+          ],
+          "sourceIds": [
+            "kyoto-autumn-calendar-official"
+          ]
         }
       ],
       "quickPlan": [
@@ -15980,13 +16202,13 @@
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
       "imageNote": "Kyoto temple reference photograph; this is not a live foliage report or a photograph of the 2026 illumination programme.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "publicationNote": "Seasonal report checked 12 November 2026. The calendar’s observation dates are not guaranteed peak dates, and this article does not establish an official end date for Kyoto’s autumn season."
     },
@@ -16012,7 +16234,7 @@
           "h": "The dates in the announcement",
           "p": [
             "Carnival says Luminosa’s final voyage from Sydney will be on 15 March 2028. Adventure is to depart Sydney on 20 March 2028 and will not return to Australia as previously planned. The company says Splendor and Encounter will continue year-round service from Sydney and Brisbane respectively.",
-            "The operator also says its 2028/29 programme for those remaining ships will be released in the coming weeks. That statement is not a published cabin inventory or a confirmed fare for a specific future holiday."
+            "In the 15 October announcement, the operator said its remaining ships’ 2028/29 programme would be released in the coming weeks. That is a dated statement, not a fresh booking-availability check. Use the current sailing search or your booking contact for an actual itinerary, cabin and fare."
           ],
           "sourceIds": [
             "carnival-australia-oct2026-official"
@@ -16078,13 +16300,13 @@
       "tips": [],
       "mins": 2,
       "datePublished": "2026-10-18",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "researchNote": "Independently written from the official references linked below; checked on 18 October 2026. Google Trends informed topic selection, not verification of the announcement. This is desk research, not a firsthand review or paid placement.",
       "imageNote": "Sydney destination reference photograph; it does not show either affected ship or confirm a cruise terminal.",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       },
       "publicationNote": "Dated report about a future 2028 deployment announcement. Use your own operator confirmation for the status and conditions of an individual booking."
     },
@@ -16849,16 +17071,16 @@
       "city": "bkk",
       "cat": "news",
       "kind": "news",
-      "title": "BACC autumn 2026: aquascapes and archived October programmes",
-      "seoTitle": "BACC autumn 2026: aquascapes and archived October programmes",
-      "dek": "The announced aquascape period runs to 15 November. Creative Ward and the 31 October acoustic set are past programmes, not current booking options.",
+      "title": "BACC autumn 2026 programmes: Creative Ward, Unplugged and aquascapes — archive",
+      "seoTitle": "BACC Autumn 2026 Programmes: Event Archive",
+      "dek": "All three announced periods have ended. Compare the archived dates and use the current BACC listings for a new visit.",
       "img": "bacc-architecture-2-photo",
       "items": [],
       "places": [
         "bkk-bacc"
       ],
       "datePublished": "2026-10-26",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "imageNote": "Archive BACC venue view; not an image of the announced 2026 performances or exhibitions.",
       "researchNote": "Official BACC listings checked 26 October 2026. This is an independently written preview, not a firsthand review. Suggested viewing exercises and time allowances are editorial recommendations; individual event terms may change.",
       "tips": [],
@@ -16887,8 +17109,8 @@
         "bacc-visit-official"
       ],
       "body": [
-        "This dated BACC guide separates three announced programmes. Creative Ward’s 27 October–1 November period and the Unplugged performance on 31 October have passed. The aquascape listing announced 3–15 November; confirm the event page for current notices before travelling.",
-        "The programme descriptions below are source-attributed planning background, not reports of an editorial visit. Use the aquascape entry for a November enquiry and read the two October entries as archive context."
+        "All three programmes discussed here have ended: Creative Ward on 1 November, Unplugged on 31 October, and The Art of Thai Aquascape on 15 November 2026. This article preserves their announced details as an archive, not as a recommendation to attend them now.",
+        "For a new BACC outing, open the venue’s current programme or use our BACC versus Museum Siam guide for the permanent planning comparison. The exercises below are editorial ways of approaching a display when available; they do not establish that these works or workshops remain accessible."
       ],
       "sections": [
         {
@@ -16912,9 +17134,9 @@
           ]
         },
         {
-          "h": "For a November visit: The Art of Thai Aquascape, 3–15 November",
+          "h": "Archive: The Art of Thai Aquascape, 3–15 November",
           "p": [
-            "The Art of Thai Aquascape is announced for the L-floor Hall from 3 to 15 November. The listing includes aquascape displays, workshops and interactive activities. It follows Creative Ward rather than running alongside it, so choose the correct week if one of those subjects is your main interest.",
+            "BACC’s listing announced aquascapes and related activities for the L-floor Hall on 3–15 November. That period has ended; do not travel expecting this display or its workshops to remain open.",
             "Look at one composition from a distance before moving closer. How do rock, planting and empty space create the impression of a landscape? That is our suggested way into the display, not a specialist assessment of the works. If a workshop matters more than browsing, check its registration and session details separately."
           ],
           "sourceIds": [
@@ -16925,7 +17147,7 @@
           "h": "Build a small afternoon, not a building-wide checklist",
           "p": [
             "For an ordinary exhibition visit, our suggested allowance is 60–90 minutes for one main display, followed by a break. Add more time if you like reading every project panel; choose fewer stops if you are travelling with someone who prefers a short visit. These are planning allowances rather than published tour lengths.",
-            "For the November aquascape enquiry, choose a workshop only after checking the actual registration and session. The October acoustic set cannot serve as the fixed appointment for a current visit. A single exhibition interest can still make a complete outing."
+            "For a new visit, select an actual current exhibition or performance first. None of these three ended programmes can provide the fixed appointment. A general museum-planning guide can still help you choose the format and a reasonable personal allowance."
           ],
           "links": [
             [
@@ -16953,24 +17175,24 @@
       ],
       "quickPlan": [
         [
-          "Graphic design",
-          "Creative Ward · 27 Oct–1 Nov · L-floor Hall"
+          "Creative Ward",
+          "Ended 1 November 2026"
         ],
         [
-          "Live music",
-          "31 Oct · 15:00–17:00 · second-floor balcony · free"
+          "Unplugged 8",
+          "Ended 31 October 2026"
         ],
         [
-          "Aquascapes",
-          "3–15 Nov · L-floor Hall"
+          "Thai Aquascape",
+          "Ended 15 November 2026"
         ],
         [
-          "Travel",
-          "BTS National Stadium connection; closed Mondays"
+          "New visit",
+          "Choose a current BACC listing separately"
         ]
       ],
       "planTable": {
-        "caption": "Choose your BACC outing — official listings checked 26 October 2026",
+        "caption": "Archived BACC programme dates — source listings checked 21 November 2026",
         "headers": [
           "Your interest",
           "Pick",
@@ -17024,6 +17246,12 @@
       "newsWindow": {
         "start": "2026-10-27",
         "end": "2026-11-15"
+      },
+      "publicationNote": "Archive: every programme period discussed here has ended. No extension, re-run or current ticket availability is established.",
+      "compositionReview": {
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       }
     },
     {
@@ -17696,7 +17924,7 @@
       "kind": "guide",
       "roundup": true,
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-31",
+      "dateModified": "2026-11-21",
       "sections": [
         {
           "h": "How we chose this two-stop shortlist",
@@ -17804,6 +18032,11 @@
             "A famous name alone cannot promise a quick meal"
           ]
         ]
+      },
+      "compositionReview": {
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       }
     },
     {
@@ -18340,7 +18573,7 @@
       "img": "sin-gardens",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-10-31",
+      "dateModified": "2026-11-21",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "sin-gardens"
@@ -18389,6 +18622,17 @@
             "Our suggested sequence is arrival, one main attraction, a break and then an optional outdoor look. In poor weather or low energy, remove the optional section before sacrificing the main booking. Keep a separate travel allowance between the station and the attraction check-in. This structure is deliberately flexible; it is not an official timed route or a promise of a particular evening show."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Read the current site notices before choosing the arrival",
+          "p": [
+            "The operator’s planning page currently announces road and car-park restrictions for 5–6 December 2026 and partial closures associated with Wetlands by the Bay works. Use the full notice for the exact hours and affected areas; these do not mean the entire Gardens are closed.",
+            "For a visit on an affected date, compare the named attraction’s access and maintenance calendar with the route from your MRT exit. Buying one attraction is a separate decision from reaching it. Save the official notice with the ticket so the approach can be adjusted before travelling."
+          ],
+          "sourceIds": [
+            "city-edit-singapore-gardens-by-the-bay-choose-attraction",
+            "oct31-gbtb-hours"
+          ]
         }
       ],
       "quickPlan": [
@@ -18420,7 +18664,8 @@
         ]
       ],
       "relatedGuides": [
-        "singapore-national-gallery-november-2026-exhibition"
+        "singapore-national-gallery-november-2026-exhibition",
+        "singapore-botanic-gardens-first-walk"
       ],
       "planLinks": [
         [
@@ -18455,6 +18700,11 @@
             "Bundle inclusions and time between entries"
           ]
         ]
+      },
+      "compositionReview": {
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
       }
     },
     {
@@ -20427,7 +20677,7 @@
       "img": "cpt-bo-kaap",
       "imageNote": "Licensed archive photograph of this place; not evidence of current conditions or an editorial visit.",
       "datePublished": "2026-10-26",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "editorialCollection": "city-edit-oct26",
       "places": [
         "cpt-bo-kaap"
@@ -20435,7 +20685,8 @@
       "items": [],
       "src": [
         "city-edit-cape-town-bo-kaap-respectful-neighbourhood-visit",
-        "nov12-bokaap"
+        "nov12-bokaap",
+        "nov21-iziko-bokaap"
       ],
       "body": [
         "Put local history ahead of a doorway photograph, with the museum or a named cultural activity as your anchor. A neighbourhood is more than a colour palette, even when the colours are the first thing that catches your eye. Our Bo-Kaap edit begins with the people who live there and the histories that make the place distinct. Choose a small, thoughtful visit instead of moving from doorway to doorway collecting backgrounds. You can enjoy architecture and photographs while remembering that the street is part of someone else’s ordinary day. That awareness gives the outing more depth, not less pleasure."
@@ -20472,6 +20723,16 @@
             "Stay in public visitor space and ask before prominently photographing people. Do not use steps or doorways as a stage, block access or expect a resident to perform for a travel image. Use current local visitor and safety guidance for the route; this article is not a street-by-street security assessment."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Use the museum operator for the learning stop",
+          "p": [
+            "Iziko’s Bo-Kaap Museum page describes the area’s community history and Islamic heritage. Use the institution’s current visitor arrangements for a museum visit rather than treating colourful residential streets as a substitute for learning about the neighbourhood.",
+            "Our suggestion is to choose one historical question before walking: what the museum says about the community, housing or displacement. Keep a worship-site enquiry separate and ask before photographing people or entering private areas. Museum research does not grant access to nearby homes or a mosque."
+          ],
+          "sourceIds": [
+            "nov21-iziko-bokaap"
+          ]
         }
       ],
       "quickPlan": [
@@ -20503,7 +20764,8 @@
         ]
       ],
       "relatedGuides": [
-        "cape-town-hikes"
+        "cape-town-hikes",
+        "cape-town-kirstenbosch-garden-day"
       ],
       "planLinks": [
         [
@@ -20513,7 +20775,12 @@
       ],
       "researchNote": "Additional destination and visitor references checked 12 November 2026. These are desk-researched planning choices, not firsthand reviews. Suggested sequences are editorial proposals; dated reference information and live availability are different.",
       "tips": [],
-      "mins": 2
+      "mins": 2,
+      "compositionReview": {
+        "date": "2026-11-21",
+        "method": "Targeted primary-source and consistency corrections; unchanged claims keep their stated research scope.",
+        "scope": "No personal visit, full factual clearance, publisher signoff or image-rights certification is claimed."
+      }
     }
   ],
   "places": [
@@ -20843,14 +21110,23 @@
       "kind": "eat",
       "name": "Thip Samai",
       "area": "Maha Chai Road, old town",
-      "hours": "Official listing: 9am–midnight; closed Tuesday. Confirm before visiting.",
+      "hours": "Published branch hours: 09:00–00:00; closed Tuesday.",
       "src": [
         "thipsamai-official"
       ],
       "blurb": "A pad-thai listing to compare with your meal plan. Use the current menu and ordering arrangements, without assuming a particular queue or preparation is always available.",
       "img": "bkk-thipsamai",
       "verify": true,
-      "url": "https://thipsamai.com/"
+      "url": "https://thipsamai.com/",
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "thipsamai-official"
+        ],
+        "fields": [
+          "hours"
+        ]
+      }
     },
     {
       "id": "bkk-jay-fai",
@@ -20858,8 +21134,6 @@
       "kind": "eat",
       "name": "Raan Jay Fai",
       "area": "Maha Chai Road, old town",
-      "hours": "Wednesday to Saturday",
-      "price": "Confirm the current menu; seafood specialities can be a splurge",
       "src": [
         "bpjf",
         "aufood",
@@ -20867,7 +21141,7 @@
       ],
       "blurb": "Research this kitchen for the dish you want, then compare the current price and entry or queue process. Reputation does not establish availability for your visit.",
       "img": "bkk-jay-fai",
-      "verify": true,
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling.",
       "url": "https://guide.michelin.com/th/en/bangkok-region/bangkok/restaurant/jay-fai"
     },
     {
@@ -20876,14 +21150,12 @@
       "kind": "eat",
       "name": "Nai Mong Hoi Thod",
       "area": "Yaowarat (Chinatown)",
-      "hours": "Closed Monday and Tuesday",
-      "price": "About ฿150",
       "src": [
         "aufood"
       ],
       "blurb": "An oyster-omelette listing where the offered style should be part of your order. Ask about preparation and ingredients before choosing a version.",
       "img": null,
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "bkk-ouan-pochana",
@@ -20891,13 +21163,12 @@
       "kind": "eat",
       "name": "Guay Jub Ouan Pochana",
       "area": "Yaowarat (Chinatown)",
-      "price": "About ฿80",
       "src": [
         "aufood"
       ],
       "blurb": "A Yaowarat noodle option to investigate for a meal. Read the actual broth and ingredient description instead of treating a short listing as a dietary guide.",
       "img": "t-yaowarat",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "bkk-boat-noodle-alley",
@@ -20905,14 +21176,12 @@
       "kind": "eat",
       "name": "Boat Noodle Alley",
       "area": "Victory Monument",
-      "hours": "Lunch to late evening",
-      "price": "฿15 to ฿20 a bowl",
       "src": [
         "aufood"
       ],
       "blurb": "Use the shop menus to compare bowl sizes and styles. Begin with an amount you want to eat; accumulating bowls is not a required visitor activity.",
       "img": "d-boat-noodles",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "bkk-go-ang",
@@ -20920,14 +21189,12 @@
       "kind": "eat",
       "name": "Go-Ang Pratunam Chicken Rice",
       "area": "Pratunam",
-      "hours": "6am to 2pm and 5pm to midnight",
-      "price": "฿60 to ฿100",
       "src": [
         "aufood"
       ],
       "blurb": "A Pratunam chicken-rice option that may fit a shopping-area meal. Check the current location, hours and menu before making it the anchor of a trip.",
       "img": "bkk-go-ang-photo",
-      "verify": true,
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling.",
       "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
@@ -20936,13 +21203,12 @@
       "kind": "eat",
       "name": "Prachak Pet Yang",
       "area": "Charoen Krung, Bang Rak",
-      "price": "About ฿150 for a quarter duck",
       "src": [
         "aufood"
       ],
       "blurb": "Consider this listing when roast duck fits your meal plan. Compare the available portions and current menu rather than choosing solely for the shop’s history.",
       "img": null,
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "bkk-jok-prince",
@@ -20950,14 +21216,12 @@
       "kind": "eat",
       "name": "Jok Prince",
       "area": "Charoen Krung, Bang Rak",
-      "hours": "6am to 1pm, and evenings",
-      "price": "About ฿70",
       "src": [
         "aufood"
       ],
       "blurb": "A rice-porridge option to check for the meal time you want. Ask what the offered bowl contains and whether additions are separate purchases.",
       "img": "bkk-jok-prince-photo",
-      "verify": true,
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling.",
       "imageNote": "Licensed archive photograph of this place; current appearance may differ."
     },
     {
@@ -20966,14 +21230,12 @@
       "kind": "eat",
       "name": "Mae Varee",
       "area": "Thong Lo",
-      "hours": "Until about 11pm",
-      "price": "About ฿150",
       "src": [
         "aufood"
       ],
       "blurb": "A fruit and mango-sticky-rice listing to consider as a dessert stop. Check portion, preparation and takeaway arrangements before ordering for the group.",
       "img": "d-mango-sticky-rice",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "bkk-mahanakhon",
@@ -21141,7 +21403,6 @@
       "kind": "market",
       "name": "Sunday Walking Street",
       "area": "Ratchadamnoen Road, Old City",
-      "hours": "Sundays, about 4pm to 10pm",
       "price": "Free",
       "src": [
         "thgsws",
@@ -21149,7 +21410,7 @@
       ],
       "blurb": "Confirm the current Sunday arrangement and choose food or shopping as your priority. A long stall route does not require you to cover it end to end.",
       "img": "cnx-sunday-walking-street",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-wualai",
@@ -21157,7 +21418,6 @@
       "kind": "market",
       "name": "Saturday Walking Street (Wualai)",
       "area": "Wualai Road, south of Chiang Mai Gate",
-      "hours": "Saturdays 4.30pm to 11pm",
       "price": "Free",
       "src": [
         "expcm",
@@ -21165,7 +21425,7 @@
       ],
       "blurb": "A Saturday-market option to compare with your interests and actual stay dates. Save the return point before browsing and use current stall information.",
       "img": "cnx-wualai",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-warorot",
@@ -21173,14 +21433,13 @@
       "kind": "market",
       "name": "Warorot Market (Kad Luang)",
       "area": "Chang Moi, near the Ping River",
-      "hours": "Indoor market 4am to 6pm · flower market 24 hours",
       "src": [
         "expcm",
         "thgcm"
       ],
       "blurb": "Consider a produce or take-home-food visit here separately from an evening walking street. Ask about weight, price and packing for purchases.",
       "img": "cnx-warorot",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-gate-market",
@@ -21188,13 +21447,12 @@
       "kind": "market",
       "name": "Chiang Mai Gate Market",
       "area": "Bumrungburi Road",
-      "hours": "Indoor 4am to 4pm · outdoor stalls 4pm to midnight",
       "src": [
         "expcm"
       ],
       "blurb": "Read the menus and trading information for the time you intend to eat. A daytime produce visit and an evening meal can involve different businesses.",
       "img": null,
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-night-bazaar",
@@ -21202,13 +21460,12 @@
       "kind": "market",
       "name": "Chiang Mai Night Bazaar",
       "area": "Chang Klan Road",
-      "hours": "Daily 5pm to midnight",
       "src": [
         "expcm"
       ],
       "blurb": "A browsing option to evaluate by the goods you want and the shops operating. Keep souvenir spending separate from food and the return journey.",
       "img": "cnx-night-bazaar",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-kad-chin-haw",
@@ -21216,13 +21473,12 @@
       "kind": "market",
       "name": "Kad Chin Haw (Friday morning market)",
       "area": "Off Charoen Prathet Road",
-      "hours": "Fridays 6am to 11am",
       "src": [
         "expcm"
       ],
       "blurb": "Research the Friday-morning visit using the current market arrangement. Decide whether food or produce browsing is the main purpose before choosing arrival time.",
       "img": null,
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-lam-duan",
@@ -21230,13 +21486,12 @@
       "kind": "eat",
       "name": "Khao Soi Lam Duan Fa Ham",
       "area": "Charoen Rat Road, Fa Ham",
-      "hours": "Daily 8am to 4pm",
       "src": [
         "thgcm"
       ],
       "blurb": "A khao-soi listing to compare for a single meal. Confirm the current offered versions and serving period rather than assuming one fixed recommended order.",
       "img": "t-khao-soi",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-khao-soi-islam",
@@ -21244,13 +21499,12 @@
       "kind": "eat",
       "name": "Khao Soi Islam",
       "area": "Charoen Prathet Road, Night Bazaar area",
-      "hours": "About 8am to 6pm. Friday closures reported",
       "src": [
         "thgcm"
       ],
       "blurb": "Ask the restaurant about the current menu and any certification or dietary information you need. A listing’s name is not a complete description of preparation.",
       "img": null,
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "cnx-cowboy-hat",
@@ -21258,13 +21512,12 @@
       "kind": "eat",
       "name": "Khao Kha Moo Chang Phueak",
       "area": "Chang Phueak Gate night market",
-      "hours": "From about 5pm. Arrive by 6pm",
       "src": [
         "thgcm"
       ],
       "blurb": "A pork-rice alternative in the Chiang Phueak area. Keep it distinct from khao soi and check the current serving arrangement before a special journey.",
       "img": "d-khao-kha-mu",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "hkt-big-buddha",
@@ -21328,14 +21581,13 @@
       "kind": "market",
       "name": "Lard Yai (Sunday Walking Street)",
       "area": "Thalang Road, Old Town",
-      "hours": "Sundays 4pm to 10pm",
       "price": "Free",
       "src": [
         "thgpkt"
       ],
       "blurb": "A Sunday walking-street listing to confirm for your date. Choose food or browsing as the purpose and avoid assuming all stalls share one schedule.",
       "img": "hkt-thalang",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "hkt-kata",
@@ -21429,14 +21681,13 @@
       "kind": "see",
       "name": "Shwedagon Pagoda",
       "area": "Singuttara Hill",
-      "hours": "Early morning to 10pm",
       "price": "Entrance fee for foreign visitors",
       "src": [
         "shwedagon-regional"
       ],
       "blurb": "Read current travel advice and the pagoda’s visitor information before arranging the visit. Confirm entrance, clothing, belongings and return arrangements separately.",
       "img": "ygn-shwedagon",
-      "verify": true
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling."
     },
     {
       "id": "ygn-sule",
@@ -21499,12 +21750,11 @@
       "kind": "market",
       "name": "Bogyoke Aung San Market",
       "area": "Downtown",
-      "hours": "9am to 5pm, closed Mondays",
       "src": [
         "totygn",
         "ppygn"
       ],
-      "verify": true,
+      "verify": "Confirm the exact business or market section, current opening and relevant menu or entry terms before travelling.",
       "blurb": "A market listing to confirm for the businesses and goods you want. Historical shop counts and names do not establish present trading or visitor access.",
       "img": "ygn-bogyoke"
     },
@@ -22017,7 +22267,17 @@
       "verify": true,
       "src": [
         "tortoni-operator"
-      ]
+      ],
+      "hours": "Published café hours: daily 08:00–21:00; performances have separate terms.",
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "tortoni-operator"
+        ],
+        "fields": [
+          "hours"
+        ]
+      }
     },
     {
       "id": "bue-ateneo",
@@ -23379,16 +23639,15 @@
       "city": "bkk",
       "cat": "Festival",
       "title": "Loy Krathong",
-      "date": "2026-11-24",
+      "date": "2026-11-23",
       "end": "2026-11-25",
-      "where": "Chao Phraya riverside: Wat Arun, Wat Yannawa, Asiatique",
-      "blurb": "On the full-moon night, people float small candle-lit baskets on rivers, canals and park lakes. Published dates differ by a day, so check the local programme.",
+      "where": "Phra Sumen Fort and Maha Kan Fort — separate Bangkok programme locations",
+      "blurb": "TAT lists these two fort programmes for 23–25 November. Check local activity times, visitor access and transport; other Bangkok venues have different dates.",
       "src": [
-        "umelk",
-        "thgcal"
+        "nov21-tat-loy-calendar"
       ],
-      "verifiedAt": null,
-      "publicationStatus": "research"
+      "verifiedAt": "2026-11-21",
+      "url": "https://www.tatnews.org/2026/11/loi-krathong-2026-lights-up-thailands-rivers-and-historic-cities/"
     },
     {
       "id": "bkk-bts",
@@ -23414,13 +23673,13 @@
       "date": "2026-12-03",
       "end": "2026-12-07",
       "where": "The Fields at Siam Country Club, near Pattaya",
-      "blurb": "A music, art and food festival about two hours from Bangkok.",
+      "blurb": "An out-of-town music and arts festival on 3–7 December. Check the organiser’s ticket registration, accommodation and return arrangements separately.",
       "src": [
         "bklist",
         "thgcal",
         "wonderfruit-organiser"
       ],
-      "verifiedAt": "2026-10-09",
+      "verifiedAt": "2026-11-21",
       "url": "https://www.wonderfruit.co/faq"
     },
     {
@@ -23460,16 +23719,15 @@
       "city": "cnx",
       "cat": "Festival",
       "title": "Yi Peng and Loy Krathong",
-      "date": "2026-11-24",
+      "date": "2026-11-23",
       "end": "2026-11-25",
-      "where": "Tha Phae Gate, Three Kings Monument, Wat Phan Tao, Ping River",
-      "blurb": "The northern lantern festival. Free events fill the old city. Sky lanterns may only be released at licensed, ticketed venues outside town.",
+      "where": "Chiang Mai city festival; individual activities have separate locations",
+      "blurb": "TAT announces the city festival for 23–25 November. A city visit does not grant sky-lantern release permission; designated organised activities have their own controls.",
       "src": [
-        "thgyp",
-        "umelk"
+        "nov21-tat-yi-peng"
       ],
-      "verifiedAt": null,
-      "publicationStatus": "research"
+      "verifiedAt": "2026-11-21",
+      "url": "https://www.tatnews.org/2026/11/tat-announces-loi-krathong-2026-celebrations-in-ayutthaya-and-five-provinces/"
     },
     {
       "id": "hkt-vegetarian",

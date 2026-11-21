@@ -1,5 +1,80 @@
 [
   {
+    "id": "remaining100-yangon-walk-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Yangon: remove unsupported fixed-route and access assumptions",
+    "guide": "yangon-walk",
+    "text": [
+      "Architecture context now cites the regional tourism committee. Fixed route-duration, guaranteed café access and overconfident FAQ wording have been removed."
+    ],
+    "sources": [
+      "nov21-yangon-heritage",
+      "fcdo"
+    ]
+  },
+  {
+    "id": "remaining100-bangkok-bacc-art-music-october-november-2026-2026-11-21",
+    "date": "2026-11-21",
+    "title": "BACC: all three autumn programmes have ended",
+    "guide": "bangkok-bacc-art-music-october-november-2026",
+    "text": [
+      "The remaining aquascape recommendations are now explicitly archived in the title, introduction, quick plan and relevant sections."
+    ],
+    "sources": [
+      "bacc-aquascape-2026",
+      "bacc-creative-ward-2026",
+      "bacc-unplugged-oct-2026"
+    ]
+  },
+  {
+    "id": "remaining100-amsterdam-museum-canals-ferry-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Rijksmuseum: distinguish announced 2027 admission",
+    "guide": "amsterdam-museum-canals-ferry",
+    "text": [
+      "The guide separates the current €25 adult rate from the announced €26.50 rate from 2027 and keeps booking conditions separate."
+    ],
+    "sources": [
+      "ams-rijks-official"
+    ]
+  },
+  {
+    "id": "remaining100-sydney-sculpture-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Bondi sculpture: separate the 2027 announcement from the 2026 archive",
+    "guide": "sydney-sculpture",
+    "text": [
+      "The organiser homepage has rolled to its next edition. The guide retains its 2026 archive and labels the newly announced 2027 dates separately."
+    ],
+    "sources": [
+      "sxs"
+    ]
+  },
+  {
+    "id": "remaining100-chiang-mai-yi-peng-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Yi Peng: add city dates and designated-area boundary",
+    "guide": "chiang-mai-yi-peng",
+    "text": [
+      "The official provincial announcement supplies the city festival dates and a designated-area release context. The guide does not turn district names into independent release permission."
+    ],
+    "sources": [
+      "nov21-tat-yi-peng"
+    ]
+  },
+  {
+    "id": "remaining100-bangkok-loy-krathong-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Bangkok Loy Krathong: add newly published official dates",
+    "guide": "bangkok-loy-krathong",
+    "text": [
+      "TAT’s November calendar now supplies named location/date windows. The guide replaces the earlier absence-of-programme statement and keeps local participation permission separate."
+    ],
+    "sources": [
+      "nov21-tat-loy-calendar"
+    ]
+  },
+  {
     "id": "klia-last-service-scope-2026-11-21",
     "date": "2026-11-21",
     "title": "KLIA Ekspres: clarify conflicting late-service summaries",
