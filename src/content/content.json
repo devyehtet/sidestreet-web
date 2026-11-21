@@ -785,7 +785,7 @@
     "bkk-airport-aot": {
       "name": "Airports of Thailand — Suvarnabhumi transport",
       "url": "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "bkk-bts-official": {
       "name": "BTS Skytrain — routes and fares",
@@ -1264,7 +1264,7 @@
     "cnx-museum-calendar": {
       "name": "Fine Arts Department — Chiang Mai Museum exhibition and office schedules",
       "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/calendar",
-      "consultedAt": "2026-10-19"
+      "consultedAt": "2026-11-21"
     },
     "cnx-museum-objects": {
       "name": "Fine Arts Department — Chiang Mai Museum collection stories",
@@ -1329,7 +1329,7 @@
     "museum-siam-visit": {
       "name": "Museum Siam — opening days, admission and MRT access",
       "url": "https://www.museumsiam.org/museumsiam-visit.php",
-      "consultedAt": "2026-10-24"
+      "consultedAt": "2026-11-21"
     },
     "bacc-visit-official": {
       "name": "Bangkok Art and Culture Centre — official visit information",
@@ -1973,6 +1973,21 @@
       "name": "Iziko Museums: Bo-Kaap Museum",
       "url": "https://www.iziko.org.za/museums/bo-kaap-museum/",
       "consultedAt": "2026-11-21"
+    },
+    "transport21-mtr-group": {
+      "name": "MTR: Ride Together group ticket and purchase conditions",
+      "url": "https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html",
+      "consultedAt": "2026-11-21"
+    },
+    "transport21-pksb-payment": {
+      "name": "Phuket Smart Bus: payment methods and fare eligibility",
+      "url": "https://www.phuketsmartbus.com/payment/",
+      "consultedAt": "2026-11-21"
+    },
+    "transport21-erl-child-help": {
+      "name": "Express Rail Link: child e-ticket activation help",
+      "url": "https://www.kliaekspres.com/help-centre/",
+      "consultedAt": "2026-11-21"
     }
   },
   "cities": [
@@ -2033,12 +2048,13 @@
         "chiang-mai-design-week-2026-dates",
         "chiang-mai-two-day-itinerary",
         "chiang-mai-oldcity",
-        "chiang-mai-doi-suthep-visit"
+        "chiang-mai-doi-suthep-visit",
+        "chiang-mai-airport-to-old-town-transfer"
       ],
       "planningIntro": "Choose a compact Old City walk or a two-day plan before adding a mountain visit. For a December festival trip, check the Design Week programme and build the day around the individual venue and session. Leave a meal break and a return journey in the plan.",
       "seoTitle": "Chiang Mai City Guide: Itineraries & Design Week",
       "description": "Plan Chiang Mai with Old City walks, a two-day itinerary and Design Week 2026 dates. Choose your route, meals and onward visits.",
-      "dateModified": "2026-10-21"
+      "dateModified": "2026-11-21"
     },
     {
       "name": "Phuket",
@@ -2063,12 +2079,13 @@
         "phuket-dragon-line-free-town-bus",
         "phuket-oldtown",
         "phuket-airport-to-beach-transfer",
-        "phuket-thai-hua-museum-visit"
+        "phuket-thai-hua-museum-visit",
+        "phuket-three-day-itinerary"
       ],
       "planningIntro": "Start by deciding whether this is a town day or a beach day. Dragon Line can help with a town outing, while the journey from a beach hotel or the airport needs its own plan. Use the Old Town guide for a compact walk and check your return transport before extending the evening.",
       "seoTitle": "Phuket City Guide: Old Town, Beaches & Transport",
       "description": "Plan Phuket Old Town, beach outings and airport transfers. Find the free Dragon Line bus guide, walking ideas and practical transport choices.",
-      "dateModified": "2026-10-21"
+      "dateModified": "2026-11-21"
     },
     {
       "name": "Yangon",
@@ -12547,15 +12564,15 @@
       "city": "bkk",
       "cat": "travel",
       "kind": "guide",
-      "title": "Suvarnabhumi to Bangkok: choose rail or a road transfer",
-      "dek": "Compare the whole door-to-door journey, with luggage, arrival time and the final hotel connection included.",
+      "title": "Suvarnabhumi Airport to Bangkok: rail, taxi and pickup points",
+      "dek": "Find Airport Rail Link on B1, distinguish the regular taxi queue from ride-hailing pickup, and compare the complete journey to your hotel.",
       "img": "bkk-wat-arun",
       "src": [
         "bkk-airport-aot",
         "bkk-bts-official"
       ],
       "body": [
-        "For a first arrival at Suvarnabhumi, choose transport by the hotel door you need to reach, not simply the cheapest advertised ticket. A train journey can be a sensible choice when the final connection is straightforward. A road transfer may suit a group with bulky bags or a late arrival. Neither option guarantees a fixed arrival time."
+        "At Suvarnabhumi (BKK), AOT places Airport Rail Link on Level B1 and the regular taxi queue on Level 1, Gates 4–7, inner kerb. Compare the rail connection with a complete road journey to your actual hotel entrance. These are different boarding locations and fare products, not one interchangeable airport transfer."
       ],
       "sections": [
         {
@@ -12598,55 +12615,100 @@
           "sourceIds": [
             "bkk-airport-aot"
           ]
+        },
+        {
+          "h": "After a late landing: protect the complete route, not just the first train",
+          "p": [
+            "AOT’s published Airport Rail Link window is 05:30–24:00. That is not a last usable connection to every Bangkok hotel. After a late flight, work from the journey you can actually board after formalities and baggage collection, then check the onward service and final entrance.",
+            "If a road journey fits better, choose the correct pickup process: the regular taxi inner-kerb queue and the ride-hailing outer-kerb pickup are separate. Save your hotel’s late-check-in contact before leaving arrivals. For the first city day, use the three-day itinerary to move one activity rather than making a non-refundable appointment depend on an uncertain airport finish."
+          ],
+          "sourceIds": [
+            "bkk-airport-aot"
+          ],
+          "links": [
+            [
+              "Build a lighter first day in Bangkok",
+              "/guides/bangkok-three-day-first-visit"
+            ],
+            [
+              "Compare Sukhumvit with a riverside stay",
+              "/guides/bangkok-hotels"
+            ]
+          ]
         }
       ],
       "quickPlan": [
         [
-          "Good for",
-          "First-time BKK arrivals comparing complete transfers."
+          "Airport code",
+          "BKK / Suvarnabhumi; Don Mueang needs a different route"
         ],
         [
-          "Prepare",
-          "Hotel entrance, flight details and luggage count."
+          "Rail reference",
+          "B1; AOT publishes 05:30–24:00"
         ],
         [
-          "Decision",
-          "Rail with an easy last leg, or a vehicle with clear inclusions."
+          "Regular taxi",
+          "Level 1, Gates 4–7, inner kerb; queue ticket"
+        ],
+        [
+          "Ride-hailing",
+          "AOT lists Grab at Level 1, Gate 4, outer kerb"
         ]
       ],
       "planTable": {
-        "caption": "Choose the plan that fits your visit",
+        "caption": "BKK transport pickup distinctions — AOT information checked 21 November 2026",
         "headers": [
-          "Decision",
-          "Suggested approach",
-          "Confirm before departure"
+          "Service",
+          "Where AOT directs passengers",
+          "Cost or timing distinction"
         ],
         "rows": [
           [
-            "Rail",
-            "Count every transfer and the final walk",
-            "Service hours and access"
+            "Airport Rail Link",
+            "Main terminal B1",
+            "Published 05:30–24:00; check the onward connection"
           ],
           [
-            "Road",
-            "Agree pickup and included charges",
-            "Waiting policy and vehicle size"
+            "Regular public taxi",
+            "Level 1, Gates 4–7, inner kerb",
+            "Meter plus THB50 airport surcharge; luggage/tolls need their own check"
           ],
           [
-            "Late arrival",
-            "Have a vehicle fallback",
-            "Hotel reception and pickup contact"
+            "Grab",
+            "Level 1, Gate 4, outer kerb",
+            "Match the booked vehicle and quoted terms"
+          ],
+          [
+            "Pre-arranged hotel pickup",
+            "The meeting point on your booking",
+            "Confirm terminal, waiting and delayed-flight contact"
           ]
         ]
       },
       "faq": [
         [
-          "Does this route apply to Don Mueang?",
-          "No. Check the airport code; this guide covers Suvarnabhumi, BKK."
+          "Where is Airport Rail Link at Suvarnabhumi?",
+          "AOT places the station on B1 of the main terminal and publishes a 05:30–24:00 service window. Check your actual train and onward connection; that window is not a hotel arrival time."
         ],
         [
-          "Is rail always the cheapest choice?",
-          "Compare the total for your group and the last leg, not only one train ticket."
+          "Where do I get a regular taxi at BKK?",
+          "AOT lists Level 1, Gates 4–7, inner kerb, using a queue ticket. Its published regular fare arrangement adds a THB50 airport surcharge to the metered fare; other charges can apply."
+        ],
+        [
+          "Is Grab pickup in the same taxi queue?",
+          "AOT identifies Grab pickup at Level 1, Gate 4, outer kerb. Follow your booking and airport signs; the regular taxi queue uses the inner kerb."
+        ],
+        [
+          "Is THB50 the whole fare into Bangkok?",
+          "No. It is the published airport surcharge for the regular taxi arrangement, not the metered journey or an all-inclusive hotel transfer."
+        ],
+        [
+          "Does this guide cover Don Mueang?",
+          "No. Check the airport code: this guide covers Suvarnabhumi, BKK."
+        ],
+        [
+          "Should I book sightseeing immediately after landing?",
+          "Our suggestion is to leave the first outing flexible until the hotel transfer is complete. Airline arrival, terminal exit and hotel arrival are separate stages."
         ]
       ],
       "tips": [
@@ -12656,23 +12718,31 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-21",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
-      "mins": 3,
+      "dateModified": "2026-11-21",
+      "researchNote": "The named source-linked arrival or calendar decisions were reviewed on 21 November 2026. Sequences, budget arithmetic and time allowances are Sidestreet planning suggestions, not measured travel times, live service guarantees or firsthand visit reports. Other facts retain their stated source dates and limits.",
+      "mins": 4,
       "relatedGuides": [
         "bangkok-three-day-first-visit",
         "bangkok-hotels",
         "bangkok-temples"
       ],
-      "seoTitle": "Suvarnabhumi to Bangkok: Rail or Road Transfer?",
+      "seoTitle": "BKK Airport to Bangkok: Rail, Taxi & Pickup Points",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       },
       "planLinks": [
         [
-          "Compare Sukhumvit and riverside hotel locations",
+          "Official BKK transport and pickup guidance",
+          "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK"
+        ],
+        [
+          "Adapt a three-day Bangkok itinerary",
+          "/guides/bangkok-three-day-first-visit"
+        ],
+        [
+          "Choose the hotel area before the last leg",
           "/guides/bangkok-hotels"
         ]
       ]
@@ -12684,16 +12754,19 @@
       "cat": "travel",
       "kind": "guide",
       "title": "Bangkok in three days: temples, neighbourhoods and one food evening",
-      "dek": "A flexible first-visit plan that groups activities by area instead of crossing the city for every meal.",
+      "dek": "Choose a historic-area day, Talat Noi and a flexible final day, with Monday closures, weekend shopping and the airport journey kept in the plan.",
       "img": "bkk-wat-arun",
       "src": [
         "arun-tat",
         "talatnoi-tat",
         "bkk-bts-official",
-        "bkk-airport-aot"
+        "bkk-airport-aot",
+        "museum-siam-visit",
+        "review21-chatuchak"
       ],
       "body": [
-        "Three days in Bangkok work better as three different kinds of outing: a historic riverside day, a neighbourhood day and a flexible final day. This is an editorial framework rather than an hourly schedule. Choose your hotel first, then adapt the order to transport, opening information and how much walking your group wants."
+        "For three full sightseeing days in Bangkok, our suggested structure is a historic-area day, a Talat Noi neighbourhood day and one flexible shopping or missed-priority day. This is an adjustable editorial itinerary: hotel location, opening days and flight arrangements determine the order.",
+        "If the three days include arrival and departure, count the usable sessions first. Give each partial day one main purpose. An evening landing does not leave a spare full temple day, and a departure transfer should be settled before adding a market or paid attraction."
       ],
       "sections": [
         {
@@ -12736,55 +12809,112 @@
             "talatnoi-tat",
             "bkk-airport-aot"
           ]
+        },
+        {
+          "h": "Monday, weekend and rain: make three different swaps",
+          "p": [
+            "Museum Siam publishes Tuesday–Sunday, 10:00–18:00, with Monday closure. If the historic day lands on Monday, move that indoor visit to another open day and choose a confirmed alternative for the actual date. Rain does not remove the closed day; do not use a museum as an automatic fallback without its calendar.",
+            "The government visitor guide identifies Chatuchak’s main weekend market with Saturday and Sunday. If those days are outside your stay, keep a different shopping purpose on the flexible day rather than presenting a weekday as the full weekend market. Our suggestion is one main visit, a meal and an optional extra, not an hour-by-hour tour promise."
+          ],
+          "sourceIds": [
+            "museum-siam-visit",
+            "review21-chatuchak"
+          ],
+          "links": [
+            [
+              "Read Museum Siam admission and arrival details",
+              "/guides/bangkok-museum-siam-interactive-history-visit"
+            ],
+            [
+              "Check Chatuchak sections and arrival stations",
+              "/guides/bangkok-chatuchak"
+            ]
+          ]
+        },
+        {
+          "h": "One departure-day example: build the plan backwards from the airline deadline",
+          "p": [
+            "Suppose your airline asks you to reach the airport at 15:00, and you choose a 90-minute hotel-to-terminal allowance plus a 30-minute margin. In that example, leave the hotel at 13:00. The arithmetic is ours; neither the 90 minutes nor that reporting time is a general Bangkok travel rule.",
+            "Use your airline’s actual instruction and the route/transfer you have arranged instead. Then fit a short meal or nearby activity before hotel departure. A final-day ticket that finishes after the pickup time should be removed, even if it appears on a popular three-day checklist."
+          ],
+          "sourceIds": [
+            "bkk-airport-aot"
+          ],
+          "links": [
+            [
+              "Choose BKK rail or the correct road pickup",
+              "/guides/bangkok-suvarnabhumi-airport-transfer"
+            ]
+          ]
         }
       ],
       "quickPlan": [
         [
-          "Structure",
-          "One main area each day."
+          "Full-day structure",
+          "Historic area → Talat Noi → flexible priority; swap for the calendar"
         ],
         [
-          "Food",
-          "One planned meal and optional snacks, not a citywide food race."
+          "Monday check",
+          "Museum Siam closed; use an actual open-day alternative"
         ],
         [
-          "Flexibility",
-          "Keep the departure day lighter."
+          "Weekend check",
+          "Main Chatuchak market: Saturday / Sunday"
+        ],
+        [
+          "Arrival / departure",
+          "Use partial-day blocks and a separately arranged airport journey"
         ]
       ],
       "planTable": {
-        "caption": "Choose the plan that fits your visit",
+        "caption": "Three Bangkok days — editorial sequence, adjusted to your actual calendar",
         "headers": [
-          "Decision",
-          "Suggested approach",
-          "Confirm before departure"
+          "Day",
+          "Main choice",
+          "Meal / optional addition",
+          "Change the order when…"
         ],
         "rows": [
           [
-            "Historic day",
-            "A smaller temple sequence",
-            "Admissions and dress rules"
+            "1 · historic area",
+            "Choose a temple from the dedicated guide; Museum Siam is a separate indoor choice",
+            "A nearby meal; second paid interior optional",
+            "Museum Siam closes Monday; keep the museum for another open day"
           ],
           [
-            "Neighbourhood day",
-            "Talat Noi and a nearby meal",
-            "Visitor boundaries and route home"
+            "2 · Talat Noi",
+            "One bounded street walk and a community-history interest",
+            "A seated meal; shops or a café if open",
+            "After a late arrival, shorten the walk instead of rushing two districts"
           ],
           [
-            "Final day",
-            "Shopping or a missed priority",
-            "Trading day and departure transfer"
+            "3 · flexible",
+            "Weekend Chatuchak if it fits, or one missed priority near your hotel",
+            "An optional final meal",
+            "The main weekend market is not an everyday default; protect your airport journey"
           ]
         ]
       },
       "faq": [
         [
-          "Can I follow this in any order?",
-          "Yes. Adjust for opening days, weather and the location of your hotel."
+          "How should I spend three days in Bangkok for a first visit?",
+          "Our starting plan is one historic-area day, one Talat Noi day and one flexible shopping or missed-priority day. Swap the order for actual opening days and keep any airport transfer outside the sightseeing allowance."
         ],
         [
-          "Should I book every activity first?",
-          "Book activities that require it, but leave optional stops flexible until the route makes sense."
+          "Does this work for three days including arrival and departure?",
+          "Reduce the itinerary to the usable sessions. A late arrival or early departure can remove much of a day; keep one main interest in each remaining block."
+        ],
+        [
+          "What if my Bangkok museum day is Monday?",
+          "Museum Siam lists Monday closure. Move that visit to an open day and choose another confirmed activity; do not assume rain makes a closed museum available."
+        ],
+        [
+          "Should Chatuchak always be day three?",
+          "No. Its main weekend market belongs on Saturday or Sunday when those fit your stay. Use a different shopping or neighbourhood priority on other days."
+        ],
+        [
+          "Do I need to book every stop?",
+          "Book a specific activity when its operator requires it. Keep optional stops flexible and settle the airport return before buying a departure-day attraction ticket."
         ]
       ],
       "tips": [
@@ -12794,13 +12924,13 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-24",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
-      "mins": 3,
+      "dateModified": "2026-11-21",
+      "researchNote": "The named source-linked arrival or calendar decisions were reviewed on 21 November 2026. Sequences, budget arithmetic and time allowances are Sidestreet planning suggestions, not measured travel times, live service guarantees or firsthand visit reports. Other facts retain their stated source dates and limits.",
+      "mins": 4,
       "relatedGuides": [
+        "bangkok-suvarnabhumi-airport-transfer",
         "bangkok-temples",
-        "bangkok-talatnoi",
-        "bangkok-suvarnabhumi-airport-transfer"
+        "bangkok-talatnoi"
       ],
       "seoTitle": "Bangkok 3-Day Itinerary for First-Time Visitors",
       "planLinks": [
@@ -12822,9 +12952,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       }
     },
     {
@@ -12988,7 +13118,7 @@
       "cat": "travel",
       "kind": "guide",
       "title": "Chiang Mai in two days: Old City first, mountain or market second",
-      "dek": "A city-based weekend framework with room for a northern Thai meal and changes of plan.",
+      "dek": "Plan the Old City and one mountain or city day, with weekday museum openings, weekend-market alternatives and a realistic airport return.",
       "img": "cnx-doi-suthep",
       "src": [
         "cm-government",
@@ -13046,6 +13176,27 @@
               "/guides/chiang-mai-design-week-2026-dates"
             ]
           ]
+        },
+        {
+          "h": "Choose the two-day pattern by the weekday you actually have",
+          "p": [
+            "The National Museum’s exhibition building lists Wednesday–Sunday, 09:00–16:00; the weekday office is a different schedule. Jing Jai’s operator describes its weekend market on Saturday and Sunday mornings. These are useful anchors for swapping days, not a reason to put both onto every itinerary.",
+            "For Tuesday–Wednesday, use Tuesday for the Old City and leave the museum option for Wednesday. For Friday–Saturday, choose whether Saturday is a market morning or the mountain day. Our table offers alternatives: a fixed class, a return mountain transfer and a market should compete for your time instead of becoming three assumed appointments."
+          ],
+          "sourceIds": [
+            "cnx-museum-calendar",
+            "jing-jai-official"
+          ],
+          "links": [
+            [
+              "Choose a focused museum visit",
+              "/guides/chiang-mai-national-museum-visit"
+            ],
+            [
+              "Compare the Doi Suthep approach and return",
+              "/guides/chiang-mai-doi-suthep-visit"
+            ]
+          ]
         }
       ],
       "quickPlan": [
@@ -13063,38 +13214,60 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose the plan that fits your visit",
+        "caption": "Two-day Chiang Mai patterns — choose one, not every row",
         "headers": [
-          "Decision",
-          "Suggested approach",
-          "Confirm before departure"
+          "Your dates / constraint",
+          "First useful session",
+          "Second-day choice",
+          "Keep separate"
         ],
         "rows": [
           [
-            "Old City",
-            "Choose a short temple walk",
-            "Visitor rules"
+            "Tuesday → Wednesday",
+            "Old City and a northern meal on Tuesday",
+            "Museum on Wednesday when open, or a confirmed Doi Suthep plan",
+            "The museum exhibition is closed Tuesday"
           ],
           [
-            "Doi Suthep",
-            "Arrange a return journey",
-            "Approach and pickup"
+            "Friday → Saturday",
+            "Old City on Friday",
+            "Jing Jai weekend morning or a mountain visit",
+            "Choose the priority before adding another transfer"
           ],
           [
-            "Market",
-            "Choose by purpose and calendar",
-            "Trading day and route home"
+            "Sunday → Monday",
+            "Weekend market morning if wanted",
+            "Old City or another confirmed activity Monday",
+            "Museum exhibition is closed Monday"
+          ],
+          [
+            "Late arrival / early departure",
+            "One smaller Old City visit",
+            "Meal, rest and the airport pickup",
+            "Two dates do not provide two full sightseeing days"
           ]
         ]
       },
       "faq": [
         [
-          "Is two days enough for every attraction?",
-          "No. Use two days for a few priorities rather than treating this as a complete regional itinerary."
+          "Is two days enough for Chiang Mai?",
+          "Two full days can support a focused Old City day and one main mountain or city activity. Our itinerary does not aim to cover the whole region; arrival and departure can reduce those usable days."
         ],
         [
-          "Can I swap the days?",
-          "Yes. Match market days and booked activities to your actual dates."
+          "Should I choose Doi Suthep or a market for day two?",
+          "Choose the one you most want and match it to the actual date and return journey. Jing Jai’s weekend market is a Saturday/Sunday morning choice; a mountain visit needs its own transport and approach planning."
+        ],
+        [
+          "What changes on Monday or Tuesday?",
+          "The National Museum’s exhibition schedule is Wednesday–Sunday. Do not treat its weekday office hours as visitor admission on Monday or Tuesday."
+        ],
+        [
+          "Can I fit a cooking class into this itinerary?",
+          "Use the provider’s actual class, pickup and finish times, then remove a competing activity. This plan does not assume a scheduled class and a mountain transfer will fit the same afternoon."
+        ],
+        [
+          "Where should I start after a late airport arrival?",
+          "After completing the hotel transfer, choose a smaller Old City visit or a meal when practical. Keep the next day’s main activity and the airport return as separate arrangements."
         ]
       ],
       "tips": [
@@ -13104,17 +13277,17 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-24",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
-      "mins": 3,
+      "dateModified": "2026-11-21",
+      "researchNote": "The named source-linked arrival or calendar decisions were reviewed on 21 November 2026. Sequences, budget arithmetic and time allowances are Sidestreet planning suggestions, not measured travel times, live service guarantees or firsthand visit reports. Other facts retain their stated source dates and limits.",
+      "mins": 4,
       "relatedGuides": [
         "chiang-mai-airport-to-old-town-transfer",
-        "chiang-mai-design-week-2026-dates",
-        "chiang-mai-oldcity",
         "chiang-mai-doi-suthep-visit",
-        "chiang-mai-khaosoi"
+        "chiang-mai-national-museum-visit",
+        "chiang-mai-markets",
+        "chiang-mai-oldcity"
       ],
-      "seoTitle": "Chiang Mai 2-Day Itinerary: Temples & Markets",
+      "seoTitle": "Chiang Mai 2-Day Itinerary: Old City & Doi Suthep",
       "planLinks": [
         [
           "December festival dates and programme",
@@ -13134,9 +13307,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       }
     },
     {
@@ -13152,7 +13325,8 @@
         "phuket-bus-official",
         "phuket-bus-boarding",
         "review21-hkt-boarding",
-        "review21-hkt-fare"
+        "review21-hkt-fare",
+        "transport21-pksb-payment"
       ],
       "body": [
         "Phuket Smart Bus publishes a THB100 Airport–Rawai route, with west-coast destinations including Patong, Karon and Kata. Its airport guidance places boarding outside the Domestic Terminal at Exit 3. Start with your exact hotel entrance before deciding whether the bus and final connection suit your arrival."
@@ -13186,6 +13360,16 @@
             "Choose the vehicle if a direct door-to-door journey solves a difficult last leg or arrival-time problem. Choose the bus when its current route genuinely fits. Do not expect either option to guarantee a fixed journey time; avoid a non-refundable activity immediately after the advertised transfer duration."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Paying for the bus: cash, cards and Thai-bank QR are different choices",
+          "p": [
+            "Phuket Smart Bus lists contactless Visa, Mastercard and JCB, Thai-bank QR/PromptPay and cash, with exact cash appreciated. A QR logo does not establish that every overseas banking app can make a PromptPay payment. Choose a method the operator actually supports before reaching the stop.",
+            "Its payment page states that children under 6 travel free with a paying adult. Use the worksheet for people needing a paid ticket, then compare the whole-party hotel connection. At the stop, confirm the route and direction before paying; a boarding point at the airport is not proof that the service drops you at the hotel door."
+          ],
+          "sourceIds": [
+            "transport21-pksb-payment"
+          ]
         }
       ],
       "quickPlan": [
@@ -13252,6 +13436,18 @@
         [
           "How much is the airport-to-Rawai Smart Bus?",
           "The operator publishes THB100 for the Airport–Rawai route. Confirm the current route and the stop serving your hotel; a final hotel connection is separate."
+        ],
+        [
+          "Can I pay for Phuket Smart Bus in cash or with a foreign card?",
+          "The operator lists cash and contactless Visa, Mastercard and JCB. It also lists QR/PromptPay through Thai banking apps; do not assume any overseas QR app is compatible."
+        ],
+        [
+          "Do children need the THB100 airport-bus fare?",
+          "The operator’s payment page lists children under 6 as free with a paying adult. Confirm the applicable category and count paid travellers when using the worksheet."
+        ],
+        [
+          "Is Dragon Line the airport bus?",
+          "No. The operator separates its free town loop from the paid Airport–Rawai route. Plan the airport journey and any hotel connection first."
         ]
       ],
       "tips": [
@@ -13262,21 +13458,57 @@
       "places": [],
       "datePublished": "2026-10-10",
       "dateModified": "2026-11-21",
-      "researchNote": "Airport–Rawai published fare, Domestic Exit 3 boarding and the route-specific comparison rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
-      "mins": 2,
+      "researchNote": "This update adds source-linked arrival decisions and Sidestreet planning comparisons on 21 November 2026. The budget worksheet uses its stated fare basis and your entered connections; it is not a live booking or cheapest-fare guarantee. Other facts retain their stated source dates and limits. No firsthand visit is claimed.",
+      "mins": 4,
       "relatedGuides": [
-        "phuket-dragon-line-free-town-bus",
         "phuket-three-day-itinerary",
+        "phuket-dragon-line-free-town-bus",
         "phuket-beaches",
         "phuket-oldtown"
       ],
       "seoTitle": "Phuket Airport Bus: THB100 Fare, Exit 3 & Beach Stops",
       "compositionReview": {
         "date": "2026-11-21",
-        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
-        "scope": "Airport–Rawai published fare, Domestic Exit 3 boarding and the route-specific comparison only; not a full publisher signoff, image-rights clearance or live service check."
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       },
-      "planLinks": []
+      "planLinks": [
+        [
+          "Compare your whole-party transfer budget",
+          "#transfer-budget"
+        ],
+        [
+          "Official airport boarding guidance",
+          "https://www.phuketsmartbus.com/blog/phuket-smart-bus-stop-at-phuket-airport"
+        ],
+        [
+          "Official payment and child eligibility",
+          "https://www.phuketsmartbus.com/payment/"
+        ],
+        [
+          "Plan the three-day stay after arrival",
+          "/guides/phuket-three-day-itinerary"
+        ]
+      ],
+      "transferBudget": {
+        "title": "Compare the airport bus with your group quote",
+        "description": "One-way Airport–Rawai route at the published flat fare. Count people needing a paid ticket, and add any connection from the actual bus stop to your hotel.",
+        "currency": "THB",
+        "travellerLabel": "Fare-paying travellers",
+        "checkedAt": "2026-11-21",
+        "options": [
+          {
+            "id": "airport-rawai",
+            "label": "Airport–Rawai bus · THB100 per paid traveller",
+            "adultFare": 100
+          }
+        ],
+        "sourceIds": [
+          "review21-hkt-fare",
+          "transport21-pksb-payment"
+        ],
+        "conditions": "The operator lists children under 6 as free with a paying adult; confirm eligibility and exclude eligible free riders from this count. This fare applies to the named route, not a reserved hotel pickup. The quoted alternative must cover the same party and hotel entrance."
+      }
     },
     {
       "id": "phuket-three-day-itinerary",
@@ -13285,7 +13517,7 @@
       "cat": "travel",
       "kind": "guide",
       "title": "Phuket in three days: town, a beach day and a flexible outing",
-      "dek": "Choose accommodation and transport first, then give each day a clear purpose.",
+      "dek": "Give Old Town and one beach area separate days, distinguish the free town loop from the airport bus, and keep the final day close to your confirmed departure plan.",
       "img": "hkt-promthep",
       "src": [
         "phuket-oldtown-tat",
@@ -13347,6 +13579,26 @@
           "sourceIds": [
             "p101bb"
           ]
+        },
+        {
+          "h": "Beach hotel or town stay: change the transport budget before the activities",
+          "p": [
+            "For a beach-based stay, price the town outing as its own return journey. The operator separates the paid Airport–Rawai coastal route and Bus Terminal 2–Patong from the free Dragon Line town loop. An airport-bus ticket does not create a direct service between every beach hotel and Old Town.",
+            "For a town-based stay, keep the beach day as a separate connection and choose the actual area before arranging it. Our suggested rule is one principal outing each day with a nearby meal. If the main interest requires a long transfer, remove the least important extra rather than borrowing time from your airport return."
+          ],
+          "sourceIds": [
+            "phuket-bus-official"
+          ],
+          "links": [
+            [
+              "Compare the airport bus and your group quote",
+              "/guides/phuket-airport-to-beach-transfer#transfer-budget"
+            ],
+            [
+              "Compare Dragon Line with the town–Patong bus",
+              "/guides/phuket-dragon-line-free-town-bus"
+            ]
+          ]
         }
       ],
       "quickPlan": [
@@ -13364,38 +13616,64 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose the plan that fits your visit",
+        "caption": "Three Phuket days — editorial choices around your hotel and transfers",
         "headers": [
-          "Decision",
-          "Suggested approach",
-          "Confirm before departure"
+          "Day / session",
+          "Main purpose",
+          "Transport decision",
+          "If the plan changes"
         ],
         "rows": [
           [
-            "Town",
-            "A selected street walk",
-            "Return transport"
+            "Arrival / first useful session",
+            "Complete the hotel transfer and choose one nearby meal",
+            "Airport–Rawai bus stop plus hotel leg, or a complete vehicle quote",
+            "After a late flight, move town sightseeing to the next full day"
           ],
           [
-            "Coast",
-            "One beach area",
-            "Conditions and visitor signs"
+            "Town day",
+            "Old Town walk with Thai Hua or a chosen meal",
+            "Research the paid link to town; Dragon Line only covers its loop",
+            "If staying after 19:00, arrange the later return separately"
           ],
           [
-            "Final day",
-            "One flexible priority",
-            "Airport transfer and cancellation terms"
+            "Coastal day",
+            "One beach area suited to your day’s interest",
+            "Compare the actual hotel-to-beach route",
+            "If conditions do not suit swimming, choose a meal or a confirmed indoor town stop"
+          ],
+          [
+            "Departure session",
+            "A short nearby priority or rest",
+            "Confirm airport pickup / actual return service first",
+            "Drop a distant activity whose finish would conflict with leaving"
           ]
         ]
       },
       "faq": [
         [
-          "Is a boat trip required?",
-          "No. A town outing and a beach-area day can be the main experiences."
+          "How should I plan three days in Phuket?",
+          "Our starting structure is an Old Town day, one beach-area day and a flexible final session. Put arrival and departure transport into the same calendar before treating them as full sightseeing days."
         ],
         [
-          "Does this itinerary guarantee safe swimming?",
-          "No. Assess current conditions and follow local instructions on the day."
+          "Can I use Dragon Line from my beach hotel or the airport?",
+          "Dragon Line is the free town loop. The operator lists paid coastal airport and town–Patong services separately; research the connection from your actual hotel."
+        ],
+        [
+          "Should Old Town and several beaches be one day?",
+          "Our suggested plan keeps the town outing and one beach area separate. Add another stop only when its actual journey still leaves time for the visit and return."
+        ],
+        [
+          "What if I want Old Town dinner after the free bus finishes?",
+          "Dragon Line’s published service window ends at 19:00. Arrange a later return separately rather than assuming a departure from every stop at that time."
+        ],
+        [
+          "Is a boat trip required for a three-day stay?",
+          "No. If you choose one, compare the actual operator, departure point, weather policy and return against the rest of your schedule."
+        ],
+        [
+          "Does choosing a beach guarantee suitable swimming?",
+          "No. Use the conditions, signs and lifeguard advice on the day. A coastal meal, sand visit and swim are different decisions."
         ]
       ],
       "tips": [
@@ -13407,15 +13685,17 @@
         "hkt-big-buddha"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-11-12",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
-      "mins": 2,
+      "dateModified": "2026-11-21",
+      "researchNote": "The named source-linked arrival or calendar decisions were reviewed on 21 November 2026. Sequences, budget arithmetic and time allowances are Sidestreet planning suggestions, not measured travel times, live service guarantees or firsthand visit reports. Other facts retain their stated source dates and limits.",
+      "mins": 4,
       "relatedGuides": [
+        "phuket-airport-to-beach-transfer",
+        "phuket-dragon-line-free-town-bus",
         "phuket-oldtown",
         "phuket-beaches",
-        "phuket-airport-to-beach-transfer"
+        "phuket-thai-hua-museum-visit"
       ],
-      "seoTitle": "Phuket in three days: town, a beach day and a flexible outing",
+      "seoTitle": "Phuket 3-Day Itinerary: Old Town, Beaches & Buses",
       "planLinks": [
         [
           "Plan the town leg with Dragon Line",
@@ -13427,9 +13707,9 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       }
     },
     {
@@ -14906,26 +15186,6 @@
           ]
         },
         {
-          "h": "For an evening market or dinner, bookend the outing with two different journeys",
-          "p": [
-            "The published Dragon Line finish is 19:00. If you want to stay in town for dinner or an evening market, use the free bus for the daytime leg and arrange the later return separately. A 19:00 service finish is not a departure from every stop at that time.",
-            "Our practical comparison is simple: put the paid journey into town, the free town loop and the late ride home on three separate lines. Then compare that total with a direct return vehicle. For a group, agree a reunion point before browsing or eating separately so the last part of the evening does not depend on everyone finding an unfamiliar stop."
-          ],
-          "sourceIds": [
-            "nov21-dragon-hours"
-          ],
-          "links": [
-            [
-              "Choose your Old Town streets",
-              "/guides/phuket-oldtown"
-            ],
-            [
-              "Find a town meal",
-              "/guides/phuket-restaurants-best-for-old-town-meals"
-            ]
-          ]
-        },
-        {
           "h": "A flexible Old Town outing: one walk, one meal, one optional stop",
           "p": [
             "Our suggested starting point is about three hours in Old Town, excluding bus waits and the journey from your hotel. Allow roughly an hour for the streets on your chosen walk, an hour for a museum or a longer browsing stop, and an hour for lunch and a seated break. These are planning blocks you can change, not a guided-tour schedule.",
@@ -14948,13 +15208,23 @@
           ]
         },
         {
-          "h": "What to save before you leave",
+          "h": "From Patong to Old Town: compare the paid link with the free loop",
           "p": [
-            "Keep the route name, today’s timetable, the live-map link and your hotel entrance together on your phone. Add the intended boarding stop and a separate return plan after checking the operator map. A screenshot of a timetable is useful offline, but it will not show a later service change or the current vehicle position.",
-            "For the budget, write down the paid connection to town, the free Dragon Line leg, your meal or admission, and the journey home. That makes the total comparable with a direct vehicle. A zero bus fare is only one line of the day’s cost."
+            "The operator lists Bus Terminal 2–Phuket Town–Patong at THB50 and Dragon Line separately as free. If your actual Patong boarding point and town stop fit, the paid route is the connection to research first. Reaching Phuket Town and moving within the town loop are different tasks; the word “free” does not extend to the coast.",
+            "As fare-only arithmetic, two fare-paying travellers making one outward and one return THB50 ride would budget THB200, before hotel-side connections, food or admissions. Check that both services operate when needed. For a late dinner, quote the return separately rather than doubling a daytime bus fare for a service you cannot catch."
           ],
           "sourceIds": [
-            "dragon-line-tracking"
+            "nov21-pksb-routes"
+          ],
+          "links": [
+            [
+              "Check the airport bus budget separately",
+              "/guides/phuket-airport-to-beach-transfer#transfer-budget"
+            ],
+            [
+              "Fit a town day into three days in Phuket",
+              "/guides/phuket-three-day-itinerary"
+            ]
           ]
         }
       ],
@@ -14966,6 +15236,10 @@
         [
           "Is Phuket Dragon Line free?",
           "Yes. The operator lists the Dragon Line city shuttle as free. This does not make its other bus routes free."
+        ],
+        [
+          "Is the Phuket bus from Patong to Old Town free?",
+          "Dragon Line is the free town loop. The operator separately lists the Bus Terminal 2–Phuket Town–Patong route at THB50. Match your actual stops, direction and return time; a free town ride does not include a beach-hotel connection."
         ],
         [
           "What are the published operating hours?",
@@ -15021,12 +15295,13 @@
         "Use the official route map for boarding; destination-area maps are for orientation.",
         "Keep hotel transfers, admission and food outside the free bus fare."
       ],
-      "researchNote": "Operator route fares, Dragon Line hours and named pickup guidance rechecked 21 November 2026. Boarding direction and actual vehicle operation remain travel-day checks. The outing and cost comparisons are original editorial planning, not a personal ride report.",
-      "mins": 4,
+      "researchNote": "The named source-linked arrival or calendar decisions were reviewed on 21 November 2026. Sequences, budget arithmetic and time allowances are Sidestreet planning suggestions, not measured travel times, live service guarantees or firsthand visit reports. Other facts retain their stated source dates and limits.",
+      "mins": 5,
       "relatedGuides": [
-        "phuket-oldtown",
         "phuket-airport-to-beach-transfer",
-        "phuket-restaurants-best-for-old-town-meals"
+        "phuket-three-day-itinerary",
+        "phuket-oldtown",
+        "phuket-thai-hua-museum-visit"
       ],
       "seoTitle": "Phuket Dragon Line Free Bus: Route, Hours & Tracking",
       "imageNote": "Destination photograph of Phuket Old Town; not a photograph of a Dragon Line bus.",
@@ -15079,8 +15354,8 @@
       },
       "compositionReview": {
         "date": "2026-11-21",
-        "method": "Search Console-led improvement of an existing guide, primary-source research and original trip comparisons.",
-        "scope": "The fare, route or dated-hours information identified in this update; not a personal visit, live service guarantee, image-rights signoff or full publisher review."
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       },
       "navigationRoute": {
         "mode": "places",
@@ -15558,9 +15833,9 @@
       "city": "cnx",
       "cat": "travel",
       "kind": "guide",
-      "title": "Chiang Mai airport to the Old Town: choose a transfer that fits your arrival",
-      "seoTitle": "Chiang Mai Airport to Old Town: Transfer Options",
-      "dek": "Compare the airport taxi listing, current public transport information and hotel pickups, with a checklist for luggage, quotes and late arrivals.",
+      "title": "Chiang Mai Airport to the Old City: taxi, pickup and bus decisions",
+      "seoTitle": "Chiang Mai Airport to Old City: Taxi, Pickup & Bus",
+      "dek": "Use AOT’s Entrance 1 taxi reference, compare a hotel pickup with a destination-specific quote, and check whether a current bus actually fits your arrival.",
       "img": "cnx-tha-phae",
       "src": [
         "cnx-airport-taxi-official",
@@ -15568,7 +15843,8 @@
         "review21-cnx-taxi"
       ],
       "body": [
-        "For a first arrival in Chiang Mai, the most useful transfer is the one that reaches your actual accommodation with a clear total cost. Start with the hotel entrance and your arrival time. Then compare a taxi quote, the currently operating public transport options and any hotel pickup you have arranged. An Old Town address alone is not a precise drop-off point."
+        "For Chiang Mai Airport (CNX) to the Old City, AOT lists its flat-rate airport taxi at Entrance 1, Floor 1, in the main terminal’s public area. Ask for the full quote to your hotel entrance. The listing identifies a service and location; it does not establish one universal Old City fare.",
+        "The Old City and Old Town labels in accommodation listings do not specify a drop-off point. Save the exact property and entrance, then compare an on-arrival taxi with your confirmed hotel pickup or a public-transport route you can actually complete."
       ],
       "sections": [
         {
@@ -15606,6 +15882,26 @@
             "For a late arrival, confirm transport availability and the hotel’s reception arrangements directly. We have not verified a 24-hour promise for every listed service. For the return flight, plan backwards from your airline’s check-in guidance and allow for the actual pickup journey; a short-looking route on a map is not a reliable departure buffer."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "For a short Chiang Mai stay, count arrival and departure as part of the two days",
+          "p": [
+            "Our suggested first task after the transfer is to settle the bags and confirm the next useful opening day. A late arrival followed by an early departure gives less sightseeing time than two full days. In that case, choose the Old City outing and a northern meal rather than squeezing in a mountain transfer.",
+            "Keep the airport return as a separate booking with your actual flight and check-in requirement. A successful outward ride is not a reserved vehicle home. Send the pickup contact the hotel entrance, party size and luggage count, then choose the departure time with the current journey and an appropriate margin."
+          ],
+          "sourceIds": [
+            "review21-cnx-taxi"
+          ],
+          "links": [
+            [
+              "Choose a two-day plan by weekday",
+              "/guides/chiang-mai-two-day-itinerary"
+            ],
+            [
+              "Research the Doi Suthep return separately",
+              "/guides/chiang-mai-doi-suthep-visit"
+            ]
+          ]
         }
       ],
       "quickPlan": [
@@ -15630,6 +15926,18 @@
         [
           "Can I assume a bus will be running after a late flight?",
           "No. Confirm the current operating window and a usable stop for your destination, and keep an alternative transfer plan."
+        ],
+        [
+          "How much is a taxi from Chiang Mai Airport to the Old City?",
+          "The AOT listing used here identifies a flat-rate service but does not give one universal Old City fare. Ask the counter for a complete quote to your exact hotel, including the party and bags."
+        ],
+        [
+          "Is Old City the same drop-off as every Old Town hotel?",
+          "No single pickup or entrance is established by either district label. Save the property’s exact map pin and driver instructions."
+        ],
+        [
+          "What should I confirm for an early return flight?",
+          "Confirm the actual hotel pickup, vehicle, price and contact separately, then work backwards from your airline’s reporting requirement. Do not use an old fixed airport journey time as the only buffer."
         ]
       ],
       "relatedGuides": [
@@ -15639,15 +15947,15 @@
       ],
       "planLinks": [
         [
-          "Official airport taxi listing",
+          "AOT’s listed taxi service",
           "https://chiangmai.airportthai.co.th/service/transportation/detail/125"
         ],
         [
-          "Airport transport directory",
+          "AOT transport directory",
           "https://chiangmai.airportthai.co.th/service/transportation"
         ],
         [
-          "Plan two days in Chiang Mai",
+          "Choose a two-day Chiang Mai plan",
           "/guides/chiang-mai-two-day-itinerary"
         ]
       ],
@@ -15656,13 +15964,13 @@
       "tips": [],
       "datePublished": "2026-10-18",
       "dateModified": "2026-11-21",
-      "researchNote": "Airport-listed taxi location; duplicate same-fact section consolidated into a comparison table rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "researchNote": "The named source-linked arrival or calendar decisions were reviewed on 21 November 2026. Sequences, budget arithmetic and time allowances are Sidestreet planning suggestions, not measured travel times, live service guarantees or firsthand visit reports. Other facts retain their stated source dates and limits.",
       "imageNote": "Tha Phae Gate in Chiang Mai, shown as destination context. This photograph does not show the airport or a pickup point.",
-      "mins": 2,
+      "mins": 4,
       "compositionReview": {
         "date": "2026-11-21",
-        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
-        "scope": "Airport-listed taxi location; duplicate same-fact section consolidated into a comparison table only; not a full publisher signoff, image-rights clearance or live service check."
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       },
       "planTable": {
         "caption": "Compare the same hotel entrance and party size; no universal fare is asserted",
@@ -15963,26 +16271,6 @@
           ]
         },
         {
-          "h": "Two city-centre examples: choose the trip before the colour",
-          "p": [
-            "Use GoKL 01 to research a KLCC–Bukit Bintang trip, or GoKL 02 for Hab Pasar Seni–Bukit Bintang. The endpoint pairs below come from KLCCC’s numbered route maps. Confirm the current stop names and direction on those maps instead of relying on an old colour-based guide.",
-            "Our suggested city-day choice is one outward ride and a separate return decision after your meal or visit. Two RM1 rides cost RM2 for one fare-paying visitor; for two adults making the same two rides, allow RM4 before any other transport. This is simple per-ride arithmetic, not a day pass or a transfer discount."
-          ],
-          "sourceIds": [
-            "nov21-gokl"
-          ],
-          "links": [
-            [
-              "Open the official numbered route maps",
-              "https://klccc.dbkl.gov.my/gokl-2/"
-            ],
-            [
-              "Choose a Jalan Alor meal",
-              "/guides/kuala-lumpur-jalan-alor-dinner-plan"
-            ]
-          ]
-        },
-        {
           "h": "Keep GoKL separate from other Malaysian bus systems",
           "p": [
             "GoKL is a Kuala Lumpur City Hall service. This explainer does not establish payment rules, visitor eligibility or concessions for Rapid KL, Smart Selangor or an intercity coach. If a map offers several bus options, identify the operator and service before comparing fares.",
@@ -15998,6 +16286,26 @@
           ],
           "sourceIds": [
             "nov21-gokl"
+          ]
+        },
+        {
+          "h": "A KLCC and Bukit Bintang day: count boardings, then choose the meal",
+          "p": [
+            "For a KLCC start, research the GoKL 01 map to Bukit Bintang; use GoKL 02 when the intended start is Hab Pasar Seni. Choose one main destination and check its actual stop. The route number is more useful for this decision than a remembered colour or a promise that all central hotels share a stop.",
+            "Our example for two fare-paying visitors taking two rides each is RM4. Add any other transport to the worksheet instead of treating the bus subtotal as the whole outing. After a Bukit Bintang meal, check the return stop and service window again; the outward boarding point alone does not settle the journey home."
+          ],
+          "sourceIds": [
+            "nov21-gokl"
+          ],
+          "links": [
+            [
+              "Choose a Jalan Alor meal nearby",
+              "/guides/kuala-lumpur-jalan-alor-dinner-plan"
+            ],
+            [
+              "Plan the airport leg before the city bus",
+              "/guides/kuala-lumpur-klia-airport-to-city"
+            ]
           ]
         }
       ],
@@ -16020,6 +16328,10 @@
         ]
       ],
       "planLinks": [
+        [
+          "Calculate the paid rides for your group",
+          "#transfer-budget"
+        ],
         [
           "Official fares and route maps",
           "https://klccc.dbkl.gov.my/gokl-2/"
@@ -16063,15 +16375,15 @@
       "items": [],
       "places": [],
       "tips": [],
-      "mins": 2,
+      "mins": 5,
       "datePublished": "2026-10-18",
       "dateModified": "2026-11-21",
-      "researchNote": "KLCCC / DBKL fare, operating-window and numbered-route information consulted 21 November 2026. This is independent desk research, not a firsthand ride or live departure check. The sample RM2/RM4 totals are our per-ride calculations; confirm current service notices before travel.",
+      "researchNote": "This update adds source-linked arrival decisions and Sidestreet planning comparisons on 21 November 2026. The budget worksheet uses its stated fare basis and your entered connections; it is not a live booking or cheapest-fare guarantee. Other facts retain their stated source dates and limits. No firsthand visit is claimed.",
       "imageNote": "Kuala Lumpur skyline reference photograph; no bus or current boarding point is shown.",
       "compositionReview": {
         "date": "2026-11-21",
-        "method": "Search Console-led improvement of an existing guide, primary-source research and original trip comparisons.",
-        "scope": "The fare, route or dated-hours information identified in this update; not a personal visit, live service guarantee, image-rights signoff or full publisher review."
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       },
       "planTable": {
         "caption": "GoKL city-centre route examples — official endpoint pairs consulted 21 November 2026",
@@ -16092,6 +16404,25 @@
             "Compare a Pasar Seni start with a Bukit Bintang outing"
           ]
         ]
+      },
+      "transferBudget": {
+        "title": "Work out your GoKL ride budget",
+        "description": "Count fare-paying foreign visitors aged 13+ and the number of rides each will make. This is a ride budget, not an airport fare or a day-pass price.",
+        "currency": "MYR",
+        "travellerLabel": "Fare-paying foreign visitors aged 13+",
+        "multipleRides": true,
+        "checkedAt": "2026-11-21",
+        "options": [
+          {
+            "id": "gokl",
+            "label": "GoKL · RM1 per fare-paying visitor per ride",
+            "adultFare": 1
+          }
+        ],
+        "sourceIds": [
+          "nov21-gokl"
+        ],
+        "conditions": "KLCCC lists children aged 12 and under as free regardless of citizenship. Exclude eligible free riders from this paid count. Count every boarding you need; no transfer discount or day pass is assumed."
       }
     },
     {
@@ -16421,7 +16752,8 @@
         "klia-ekspres-visitor",
         "klia-transit-visitor",
         "review21-klia",
-        "review21-klia-schedule"
+        "review21-klia-schedule",
+        "transport21-erl-child-help"
       ],
       "body": [
         "Choose KLIA Ekspres when its KL Sentral arrival works with the rest of your hotel journey; compare KLIA Transit when an intermediate station is the destination. First confirm whether your flight uses Terminal 1 or Terminal 2. Buying an airport-train ticket solves a rail journey, not the final trip to every Kuala Lumpur hotel.",
@@ -16503,17 +16835,28 @@
               "/guides/kuala-lumpur-breakfast"
             ]
           ]
+        },
+        {
+          "h": "For families, compare a standard fare with the actual checkout offer",
+          "p": [
+            "Two adults and two children aged 6–15 total RM160 at the listed standard one-way rates, before the hotel leg. The operator also advertises family and group offers. The worksheet deliberately uses the standard basis, so read the exact offer at checkout before deciding it is the fare you should pay.",
+            "The operator’s help centre instructs families with child e-tickets to present them at the ticket counter for activation. Keep that step with the station plan, not as a surprise at the barrier. A lower online total and a ticket ready for immediate gate entry are different questions; save the ticket conditions and allow for the required counter step."
+          ],
+          "sourceIds": [
+            "review21-klia",
+            "transport21-erl-child-help"
+          ]
         }
       ],
       "items": [],
       "places": [],
       "datePublished": "2026-10-24",
       "dateModified": "2026-11-21",
-      "researchNote": "Standard fares, child-ticket process, ticket-product separation and conflicting late-service summaries rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "researchNote": "This update adds source-linked arrival decisions and Sidestreet planning comparisons on 21 November 2026. The budget worksheet uses its stated fare basis and your entered connections; it is not a live booking or cheapest-fare guarantee. Other facts retain their stated source dates and limits. No firsthand visit is claimed.",
       "compositionReview": {
         "date": "2026-11-21",
-        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
-        "scope": "Standard fares, child-ticket process, ticket-product separation and conflicting late-service summaries only; not a full publisher signoff, image-rights clearance or live service check."
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       },
       "quickPlan": [
         [
@@ -16591,20 +16934,24 @@
       ],
       "planLinks": [
         [
-          "Check official Ekspres fares and current service details",
+          "Work out the standard group budget",
+          "#transfer-budget"
+        ],
+        [
+          "Check Ekspres fares and current offers",
           "https://www.kliaekspres.com/products-fares/klia-ekspres/"
         ],
         [
-          "Check the full official schedule",
+          "Check the full terminal-specific schedule",
           "https://www.kliaekspres.com/schedule/"
         ],
         [
-          "Check Transit stations and ticket conditions",
-          "https://www.kliaekspres.com/products-fares/klia-transit/"
+          "Child e-ticket activation help",
+          "https://www.kliaekspres.com/help-centre/"
         ],
         [
-          "Open the Kuala Lumpur city guide",
-          "/city/kuala-lumpur"
+          "Continue with GoKL city buses",
+          "/guides/kuala-lumpur-gokl-bus-foreign-visitors"
         ]
       ],
       "navigationRoute": {
@@ -16639,7 +16986,28 @@
         "Compare the same party size and luggage needs for rail and road.",
         "Recheck the service notice for your actual travel date."
       ],
-      "mins": 3
+      "mins": 6,
+      "transferBudget": {
+        "title": "Compare a KLIA train budget for your party",
+        "description": "One-way standard fares between KLIA T1/T2 and KL Sentral, before discounts or packages. Add the whole-party final connection, then compare a quote for the same hotel.",
+        "currency": "MYR",
+        "travellerLabel": "Adults aged 16 and above",
+        "childLabel": "Children aged 6–15",
+        "checkedAt": "2026-11-21",
+        "options": [
+          {
+            "id": "ekspres",
+            "label": "Standard Ekspres single · adult RM55 / child RM25",
+            "adultFare": 55,
+            "childFare": 25
+          }
+        ],
+        "sourceIds": [
+          "review21-klia",
+          "transport21-erl-child-help"
+        ],
+        "conditions": "This standard-fare calculation does not apply online discounts, family/group offers or return products. Check current checkout offers before buying. Under-6 free travel has operator limits and ticket procedures; it is not an unlimited free-child allowance. Activate child e-tickets as instructed at the counter."
+      }
     },
     {
       "id": "hong-kong-airport-express-city-transfer",
@@ -16656,7 +17024,8 @@
         "nov21-mtr-timetable",
         "nov21-mtr-jordan",
         "nov21-mtr-map",
-        "citybus-airport-routes"
+        "citybus-airport-routes",
+        "transport21-mtr-group"
       ],
       "body": [
         "Airport Express links Hong Kong Airport with Hong Kong, Kowloon and Tsing Yi stations. Adult single fares using Octopus or an eligible contactless bank card are HK$120, HK$105 and HK$73 respectively; Smart Ticket fares are HK$130, HK$115 and HK$80. Choose the station for your complete hotel journey, then check the ticket conditions.",
@@ -16721,17 +17090,28 @@
             "nov21-mtr-timetable",
             "nov21-mtr-jordan"
           ]
+        },
+        {
+          "h": "For two to four adults, check Ride Together before buying individual singles",
+          "p": [
+            "MTR’s published group table gives a four-person one-way set at HK$280 to Hong Kong, HK$250 to Kowloon or HK$170 to Tsing Yi. These are party totals, not per-person prices. The offer requires the group to travel together and purchase the designated set at the departing station; separate card taps do not buy that product.",
+            "For four adults choosing Hong Kong station, ordinary HK$120 singles total HK$480, while that listed group set totals HK$280 before the hotel leg. The worksheet lets you compare both bases with your actual final connection. An onward transfer, an early flight or a difficult station approach can still determine the choice; the lowest rail subtotal does not answer those questions."
+          ],
+          "sourceIds": [
+            "transport21-mtr-group",
+            "nov21-mtr-fares"
+          ]
         }
       ],
       "items": [],
       "places": [],
       "datePublished": "2026-10-24",
       "dateModified": "2026-11-21",
-      "researchNote": "MTR fare, general timetable and Airport-to-Jordan route information consulted 21 November 2026. Citybus information retains its earlier source date. This is independent desk research, not a personal journey report. The Jordan example explains interchange choices; it is not a live departure recommendation.",
+      "researchNote": "This update adds source-linked arrival decisions and Sidestreet planning comparisons on 21 November 2026. The budget worksheet uses its stated fare basis and your entered connections; it is not a live booking or cheapest-fare guarantee. Other facts retain their stated source dates and limits. No firsthand visit is claimed.",
       "compositionReview": {
         "date": "2026-11-21",
-        "method": "Search Console-led improvement of an existing guide, primary-source research and original trip comparisons.",
-        "scope": "The fare, route or dated-hours information identified in this update; not a personal visit, live service guarantee, image-rights signoff or full publisher review."
+        "method": "Existing-URL improvement with primary-source fare/arrival checks, a scoped budget worksheet where applicable, and original itinerary decision support.",
+        "scope": "No firsthand ride/visit, live quote, service availability, full publisher or image-rights signoff is claimed."
       },
       "quickPlan": [
         [
@@ -16782,6 +17162,10 @@
           "Adult singles using Octopus or an eligible contactless bank card are HK$120 to Hong Kong, HK$105 to Kowloon and HK$73 to Tsing Yi. Smart Tickets are HK$130, HK$115 and HK$80. Check the current fare and exact ticket product."
         ],
         [
+          "Are there Airport Express group tickets for two to four people?",
+          "MTR publishes Ride Together sets for groups of 2, 3 or 4 travelling together, bought in one transaction at a designated departing station. Use the group offer and its conditions rather than assuming separate Octopus or bank-card taps receive it."
+        ],
+        [
           "Can children use an adult bank card for the child fare?",
           "MTR says contactless bank cards charge the adult fare. Ages 3–11 have separate child fares; children under 3 travel free. Select an eligible child ticket or payment medium."
         ],
@@ -16799,6 +17183,14 @@
         ]
       ],
       "planLinks": [
+        [
+          "Compare your group budget",
+          "#transfer-budget"
+        ],
+        [
+          "Check MTR group-ticket conditions",
+          "https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html"
+        ],
         [
           "Check the current MTR fare table",
           "https://www.mtr.com.hk/en/customer/tickets/tf_index.html"
@@ -16851,7 +17243,51 @@
         "Match the fare to the actual ticket medium.",
         "Check your hotel’s late-arrival instructions before departure."
       ],
-      "mins": 3
+      "mins": 6,
+      "transferBudget": {
+        "title": "Compare your Airport Express group budget",
+        "description": "One-way adult journeys, age 12+. Choose the arrival station and ticket basis, then add your whole-party hotel connection. Child fares and return products need a separate ticket comparison.",
+        "currency": "HKD",
+        "travellerLabel": "Adults aged 12 and above",
+        "checkedAt": "2026-11-21",
+        "options": [
+          {
+            "id": "hong-kong",
+            "label": "Hong Kong · adult Octopus / eligible bank-card single HK$120",
+            "adultFare": 120,
+            "groupFares": {
+              "2": 170,
+              "3": 230,
+              "4": 280
+            }
+          },
+          {
+            "id": "kowloon",
+            "label": "Kowloon · adult Octopus / eligible bank-card single HK$105",
+            "adultFare": 105,
+            "groupFares": {
+              "2": 150,
+              "3": 210,
+              "4": 250
+            }
+          },
+          {
+            "id": "tsing-yi",
+            "label": "Tsing Yi · adult Octopus / eligible bank-card single HK$73",
+            "adultFare": 73,
+            "groupFares": {
+              "2": 100,
+              "3": 140,
+              "4": 170
+            }
+          }
+        ],
+        "sourceIds": [
+          "nov21-mtr-fares",
+          "transport21-mtr-group"
+        ],
+        "conditions": "Ride Together is an optional offer for 2–4 people travelling together. Buy the set in one transaction at the designated departing station’s customer service centre; it is not an automatic discount when tapping separate cards. Confirm current offer and same-day validity."
+      }
     },
     {
       "id": "bangkok-rainy-day-museums-bacc-museum-siam",

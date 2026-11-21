@@ -12,7 +12,7 @@ export function walkingRouteUrl(stops) {
  return 'https://www.google.com/maps/dir/?'+new URLSearchParams({api:'1',origin:stops[0].query,destination:stops.at(-1).query,...(stops.length>2?{waypoints:stops.slice(1,-1).map(s=>s.query).join('|')} : {}),travelmode:'walking'}).toString();
 }
 export function guideSections(story,places) {
- return [...(story.quickPlan?[['Plan this outing','plan-this-outing']]:story.faq?.length?[[story.faq[0][0],'quick-answer']]:[]),...(story.items||[]).map((item,i)=>{const title=places.find(p=>p.id===item.p)?.name||item.n;return [title,sectionId(title,i)];}),...(story.sections||[]).filter(s=>!s.relatedReading).map((s,i)=>[s.h,sectionId(s.h,i+(story.items||[]).length)]),...(story.tips?.length?[['Good to know','good-to-know']]:[]),...(story.faq?.length>(story.quickPlan?0:1)?[['Common questions','common-questions']]:[])].map(([label,id])=>({label,id}));
+ return [...(story.quickPlan?[['Plan this outing','plan-this-outing']]:story.faq?.length?[[story.faq[0][0],'quick-answer']]:[]),...(story.transferBudget?[['Compare your budget','transfer-budget']]:[]),...(story.items||[]).map((item,i)=>{const title=places.find(p=>p.id===item.p)?.name||item.n;return [title,sectionId(title,i)];}),...(story.sections||[]).filter(s=>!s.relatedReading).map((s,i)=>[s.h,sectionId(s.h,i+(story.items||[]).length)]),...(story.tips?.length?[['Good to know','good-to-know']]:[]),...(story.faq?.length>(story.quickPlan?0:1)?[['Common questions','common-questions']]:[])].map(([label,id])=>({label,id}));
 }
 export function guideNavigation(story,places,cities) {
  const route=story.navigationRoute;

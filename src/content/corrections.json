@@ -1,5 +1,18 @@
 [
   {
+    "id": "airport-express-group-offer-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Airport Express: distinguish individual singles from the group offer",
+    "guide": "hong-kong-airport-express-city-transfer",
+    "text": [
+      "The earlier individual-fare arithmetic remains correct, but it was not a cheapest-ticket comparison. The guide now includes MTR’s conditional Ride Together offer and a separate whole-party worksheet; the final hotel connection still needs its own cost."
+    ],
+    "sources": [
+      "transport21-mtr-group",
+      "nov21-mtr-fares"
+    ]
+  },
+  {
     "id": "remaining100-yangon-walk-2026-11-21",
     "date": "2026-11-21",
     "title": "Yangon: remove unsupported fixed-route and access assumptions",

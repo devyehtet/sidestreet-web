@@ -1,0 +1,172 @@
+{
+  "date": "2026-11-21",
+  "classification": "improve-existing-URLs-and-supporting-itineraries",
+  "cohort": [
+    "hong-kong-airport-express-city-transfer",
+    "kuala-lumpur-gokl-bus-foreign-visitors",
+    "phuket-dragon-line-free-town-bus",
+    "kuala-lumpur-klia-airport-to-city",
+    "bangkok-suvarnabhumi-airport-transfer",
+    "chiang-mai-airport-to-old-town-transfer",
+    "phuket-airport-to-beach-transfer",
+    "bangkok-three-day-first-visit",
+    "chiang-mai-two-day-itinerary",
+    "phuket-three-day-itinerary"
+  ],
+  "changes": {
+    "hong-kong-airport-express-city-transfer": [
+      "Add a source-linked, unknown-cost-aware group budget worksheet",
+      "For two to four adults, check Ride Together before buying individual singles"
+    ],
+    "kuala-lumpur-gokl-bus-foreign-visitors": [
+      "Add a source-linked, unknown-cost-aware group budget worksheet",
+      "A KLCC and Bukit Bintang day: count boardings, then choose the meal"
+    ],
+    "phuket-dragon-line-free-town-bus": [
+      "From Patong to Old Town: compare the paid link with the free loop"
+    ],
+    "kuala-lumpur-klia-airport-to-city": [
+      "Add a source-linked, unknown-cost-aware group budget worksheet",
+      "For families, compare a standard fare with the actual checkout offer"
+    ],
+    "bangkok-suvarnabhumi-airport-transfer": [
+      "After a late landing: protect the complete route, not just the first train",
+      "Replace a generic introduction/table with named pickup locations, operating window and arrival FAQs"
+    ],
+    "chiang-mai-airport-to-old-town-transfer": [
+      "For a short Chiang Mai stay, count arrival and departure as part of the two days",
+      "Clarify the Old City search intent without inventing a flat fare or a guaranteed live bus"
+    ],
+    "phuket-airport-to-beach-transfer": [
+      "Add a source-linked, unknown-cost-aware group budget worksheet",
+      "Paying for the bus: cash, cards and Thai-bank QR are different choices"
+    ],
+    "bangkok-three-day-first-visit": [
+      "Monday, weekend and rain: make three different swaps",
+      "One departure-day example: build the plan backwards from the airline deadline",
+      "Build a calendar-sensitive day table and departure-day worked example"
+    ],
+    "chiang-mai-two-day-itinerary": [
+      "Choose the two-day pattern by the weekday you actually have",
+      "Add specific weekday patterns, swap rules and query-shaped answers"
+    ],
+    "phuket-three-day-itinerary": [
+      "Beach hotel or town stay: change the transport budget before the activities",
+      "Add accommodation-based transport choices and arrival/departure sessions"
+    ]
+  },
+  "baselineEvidence": {
+    "source": "docs/SEARCH-CONTENT-REVIEW-2026-11-21.json",
+    "latestCompleteSelectedEnd": "2026-11-18",
+    "liveGscReadThisPass": false,
+    "measuredPages": {
+      "hong-kong-airport-express-city-transfer": {
+        "impressions": 169,
+        "clicks": 2
+      },
+      "kuala-lumpur-gokl-bus-foreign-visitors": {
+        "impressions": 73,
+        "clicks": 1
+      },
+      "phuket-dragon-line-free-town-bus": {
+        "impressions": 128,
+        "clicks": 1
+      }
+    },
+    "window": [
+      "2026-11-05",
+      "2026-11-18"
+    ],
+    "supportingPages": "The other seven pages support an arrival/itinerary cluster. No individual query volume or page traffic is invented for them."
+  },
+  "hypothesis": "More useful purchase comparisons and usable arrival/calendar decisions may improve qualified search discovery and clicks. No ranking or traffic uplift is claimed.",
+  "newToolScope": {
+    "pages": 4,
+    "currencies": [
+      "HKD",
+      "MYR",
+      "THB"
+    ],
+    "unknownConnection": "Never treated as zero; require explicit entry before a complete-total comparison.",
+    "groupOffer": "MTR offer is opt-in, exact-party-size and station-specific.",
+    "klia": "Standard fare arithmetic only; packages/online discounts not applied.",
+    "noNewTracking": true
+  },
+  "sourceAccess": [
+    {
+      "url": "https://www.mtr.com.hk/en/customer/tickets/promotions_4persons.html",
+      "scope": "Published group table and conditional purchase rules"
+    },
+    {
+      "url": "https://www.phuketsmartbus.com/payment/",
+      "scope": "Route fares, listed payment methods and child category"
+    },
+    {
+      "url": "https://www.kliaekspres.com/help-centre/",
+      "scope": "Child e-ticket activation; official indexed extract"
+    },
+    {
+      "url": "https://suvarnabhumi.airportthai.co.th/service/airport-guide/detail/Transportation_BKK",
+      "scope": "B1 rail window, regular taxi queue, surcharge and Grab outer-kerb location"
+    },
+    {
+      "url": "https://klccc.dbkl.gov.my/gokl-2/",
+      "scope": "Official indexed route/payment/fare text; direct page timed out"
+    },
+    {
+      "url": "https://www.finearts.go.th/chiangmaimuseum/categorie/calendar",
+      "scope": "Exhibition calendar distinct from office hours"
+    },
+    {
+      "url": "https://tourist.centralgroup.com/highlights/191/jing-jai-central-chiang-mai",
+      "scope": "Weekend morning market format"
+    },
+    {
+      "url": "https://www.museumsiam.org/museumsiam-visit.php",
+      "scope": "Monday closure and Tuesday–Sunday 10–18"
+    },
+    {
+      "url": "https://www.am2026thailand.go.th/explore-bangkok/chatuchak-weekend-market",
+      "scope": "Main weekend-market calendar"
+    }
+  ],
+  "measurementPlan": {
+    "unit": "same query/page/country/device cohorts, Web report; AI impressions separate",
+    "postPeriod": [
+      "2026-11-22",
+      "2026-12-05"
+    ],
+    "comparisonPeriod": [
+      "2026-11-08",
+      "2026-11-21"
+    ],
+    "when": "Only compare once both periods are complete and available in GSC; export the missing baseline then.",
+    "metrics": [
+      "Clicks",
+      "Impressions",
+      "CTR at comparable query positions",
+      "Same-query position",
+      "Organic landing sessions and existing configured meaningful actions"
+    ],
+    "newValues": "Not measured yet",
+    "confounders": [
+      "Several corrections were deployed earlier on the same day.",
+      "Seasonal festival interest, competition and algorithm changes.",
+      "Small click counts; a single click moves CTR materially."
+    ],
+    "reviewRule": "Do not repeatedly change titles based on one or two days. Investigate specific query/page differences after a complete window; no causal A/B claim."
+  },
+  "validation": {
+    "contentAudit": "passed;124 guides,186 places,180 images;0 errors,0 warnings",
+    "lint": "passed",
+    "tests": "25 passed,0 failed; includes unknown costs, exact group eligibility, children/rides and invalid input cases",
+    "build": "passed;149 static pages",
+    "previewHttp": "18 pages passed;4 calculator SSR/default states, labels, source links, in-page navigation, metadata and178 sitemap URLs",
+    "browserInteractionAndVisual": "Not run: browser RPC unavailable. Pure calculation logic and server-rendered controls were verified.",
+    "tracking": "No new analytics or advertising activated"
+  },
+  "release": {
+    "status": "validated-for-release",
+    "method": "existing GitHub main to Vercel workflow"
+  }
+}

@@ -65,6 +65,17 @@ const rows = data.stories.map(story => {
   image(story.img, story.id);
   const ids = [...new Set([...(story.src || []),...(story.sections || []).flatMap(s => [s.sourceId,...(s.sourceIds || [])]).filter(Boolean)])];
   references(ids, story.id);
+  if (story.transferBudget) {
+    const budget=story.transferBudget;
+    references(budget.sourceIds,story.id);
+    if (!budget.sourceIds?.length || budget.sourceIds.some(id=>!story.src?.includes(id)) || !['HKD','MYR','THB'].includes(budget.currency) || !/^\d{4}-\d{2}-\d{2}$/.test(budget.checkedAt||'')) errors.push(`${story.id}: invalid budget source, currency or review date`);
+    if (!Array.isArray(budget.options)||!budget.options.length||new Set(budget.options.map(o=>o.id)).size!==budget.options.length) errors.push(`${story.id}: invalid budget options`);
+    for (const option of budget.options||[]) {
+      if (!option.id||!option.label||!Number.isFinite(option.adultFare)||option.adultFare<0||(budget.childLabel&&(!Number.isFinite(option.childFare)||option.childFare<0))) errors.push(`${story.id}: invalid budget fare`);
+      if (option.groupFares && (Object.keys(option.groupFares).some(n=>!['2','3','4'].includes(n))||Object.values(option.groupFares).some(fare=>!Number.isFinite(fare)||fare<=0))) errors.push(`${story.id}: invalid group fare`);
+    }
+  }
+
   for (const id of [...(story.places || []),...(story.items || []).map(i => i.p).filter(Boolean)]) if (!places.has(id)) errors.push(`${story.id}: unknown place ${id}`);
   const parts = [story.title,story.dek,...(story.body || []),...(story.tips || []),...(story.items || []).map(i=>i.text),...(story.sections || []).flatMap(s=>[s.h,...s.p]),...(story.faq || []).flat(),...(story.quickPlan || []).flat(),...(story.planTable?.rows || []).flat()];
   const words = parts.join(' ').trim().split(/\s+/u).length;
