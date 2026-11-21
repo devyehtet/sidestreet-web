@@ -1,0 +1,1878 @@
+{
+  "date": "2026-11-21",
+  "scope": "Inventory of all 124 guides; new source-linked improvements to 20 existing guides, following the previous four-guide pass. This report does not certify that every factual claim on the site has been freshly verified.",
+  "selection": "Measured impressions for Doi Suthep, Dadaocheng, Penang heritage queries, Tokyo listening and Design Week; other pages chosen for current visitor decisions, dated-notice risk and official-source gaps. No new keyword volumes or rankings are inferred.",
+  "changes": [
+    {
+      "slug": "bangkok-night-markets",
+      "action": "improve-existing-url",
+      "reason": "Replace an exclusively third-party market reference and correct shared opening-hour inconsistencies.",
+      "reviewedClaims": "Named market locations, visiting-day references and the separate Asiatique shuttle window",
+      "sourceIds": [
+        "review21-jodd",
+        "review21-rotfai",
+        "review21-asiatique",
+        "review21-ongang"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-temples",
+      "action": "improve-existing-url",
+      "reason": "Make ticket and entry decisions answerable without inventing a combined temple ticket.",
+      "reviewedClaims": "Grand Palace and Wat Pho ticket charges, ticket-sales deadline and visitor clothing rules",
+      "sourceIds": [
+        "review21-palace",
+        "review21-pho"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "bangkok-chatuchak",
+      "action": "improve-existing-url",
+      "reason": "Turn a large market visit into a clear entrance, shopping and return plan.",
+      "reviewedClaims": "Main weekend hours, free admission and government-listed MRT/BTS exits",
+      "sourceIds": [
+        "review21-chatuchak"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-doi-suthep-visit",
+      "action": "improve-existing-url",
+      "reason": "The guide recorded 37 recent impressions; make its specific approach and transport questions more useful.",
+      "reviewedClaims": "TAT’s two approach descriptions and the distinction between ascent, road transfer and return",
+      "sourceIds": [
+        "review21-doi"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-design-week-2026-dates",
+      "action": "improve-existing-url",
+      "reason": "92 impressions in the last measured 28-day window; remove a stale vendor deadline and an un-reconfirmed visitor-hours claim.",
+      "reviewedClaims": "Announced festival dates, programme strands and the old detail-link redirect",
+      "sourceIds": [
+        "review21-cmdw",
+        "review21-cmdw-program"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "taipei-dadaocheng",
+      "action": "improve-existing-url",
+      "reason": "35 recent page impressions; remove the past maintenance closure from the main current-planning message.",
+      "reviewedClaims": "Regular service windows, individual costume reservation terms and the past status of the earlier closure dates",
+      "sourceIds": [
+        "review21-dadaocheng",
+        "review21-dadaocheng-terms"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "action": "improve-existing-url",
+      "reason": "A real “penang heritage walk” query already appears in Search Console; clarify what a shorter route actually includes.",
+      "reviewedClaims": "Official trail sequence and duration, contrasted with shorter editorial segments",
+      "sourceIds": [
+        "review21-penang"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "tokyo-listening",
+      "action": "improve-existing-url",
+      "reason": "The page is attracting named-venue searches; replace a publisher-disclaimer FAQ with a practical visitor decision.",
+      "reviewedClaims": "Kissaten visit format, quiet-use etiquette and the limits of an older Eagle interview",
+      "sourceIds": [
+        "review21-kissaten",
+        "review21-lion",
+        "review21-eagle"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "tokyo-tsukiji",
+      "action": "improve-existing-url",
+      "reason": "Add specific market-use answers while retaining the already detailed morning plan.",
+      "reviewedClaims": "Public-buyer window, individual-shop calendar limits, official station approaches and purchase etiquette",
+      "sourceIds": [
+        "review21-tsukiji-calendar",
+        "review21-tsukiji-access"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "london-free",
+      "action": "improve-existing-url",
+      "reason": "Make an approaching festive visit practical; British Museum and Tate claims retain their earlier reference scope, not a fresh full check.",
+      "reviewedClaims": "National Gallery entrance, regular and Friday hours, free collection admission and holiday closures",
+      "sourceIds": [
+        "review21-national-gallery"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "kuala-lumpur-klia-airport-to-city",
+      "action": "improve-existing-url",
+      "reason": "Improve a useful airport-transfer page and avoid presenting an inconsistent last-train panel as a booking promise.",
+      "reviewedClaims": "Standard fares, child-ticket process, ticket-product separation and conflicting late-service summaries",
+      "sourceIds": [
+        "review21-klia",
+        "review21-klia-schedule"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "hong-kong-tram-first-ride",
+      "action": "improve-existing-url",
+      "reason": "Answer first-ride fare/payment questions directly without adding an invented tour package.",
+      "reviewedClaims": "Ordinary fare categories, front-exit payment and route-destination distinction",
+      "sourceIds": [
+        "review21-tram"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "hong-kong-harbour",
+      "action": "improve-existing-url",
+      "reason": "Make route and fare comparisons explicit for an existing harbour guide.",
+      "reviewedClaims": "Central–Tsim Sha Tsui fares and the Wan Chai lower-deck distinction",
+      "sourceIds": [
+        "review21-star-ferry"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "taipei-beitou-museum",
+      "action": "improve-existing-url",
+      "reason": "Remove a stale October planning instruction from a year-round museum guide.",
+      "reviewedClaims": "Regular free admission, hours, no-bathing distinction and past status of the anniversary programme",
+      "sourceIds": [
+        "review21-beitou"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "siem-reap-angkor",
+      "action": "improve-existing-url",
+      "reason": "Give a first-time visitor an actual pass comparison instead of a generic temple list.",
+      "reviewedClaims": "Pass prices, visiting-day allowances and product-specific validity",
+      "sourceIds": [
+        "review21-angkor"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "paris-carnavalet-budget",
+      "action": "improve-existing-url",
+      "reason": "Add concrete collection choices and date-specific planning to the free-museum guide.",
+      "reviewedClaims": "Museum holiday exceptions, entry products and named collection themes",
+      "sourceIds": [
+        "review21-carnavalet",
+        "review21-carnavalet-art"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "kyoto-first-visit-two-area-plan",
+      "action": "improve-existing-url",
+      "reason": "Replace a broad district choice with concrete alternative station approaches.",
+      "reviewedClaims": "Official Arashiyama rail approaches and responsible-access guidance",
+      "sourceIds": [
+        "review21-kyoto-access",
+        "review21-kyoto-rules"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "chiang-mai-airport-to-old-town-transfer",
+      "action": "improve-existing-url",
+      "reason": "Remove repeated generic advice and make the three transfer choices easier to compare.",
+      "reviewedClaims": "Airport-listed taxi location; duplicate same-fact section consolidated into a comparison table",
+      "sourceIds": [
+        "review21-cnx-taxi"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "world-trains",
+      "action": "improve-existing-url",
+      "reason": "Make booking-error prevention specific while leaving live prices and berth availability to the operator.",
+      "reviewedClaims": "SRT passenger-detail and pre-payment review requirements",
+      "sourceIds": [
+        "review21-srt"
+      ],
+      "fullPublisherReview": false
+    },
+    {
+      "slug": "phuket-airport-to-beach-transfer",
+      "action": "improve-existing-url",
+      "reason": "Replace duplicate boarding paragraphs with an immediate fare/boarding answer and group-cost table.",
+      "reviewedClaims": "Airport–Rawai published fare, Domestic Exit 3 boarding and the route-specific comparison",
+      "sourceIds": [
+        "review21-hkt-boarding",
+        "review21-hkt-fare"
+      ],
+      "fullPublisherReview": false
+    }
+  ],
+  "sourceAccess": [
+    {
+      "id": "review21-palace",
+      "url": "https://www.royalgrandpalace.th/en/visit/practical-information",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-pho",
+      "url": "https://www.watpho.com/th/contact/plan",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-jodd",
+      "url": "https://www.thailandtravel.or.jp/jodd-fairs/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-rotfai",
+      "url": "https://www.thailandtravel.or.jp/train-night-market-srinakarin/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-asiatique",
+      "url": "https://www.asiatiquethailand.com/contact-us",
+      "method": "Official-domain indexed text; direct page did not supply readable content"
+    },
+    {
+      "id": "review21-ongang",
+      "url": "https://publicspace.bangkok.go.th/Spaces/Info/4A90D4B5-55E4-44EA-84DD-2B7F11E6C06F",
+      "method": "Official-domain indexed text"
+    },
+    {
+      "id": "review21-chatuchak",
+      "url": "https://www.am2026thailand.go.th/explore-bangkok/chatuchak-weekend-market",
+      "method": "Official-domain indexed text; article originally published 15 August 2025"
+    },
+    {
+      "id": "review21-doi",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep",
+      "method": "Official-domain indexed text; direct page rendered only a shell. Approach description only, not current fares or service operation"
+    },
+    {
+      "id": "review21-cmdw",
+      "url": "https://www.chiangmaidesignweek.com/cmdw2026/content/168436",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-cmdw-program",
+      "url": "https://www.chiangmaidesignweek.com/cmdw2026/program",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-dadaocheng",
+      "url": "https://travel.taipei/vintage-clothing/en",
+      "method": "Official-domain indexed text; direct retrieval returned 403. Regular programme information is not proof of reopening or a live reservation"
+    },
+    {
+      "id": "review21-dadaocheng-terms",
+      "url": "https://www.travel.taipei/vintage-clothing/en/terms",
+      "method": "Official-domain indexed text"
+    },
+    {
+      "id": "review21-penang",
+      "url": "https://www.mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-kissaten",
+      "url": "https://www.gourmet.gotokyo.org/article/33.html",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-lion",
+      "url": "https://lion.main.jp/atfirst/atfirst.htm",
+      "method": "Operator page read; undated holiday notices are not reused as a current calendar"
+    },
+    {
+      "id": "review21-eagle",
+      "url": "https://jp.jbl.com/eagle.html",
+      "method": "Primary venue interview indexed text, not a current operator timetable; operator site timed out"
+    },
+    {
+      "id": "review21-tsukiji-calendar",
+      "url": "https://www.tsukiji.or.jp/english/calendar/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-tsukiji-access",
+      "url": "https://www.tsukiji.or.jp/english/access/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-national-gallery",
+      "url": "https://www.nationalgallery.org.uk/visiting/plan-your-visit",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-klia",
+      "url": "https://www.kliaekspres.com/products-fares/klia-ekspres/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-klia-schedule",
+      "url": "https://www.kliaekspres.com/schedule/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-tram",
+      "url": "https://www.hktramways.com/en/schedules-fares/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-star-ferry",
+      "url": "https://www.starferry.com.hk/en/service",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-beitou",
+      "url": "https://hotspringmuseum.taipei/en/content.aspx?id=33&pid=29",
+      "method": "Official-domain indexed visitor text; direct retrieval displayed brochure links rather than the full English visitor information"
+    },
+    {
+      "id": "review21-angkor",
+      "url": "https://www.angkorenterprise.gov.kh/en/available-tickets",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-carnavalet",
+      "url": "https://www.carnavalet.paris.fr/en/visit/pratical-information",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-carnavalet-art",
+      "url": "https://www.carnavalet.paris.fr/en/collections/les-oeuvres-incontournables",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-kyoto-access",
+      "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-saga-arashiyama/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-kyoto-rules",
+      "url": "https://kyoto.travel/en/responsible-travel/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-cnx-taxi",
+      "url": "https://chiangmai.airportthai.co.th/service/transportation/detail/125",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-srt",
+      "url": "https://dticket.railway.co.th/DTicketPublicWeb/help/",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-hkt-boarding",
+      "url": "https://www.phuketsmartbus.com/blog/phuket-smart-bus-stop-at-phuket-airport",
+      "method": "Official page text read directly"
+    },
+    {
+      "id": "review21-hkt-fare",
+      "url": "https://www.phuketsmartbus.com/timetable/",
+      "method": "Official page text read directly"
+    }
+  ],
+  "sharedPlaceChecks": [
+    {
+      "id": "bkk-grand-palace",
+      "reviewedFields": [
+        "hours",
+        "price"
+      ],
+      "sourceIds": [
+        "review21-palace"
+      ]
+    },
+    {
+      "id": "bkk-wat-pho",
+      "reviewedFields": [
+        "hours",
+        "price"
+      ],
+      "sourceIds": [
+        "review21-pho"
+      ]
+    },
+    {
+      "id": "bkk-jodd-fairs",
+      "reviewedFields": [
+        "hours"
+      ],
+      "sourceIds": [
+        "review21-jodd"
+      ]
+    },
+    {
+      "id": "bkk-rot-fai-srinakarin",
+      "reviewedFields": [
+        "hours"
+      ],
+      "sourceIds": [
+        "review21-rotfai"
+      ]
+    },
+    {
+      "id": "bkk-asiatique",
+      "reviewedFields": [
+        "hours"
+      ],
+      "sourceIds": [
+        "review21-asiatique"
+      ]
+    },
+    {
+      "id": "bkk-ong-ang",
+      "reviewedFields": [],
+      "sourceIds": [
+        "review21-ongang"
+      ]
+    },
+    {
+      "id": "tpe-visitor-centre",
+      "reviewedFields": [],
+      "sourceIds": [
+        "review21-dadaocheng",
+        "review21-dadaocheng-terms"
+      ]
+    },
+    {
+      "id": "tpe-hot-spring-museum",
+      "reviewedFields": [
+        "hours",
+        "price"
+      ],
+      "sourceIds": [
+        "review21-beitou"
+      ]
+    },
+    {
+      "id": "par-carnavalet",
+      "reviewedFields": [
+        "hours",
+        "price"
+      ],
+      "sourceIds": [
+        "review21-carnavalet"
+      ]
+    },
+    {
+      "id": "hkg-tramways",
+      "reviewedFields": [
+        "price"
+      ],
+      "sourceIds": [
+        "review21-tram"
+      ]
+    },
+    {
+      "id": "hkg-star-ferry",
+      "reviewedFields": [
+        "price"
+      ],
+      "sourceIds": [
+        "review21-star-ferry"
+      ]
+    }
+  ],
+  "cityStartingGuidesUpdated": [],
+  "inventory": [
+    {
+      "slug": "bangkok-night-markets",
+      "title": "Bangkok night markets: Jodd Fairs, Srinakarin or a riverside evening?",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "review21-jodd",
+        "review21-rotfai",
+        "review21-asiatique",
+        "review21-ongang"
+      ]
+    },
+    {
+      "slug": "bangkok-temples",
+      "title": "Bangkok temples: a flexible Grand Palace, Wat Pho and Wat Arun day",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "palace-official",
+        "pho-official",
+        "arun-tat",
+        "review21-palace",
+        "review21-pho"
+      ]
+    },
+    {
+      "slug": "bangkok-street-food",
+      "title": "Bangkok street food: turn a shortlist into a meal",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "aufood",
+        "bpjf",
+        "jayfai-michelin"
+      ]
+    },
+    {
+      "slug": "bangkok-rooftops",
+      "title": "Bangkok rooftops: observation ticket or evening table?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "mahanakhon-skywalk-official",
+        "mahanakhon-main-official",
+        "octave-marriott"
+      ]
+    },
+    {
+      "slug": "bangkok-chatuchak",
+      "title": "Chatuchak Market Bangkok: opening days, stations and a shopping plan",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "chatuchak-government-2026",
+        "chatuchak-hours",
+        "review21-chatuchak"
+      ]
+    },
+    {
+      "slug": "bangkok-loy-krathong",
+      "title": "Loy Krathong in Bangkok: plan for a local programme",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "umelk",
+        "thgcal",
+        "thgyp"
+      ]
+    },
+    {
+      "slug": "bangkok-biennale",
+      "title": "Bangkok Art Biennale: make a route from the venue list",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "bab-venues",
+        "bab-government-2026",
+        "bab-organiser",
+        "nov12-bab-venues"
+      ]
+    },
+    {
+      "slug": "bangkok-gigs",
+      "title": "Bangkok concerts: plan the show and the journey separately",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "bklist",
+        "weeknd-promoter",
+        "mraz-venue",
+        "babymonster-ticket",
+        "mcr-ticket",
+        "bts-ticket",
+        "wonderfruit-organiser"
+      ]
+    },
+    {
+      "slug": "bangkok-talatnoi",
+      "title": "Talat Noi Bangkok: a walking route from Hua Lamphong to the riverside",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "talatnoi-tat"
+      ]
+    },
+    {
+      "slug": "bangkok-daytrips",
+      "title": "Bangkok train outings: compare the time you get at the destination",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "srt-booking"
+      ]
+    },
+    {
+      "slug": "bangkok-hotels",
+      "title": "Bangkok hotels: Sukhumvit or riverside, then choose your room",
+      "dateModified": "2026-10-21",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "mo-bangkok",
+        "peninsula-bangkok",
+        "siam-bangkok",
+        "capella-bangkok",
+        "bts-route-planner"
+      ]
+    },
+    {
+      "slug": "chiang-mai-yi-peng",
+      "title": "Yi Peng in Chiang Mai: observing the festival and checking permission",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "thgyp",
+        "umelk"
+      ]
+    },
+    {
+      "slug": "chiang-mai-markets",
+      "title": "Chiang Mai markets: choose by shopping purpose and visiting day",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "expcm",
+        "thgsws",
+        "cm-walking-government"
+      ]
+    },
+    {
+      "slug": "chiang-mai-khaosoi",
+      "title": "Khao soi in Chiang Mai: choose a bowl, then adjust it",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "thgcm",
+        "cm-food-tat"
+      ]
+    },
+    {
+      "slug": "chiang-mai-oldcity",
+      "title": "Chiang Mai Old City: a temple walk with a shorter option",
+      "dateModified": "2026-10-21",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "timeout-cnx",
+        "cm-government"
+      ]
+    },
+    {
+      "slug": "phuket-vegetarian",
+      "title": "Phuket Vegetarian Festival 2026: archive and cultural background",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "phuket-veg-tat-2026",
+        "thgcal"
+      ]
+    },
+    {
+      "slug": "phuket-beaches",
+      "title": "Phuket beach day: Kata, Nai Harn, Mai Khao or Patong?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "phuket-kata-gov",
+        "phuket-naiharn-gov",
+        "phuket-maikhao-gov",
+        "phuket-patong-gov",
+        "tat-beach-flags",
+        "dmcr-phuket-warning"
+      ]
+    },
+    {
+      "slug": "phuket-oldtown",
+      "title": "Phuket Old Town: a walk built around breakfast or shopping",
+      "dateModified": "2026-10-21",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "thgpkt",
+        "phuket-oldtown-tat"
+      ]
+    },
+    {
+      "slug": "yangon-thadingyut",
+      "title": "Thadingyut in Yangon: cultural context before a travel plan — 2026 archive",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "thadingyut-ministry",
+        "fcdo",
+        "calmm"
+      ]
+    },
+    {
+      "slug": "yangon-shwedagon",
+      "title": "Shwedagon: prepare for a respectful visit before choosing a time",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "shwedagon-regional",
+        "fcdo",
+        "nomax",
+        "totygn"
+      ]
+    },
+    {
+      "slug": "yangon-circular",
+      "title": "Yangon Circular Railway: check the service before planning a ride",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "yangon-rail-jica",
+        "yangon-transport-regional",
+        "fcdo",
+        "ppygn",
+        "totygn"
+      ]
+    },
+    {
+      "slug": "yangon-teashops",
+      "title": "Yangon tea-shop orders: milk tea, mohinga or Shan noodles?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "yangon-tea-regional",
+        "yangon-bowls-regional",
+        "fcdo"
+      ]
+    },
+    {
+      "slug": "yangon-walk",
+      "title": "Downtown Yangon: plan a small architectural outing",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "fcdo",
+        "ppygn"
+      ]
+    },
+    {
+      "slug": "singapore-deepavali",
+      "title": "Deepavali in Singapore: holiday date and a Little India outing — 2026 archive",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "momsg",
+        "deepavali-stb"
+      ]
+    },
+    {
+      "slug": "singapore-hawker",
+      "title": "Maxwell or Lau Pa Sat? Choose your Singapore hawker meal",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "singapore-chinatown-official",
+        "laupasat-operator",
+        "laupasat-satay"
+      ]
+    },
+    {
+      "slug": "tokyo-listening",
+      "title": "Tokyo listening cafés: Eagle for jazz or Lion for classical music?",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "tokyo-kissaten-official",
+        "eagle-jbl",
+        "lion-operator",
+        "review21-kissaten",
+        "review21-lion",
+        "review21-eagle"
+      ]
+    },
+    {
+      "slug": "tokyo-tsukiji",
+      "title": "Tsukiji Outer Market: opening hours, access and a morning food plan",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "tsukiji-info",
+        "tsukiji-calendar",
+        "tsukiji-main-official",
+        "tsukiji-access",
+        "review21-tsukiji-calendar",
+        "review21-tsukiji-access"
+      ]
+    },
+    {
+      "slug": "seoul-euljiro",
+      "title": "Euljiro food outing: Munhwaok or Nogari Street?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "euljiro-seoul"
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-breakfast",
+      "title": "Kuala Lumpur breakfast: nasi lemak, roti canai or a kopitiam set?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "oldtown-menu",
+        "oldtown-stores",
+        "kl-malaysia"
+      ]
+    },
+    {
+      "slug": "ho-chi-minh-city-coffee",
+      "title": "Ho Chi Minh City coffee: order by style, then choose a café",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "hcmc-coffee-tourism",
+        "cong-operator"
+      ]
+    },
+    {
+      "slug": "london-lord-mayor",
+      "title": "The Lord Mayor’s Show: choose where to watch before travelling",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "lms-viewing",
+        "lms"
+      ]
+    },
+    {
+      "slug": "london-free",
+      "title": "London’s free museums: British Museum, National Gallery or Tate Modern?",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "britishmuseum-visit",
+        "nationalgallery-operator",
+        "tate-visitlondon",
+        "review21-national-gallery"
+      ]
+    },
+    {
+      "slug": "lisbon-views",
+      "title": "Lisbon viewpoint outing: Senhora do Monte or a tram ride?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "senhora-lisboa",
+        "lisboa-tram"
+      ]
+    },
+    {
+      "slug": "new-york-autumn",
+      "title": "New York autumn outings: parade, race or park afternoon? — 2026 archive",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "halloween-organiser",
+        "nyrr-2026-date",
+        "nyrr"
+      ]
+    },
+    {
+      "slug": "new-york-slices",
+      "title": "New York pizza slices: make a comparison you can describe",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "joes-operator",
+        "timeout-nyc"
+      ]
+    },
+    {
+      "slug": "mexico-city-markets",
+      "title": "Mercado de Coyoacán: plan a tostada lunch and a neighbourhood outing",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "coyoacan-tourism"
+      ]
+    },
+    {
+      "slug": "buenos-aires-cafes",
+      "title": "Buenos Aires coffee break: Café Tortoni or El Ateneo Grand Splendid?",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "tortoni-operator",
+        "ateneo-tourism",
+        "city-edit-buenos-aires-el-ateneo-bookshop-visit",
+        "city-edit-buenos-aires-cafe-tortoni-coffee-break"
+      ]
+    },
+    {
+      "slug": "sydney-sculpture",
+      "title": "Sculpture by the Sea: choose a short art walk or a longer coastal visit — 2026 archive",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "sxs",
+        "sxs-routes"
+      ]
+    },
+    {
+      "slug": "sydney-pools",
+      "title": "Sydney ocean-pool outings: choose one pool and a shorter walk",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "icebergs-pool",
+        "timeout-syd",
+        "bondi-tourism"
+      ]
+    },
+    {
+      "slug": "cape-town-hikes",
+      "title": "Cape Town walking routes: match the outing to your experience",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "sanparks-hiking",
+        "timeout-cpt"
+      ]
+    },
+    {
+      "slug": "world-festivals",
+      "title": "Festivals of light: choose a cultural trip with a confirmed programme",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "phuket-veg-tat-2026",
+        "momsg",
+        "thadingyut-ministry",
+        "calmm",
+        "umelk"
+      ]
+    },
+    {
+      "slug": "world-neighbourhoods",
+      "title": "Five neighbourhood walks: choose a route by what you want to do",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "talatnoi-tat",
+        "hanoi-tourism",
+        "taipei-dihua",
+        "euljiro-seoul",
+        "dxb-rta-official"
+      ]
+    },
+    {
+      "slug": "world-trains",
+      "title": "Bangkok–Chiang Mai sleeper train: booking, berths and the arrival day",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "srt-booking",
+        "srt-dticket-help",
+        "review21-srt"
+      ]
+    },
+    {
+      "slug": "hanoi-old-quarter",
+      "title": "Hanoi’s Old Quarter: a half-day without the rush",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "hanoi-tourism",
+        "hanoi-arrival"
+      ]
+    },
+    {
+      "slug": "siem-reap-angkor",
+      "title": "Angkor passes and a first temple day: one day or several shorter visits?",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "angkor-tickets",
+        "angkor-heritage",
+        "review21-angkor"
+      ]
+    },
+    {
+      "slug": "taipei-dadaocheng",
+      "title": "Dadaocheng and Dihua Street: a short walk or a costume-experience visit?",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "taipei-dihua",
+        "taipei-mrt",
+        "taipei-visitor",
+        "taipei-dadaocheng-quarterly",
+        "review21-dadaocheng",
+        "review21-dadaocheng-terms"
+      ]
+    },
+    {
+      "slug": "hong-kong-harbour",
+      "title": "Star Ferry Hong Kong: Central–Tsim Sha Tsui fares and a harbour outing",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "hongkong-transit",
+        "hongkong-ferry",
+        "star-ferry-fares",
+        "review21-star-ferry"
+      ]
+    },
+    {
+      "slug": "paris-seine-islands",
+      "title": "Paris by the Seine: two islands at a slower pace",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "paris-islands",
+        "paris-arrival",
+        "notre-dame-reservation"
+      ]
+    },
+    {
+      "slug": "istanbul-neighbourhoods-ferry",
+      "title": "Istanbul in two outings: old-city culture and a ferry day",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "istanbul-culture",
+        "istanbul-ferry",
+        "istanbul-destinations"
+      ]
+    },
+    {
+      "slug": "hanoi-culture-choices",
+      "title": "Hanoi beyond the Old Quarter: choose your cultural afternoon",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "hanoi-culture"
+      ]
+    },
+    {
+      "slug": "siem-reap-craft-afternoon",
+      "title": "Siem Reap without another temple: a craft-focused afternoon",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "siem-crafts"
+      ]
+    },
+    {
+      "slug": "taipei-beitou-museum",
+      "title": "Beitou’s Hot Spring Museum: culture before a soak",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "beitou-museum",
+        "taipei-mrt",
+        "beitou-anniversary-2026",
+        "review21-beitou"
+      ]
+    },
+    {
+      "slug": "hong-kong-tram-first-ride",
+      "title": "Hong Kong trams: fares, payment and a first ding-ding ride",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "hk-tram",
+        "hk-tram-background",
+        "review21-tram"
+      ]
+    },
+    {
+      "slug": "paris-carnavalet-budget",
+      "title": "Musée Carnavalet: free collection entry, hours and a focused Paris visit",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "carnavalet",
+        "review21-carnavalet",
+        "review21-carnavalet-art"
+      ]
+    },
+    {
+      "slug": "istanbul-bazaar-shopping",
+      "title": "Istanbul’s bazaars: choose what you want to browse",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "istanbul-bazaars",
+        "istanbul-grandbazaar",
+        "istanbul-spicebazaar",
+        "city-edit-istanbul-spice-bazaar-shopping-checklist"
+      ]
+    },
+    {
+      "slug": "tokyo-solo-asakusa",
+      "title": "Tokyo solo travel: an easy first day in Asakusa",
+      "dateModified": "2026-10-24",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "tokyo-asakusa",
+        "google-trends-travel"
+      ]
+    },
+    {
+      "slug": "taipei-slow-weekend",
+      "title": "A slow Taipei weekend: two days without a packed itinerary",
+      "dateModified": "2026-10-24",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "taipei-shopping-district",
+        "beitou-museum",
+        "taipei-mrt",
+        "google-trends-travel",
+        "taipei-yongle-history",
+        "taipei-visitor"
+      ]
+    },
+    {
+      "slug": "mexico-city-food-outing",
+      "title": "Mexico City food outing: a market lunch or a guided tour?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "mex-arcos-market",
+        "google-travel-2026"
+      ]
+    },
+    {
+      "slug": "barcelona-first-visit-neighbourhoods",
+      "title": "Barcelona first visit: an old-city walk or a Park Güell afternoon?",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "bcn-gothic-official",
+        "bcn-guell-official"
+      ]
+    },
+    {
+      "slug": "rome-pantheon-colosseum-planning",
+      "title": "Rome first visit: separate the Pantheon walk from the Colosseum booking",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "rom-pantheon-official",
+        "rom-colosseum-official",
+        "rom-forum-official"
+      ]
+    },
+    {
+      "slug": "amsterdam-museum-canals-ferry",
+      "title": "Amsterdam in a day: one museum, a canal walk or a ferry outing",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "ams-rijks-official",
+        "ams-canals-official",
+        "ams-ndsm-official",
+        "ams-ferry-official",
+        "city-edit-amsterdam-ndsm-art-afternoon-guide"
+      ]
+    },
+    {
+      "slug": "berlin-history-museum-park",
+      "title": "Berlin first visit: city history, one museum and a Tiergarten break",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "ber-gate-official",
+        "ber-museums-official",
+        "ber-tiergarten-official",
+        "city-edit-berlin-museum-island-pick-one-museum"
+      ]
+    },
+    {
+      "slug": "dubai-creek-al-fahidi-outing",
+      "title": "Dubai Creek: an Al Fahidi walk, Al Seef and abra routes",
+      "dateModified": "2026-10-21",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "dxb-burdubai-official",
+        "dxb-seef-official",
+        "dxb-abra-official",
+        "dxb-rta-official"
+      ]
+    },
+    {
+      "slug": "ubud-town-forest-ridge-planning",
+      "title": "Ubud without a rushed circuit: palace area, Monkey Forest or Campuhan",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "ubd-tourism-official",
+        "ubd-palace-official",
+        "ubd-forest-official",
+        "ubd-forest-rules",
+        "city-edit-ubud-monkey-forest-first-visit-rules"
+      ]
+    },
+    {
+      "slug": "bangkok-suvarnabhumi-airport-transfer",
+      "title": "Suvarnabhumi to Bangkok: choose rail or a road transfer",
+      "dateModified": "2026-10-21",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "bkk-airport-aot",
+        "bkk-bts-official"
+      ]
+    },
+    {
+      "slug": "bangkok-three-day-first-visit",
+      "title": "Bangkok in three days: temples, neighbourhoods and one food evening",
+      "dateModified": "2026-10-24",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "arun-tat",
+        "talatnoi-tat",
+        "bkk-bts-official",
+        "bkk-airport-aot"
+      ]
+    },
+    {
+      "slug": "chiang-mai-doi-suthep-visit",
+      "title": "Doi Suthep from Chiang Mai: plan the temple visit and return",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "doi-suthep-tat",
+        "cm-government",
+        "doi-suthep-approach-tat",
+        "review21-doi"
+      ]
+    },
+    {
+      "slug": "chiang-mai-two-day-itinerary",
+      "title": "Chiang Mai in two days: Old City first, mountain or market second",
+      "dateModified": "2026-10-24",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "cm-government",
+        "doi-suthep-tat",
+        "cm-food-tat",
+        "cnx-museum-calendar",
+        "jing-jai-official"
+      ]
+    },
+    {
+      "slug": "phuket-airport-to-beach-transfer",
+      "title": "Phuket Airport bus: THB100 route, Domestic Exit 3 and your hotel transfer",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "phuket-bus-official",
+        "phuket-bus-boarding",
+        "review21-hkt-boarding",
+        "review21-hkt-fare"
+      ]
+    },
+    {
+      "slug": "phuket-three-day-itinerary",
+      "title": "Phuket in three days: town, a beach day and a flexible outing",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "phuket-oldtown-tat",
+        "phuket-beaches-government",
+        "phuket-bus-official",
+        "phuket-thaihua-government",
+        "p101bb"
+      ]
+    },
+    {
+      "slug": "kyoto-first-visit-two-area-plan",
+      "title": "Kyoto first visit: choose Higashiyama or Arashiyama for the day",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "kyoto-respect",
+        "kyoto-togetsukyo",
+        "review21-kyoto-access",
+        "review21-kyoto-rules"
+      ]
+    },
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "title": "George Town heritage walk: a short Penang route or the full trail?",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "penang-heritage-trail",
+        "review21-penang"
+      ]
+    },
+    {
+      "slug": "kathmandu-swayambhu-boudha-first-visit",
+      "title": "Kathmandu stupa visits: choose Swayambhu or Boudha first",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "nepal-swayambhu",
+        "nepal-boudha"
+      ]
+    },
+    {
+      "slug": "marrakech-medina-first-visit",
+      "title": "Marrakech medina: a first walk, Jemaa el-Fna and a separate garden outing",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "morocco-medina"
+      ]
+    },
+    {
+      "slug": "bangkok-restaurants-best-for-first-visit",
+      "title": "Bangkok restaurants: best for a focused pad Thai stop or a reserved meal",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "thipsamai-official",
+        "supanniga-tha-tien"
+      ]
+    },
+    {
+      "slug": "chiang-mai-restaurants-best-for-noodles-and-sharing",
+      "title": "Chiang Mai restaurants: best for a noodle lunch or a shared northern Thai meal",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "mae-sai-michelin",
+        "huen-muan-jai-michelin"
+      ]
+    },
+    {
+      "slug": "phuket-restaurants-best-for-old-town-meals",
+      "title": "Phuket town restaurants: best for a shared Thai meal or a pork noodle stop",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "one-chun-michelin",
+        "go-benz-michelin",
+        "city-edit-phuket-one-chun-shared-meal-guide"
+      ]
+    },
+    {
+      "slug": "bangkok-shops-services-best-for-city-visit",
+      "title": "Bangkok shops and services: best for gifts, mall browsing and rail planning",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "iconsiam-official",
+        "jim-retail-official",
+        "bkk-bts-official",
+        "iconsiam-arrival",
+        "city-edit-bangkok-iconsiam-shopping-food-river-plan"
+      ]
+    },
+    {
+      "slug": "chiang-mai-shops-services-best-for-gifts-and-cooking",
+      "title": "Chiang Mai shops and services: best for creative browsing, markets and a cooking class",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "jing-jai-official",
+        "thai-farm-official"
+      ]
+    },
+    {
+      "slug": "phuket-shops-services-best-for-town-and-transfers",
+      "title": "Phuket shops and services: best for mall errands, a town market and bus planning",
+      "dateModified": "2026-10-21",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "central-phuket-official",
+        "phuket-bus-official"
+      ]
+    },
+    {
+      "slug": "chiang-mai-design-week-2026-dates",
+      "title": "Chiang Mai Design Week 2026: dates, programme choices and booking checks",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "review21-cmdw",
+        "review21-cmdw-program"
+      ]
+    },
+    {
+      "slug": "phuket-dragon-line-free-town-bus",
+      "title": "Phuket Dragon Line: free shuttle bus route, hours and tracking",
+      "dateModified": "2026-11-21",
+      "status": "prior-Nov21-pass",
+      "sourceIds": [
+        "dragon-line-official",
+        "phuket-bus-official",
+        "dragon-line-tracking",
+        "nov21-dragon-stops",
+        "nov21-dragon-hours",
+        "nov21-pksb-routes"
+      ]
+    },
+    {
+      "slug": "bangkok-tailors-best-for-your-trip",
+      "title": "Bangkok tailors: three shops to compare for your next suit or shirt",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "tailor-on-ten-contact",
+        "jesse-son-faq",
+        "empire-tailors-contact"
+      ]
+    },
+    {
+      "slug": "bangkok-dental-clinics-for-visitors",
+      "title": "Bangkok dental clinics for visitors: three appointment options to compare",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "bidc-contact",
+        "bidh-official",
+        "bangkok-smile-asok-contact",
+        "cdc-medical-tourism"
+      ]
+    },
+    {
+      "slug": "bangkok-spas-best-for-your-trip",
+      "title": "Bangkok spas: three options for a massage, onsen or reserved spa session",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "health-land-asoke",
+        "lets-relax-thonglor",
+        "divana-current-locations"
+      ]
+    },
+    {
+      "slug": "chiang-mai-airport-to-old-town-transfer",
+      "title": "Chiang Mai airport to the Old Town: choose a transfer that fits your arrival",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "cnx-airport-taxi-official",
+        "cnx-airport-transport-official",
+        "review21-cnx-taxi"
+      ]
+    },
+    {
+      "slug": "chiang-mai-national-museum-visit",
+      "title": "Chiang Mai National Museum: a focused visit beyond the Old Town",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "cnx-national-museum-official",
+        "cnx-museum-objects",
+        "cnx-museum-calendar"
+      ]
+    },
+    {
+      "slug": "phuket-thai-hua-museum-visit",
+      "title": "Phuket Thai Hua Museum: add local history to an Old Town visit",
+      "dateModified": "2026-10-19",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "phuket-thaihua-government"
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-gokl-bus-foreign-visitors",
+      "title": "GoKL buses for tourists: RM1 fares, payment and Kuala Lumpur routes",
+      "dateModified": "2026-11-21",
+      "status": "prior-Nov21-pass",
+      "sourceIds": [
+        "nov21-gokl"
+      ]
+    },
+    {
+      "slug": "kyoto-autumn-leaves-calendar-2026-update",
+      "title": "Kyoto autumn leaves 2026: use the live calendar, not a peak-date promise",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "kyoto-autumn-2026-official",
+        "kyoto-autumn-calendar-official",
+        "trends-jp-travel-oct18",
+        "nov12-kyoto-calendar"
+      ]
+    },
+    {
+      "slug": "sydney-carnival-australia-2028-deployment-update",
+      "title": "Carnival changes its Australia plans for 2028: what Sydney travellers should check",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "carnival-australia-oct2026-official",
+        "trends-au-travel-oct18"
+      ]
+    },
+    {
+      "slug": "singapore-airlines-new-amenity-kits-november-2026",
+      "title": "Singapore Airlines announces new amenity kits from November 2026",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "sia-amenities-oct2026-official",
+        "trends-sg-travel-oct18"
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-klia-airport-to-city",
+      "title": "KLIA to Kuala Lumpur: airport train, terminal and hotel transfer",
+      "dateModified": "2026-11-21",
+      "status": "specific-claims-reviewed-this-pass",
+      "sourceIds": [
+        "klia-ekspres-visitor",
+        "klia-transit-visitor",
+        "review21-klia",
+        "review21-klia-schedule"
+      ]
+    },
+    {
+      "slug": "hong-kong-airport-express-city-transfer",
+      "title": "Hong Kong Airport Express: fares, first and last trains, and your hotel connection",
+      "dateModified": "2026-11-21",
+      "status": "prior-Nov21-pass",
+      "sourceIds": [
+        "nov21-mtr-fares",
+        "nov21-mtr-timetable",
+        "nov21-mtr-jordan",
+        "nov21-mtr-map",
+        "citybus-airport-routes"
+      ]
+    },
+    {
+      "slug": "bangkok-rainy-day-museums-bacc-museum-siam",
+      "title": "Bangkok on a rainy day: Museum Siam or an art-centre afternoon?",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "museum-siam-visit",
+        "bacc-visit-official"
+      ]
+    },
+    {
+      "slug": "bangkok-bacc-art-music-october-november-2026",
+      "title": "BACC autumn 2026: aquascapes and archived October programmes",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "bacc-creative-ward-2026",
+        "bacc-unplugged-oct-2026",
+        "bacc-aquascape-2026",
+        "bacc-visit-official"
+      ]
+    },
+    {
+      "slug": "bangkok-theatre-festival-2026-visitor-guide",
+      "title": "Bangkok Theatre Festival 2026: how to choose your first show",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "bacc-theatre-2026",
+        "bacc-visit-official"
+      ]
+    },
+    {
+      "slug": "singapore-national-gallery-november-2026-exhibition",
+      "title": "National Gallery Singapore: Let’s Imagine the World Together visit guide",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "ngs-imagine-2026",
+        "ngs-visit-oct26",
+        "nov12-ngs-exhibition"
+      ]
+    },
+    {
+      "slug": "tokyo-meiji-jingu-first-visit-guide",
+      "title": "Tokyo, take a breath: a slower first visit to Meiji Jingu",
+      "dateModified": "2026-10-26",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "meiji-hours-oct26",
+        "meiji-qa-oct26",
+        "meiji-access-oct26"
+      ]
+    },
+    {
+      "slug": "london-borough-market-lunch-guide",
+      "title": "Borough Market: opening times, three lunch choices and festive dates",
+      "dateModified": "2026-11-21",
+      "status": "prior-Nov21-pass",
+      "sourceIds": [
+        "nov21-borough-visit",
+        "nov21-borough-faq",
+        "nov21-borough-festive",
+        "nov21-borough-arabica",
+        "nov21-borough-applebees",
+        "nov21-borough-agora"
+      ]
+    },
+    {
+      "slug": "best-bangkok-restaurants-pad-thai-crab-omelette",
+      "title": "The best Bangkok food stops for pad thai or a crab-omelette splurge",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "best-thipsamai",
+        "best-jayfai"
+      ]
+    },
+    {
+      "slug": "best-bangkok-riverside-hotels-two-stays",
+      "title": "The best Bangkok riverside stays for a classic hotel escape",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "best-mandarin",
+        "best-peninsula"
+      ]
+    },
+    {
+      "slug": "bangkok-jim-thompson-house-guided-visit",
+      "title": "Jim Thompson House: tickets, guided entry and a Bangkok morning plan",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-bangkok-jim-thompson-house-guided-visit",
+        "oct31-jim-visitor"
+      ]
+    },
+    {
+      "slug": "bangkok-museum-siam-interactive-history-visit",
+      "title": "Museum Siam: tickets, MRT access and a practical first visit",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-bangkok-museum-siam-interactive-history-visit",
+        "oct31-siam-exhibition"
+      ]
+    },
+    {
+      "slug": "singapore-botanic-gardens-first-walk",
+      "title": "Singapore Botanic Gardens: entrances, free entry and the Orchid Garden",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-singapore-botanic-gardens-first-walk",
+        "oct31-sbg-visitor",
+        "oct31-orchid"
+      ]
+    },
+    {
+      "slug": "singapore-gardens-by-the-bay-choose-attraction",
+      "title": "Gardens by the Bay: choose your attraction and MRT arrival",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-singapore-gardens-by-the-bay-choose-attraction",
+        "oct31-gbtb-arrival",
+        "oct31-gbtb-hours"
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-petronas-towers-ticket-choice",
+      "title": "PETRONAS Twin Towers: ticket categories and timed-entry planning",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-kuala-lumpur-petronas-towers-ticket-choice"
+      ]
+    },
+    {
+      "slug": "kuala-lumpur-jalan-alor-dinner-plan",
+      "title": "Jalan Alor dinner: Bukit Bintang access and what to order",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-kuala-lumpur-jalan-alor-dinner-plan",
+        "nov12-jalan-guide",
+        "nov12-bukit-food"
+      ]
+    },
+    {
+      "slug": "lisbon-pasteis-de-belem-bakery-stop",
+      "title": "Pastéis de Belém: opening hours, takeaway or a café stop",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-lisbon-pasteis-de-belem-bakery-stop",
+        "nov12-pasteis-contact"
+      ]
+    },
+    {
+      "slug": "lisbon-lx-factory-market-browsing",
+      "title": "LX Factory and Lx Market: Sunday hours and a browsing plan",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-lisbon-lx-factory-market-browsing",
+        "nov12-lxmarket"
+      ]
+    },
+    {
+      "slug": "new-york-high-line-design-walk",
+      "title": "The High Line: choose a short section and a useful exit",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-new-york-high-line-design-walk",
+        "nov12-highline-map"
+      ]
+    },
+    {
+      "slug": "new-york-met-first-visit-two-galleries",
+      "title": "The Met first visit: admission, opening days and a two-gallery plan",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-new-york-met-first-visit-two-galleries",
+        "oct31-met-dendur",
+        "oct31-met-krater"
+      ]
+    },
+    {
+      "slug": "mexico-city-anthropology-museum-focused-visit",
+      "title": "Mexico City Anthropology Museum: choose Mexica or Maya first",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-mexico-city-anthropology-museum-focused-visit",
+        "nov12-mna-map",
+        "nov12-mna-info"
+      ]
+    },
+    {
+      "slug": "mexico-city-bellas-artes-museum-or-performance",
+      "title": "Bellas Artes: mural museum or a performance booking?",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-mexico-city-bellas-artes-museum-or-performance",
+        "nov12-bellas-booklet"
+      ]
+    },
+    {
+      "slug": "sydney-opera-house-tour-or-show",
+      "title": "Sydney Opera House: choose a tour, a performance or an exterior visit",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-sydney-opera-house-tour-or-show",
+        "oct31-opera-tours",
+        "oct31-opera-arrival"
+      ]
+    },
+    {
+      "slug": "sydney-royal-botanic-garden-harbour-pause",
+      "title": "Royal Botanic Garden Sydney: free entry and a Main Pond outing",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-sydney-royal-botanic-garden-harbour-pause",
+        "nov12-sydney-garden",
+        "nov12-sydney-pond"
+      ]
+    },
+    {
+      "slug": "cape-town-kirstenbosch-garden-day",
+      "title": "Kirstenbosch: admission categories, cashless entry and the canopy walk",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-cape-town-kirstenbosch-garden-day",
+        "nov12-kirstenbosch-info",
+        "nov12-kirstenbosch-canopy"
+      ]
+    },
+    {
+      "slug": "seoul-gyeongbokgung-daytime-palace-plan",
+      "title": "Gyeongbokgung Palace: seasonal hours and a daytime visit plan",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-seoul-gyeongbokgung-daytime-palace-plan"
+      ]
+    },
+    {
+      "slug": "seoul-gwangjang-market-food-shopping-choice",
+      "title": "Gwangjang Market: food alley, textiles and a first meal plan",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-seoul-gwangjang-market-food-shopping-choice",
+        "nov12-seoul-market-guide"
+      ]
+    },
+    {
+      "slug": "ho-chi-minh-war-remnants-museum-thoughtful-visit",
+      "title": "War Remnants Museum: what to expect and how to pace a visit",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-ho-chi-minh-war-remnants-museum-thoughtful-visit",
+        "nov12-hcmc-context"
+      ]
+    },
+    {
+      "slug": "ho-chi-minh-central-post-office-short-stop",
+      "title": "Saigon Central Post Office: architecture or a postal-service stop",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-ho-chi-minh-central-post-office-short-stop",
+        "nov12-hcmc-context"
+      ]
+    },
+    {
+      "slug": "barcelona-park-guell-timed-visit-plan",
+      "title": "Park Güell: timed entry, arrival planning and re-entry rules",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-barcelona-park-guell-timed-visit-plan",
+        "oct31-guell-stairway"
+      ]
+    },
+    {
+      "slug": "rome-colosseum-ticket-product-explained",
+      "title": "Colosseum tickets: standard access, arena choices and a Forum plan",
+      "dateModified": "2026-10-31",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-rome-colosseum-ticket-product-explained"
+      ]
+    },
+    {
+      "slug": "cape-town-bo-kaap-respectful-neighbourhood-visit",
+      "title": "Bo-Kaap: history, the museum and a respectful neighbourhood visit",
+      "dateModified": "2026-11-12",
+      "status": "retains-earlier-review-scope-not-reverified-this-pass",
+      "sourceIds": [
+        "city-edit-cape-town-bo-kaap-respectful-neighbourhood-visit",
+        "nov12-bokaap"
+      ]
+    }
+  ],
+  "remainingNotFreshlyReverified": 100,
+  "limits": [
+    "Fresh checks apply to the named claims only, not every historical paragraph.",
+    "Official pages can conflict or redirect; the article records those limits instead of manufacturing certainty.",
+    "No firsthand visit, taste verdict, full image-rights clearance, human publisher signoff or traffic increase is claimed.",
+    "British Museum and Tate direct pages were blocked; the London change freshly verifies National Gallery information only.",
+    "KLIA’s full-schedule link was confirmed, but a last train is not guaranteed for a future travel date."
+  ],
+  "nextMeasurement": "Compare the same unchanged URLs and query cohorts after at least 14 complete post-release days; separate search clicks/CTR from Google AI impressions.",
+  "validation": {
+    "contentAudit": "PASS — 124 guides, 186 places, 180 images; no errors or warnings",
+    "lint": "PASS",
+    "existingTests": "PASS — 21/21",
+    "productionBuild": "PASS — Next.js 16.4.6, 149 static pages generated",
+    "renderedPreview": "PASS — 24 pages, 20 updated article dates and sitemap lastmods, visible FAQ answers, source links, same-page anchors and canonical URLs",
+    "visualViewportTest": "NOT RUN — browser connection unavailable; no layout components changed",
+    "productionDeploy": "Pending publication of this commit; verify with the separate live-check artifact"
+  },
+  "relatedEventUpdate": {
+    "id": "cnx-design-week-2026",
+    "change": "Use the current programme URL and reviewed date for the announced festival window; individual activity details remain separate."
+  },
+  "navigationChange": "Remove the old Scents Asia venue-map claim and un-reconfirmed 10:00–20:00 note from Design Week navigation; use the current programme for a selected activity."
+}

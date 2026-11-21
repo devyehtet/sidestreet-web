@@ -1,5 +1,47 @@
 [
   {
+    "id": "klia-last-service-scope-2026-11-21",
+    "date": "2026-11-21",
+    "title": "KLIA Ekspres: clarify conflicting late-service summaries",
+    "guide": "kuala-lumpur-klia-airport-to-city",
+    "text": [
+      "The operator product page’s late-service narrative and summary table give different references. The guide now identifies that inconsistency and links to the full schedule for the actual terminal and direction, instead of treating a summary as a guaranteed last departure."
+    ],
+    "sources": [
+      "review21-klia",
+      "review21-klia-schedule"
+    ]
+  },
+  {
+    "id": "dated-notices-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Separate past visitor notices and festival-detail links from current plans",
+    "guide": "taipei-dadaocheng",
+    "text": [
+      "The earlier Dadaocheng closure dates and Beitou anniversary period have passed. They are retained as background rather than current visiting instructions; no reopening is inferred from an elapsed date.",
+      "The Chiang Mai Design Week vendor-detail link now leads to the guide index. The article uses the current programme and does not certify the earlier vendor notice as a current visitor timetable."
+    ],
+    "sources": [
+      "review21-dadaocheng",
+      "review21-beitou",
+      "review21-cmdw-program"
+    ]
+  },
+  {
+    "id": "bangkok-market-hours-2026-11-21",
+    "date": "2026-11-21",
+    "title": "Srinakarin and Asiatique: distinguish venue hours and shuttle times",
+    "guide": "bangkok-night-markets",
+    "text": [
+      "The Srinakarin card previously ended at 01:00. TAT Japan lists Thursday–Sunday 17:00–00:00; the guide and card now use that reference.",
+      "The Asiatique card previously started at 10:00. The operator lists 11:00–00:00, with the free shuttle separately 16:00–23:30. The boat finish is not the venue closing time."
+    ],
+    "sources": [
+      "review21-rotfai",
+      "review21-asiatique"
+    ]
+  },
+  {
     "id": "borough-festive-monday-exception-2026-11-21",
     "date": "2026-11-21",
     "title": "Borough Market: add the 2026 festive Monday opening and holiday closures",

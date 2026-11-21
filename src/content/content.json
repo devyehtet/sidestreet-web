@@ -1773,6 +1773,171 @@
       "name": "Borough Market — AGORA trader profile",
       "url": "https://boroughmarket.org.uk/traders/agora/",
       "consultedAt": "2026-11-21"
+    },
+    "review21-palace": {
+      "name": "The Grand Palace — ticket sales, admission and clothing",
+      "url": "https://www.royalgrandpalace.th/en/visit/practical-information",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-pho": {
+      "name": "Wat Pho — Thai-language visit planning",
+      "url": "https://www.watpho.com/th/contact/plan",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-jodd": {
+      "name": "Tourism Authority of Thailand, Japan — JODD FAIRS Ratchada",
+      "url": "https://www.thailandtravel.or.jp/jodd-fairs/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-rotfai": {
+      "name": "Tourism Authority of Thailand, Japan — Train Night Market Srinakarin",
+      "url": "https://www.thailandtravel.or.jp/train-night-market-srinakarin/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-asiatique": {
+      "name": "Asiatique — current contact and arrival guidance",
+      "url": "https://www.asiatiquethailand.com/contact-us",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-ongang": {
+      "name": "Bangkok Metropolitan Administration — Ong Ang public space",
+      "url": "https://publicspace.bangkok.go.th/Spaces/Info/4A90D4B5-55E4-44EA-84DD-2B7F11E6C06F",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-chatuchak": {
+      "name": "Thailand 2026 Annual Meetings — Chatuchak visitor information",
+      "url": "https://www.am2026thailand.go.th/explore-bangkok/chatuchak-weekend-market",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-doi": {
+      "name": "Tourism Authority of Thailand — Doi Suthep approach information",
+      "url": "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-cmdw": {
+      "name": "Creative Economy Agency — Chiang Mai Design Week 2026 announcement",
+      "url": "https://www.chiangmaidesignweek.com/cmdw2026/content/168436",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-cmdw-program": {
+      "name": "Chiang Mai Design Week — current 2026 programme index",
+      "url": "https://www.chiangmaidesignweek.com/cmdw2026/program",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-dadaocheng": {
+      "name": "Taipei Travel — Dadaocheng Visitor Center services",
+      "url": "https://travel.taipei/vintage-clothing/en",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-dadaocheng-terms": {
+      "name": "Taipei Travel — individual costume-experience reservation terms",
+      "url": "https://www.travel.taipei/vintage-clothing/en/terms",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-penang": {
+      "name": "Penang Global Tourism — George Town culture and heritage trail",
+      "url": "https://www.mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-kissaten": {
+      "name": "GO TOKYO — kissaten types and visitor etiquette",
+      "url": "https://www.gourmet.gotokyo.org/article/33.html",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-lion": {
+      "name": "Meikyoku Kissa Lion — operator introduction and quiet-use notice",
+      "url": "https://lion.main.jp/atfirst/atfirst.htm",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-eagle": {
+      "name": "JBL Japan — Eagle venue interview and house-rule description",
+      "url": "https://jp.jbl.com/eagle.html",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-tsukiji-calendar": {
+      "name": "Tsukiji Outer Market — calendar, visitor hours and manners",
+      "url": "https://www.tsukiji.or.jp/english/calendar/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-tsukiji-access": {
+      "name": "Tsukiji Outer Market — official rail approaches",
+      "url": "https://www.tsukiji.or.jp/english/access/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-national-gallery": {
+      "name": "National Gallery — visitor entrance, hours and holiday closures",
+      "url": "https://www.nationalgallery.org.uk/visiting/plan-your-visit",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-klia": {
+      "name": "KLIA Ekspres — fares, child tickets and ticket conditions",
+      "url": "https://www.kliaekspres.com/products-fares/klia-ekspres/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-klia-schedule": {
+      "name": "KLIA Ekspres — official full-schedule downloads",
+      "url": "https://www.kliaekspres.com/schedule/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-tram": {
+      "name": "Hong Kong Tramways — ordinary fares, routes and payment",
+      "url": "https://www.hktramways.com/en/schedules-fares/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-star-ferry": {
+      "name": "Star Ferry — route-specific fares, schedules and boarding notes",
+      "url": "https://www.starferry.com.hk/en/service",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-beitou": {
+      "name": "Beitou Hot Spring Museum — visitor information",
+      "url": "https://hotspringmuseum.taipei/en/content.aspx?id=33&pid=29",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-angkor": {
+      "name": "Angkor Enterprise — official ticket products and validity",
+      "url": "https://www.angkorenterprise.gov.kh/en/available-tickets",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-carnavalet": {
+      "name": "Musée Carnavalet — practical information and holiday hours",
+      "url": "https://www.carnavalet.paris.fr/en/visit/pratical-information",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-carnavalet-art": {
+      "name": "Musée Carnavalet — essential artworks shortlist",
+      "url": "https://www.carnavalet.paris.fr/en/collections/les-oeuvres-incontournables",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-kyoto-access": {
+      "name": "Kyoto City Tourism Association — comfortable Saga/Arashiyama access",
+      "url": "https://kyoto.travel/en/getting-around/comfortable-access-to-saga-arashiyama/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-kyoto-rules": {
+      "name": "Kyoto City Tourism Association — responsible travel",
+      "url": "https://kyoto.travel/en/responsible-travel/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-cnx-taxi": {
+      "name": "Airports of Thailand — Chiang Mai Airport taxi location",
+      "url": "https://chiangmai.airportthai.co.th/service/transportation/detail/125",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-srt": {
+      "name": "State Railway of Thailand — D-Ticket booking help and passenger terms",
+      "url": "https://dticket.railway.co.th/DTicketPublicWeb/help/",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-hkt-boarding": {
+      "name": "Phuket Smart Bus — airport boarding point",
+      "url": "https://www.phuketsmartbus.com/blog/phuket-smart-bus-stop-at-phuket-airport",
+      "consultedAt": "2026-11-21"
+    },
+    "review21-hkt-fare": {
+      "name": "Phuket Smart Bus — route-specific fares and timetable",
+      "url": "https://www.phuketsmartbus.com/timetable/",
+      "consultedAt": "2026-11-21"
     }
   },
   "cities": [
@@ -2630,10 +2795,13 @@
       "cat": "things",
       "kind": "list",
       "mins": 3,
-      "title": "Bangkok night markets: build an evening around one stop",
-      "dek": "Choose between food, vintage shopping and a riverside outing, then protect time and money for the return journey.",
+      "title": "Bangkok night markets: Jodd Fairs, Srinakarin or a riverside evening?",
+      "dek": "Match Jodd Fairs Ratchada, Srinakarin, Ong Ang or Asiatique to your evening—with published location and transport details checked separately.",
       "src": [
-        "p101nm"
+        "review21-jodd",
+        "review21-rotfai",
+        "review21-asiatique",
+        "review21-ongang"
       ],
       "body": [
         "A night market plan becomes easier when you choose the reason for going before choosing the destination. Food browsing needs room in your appetite; vintage shopping needs room in your bag. A riverside evening may be mostly about the setting. There is no reason those priorities should produce the same route.",
@@ -2658,6 +2826,28 @@
         }
       ],
       "sections": [
+        {
+          "h": "Choose the right market and visiting day",
+          "p": [
+            "TAT’s Japan office lists Jodd Fairs Ratchada at 129 Ratchadaphisek Road, near Thailand Cultural Centre MRT, with daily 17:00–01:00 hours. Save the full Ratchada name and address rather than a broad Jodd Fairs search. Its operator contact is linked by TAT for changes and individual enquiries.",
+            "The same tourism authority lists Train Night Market Srinakarin on Thursday–Sunday, 17:00–00:00, with Suan Luang Rama 9 on the Yellow Line as the rail approach. Choose it as a distinct shopping outing; it is not the Ratchada market under a different spelling."
+          ],
+          "sourceIds": [
+            "review21-jodd",
+            "review21-rotfai"
+          ]
+        },
+        {
+          "h": "Asiatique boats and an Ong Ang canal walk are different plans",
+          "p": [
+            "Asiatique’s operator lists the complex from 11:00 to midnight, while its free Sathorn–Asiatique shuttle is published separately at 16:00–23:30, about every 25–30 minutes. Check the pier notice for your return: the venue closing time is not the last free boat.",
+            "Bangkok’s public-space directory identifies Sam Yot MRT for Ong Ang and directs visitors to the responsible district offices for opening information. Treat this as a canal-walk option until a dated stall programme is confirmed. Our choice is dinner browsing at a named market, a riverside venue, or a canal walk—not an assumption that all three offer the same evening."
+          ],
+          "sourceIds": [
+            "review21-asiatique",
+            "review21-ongang"
+          ]
+        },
         {
           "h": "Do one lap before spending",
           "p": [
@@ -2693,6 +2883,14 @@
         [
           "How do I budget for this?",
           "Separate the return journey, a meal, optional snacks and shopping. Add any attraction tickets as another line rather than assuming they are included."
+        ],
+        [
+          "Is Srinakarin market open every night?",
+          "TAT’s Japan office publishes Thursday–Sunday, 17:00–00:00. Check the operator before a special journey; this is a different market from Jodd Fairs Ratchada."
+        ],
+        [
+          "Does Asiatique’s free boat run until the complex closes?",
+          "The operator publishes a 23:30 shuttle finish and a midnight venue close. Plan the boat separately and check the day’s pier notice."
         ]
       ],
       "slug": "bangkok-night-markets",
@@ -2712,44 +2910,49 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose one main stop",
+        "caption": "Published visitor references checked 21 November 2026; venue and transport schedules are separate",
         "headers": [
-          "Market",
-          "Choose it for",
-          "Transport reference"
+          "Place",
+          "Published reference",
+          "Before leaving"
         ],
         "rows": [
           [
             "Jodd Fairs Ratchada",
-            "Food browsing",
-            "Confirm the current Ratchada address and station approach"
+            "Daily 17:00–01:00; 129 Ratchadaphisek Road",
+            "Match the full Ratchada address"
           ],
           [
-            "Rot Fai Srinakarin",
-            "A dedicated vintage outing",
-            "Suan Luang Rama 9, Yellow Line"
+            "Srinakarin train market",
+            "Thu–Sun 17:00–00:00",
+            "Use Suan Luang Rama 9 / Yellow Line approach"
           ],
           [
-            "Ong Ang Canal",
-            "A canal walk",
-            "Sam Yot MRT"
+            "Ong Ang",
+            "Canal-walk area near Sam Yot",
+            "Confirm any dated market programme"
           ],
           [
             "Asiatique",
-            "A riverside outing",
-            "Saphan Taksin BTS, then check boat services"
+            "Complex 11:00–00:00; shuttle 16:00–23:30",
+            "Check the actual return boat"
           ]
         ]
       },
-      "researchNote": "Research-based comparison revised 19 October 2026. An old Train Night Market Ratchada listing has been removed as a separate stop because its current identity was not established. Individual market hours and stall programmes need direct confirmation.",
-      "dateModified": "2026-10-19",
+      "researchNote": "Named market locations, visiting-day references and the separate Asiatique shuttle window rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based text and context corrections; no personal visit is claimed.",
-        "scope": "Specific corrections, not full factual or rights clearance."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Named market locations, visiting-day references and the separate Asiatique shuttle window only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Bangkok Night Markets: An Evening Guide",
-      "relatedGuides": []
+      "seoTitle": "Bangkok Night Markets: Locations, Days & River Transport",
+      "relatedGuides": [
+        "bangkok-chatuchak",
+        "bangkok-street-food",
+        "bangkok-hotels"
+      ],
+      "planLinks": []
     },
     {
       "id": "bkk-temples",
@@ -2758,11 +2961,13 @@
       "kind": "list",
       "mins": 3,
       "title": "Bangkok temples: a flexible Grand Palace, Wat Pho and Wat Arun day",
-      "dek": "A suggested sequence with a two-stop alternative, separate admission costs and room to rest.",
+      "dek": "Choose two or three stops, separate the Grand Palace and Wat Pho admission charges, and keep the river crossing and Wat Arun as distinct decisions.",
       "src": [
         "palace-official",
         "pho-official",
-        "arun-tat"
+        "arun-tat",
+        "review21-palace",
+        "review21-pho"
       ],
       "body": [
         "The hardest part of a temple day is often deciding when to stop. This plan uses the Grand Palace, Wat Pho and Wat Arun as three possible anchors, with a shorter option that still gives each visit time. Wat Saket belongs in a separate outing unless you actively want a longer day.",
@@ -2795,8 +3000,8 @@
             "Wat Pho’s visitor page lists 8am–7:30pm daily and treats massage as a separate priced service. Its later hours can support a shorter palace-and-Wat-Pho day, but they do not make the river crossing or Wat Arun part of the same admission."
           ],
           "sourceIds": [
-            "palace-official",
-            "pho-official"
+            "review21-palace",
+            "review21-pho"
           ]
         },
         {
@@ -2819,6 +3024,17 @@
             "Check the current official pages for clothing, bags, admission and closure notices. Have a practical plan for shoes and any belongings you must carry. Clothing rules at one venue should not be used as the complete rulebook for another.",
             "Keep ticket charges separate from transport, lunch and optional services. If you want to enquire about massage at Wat Pho, give that its own time and budget. Adding it to an already full day without changing anything else makes the whole route harder to manage."
           ]
+        },
+        {
+          "h": "Clothing is a practical entry decision",
+          "p": [
+            "The Grand Palace’s visitor rules specifically exclude sleeveless and see-through tops, shorts and several other unsuitable garments. Wat Pho also asks for respectful clothing. Prepare a suitable outfit before the journey instead of making your first task a rushed clothing purchase near an entrance.",
+            "Our two-stop foreign-adult admission example remains THB500 for the palace and THB300 for Wat Pho: THB800 before transport, meals and optional services. Decide whether that pair is your main day before adding a separate Wat Arun ticket and crossing."
+          ],
+          "sourceIds": [
+            "review21-palace",
+            "review21-pho"
+          ]
         }
       ],
       "tips": [
@@ -2834,6 +3050,14 @@
         [
           "Is one ticket enough?",
           "Use the visitor information for each venue. Do not assume independent temples, crossings or optional services share a ticket."
+        ],
+        [
+          "How much should I budget for the Grand Palace and Wat Pho?",
+          "Published foreign-visitor admission is THB500 plus THB300, or THB800 for those two stops. Wat Arun, transport, meals and any massage service are separate."
+        ],
+        [
+          "Can I arrive at the Grand Palace at 15:30 for a full visit?",
+          "The official page lists ticket sales ending at 15:30 and contains differing closing-time panels. Arrive earlier and check that day’s official schedule rather than treating the ticket deadline as a comfortable arrival time."
         ]
       ],
       "slug": "bangkok-temples",
@@ -2887,14 +3111,14 @@
           ]
         ]
       },
-      "researchNote": "Admission and visitor-rule sources checked 19 October 2026. The ฿800 calculation covers the two listed foreign-visitor admissions only. Route order and time allowances are editorial suggestions; the palace page has differing closing-time descriptions, so consult current notices.",
-      "dateModified": "2026-10-19",
+      "researchNote": "Grand Palace and Wat Pho ticket charges, ticket-sales deadline and visitor clothing rules rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Grand Palace and Wat Pho ticket charges, ticket-sales deadline and visitor clothing rules only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Bangkok Temples: Grand Palace, Wat Pho & Wat Arun",
+      "seoTitle": "Bangkok Temples: Grand Palace & Wat Pho Costs and Route",
       "planLinks": [
         [
           "Grand Palace tickets and visitor rules",
@@ -2909,7 +3133,11 @@
           "/city/bangkok#bkk-wat-pho"
         ]
       ],
-      "relatedGuides": []
+      "relatedGuides": [
+        "bangkok-three-day-first-visit",
+        "bangkok-talatnoi",
+        "bangkok-rainy-day-museums-bacc-museum-siam"
+      ]
     },
     {
       "id": "bkk-street-food",
@@ -3217,12 +3445,13 @@
       "city": "bkk",
       "cat": "things",
       "kind": "feature",
-      "mins": 4,
+      "mins": 3,
       "title": "Chatuchak Market Bangkok: opening days, stations and a shopping plan",
       "dek": "Weekend hours, free entry, Kamphaeng Phet versus Mo Chit arrival, and a focused shopping plan with time for a break.",
       "src": [
         "chatuchak-government-2026",
-        "chatuchak-hours"
+        "chatuchak-hours",
+        "review21-chatuchak"
       ],
       "places": [
         "bkk-chatuchak",
@@ -3283,6 +3512,16 @@
               "/guides/bangkok-night-markets"
             ]
           ]
+        },
+        {
+          "h": "A shopping visit and a plant-market visit need different days",
+          "p": [
+            "The government visitor guide confirms the main Saturday–Sunday 09:00–18:00 market, free entry and the two rail approaches: Kamphaeng Phet Exit 2 or Mo Chit Exit 1. Use that weekend schedule for a broad first visit; it does not establish a weekday schedule for every seller.",
+            "Our practical shopping note has four fields: entrance photo, section or stall reference, quoted price and return station. For a purchase you cannot carry, get the packing and delivery total before payment. Pick a single shopping category if you only have an hour, then leave enough time to reach your saved exit."
+          ],
+          "sourceIds": [
+            "review21-chatuchak"
+          ]
         }
       ],
       "tips": [
@@ -3320,8 +3559,8 @@
       "img": "bkk-chatuchak",
       "quickPlan": [
         [
-          "Best for",
-          "A weekend shopping outing with a short list of things to find."
+          "Main market",
+          "Saturday–Sunday 09:00–18:00; free admission in the government guide"
         ],
         [
           "Time to allow",
@@ -3333,7 +3572,7 @@
         ]
       ],
       "planTable": {
-        "caption": "Chatuchak visit choices: government visitor guide and separate visitor website checked 21 October 2026",
+        "caption": "Chatuchak visiting-day references rechecked 21 November 2026; weekday details retain the separate visitor website’s scope",
         "headers": [
           "Visit",
           "What to expect",
@@ -3357,12 +3596,12 @@
           ]
         ]
       },
-      "dateModified": "2026-10-21",
-      "researchNote": "Selected access, route or transport references and the planning sections were updated on 21 October 2026. Other property and place-card details retain their stated review scope. This is independent desk research, not a firsthand visit; suggested itineraries and cost comparisons are editorial analysis.",
+      "dateModified": "2026-11-21",
+      "researchNote": "Main weekend hours, free admission and government-listed MRT/BTS exits rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "compositionReview": {
-        "date": "2026-10-21",
-        "method": "Search-intent revision, selected primary-source checks and original trip-planning comparisons.",
-        "scope": "Specific sections and snippets only; not exhaustive factual clearance, a room inspection or image-rights signoff."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Main weekend hours, free admission and government-listed MRT/BTS exits only; not a full publisher signoff, image-rights clearance or live service check."
       },
       "seoTitle": "Chatuchak Market Bangkok: Hours, MRT & Shopping",
       "navigationRoute": {
@@ -6408,6 +6647,18 @@
             "If you cannot establish an acceptable cost or the room is full, keep the music visit optional. A regular café can still solve the need for a break, but it should not be described as an equivalent listening experience. For hearing sensitivity or access needs, ask about sound level and the entrance before deciding; an attractive description of the equipment is not an accessibility assessment."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Use a listening café differently from a laptop stop",
+          "p": [
+            "GO TOKYO’s kissaten guidance describes jazz kissa as places for focused listening, and advises ordering at least one item per person and checking photography rules. Lion’s own introduction asks computer users to avoid keyboard noise. Choose a normal work café instead if your plan depends on a call or extended typing.",
+            "For a listening visit, our arrival routine is simple: check the house rules, understand the order or charge, sit down and listen. If Eagle’s current quiet-session rules cannot be confirmed, ask before a special journey; the JBL interview is useful background rather than a current opening calendar."
+          ],
+          "sourceIds": [
+            "review21-kissaten",
+            "review21-lion",
+            "review21-eagle"
+          ]
         }
       ],
       "tips": [
@@ -6425,8 +6676,8 @@
           "No. Use the individual map links and plan the journeys separately. One listening visit is enough for this suggested outing."
         ],
         [
-          "Has Sidestreet personally reviewed the sound systems?",
-          "No. The selection compares published music formats and planning needs; it is not a first-hand audio review."
+          "Can I work on my laptop at a Tokyo listening café?",
+          "Choose by the venue’s current rules. Lion asks users to avoid keyboard noise, and a quiet listening session is a poor fit for calls or sustained typing. Confirm permission before treating the visit as a work session."
         ]
       ],
       "slug": "tokyo-listening",
@@ -6434,7 +6685,10 @@
       "src": [
         "tokyo-kissaten-official",
         "eagle-jbl",
-        "lion-operator"
+        "lion-operator",
+        "review21-kissaten",
+        "review21-lion",
+        "review21-eagle"
       ],
       "quickPlan": [
         [
@@ -6454,13 +6708,13 @@
           "Confirm opening, minimum order, charges, access and house rules."
         ]
       ],
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
-        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Kissaten visit format, quiet-use etiquette and the limits of an older Eagle interview only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "researchNote": "Researched 19 October 2026. JBL provides the Eagle interview; Lion provides its own introduction. Current menus and operating hours were not independently established. The visit allowance is our planning suggestion.",
+      "researchNote": "Kissaten visit format, quiet-use etiquette and the limits of an older Eagle interview rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "seoTitle": "Tokyo Listening Cafés: Eagle vs Lion, Rules & Planning",
       "imageNote": "Archive photograph: Jazz & Coffee Masako in Shimokitazawa, September 2009. It illustrates Tokyo café culture; it does not show Eagle or Lion.",
       "items": [],
@@ -6504,6 +6758,10 @@
         [
           "Plan a separate Tsukiji food morning",
           "/guides/tokyo-tsukiji"
+        ],
+        [
+          "Read Lion’s operator introduction",
+          "https://lion.main.jp/atfirst/atfirst.htm"
         ]
       ],
       "relatedGuides": []
@@ -6513,7 +6771,7 @@
       "city": "tyo",
       "cat": "food",
       "kind": "feature",
-      "mins": 6,
+      "mins": 4,
       "title": "Tsukiji Outer Market: opening hours, access and a morning food plan",
       "dek": "Choose a station, distinguish public shopping hours from individual shop schedules, and plan one meal with time to browse.",
       "places": [
@@ -6609,6 +6867,16 @@
               "/guides/tokyo-solo-asakusa"
             ]
           ]
+        },
+        {
+          "h": "A purchase checklist for the working market",
+          "p": [
+            "The market’s own manners guidance says not to bargain, not to touch food and to ask before taking photographs. Choose the shop from its directory, check the item and price, then use the seller’s designated eating space for a meal. These rules make a food visit different from browsing a souvenir market.",
+            "Our short shopping record is the shop name, item size, stated price and how you will carry it. For ingredients, check storage and your destination’s import rules independently. For knives, check transport restrictions independently. The guide does not establish customs or airline permission for a purchase."
+          ],
+          "sourceIds": [
+            "review21-tsukiji-calendar"
+          ]
         }
       ],
       "tips": [
@@ -6641,6 +6909,14 @@
         [
           "How long should I spend at Tsukiji?",
           "Our suggested allowance is 90 minutes to two hours for one meal and a small shopping task. Queues, shop opening and your onward journey can require more time."
+        ],
+        [
+          "Can I bargain at Tsukiji Outer Market?",
+          "The market’s official manners guidance says bargaining is not customary. Check the displayed price and ask about the product before buying."
+        ],
+        [
+          "Which station should I use for Tsukiji Outer Market?",
+          "The market lists Tsukijishijo on the Oedo Line, Tsukiji on the Hibiya Line and Higashi-ginza on the Asakusa or Hibiya lines. Compare the full journey from your starting point."
         ]
       ],
       "slug": "tokyo-tsukiji",
@@ -6649,16 +6925,18 @@
         "tsukiji-info",
         "tsukiji-calendar",
         "tsukiji-main-official",
-        "tsukiji-access"
+        "tsukiji-access",
+        "review21-tsukiji-calendar",
+        "review21-tsukiji-access"
       ],
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-24",
-        "method": "Verified market-access and calendar scope, restored visible planning tools and added original time-budget examples.",
-        "scope": "Named sections and selected official references; no firsthand visit or exhaustive factual or rights signoff."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Public-buyer window, individual-shop calendar limits, official station approaches and purchase etiquette only; not a full publisher signoff, image-rights clearance or live service check."
       },
       "seoTitle": "Tsukiji Outer Market: Hours, Access & Food Guide",
-      "researchNote": "Access options, the calendar’s scope and visitor-centre guidance checked 24 October 2026 against the market’s official pages. Individual shop hours, availability and payments remain separate checks. This is independent desk research; time budgets are editorial suggestions, not an on-site timed route.",
+      "researchNote": "Public-buyer window, individual-shop calendar limits, official station approaches and purchase etiquette rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "planLinks": [
         [
           "Compare the official subway arrival options",
@@ -7348,6 +7626,26 @@
           ]
         },
         {
+          "h": "National Gallery: Friday evenings and Christmas closures",
+          "p": [
+            "The National Gallery publishes daily 10:00–18:00 opening, extended to 21:00 on Fridays, with closures on 24–26 December and 1 January. Entry is through the Sainsbury Wing. General collection admission is free; some exhibitions cost extra. Check the current gallery notices before planning a festive visit.",
+            "Our choice for a shorter Friday is one painting comparison and a break around Trafalgar Square, rather than another museum afterwards. If you want Borough Market after a museum, give the market journey and its different festive schedule a separate place in the day."
+          ],
+          "sourceIds": [
+            "review21-national-gallery"
+          ],
+          "links": [
+            [
+              "Check National Gallery visitor information",
+              "https://www.nationalgallery.org.uk/visiting/plan-your-visit"
+            ],
+            [
+              "Compare Borough Market dates and lunch choices",
+              "/guides/london-borough-market-lunch-guide"
+            ]
+          ]
+        },
+        {
           "h": "Tate Modern: modern art with a Bankside finish",
           "p": [
             "Tate Modern is on Bankside. The official Visit London listing, with information supplied by the gallery, describes free gallery admission and separate charges for some events and exhibitions. It identifies Southwark and Blackfriars as useful Tube approaches. Use Tate’s own current visitor page for the day’s entrance and opening arrangements.",
@@ -7383,6 +7681,10 @@
         [
           "Is every exhibition free?",
           "No. Free collection or general admission does not automatically include charged exhibitions or events."
+        ],
+        [
+          "Which free London gallery has a Friday evening opening?",
+          "The National Gallery publishes Friday opening until 21:00, with date-specific closures including 24–26 December and 1 January. Check the day’s visitor notice and any separate exhibition ticket."
         ]
       ],
       "slug": "london-free",
@@ -7390,9 +7692,10 @@
       "src": [
         "britishmuseum-visit",
         "nationalgallery-operator",
-        "tate-visitlondon"
+        "tate-visitlondon",
+        "review21-national-gallery"
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "quickPlan": [
         [
           "Objects and history",
@@ -7412,11 +7715,11 @@
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Original decision-led rewrite using the cited primary sources; no on-site visit or personal quality assessment is claimed.",
-        "scope": "Text and source-to-section alignment only. This is not complete publisher sign-off or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "National Gallery entrance, regular and Friday hours, free collection admission and holiday closures only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "researchNote": "Visitor information checked 19 October 2026. Tate details here use the official Visit London listing supplied by the gallery; consult Tate directly for current opening. The two-hour plan is our suggestion, not an institution’s tour schedule.",
+      "researchNote": "National Gallery entrance, regular and Friday hours, free collection admission and holiday closures rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "seoTitle": "Free London Museums: Compare 3 Collections & Plan a Visit",
       "items": [],
       "planTable": {
@@ -7462,7 +7765,9 @@
           "https://www.google.com/maps/search/?api=1&query=National+Gallery+Trafalgar+Square+London"
         ]
       ],
-      "relatedGuides": []
+      "relatedGuides": [
+        "london-borough-market-lunch-guide"
+      ]
     },
     {
       "id": "lis-views",
@@ -8856,7 +9161,7 @@
       "city": "world",
       "cat": "travel",
       "kind": "feature",
-      "mins": 5,
+      "mins": 4,
       "title": "Bangkok–Chiang Mai sleeper train: booking, berths and the arrival day",
       "dek": "Follow the official D-Ticket booking sequence, compare the actual sleeper coach and berth, and plan the first morning after arrival.",
       "body": [
@@ -8881,6 +9186,16 @@
             "For a couple or family, record where each person will sleep and whether that arrangement is acceptable before continuing. For a solo traveller, decide which aspects of the shared space matter to you. An illustration of one train does not establish berth dimensions, privacy, charging facilities or washing facilities on another; this guide does not certify those features."
           ],
           "sourceIds": []
+        },
+        {
+          "h": "Check the actual passenger details before payment",
+          "p": [
+            "SRT’s published terms require the real traveller’s name, ID or passport information and contact details, and ask passengers to review the booking before paying. Have each passenger check their own entry rather than using one person’s details for the whole party.",
+            "Our pre-payment review has six fields: travel date, departure station, destination, train number, coach product and each passenger’s allocation. After confirmation, retain the ticket and follow SRT’s current travel-document instructions. This checklist is a review aid, not an assertion that a search result has reserved a berth."
+          ],
+          "sourceIds": [
+            "review21-srt"
+          ]
         },
         {
           "h": "Check the departure date and station before arranging a transfer",
@@ -8947,19 +9262,24 @@
         [
           "Can I start sightseeing immediately after arrival?",
           "Keep the first activity flexible. Confirm your accommodation or luggage-storage arrangement and allow for the actual arrival time and the rest you got overnight."
+        ],
+        [
+          "What passenger details should I check before paying on D-Ticket?",
+          "Use the actual traveller’s details as required by SRT. Check names, ID or passport information, travel date, train, coach and allocation before paying."
         ]
       ],
       "slug": "world-trains",
       "img": "t-sleeper",
       "src": [
         "srt-booking",
-        "srt-dticket-help"
+        "srt-dticket-help",
+        "review21-srt"
       ],
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-11-21",
       "compositionReview": {
-        "date": "2026-10-24",
-        "method": "Official booking-workflow check and original booking and arrival comparison.",
-        "scope": "Published booking steps and selected planning decisions; not a live availability or facility audit."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "SRT passenger-detail and pre-payment review requirements only; not a full publisher signoff, image-rights clearance or live service check."
       },
       "seoTitle": "Bangkok to Chiang Mai Sleeper Train: Booking & Berths",
       "quickPlan": [
@@ -9024,7 +9344,7 @@
           ]
         ]
       },
-      "researchNote": "The English D-Ticket booking workflow was read on 24 October 2026. No live booking was made and no current fare, service timetable or carriage inspection is claimed. Berth comparisons and arrival time allowances are independent editorial planning suggestions.",
+      "researchNote": "SRT passenger-detail and pre-payment review requirements rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "relatedGuides": []
     },
     {
@@ -9167,7 +9487,7 @@
       "slug": "siem-reap-angkor",
       "cat": "travel",
       "kind": "guide",
-      "title": "Your first Angkor day: choose a route before buying a pass",
+      "title": "Angkor passes and a first temple day: one day or several shorter visits?",
       "dek": "Plan temple time, transport and rest separately, with published pass prices and a shorter first-visit option.",
       "img": "rep-angkor-photo",
       "body": [
@@ -9178,11 +9498,11 @@
         {
           "h": "Compare visiting days with the pass validity window",
           "p": [
-            "Angkor Enterprise’s ticket catalogue, checked on 19 October 2026, lists US$37 for one visiting day, US$62 for three visiting days within seven days, and US$72 for seven visiting days within thirty days. The validity window is the period in which to use the allowance; it is not seven or thirty days of unlimited admission.",
+            "Angkor Enterprise’s ticket catalogue, checked on 21 November 2026, lists US$37 for one visiting day, US$62 for three visiting days within seven days, and US$72 for seven visiting days within thirty days. The validity window is the period in which to use the allowance; it is not seven or thirty days of unlimited admission.",
             "The three-day product costs US$25 more than one day, so it can support two shorter temple outings with a rest day between them if that matches your stay. For a single available temple day, the larger window adds no usable visiting time. Confirm the ticket terms and sites covered before paying; transport and guiding remain separate."
           ],
           "sourceIds": [
-            "angkor-tickets"
+            "review21-angkor"
           ]
         },
         {
@@ -9218,6 +9538,16 @@
             "After choosing Angkor Wat as the main visit, ask what you want from the next stop. If the appeal of another temple is different architecture or a different setting, give it its own substantial slot. If you cannot explain why it matters to you, a longer first visit and a rest may be a better use of the day.",
             "Tell the driver which stop is optional before departure. That gives the plan an honest way to shorten without replacing one abandoned temple with several unscheduled ones. Check actual permitted visitor areas before deciding how much of each stop you will attempt."
           ]
+        },
+        {
+          "h": "Match the validity window to the stay you actually have",
+          "p": [
+            "A three-day allowance within seven days lets you separate temple days with a rest day; it is not admission for all seven days. The seven-day product likewise uses a thirty-day window. The official catalogue lists Koh Ker and other products separately, so check the product’s exact coverage rather than assuming every temple excursion is included.",
+            "Our decision rule is to count the temple days you will realistically use, then choose the pass. For one available day, keep two main stops and a proper break. For several days, separate the routes before agreeing a driver’s itinerary so a larger pass does not become pressure to rush."
+          ],
+          "sourceIds": [
+            "review21-angkor"
+          ]
         }
       ],
       "places": [
@@ -9227,7 +9557,8 @@
       ],
       "src": [
         "angkor-tickets",
-        "angkor-heritage"
+        "angkor-heritage",
+        "review21-angkor"
       ],
       "quickPlan": [
         [
@@ -9243,7 +9574,7 @@
           "Published Angkor passes: 1 day US$37, 3 days US$62, 7 days US$72. Transport, guide services and food are extra."
         ]
       ],
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "researchNote": "Pass prices, visiting-day allowances and product-specific validity rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -9257,17 +9588,56 @@
         [
           "Must I visit at sunrise?",
           "No sunrise visit is assumed in this route. Choose a departure time that matches the current visitor schedule and your group’s preferences."
+        ],
+        [
+          "What are the published Angkor pass prices?",
+          "Angkor Enterprise lists US$37 for one day, US$62 for three visiting days within seven days and US$72 for seven visiting days within thirty days. Confirm current terms and coverage before purchase."
+        ],
+        [
+          "Does a three-day pass mean seven days of visits?",
+          "No. Seven days is the validity window in which to use the three visiting days. Transport, guiding and food remain separate."
         ]
       ],
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-11-21",
       "mins": 3,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Pass prices, visiting-day allowances and product-specific validity only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Angkor from Siem Reap: First-Day Route & Pass Guide",
-      "relatedGuides": []
+      "seoTitle": "Angkor Pass Prices & Validity: Plan Your First Temple Day",
+      "relatedGuides": [],
+      "planTable": {
+        "caption": "Angkor Enterprise ticket catalogue rechecked 21 November 2026; confirm current product terms",
+        "headers": [
+          "Pass",
+          "Published price",
+          "Use allowance"
+        ],
+        "rows": [
+          [
+            "1 day",
+            "US$37",
+            "One visiting day"
+          ],
+          [
+            "3 days",
+            "US$62",
+            "Three visiting days within seven days"
+          ],
+          [
+            "7 days",
+            "US$72",
+            "Seven visiting days within thirty days"
+          ]
+        ]
+      },
+      "planLinks": [
+        [
+          "Compare the official ticket products",
+          "https://www.angkorenterprise.gov.kh/en/available-tickets"
+        ]
+      ]
     },
     {
       "id": "g-taipei-dadaocheng",
@@ -9275,22 +9645,38 @@
       "slug": "taipei-dadaocheng",
       "cat": "travel",
       "kind": "guide",
-      "title": "Dadaocheng Taipei: a Dihua Street walk and visitor-centre checks",
-      "dek": "Plan a compact Dihua Street outing around Yongle Market and Xia-Hai, with dated visitor-centre closures and a separate check for any booked activity.",
+      "title": "Dadaocheng and Dihua Street: a short walk or a costume-experience visit?",
+      "dek": "Orient around Yongle Market, choose tea or fabric browsing, and plan the visitor centre’s costume session separately from the street walk.",
       "img": "tpe-dihua-photo",
       "body": [
-        "For a Dadaocheng visit, choose a small Dihua Street area before adding a tea or shopping stop. First check the visitor-centre notice: the official site announces a closure on 24 October 2026 due to the typhoon, and maintenance closure from 28 October to 15 November 2026. Do not rely on the centre or costume programme during those dates.",
-        "These notices concern the visitor centre, not a shared timetable for every independent shop in Dadaocheng. Check current city notices and your intended business before travelling. The walk below is an editorial neighbourhood plan; it does not establish outdoor access during severe weather or certify that the centre will reopen as scheduled."
+        "Start a Dadaocheng outing around Yongle Market and a small section of Dihua Street. Tea browsing, fabric shopping and a costume session are different visits: choose one as the anchor, then leave room for a seated stop.",
+        "The visitor centre previously announced closures in October–November 2026; those stated dates are now past. They do not by themselves establish current reopening. Use the latest city notices and reservation system if an indoor programme is essential; the outdoor shopping route and each business have their own arrangements."
       ],
       "sections": [
         {
-          "h": "Check the dated visitor-centre notice before choosing a start",
+          "h": "Visitor advice, exhibitions and costume sessions use different clocks",
           "p": [
-            "The official reservation site’s announcements take priority over its regular visitor hours. The maintenance notice also suspends online reservations during the closure. Check for a later update before relying on reopening or booking a costume session.",
-            "For a later visit when access is confirmed, the centre’s published address is No. 44, Section 1, Dihua Street, across from Yongle Market. Save that address as an orientation point. If staff assistance or an indoor visit is essential to the outing, choose a confirmed operating day rather than treating an outdoor map pin as a substitute."
+            "The official centre page lists the ground-floor service at 09:00–18:00, upstairs exhibitions at 09:30–17:30 and the costume programme at 10:00–17:00. Its address is 44, Section 1, Dihua Street, opposite Yongle Market. These are regular published windows, subject to current notices—not a confirmation that a slot is available.",
+            "For a street-only visit, use the address for orientation and choose independent shops after checking their own hours. For an indoor programme, save the actual appointment and arrive for that session rather than applying the ground-floor service hours to every activity."
           ],
           "sourceIds": [
-            "taipei-visitor"
+            "review21-dadaocheng"
+          ]
+        },
+        {
+          "h": "Reserve a costume session rather than planning on a walk-in",
+          "p": [
+            "The individual programme terms allow reservations 11–31 days ahead, with up to five people per reservation. They require each participant to provide a valid ID and NT$1,000 deposit, and ask you to allow at least 15 minutes for the return journey and changing back. Read the complete current terms before booking.",
+            "Our planning choice is to give the costume session its own block, then browse tea or fabric afterwards. Keep purchases and the refundable-deposit requirement in separate budget lines. A place in the calendar is not a confirmed booking until the reservation process supplies its confirmation."
+          ],
+          "sourceIds": [
+            "review21-dadaocheng-terms"
+          ],
+          "links": [
+            [
+              "Read individual reservation terms",
+              "https://www.travel.taipei/vintage-clothing/en/terms"
+            ]
           ]
         },
         {
@@ -9354,12 +9740,14 @@
         "taipei-dihua",
         "taipei-mrt",
         "taipei-visitor",
-        "taipei-dadaocheng-quarterly"
+        "taipei-dadaocheng-quarterly",
+        "review21-dadaocheng",
+        "review21-dadaocheng-terms"
       ],
       "quickPlan": [
         [
-          "Visitor-centre access",
-          "Check the dated closure notice and latest official update before relying on staff or a costume booking."
+          "Choose the visit",
+          "Street browsing or a separately reserved costume experience"
         ],
         [
           "Best for",
@@ -9374,7 +9762,7 @@
           "Separate MRT or bus fares from refreshments and shopping. Set a spending limit before browsing tea and gifts."
         ]
       ],
-      "researchNote": "The visitor-centre closure announcements and address were checked on the official Taipei City reservation site on 24 October 2026. Other historical references retain their earlier dates. This is desk research; reopening, individual shops and outdoor access require their own current checks.",
+      "researchNote": "Regular service windows, individual costume reservation terms and the past status of the earlier closure dates rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -9392,16 +9780,24 @@
         [
           "Is the Dadaocheng Visitor Center always open?",
           "No. Check the date-specific closure announcements on the official reservation site before relying on its regular hours or programme."
+        ],
+        [
+          "How far ahead can I reserve the Dadaocheng costume experience?",
+          "The individual terms publish an 11–31-day advance window and up to five people per reservation. Read the current terms and wait for confirmation before planning around a session."
+        ],
+        [
+          "Do I need a deposit for the costume experience?",
+          "The individual terms require a valid ID and NT$1,000 deposit per participant. Check the full return and cancellation rules before booking."
         ]
       ],
-      "dateModified": "2026-10-24",
-      "mins": 4,
+      "dateModified": "2026-11-21",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-24",
-        "method": "Official temporary-closure and address check, with revised neighbourhood planning.",
-        "scope": "Centre access notices and named planning sections; not a verification of all businesses, street access or image rights."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Regular service windows, individual costume reservation terms and the past status of the earlier closure dates only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Dadaocheng Taipei: Dihua Street Walk & Visitor Centre",
+      "seoTitle": "Dadaocheng Taipei: Dihua Street Walk & Costume Booking",
       "planLinks": [
         [
           "Read the current visitor-centre announcements",
@@ -9414,6 +9810,10 @@
         [
           "Use the slower two-day Taipei plan",
           "/guides/taipei-slow-weekend"
+        ],
+        [
+          "Read the individual reservation terms",
+          "https://www.travel.taipei/vintage-clothing/en/terms"
         ]
       ],
       "planTable": {
@@ -9458,7 +9858,7 @@
       "slug": "hong-kong-harbour",
       "cat": "travel",
       "kind": "guide",
-      "title": "Hong Kong’s harbour: plan one crossing well",
+      "title": "Star Ferry Hong Kong: Central–Tsim Sha Tsui fares and a harbour outing",
       "dek": "Link Central and Tsim Sha Tsui with the Star Ferry, with time on each shore and a flexible return journey.",
       "img": "hkg-ferry-photo",
       "body": [
@@ -9480,11 +9880,11 @@
         {
           "h": "What a Central–Tsim Sha Tsui return actually costs",
           "p": [
-            "The Star Ferry operator lists adult Central–Tsim Sha Tsui single fares by deck and day: upper deck HK$5 on ordinary weekdays and HK$6.50 on weekends or public holidays; lower deck HK$4 and HK$5.60 respectively. These are the operator’s published fares checked on 19 October 2026, not a harbour-tour package.",
+            "The Star Ferry operator lists adult Central–Tsim Sha Tsui single fares by deck and day: upper deck HK$5 on ordinary weekdays and HK$6.50 on weekends or public holidays; lower deck HK$4 and HK$5.60 respectively. These are the operator’s published fares checked on 21 November 2026, not a harbour-tour package.",
             "For two adults returning on the same type of day, that works out to HK$20 on the upper deck or HK$16 on the lower deck on an ordinary weekday, and HK$26 or HK$22.40 on a weekend or holiday. Those totals are our arithmetic for four single journeys. Use the Wan Chai route’s own fare table if that is your departure point, and keep onward transport outside this comparison."
           ],
           "sourceIds": [
-            "star-ferry-fares"
+            "review21-star-ferry"
           ]
         },
         {
@@ -9509,6 +9909,16 @@
             "If the crossing itself is the main attraction, give yourself time to find the right boarding area and notice the change between shores. If you mainly need to reach Tsim Sha Tsui, use the destination to decide the onward route. The same ride can serve either purpose without requiring an extra cruise.",
             "Choose the return after a break on the far shore. Repeating the ferry can be enjoyable, but a different onward connection may fit your next activity better. Compare the current route from where you finish instead of making a compulsory round trip."
           ]
+        },
+        {
+          "h": "Choose the route and deck before comparing the fare",
+          "p": [
+            "The operator publishes Central–Tsim Sha Tsui adult singles of HK$5 upper/HK$4 lower on ordinary weekdays and HK$6.50/HK$5.60 on weekends or public holidays. Do not apply the lower-deck option to Wan Chai–Tsim Sha Tsui: the operator says that route’s lower deck does not carry passengers.",
+            "For a group needing wheelchair boarding, check the operator’s lower-deck arrangements and capacity before relying on an ordinary crossing. Actual sailings can change with weather and marine traffic. Our fallback is to save an onward rail or bus route from the shore where you finish."
+          ],
+          "sourceIds": [
+            "review21-star-ferry"
+          ]
         }
       ],
       "places": [
@@ -9519,7 +9929,8 @@
       "src": [
         "hongkong-transit",
         "hongkong-ferry",
-        "star-ferry-fares"
+        "star-ferry-fares",
+        "review21-star-ferry"
       ],
       "quickPlan": [
         [
@@ -9535,7 +9946,7 @@
           "Check the ferry’s current deck and day-specific fare; add food and the journey to and from the piers separately."
         ]
       ],
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "researchNote": "Central–Tsim Sha Tsui fares and the Wan Chai lower-deck distinction rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "tips": [
         "Save your starting point and a return route before leaving.",
         "Check current venue access and transport notices for the date you intend to visit.",
@@ -9549,18 +9960,22 @@
         [
           "Do I have to return by ferry?",
           "No. Check an MTR or bus route from your final location before starting, then choose the return that fits your plan."
+        ],
+        [
+          "Is the lower deck a passenger option on every Star Ferry route?",
+          "No. The operator says Wan Chai–Tsim Sha Tsui does not carry passengers on its lower deck. Choose the actual route and boarding arrangement before applying a fare comparison."
         ]
       ],
-      "dateModified": "2026-10-24",
+      "dateModified": "2026-11-21",
       "mins": 3,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Central–Tsim Sha Tsui fares and the Wan Chai lower-deck distinction only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Hong Kong Harbour: Plan Your Ferry Crossing",
+      "seoTitle": "Star Ferry Central–Tsim Sha Tsui: Fares & Harbour Plan",
       "planTable": {
-        "caption": "Adult Central–Tsim Sha Tsui fares, operator checked 19 October 2026",
+        "caption": "Adult Central–Tsim Sha Tsui single fares — operator rechecked 21 November 2026",
         "headers": [
           "Deck",
           "Weekday single",
@@ -9585,7 +10000,10 @@
           "/guides/hong-kong-airport-express-city-transfer"
         ]
       ],
-      "relatedGuides": []
+      "relatedGuides": [
+        "hong-kong-tram-first-ride",
+        "hong-kong-airport-express-city-transfer"
+      ]
     },
     {
       "id": "g-paris-seine-islands",
@@ -10033,7 +10451,8 @@
       "src": [
         "beitou-museum",
         "taipei-mrt",
-        "beitou-anniversary-2026"
+        "beitou-anniversary-2026",
+        "review21-beitou"
       ],
       "body": [
         "Beitou’s name may suggest a bathing outing, but the Hot Spring Museum serves a different purpose. Its official visitor information says it is a cultural display space and does not provide hot-spring services. That distinction matters if you are comparing a museum afternoon with a paid bath or hotel package.",
@@ -10043,22 +10462,22 @@
         {
           "h": "Check the day before setting off",
           "p": [
-            "The museum’s official page lists free admission, Tuesday–Sunday opening from 10am to 6pm and last entry at 5:45pm; Monday is closed. These details were consulted on 9 October 2026. Check for special closures before travelling.",
+            "The museum’s official page lists free admission, Tuesday–Sunday opening from 10am to 6pm and last entry at 5:45pm; Monday is closed. These details were consulted on 21 November 2026. Check for special closures before travelling.",
             "Our planning allowance is 45–75 minutes inside. Do not mistake last admission for a comfortable arrival time: arriving just before it leaves little room to read displays. If the museum is the reason for the trip, arrange the journey so the visit is not compressed into closing time."
           ],
           "sourceIds": [
-            "beitou-museum",
-            "taipei-mrt"
+            "review21-beitou"
           ]
         },
         {
-          "h": "For October visits, distinguish the anniversary window from a session",
+          "h": "The October anniversary programme is now background",
           "p": [
-            "The museum’s anniversary notice covers 16 October–1 November 2026 and repeats Tuesday–Sunday museum hours. That date range includes Mondays when regular museum access is closed. A celebration spanning several weeks does not mean the doors are open every day.",
-            "The notice’s lectures were dated 17 and 18 October; those sessions are past at this 19 October update. Use the current programme for any remaining activity rather than treating a past weekend timetable as an ongoing talk. Regular museum admission and a separate partner offer are different decisions."
+            "The earlier anniversary notice covered 16 October–1 November 2026. That period has ended; it should not be used as the current lecture, late-opening or partner-offer calendar. Use the museum’s normal visitor information and latest notices for a new visit.",
+            "For a first visit now, choose the museum itself as the main stop and keep any bathing facility separate. A historic museum display and a commercial bath provide different experiences and need different access and price checks."
           ],
           "sourceIds": [
-            "beitou-anniversary-2026"
+            "beitou-anniversary-2026",
+            "review21-beitou"
           ]
         },
         {
@@ -10108,6 +10527,10 @@
         [
           "Admission",
           "Museum admission is listed as free; Monday closed. No bathing service is included."
+        ],
+        [
+          "Published hours",
+          "Tue–Sun 10:00–18:00; last admission 17:45; Monday closed"
         ]
       ],
       "faq": [
@@ -10118,18 +10541,26 @@
         [
           "Can I visit on a Monday?",
           "The published regular schedule closes on Mondays. Check the museum’s current notices before planning an exception."
+        ],
+        [
+          "Does the October anniversary notice describe current events?",
+          "No. Its 16 October–1 November 2026 period has passed. Use current museum notices for activities or special opening dates."
+        ],
+        [
+          "Do I need to change shoes at Beitou Hot Spring Museum?",
+          "The museum asks visitors to use its provided slippers and to ask staff about special arrangements. It provides cultural exhibits, not bathing services."
         ]
       ],
       "tips": [],
-      "researchNote": "Regular visitor information retains its 9 October source check. The museum’s dated 2026 anniversary notice was checked 19 October: its event window does not remove Monday closure or extend the 17–18 October lectures. Suggested visiting duration is editorial, not an on-site measurement.",
-      "dateModified": "2026-10-19",
-      "mins": 4,
+      "researchNote": "Regular free admission, hours, no-bathing distinction and past status of the anniversary programme rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "dateModified": "2026-11-21",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Regular free admission, hours, no-bathing distinction and past status of the anniversary programme only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Beitou Hot Spring Museum Taipei: A Visit Guide",
+      "seoTitle": "Beitou Hot Spring Museum: Free Entry, Hours & Visit Plan",
       "planLinks": [
         [
           "Museum visitor information",
@@ -10146,14 +10577,15 @@
       "id": "g-hong-kong-tram-first-ride",
       "city": "hkg",
       "slug": "hong-kong-tram-first-ride",
-      "title": "Hong Kong by tram: make your first ding-ding ride easy",
+      "title": "Hong Kong trams: fares, payment and a first ding-ding ride",
       "dek": "Choose a direction, pay on exit and use one ordinary ride as part of a neighbourhood outing.",
       "cat": "travel",
       "kind": "guide",
       "img": "hkg-tram-photo",
       "src": [
         "hk-tram",
-        "hk-tram-background"
+        "hk-tram-background",
+        "review21-tram"
       ],
       "body": [
         "A tram ride gives a different perspective from the harbour crossing in our first Hong Kong guide. This outing stays on Hong Kong Island and uses an ordinary public tram, rather than a sightseeing tour with commentary. The useful first decisions are where you want to board and which direction your destination lies.",
@@ -10184,10 +10616,12 @@
         {
           "h": "Understand the fare and exit payment",
           "p": [
-            "The operator’s fare page lists the ordinary adult fare as HK$3.30, consulted on 9 October 2026. It says fares are paid when leaving through the front exit; cash users need the exact amount because no change is given. It also lists electronic payment methods.",
+            "Hong Kong Tramways lists an ordinary adult fare of HK$3.30, child fare of HK$1.60 for ages 3–11, and HK$1.50 for ages 65+. Fares are paid on leaving through the front exit. Cash needs the exact amount; the operator also lists Octopus and electronic payment options.",
             "Two separate ordinary adult rides would therefore total HK$6.60 at that published fare, before any other transport. This is arithmetic for a simple return plan, not a day pass or a tour price. Confirm the current fare notice before travelling."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "review21-tram"
+          ]
         },
         {
           "h": "Give the ride a flexible place in the afternoon",
@@ -10238,18 +10672,26 @@
         [
           "Does every tram run to Shau Kei Wan?",
           "No. The operator lists several routes; check the displayed destination and current route information."
+        ],
+        [
+          "How much is an ordinary Hong Kong tram ride?",
+          "The operator publishes HK$3.30 for adults, HK$1.60 for ages 3–11 and HK$1.50 for ages 65+. These are ordinary-service fares, not a sightseeing-tour price."
+        ],
+        [
+          "When do I pay for a Hong Kong tram ride?",
+          "Pay when leaving through the front exit. If using cash, carry the exact fare because no change is given. Check the operator’s accepted electronic payment list."
         ]
       ],
       "tips": [],
-      "researchNote": "Ordinary adult fare, payment instructions and route distinctions checked against Hong Kong Tramways on 19 October 2026. The calculations use that published fare; check travel-day notices. No personal ride or measured journey time is claimed.",
-      "dateModified": "2026-10-24",
-      "mins": 4,
+      "researchNote": "Ordinary fare categories, front-exit payment and route-destination distinction rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "dateModified": "2026-11-21",
+      "mins": 3,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Ordinary fare categories, front-exit payment and route-destination distinction only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Hong Kong Trams: A First Ding-Ding Ride Guide",
+      "seoTitle": "Hong Kong Tram Fare & Payment: Plan Your First Ride",
       "planLinks": [
         [
           "Operator routes, fare and payment methods",
@@ -10285,19 +10727,24 @@
           ]
         ]
       },
-      "relatedGuides": []
+      "relatedGuides": [
+        "hong-kong-harbour",
+        "hong-kong-airport-express-city-transfer"
+      ]
     },
     {
       "id": "g-paris-carnavalet-budget",
       "city": "par",
       "slug": "paris-carnavalet-budget",
-      "title": "A Paris history afternoon at Musée Carnavalet",
+      "title": "Musée Carnavalet: free collection entry, hours and a focused Paris visit",
       "dek": "Use the free permanent collection as your main visit, with temporary exhibitions and group bookings handled separately.",
       "cat": "things",
       "kind": "guide",
       "img": "par-carnavalet-photo",
       "src": [
-        "carnavalet"
+        "carnavalet",
+        "review21-carnavalet",
+        "review21-carnavalet-art"
       ],
       "body": [
         "A museum afternoon can give the city a different kind of context from a river walk. Musée Carnavalet focuses on the history of Paris, and its official visitor information makes a useful distinction: individuals can visit the permanent collections free without booking, while temporary exhibitions have separate conditions.",
@@ -10317,7 +10764,7 @@
         {
           "h": "Arrive with enough time to read",
           "p": [
-            "The published regular schedule is Tuesday–Sunday, 10am–6pm. Last admission to the permanent collection is 5:15pm and rooms close at 5:45pm; holidays and special dates may have exceptions. These details were consulted on 19 October 2026.",
+            "The published regular schedule is Tuesday–Sunday, 10am–6pm. Last admission to the permanent collection is 5:15pm and rooms close at 5:45pm; holidays and special dates may have exceptions. These details were consulted on 21 November 2026.",
             "Our suggestion is to allow 90 minutes to two hours inside rather than arriving just before the last-entry deadline. Pick a few periods or objects to follow, and leave room to read their context. Trying to finish every room is not required for a useful first visit."
           ],
           "sourceIds": []
@@ -10354,6 +10801,23 @@
             "Choose a period, type of object or question about Paris before exploring the permanent collections. Use the current museum map to find a manageable selection rather than assuming you must follow every room. A focused visit leaves time to understand what you actually see.",
             "Treat a temporary exhibition as a separate product. If its subject is not your main interest, the permanent-collection visit can stand on its own. Keep the lunch budget and any separate ticket charge visible rather than describing the whole afternoon as free."
           ]
+        },
+        {
+          "h": "A holiday visit and a collection visit need separate checks",
+          "p": [
+            "Carnavalet publishes closures on 1 January, 1 May and 25 December, with rooms closing at 17:00 on 24 and 31 December. Keep these exceptions separate from the normal Tuesday–Sunday schedule. Temporary exhibitions have an earlier last admission than the permanent collections.",
+            "For a first collection theme, the museum’s highlights list includes David’s Tennis Court Oath subject and historic decorative woodwork. Our suggestion is to compare political history with the way a Paris interior was furnished, using the current map and display notices. A collection webpage is not a guarantee that every object is on view on your date."
+          ],
+          "sourceIds": [
+            "review21-carnavalet",
+            "review21-carnavalet-art"
+          ],
+          "links": [
+            [
+              "Browse the museum’s essential artworks",
+              "https://www.carnavalet.paris.fr/en/collections/les-oeuvres-incontournables"
+            ]
+          ]
         }
       ],
       "places": [
@@ -10381,18 +10845,22 @@
         [
           "Can I bring a suitcase?",
           "The museum does not accept luggage or large bags under its visitor rules. Arrange storage elsewhere before visiting."
+        ],
+        [
+          "Is Musée Carnavalet open at Christmas?",
+          "Its visitor information lists 25 December and 1 January as closures, with earlier room closing at 17:00 on 24 and 31 December. Recheck current notices before travelling."
         ]
       ],
       "tips": [],
-      "researchNote": "Admission categories, visitor entrance, regular hours, last-entry times and bag rules checked 19 October 2026. Planning duration is an editorial suggestion; holiday exceptions and the selected exhibition still need checking.",
-      "dateModified": "2026-10-19",
+      "researchNote": "Museum holiday exceptions, entry products and named collection themes rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "dateModified": "2026-11-21",
       "mins": 3,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Museum holiday exceptions, entry products and named collection themes only; not a full publisher signoff, image-rights clearance or live service check."
       },
-      "seoTitle": "Musée Carnavalet Paris: A History Museum Guide",
+      "seoTitle": "Musée Carnavalet: Free Entry, Hours & What to Choose",
       "planLinks": [
         [
           "Admission, last-entry times and bag rules",
@@ -10424,7 +10892,9 @@
           ]
         ]
       },
-      "relatedGuides": []
+      "relatedGuides": [
+        "paris-seine-islands"
+      ]
     },
     {
       "id": "g-istanbul-bazaar-shopping",
@@ -12163,12 +12633,13 @@
       "cat": "travel",
       "kind": "guide",
       "title": "Doi Suthep from Chiang Mai: plan the temple visit and return",
-      "dek": "Choose an approach, agree transport and leave the rest of the mountain optional.",
+      "dek": "Choose the naga staircase or enquire about the alternative ascent, then arrange the mountain transfer and pickup as separate parts of the visit.",
       "img": "cnx-doi-suthep",
       "src": [
         "doi-suthep-tat",
         "cm-government",
-        "doi-suthep-approach-tat"
+        "doi-suthep-approach-tat",
+        "review21-doi"
       ],
       "body": [
         "A Doi Suthep outing needs three separate decisions: how to reach the temple, how to manage the approach, and how to return. Decide those before attaching a waterfall, village or another distant attraction. A smaller temple visit can be a worthwhile afternoon without becoming a full mountain circuit."
@@ -12201,7 +12672,18 @@
             "The tourism description does not certify the cable car’s current operation, price or a fully step-free route through the temple. Ask about the entire path from vehicle drop-off to the areas you want to visit. Keep the road transfer, the final ascent and the return pickup as three distinct arrangements, especially for anyone who needs assistance with stairs."
           ],
           "sourceIds": [
-            "doi-suthep-approach-tat"
+            "doi-suthep-approach-tat",
+            "review21-doi"
+          ]
+        },
+        {
+          "h": "Three questions to settle before paying for the journey",
+          "p": [
+            "TAT describes both the naga-stair approach and an electric-tram alternative. That makes the useful enquiry more precise than “is the temple accessible?”: ask which ascent is operating, how to reach it from the drop-off, and whether it gets you to the visitor areas you need. The description alone does not verify a step-free visit or today’s lift charge.",
+            "For your driver or shared transport, save the exact temple destination, whether waiting is included, and the return meeting point. Our shorter version is the temple and a break, followed by the arranged return. Keep a waterfall or village extension out of the quote unless it is something your group actually wants."
+          ],
+          "sourceIds": [
+            "review21-doi"
           ]
         }
       ],
@@ -12252,6 +12734,14 @@
         [
           "Should I combine several mountain sights?",
           "Only when the actual transfer time and your group’s energy support it; they are optional additions."
+        ],
+        [
+          "Can I avoid the main Doi Suthep staircase?",
+          "TAT describes an alternative ascent as well as the naga stairs. Confirm current operation, the drop-off approach and the route through the temple before depending on it; a fully step-free journey is not established here."
+        ],
+        [
+          "Does a one-way ride include the return to Chiang Mai?",
+          "Confirm this with the provider. Record whether waiting, collection and the return destination are included in the quoted total."
         ]
       ],
       "tips": [
@@ -12261,15 +12751,15 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-11-21",
+      "researchNote": "TAT’s two approach descriptions and the distinction between ascent, road transfer and return rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "mins": 2,
       "relatedGuides": [
         "chiang-mai-two-day-itinerary",
         "chiang-mai-oldcity",
         "chiang-mai-markets"
       ],
-      "seoTitle": "Doi Suthep Chiang Mai: Temple & Return Planning",
+      "seoTitle": "Doi Suthep from Chiang Mai: Temple Approach & Return Plan",
       "planLinks": [
         [
           "Fit the mountain visit into two days",
@@ -12278,12 +12768,16 @@
         [
           "Keep your Old City walk separate",
           "/guides/chiang-mai-oldcity"
+        ],
+        [
+          "Read the TAT temple approach information",
+          "https://www.tourismthailand.org/Attraction/wat-phra-that-doi-suthep"
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "TAT’s two approach descriptions and the distinction between ascent, road transfer and return only; not a full publisher signoff, image-rights clearance or live service check."
       }
     },
     {
@@ -12450,15 +12944,17 @@
       "city": "hkt",
       "cat": "travel",
       "kind": "guide",
-      "title": "Phuket airport to your hotel: bus route or direct transfer?",
-      "dek": "Check the actual hotel location before choosing a west-coast bus or a booked vehicle.",
+      "title": "Phuket Airport bus: THB100 route, Domestic Exit 3 and your hotel transfer",
+      "dek": "Find the Smart Bus at Domestic Terminal Exit 3, compare its west-coast route with your hotel entrance, and budget the final connection separately.",
       "img": "hkt-promthep",
       "src": [
         "phuket-bus-official",
-        "phuket-bus-boarding"
+        "phuket-bus-boarding",
+        "review21-hkt-boarding",
+        "review21-hkt-fare"
       ],
       "body": [
-        "Phuket is not one hotel district. A transfer that works for a property near a west-coast bus stop may be inconvenient for accommodation elsewhere. Start with the hotel entrance, the arrival terminal and your luggage, then compare the complete bus journey with a direct transfer."
+        "Phuket Smart Bus publishes a THB100 Airport–Rawai route, with west-coast destinations including Patong, Karon and Kata. Its airport guidance places boarding outside the Domestic Terminal at Exit 3. Start with your exact hotel entrance before deciding whether the bus and final connection suit your arrival."
       ],
       "sections": [
         {
@@ -12468,7 +12964,7 @@
             "Map the final leg separately. Ask the hotel about the approach if it is uphill, outside the centre or reached by a road without a comfortable walking route. Include another vehicle if required when comparing costs; the bus ticket is only part of the journey."
           ],
           "sourceIds": [
-            "phuket-bus-official"
+            "review21-hkt-fare"
           ]
         },
         {
@@ -12478,8 +12974,8 @@
             "Allow time to reach the stop with bags. Look at the current timetable and live tracking rather than treating a printed departure as a guaranteed arrival. The operator notes that traffic can affect journey times. Keep a direct-transfer fallback if waiting or the final connection would not suit the group."
           ],
           "sourceIds": [
-            "phuket-bus-boarding",
-            "phuket-bus-official"
+            "review21-hkt-boarding",
+            "review21-hkt-fare"
           ]
         },
         {
@@ -12489,55 +12985,53 @@
             "Choose the vehicle if a direct door-to-door journey solves a difficult last leg or arrival-time problem. Choose the bus when its current route genuinely fits. Do not expect either option to guarantee a fixed journey time; avoid a non-refundable activity immediately after the advertised transfer duration."
           ],
           "sourceIds": []
-        },
-        {
-          "h": "Domestic Exit 3 and the route direction are the useful arrival details",
-          "p": [
-            "The bus operator identifies its airport stop outside the Domestic Terminal at Exit 3. Its timetable names the southbound sequence as Airport–Patong–Karon–Kata–Rawai. If you arrive internationally, first locate the domestic-terminal boarding point; being outside an arrivals door alone does not establish that you are at the bus stop.",
-            "Save the stop that serves your actual hotel area and the remaining walk or connection. The airport–Rawai service is different from the Bus Terminal 2–Phuket Town–Patong service and the free Dragon Line town shuttle. Compare the correct route before using a fare or departure image, and use live tracking for an estimate rather than treating a schedule as a guaranteed hotel arrival time."
-          ],
-          "sourceIds": [
-            "phuket-bus-boarding",
-            "phuket-bus-official"
-          ]
         }
       ],
       "quickPlan": [
         [
-          "Start with",
-          "Your hotel entrance and arrival terminal."
+          "Published bus fare",
+          "THB100 on Airport–Rawai; other routes differ"
         ],
         [
-          "Bus option",
-          "Match a published stop with a practical final leg."
+          "Airport boarding",
+          "Domestic Terminal, Exit 3"
         ],
         [
-          "Vehicle option",
-          "Check total price, luggage and flight-delay policy."
+          "West-coast destinations",
+          "Check the published stop serving Patong, Karon, Kata or Rawai"
+        ],
+        [
+          "Final decision",
+          "Compare the last walk or vehicle with a direct-transfer quote"
         ]
       ],
       "planTable": {
-        "caption": "Choose the plan that fits your visit",
+        "caption": "Compare the published airport-bus fare with the whole hotel journey",
         "headers": [
-          "Decision",
-          "Suggested approach",
-          "Confirm before departure"
+          "Travellers / choice",
+          "Bus arithmetic",
+          "Still to budget"
         ],
         "rows": [
           [
-            "West-coast bus",
-            "Find the nearest listed stop",
-            "Timetable and final connection"
+            "One fare-paying traveller",
+            "THB100",
+            "Any hotel-side connection"
           ],
           [
-            "Direct transfer",
-            "Provide full hotel and flight details",
-            "Waiting and luggage terms"
+            "Two fare-paying travellers",
+            "THB200",
+            "Same route eligibility and final hotel connection"
           ],
           [
-            "Late flight",
-            "Keep an alternative ready",
-            "Actual service availability"
+            "Four fare-paying travellers",
+            "THB400",
+            "Compare with a current direct-vehicle quote"
+          ],
+          [
+            "Direct vehicle",
+            "Ask for a complete quote",
+            "Terminal, luggage, waiting and delay terms"
           ]
         ]
       },
@@ -12549,6 +13043,14 @@
         [
           "Can I rely on a fixed transfer duration?",
           "No. Traffic, waiting and the final hotel leg affect the whole journey."
+        ],
+        [
+          "Where does Phuket Smart Bus leave from at the airport?",
+          "The operator identifies Domestic Terminal Exit 3. If arriving internationally, locate that boarding point after collecting luggage and following airport signs."
+        ],
+        [
+          "How much is the airport-to-Rawai Smart Bus?",
+          "The operator publishes THB100 for the Airport–Rawai route. Confirm the current route and the stop serving your hotel; a final hotel connection is separate."
         ]
       ],
       "tips": [
@@ -12558,8 +13060,8 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-11-21",
+      "researchNote": "Airport–Rawai published fare, Domestic Exit 3 boarding and the route-specific comparison rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "mins": 2,
       "relatedGuides": [
         "phuket-dragon-line-free-town-bus",
@@ -12567,12 +13069,13 @@
         "phuket-beaches",
         "phuket-oldtown"
       ],
-      "seoTitle": "Phuket Airport Transfers: Bus or Direct Ride?",
+      "seoTitle": "Phuket Airport Bus: THB100 Fare, Exit 3 & Beach Stops",
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Airport–Rawai published fare, Domestic Exit 3 boarding and the route-specific comparison only; not a full publisher signoff, image-rights clearance or live service check."
+      },
+      "planLinks": []
     },
     {
       "id": "phuket-three-day-itinerary",
@@ -12739,7 +13242,9 @@
       "img": "kyo-destination-photo",
       "src": [
         "kyoto-respect",
-        "kyoto-togetsukyo"
+        "kyoto-togetsukyo",
+        "review21-kyoto-access",
+        "review21-kyoto-rules"
       ],
       "body": [
         "For a first Kyoto visit, choose one main area instead of treating Higashiyama and Arashiyama as parts of a single compulsory circuit. The useful question is whether you want a historic-street and temple outing or a western-district visit. Both deserve time for the journey, breaks and places that you decide not to enter."
@@ -12783,6 +13288,23 @@
             "kyoto-togetsukyo",
             "kyoto-respect"
           ]
+        },
+        {
+          "h": "For Arashiyama, pick the rail approach from your starting point",
+          "p": [
+            "Kyoto’s official access guide recommends the JR Sagano Line from Kyoto Station to Saga-Arashiyama. From the Shijo/Kawaramachi side it describes Hankyu travel via Katsura to Hankyu Arashiyama. These are different stations and approaches, so save the actual arrival station with the entrance you want to reach.",
+            "Our comparison is to choose the railway that fits where you start, then plan the final walk to the Togetsu-kyo area. Leave the bamboo area or a ticketed temple as a separate choice. The city warns that a bus from Kyoto Station can be crowded and time-consuming; avoid planning the day from a district label alone."
+          ],
+          "sourceIds": [
+            "review21-kyoto-access",
+            "review21-kyoto-rules"
+          ],
+          "links": [
+            [
+              "Compare Kyoto’s official Arashiyama approaches",
+              "https://kyoto.travel/en/getting-around/comfortable-access-to-saga-arashiyama/"
+            ]
+          ]
         }
       ],
       "quickPlan": [
@@ -12800,27 +13322,27 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose the plan that fits your visit",
+        "caption": "Choose an area and arrival before adding attractions",
         "headers": [
-          "Decision",
-          "Suggested approach",
-          "Confirm before departure"
+          "Start / interest",
+          "Compare first",
+          "Keep separate"
         ],
         "rows": [
           [
-            "Higashiyama",
-            "One temple and a nearby street walk",
-            "Venue entry and public routes"
+            "Kyoto Station → Arashiyama",
+            "JR Sagano Line / Saga-Arashiyama",
+            "Final walk and any temple admission"
           ],
           [
-            "Arashiyama",
-            "One main stop in the west",
-            "Approach and crowd information"
+            "Shijo/Kawaramachi → Arashiyama",
+            "Hankyu via Katsura",
+            "Hankyu station approach, not the JR station"
           ],
           [
-            "Evening",
-            "A meal near the selected area",
-            "Return transport"
+            "Higashiyama-led culture",
+            "One named temple and public-street approach",
+            "Private lanes and photography restrictions"
           ]
         ]
       },
@@ -12832,6 +13354,10 @@
         [
           "Can I photograph people in Gion freely?",
           "Ask permission and follow local restrictions. Do not treat a working person as a tourist attraction."
+        ],
+        [
+          "Which train should I compare for Arashiyama?",
+          "From Kyoto Station, the city guide recommends JR Sagano Line to Saga-Arashiyama; from the Kawaramachi side it describes Hankyu via Katsura. Match the arrival station to your actual starting point and final walk."
         ]
       ],
       "tips": [
@@ -12844,18 +13370,19 @@
         "kyo-arashiyama"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-11-21",
+      "researchNote": "Official Arashiyama rail approaches and responsible-access guidance rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "mins": 3,
-      "seoTitle": "Kyoto First Visit: Higashiyama or Arashiyama?",
+      "seoTitle": "Kyoto First Visit: Higashiyama or Arashiyama & Rail Access",
       "relatedGuides": [
         "kyoto-autumn-leaves-calendar-2026-update"
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
-      }
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Official Arashiyama rail approaches and responsible-access guidance only; not a full publisher signoff, image-rights clearance or live service check."
+      },
+      "planLinks": []
     },
     {
       "id": "george-town-penang-heritage-walk",
@@ -12863,16 +13390,27 @@
       "city": "png",
       "cat": "travel",
       "kind": "guide",
-      "title": "George Town, Penang: a heritage walk with a waterfront finish",
-      "dek": "Choose a small part of the official heritage trail, with architecture, living streets and a meal as separate priorities.",
+      "title": "George Town heritage walk: a short Penang route or the full trail?",
+      "dek": "Compare a waterfront-history segment, Street of Harmony or Armenian Street with the tourism board’s much longer full heritage trail.",
       "img": "png-destination-photo",
       "src": [
-        "penang-heritage-trail"
+        "penang-heritage-trail",
+        "review21-penang"
       ],
       "body": [
-        "George Town’s heritage streets are easier to appreciate when the walk has a purpose. Choose architectural detail, a particular cultural venue or waterfront time as the main experience. The official heritage trail is a useful starting point, but you do not need to follow every listed stop to have a worthwhile first visit."
+        "Penang Global Tourism publishes a George Town heritage trail lasting 7–8 hours excluding meals. For a shorter first visit, choose one segment instead of treating that full list as a compulsory half-day. The Esplanade and Fort Cornwallis, Street of Harmony, or Armenian Street give three different starting purposes."
       ],
       "sections": [
+        {
+          "h": "Choose one heritage story rather than ten interiors",
+          "p": [
+            "The official trail begins with the Esplanade and Fort Cornwallis, continues through the Street of Harmony and heritage buildings, and reaches the Clan Jetties and Ferry Museum. Its 7–8-hour allowance is for the full itinerary, not a promise that a three-hour visit covers the same ground.",
+            "Our shorter choice is a waterfront-history segment or a Street of Harmony segment, with one interior if its current ticket and access arrangements suit you. For craft browsing and murals, start with Armenian Street instead. Keep the next district optional and save an exit or pickup point before setting off."
+          ],
+          "sourceIds": [
+            "review21-penang"
+          ]
+        },
         {
           "h": "Start with the part of the trail you want to understand",
           "p": [
@@ -12925,27 +13463,32 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose the plan that fits your visit",
+        "caption": "Choose a short segment; these are editorial alternatives to the official full trail",
         "headers": [
-          "Decision",
-          "Suggested approach",
-          "Confirm before departure"
+          "Plan",
+          "Named anchor",
+          "Separate check"
         ],
         "rows": [
           [
-            "Architecture",
-            "Select a few public-street stops",
-            "Entrances and walking approach"
+            "Waterfront history",
+            "Esplanade / Fort Cornwallis",
+            "Fort admission and the current entrance"
           ],
           [
-            "Cultural interior",
-            "Choose one venue",
-            "Admission and opening information"
+            "Religious streetscape",
+            "Street of Harmony",
+            "Permission and visitor hours at each place of worship"
           ],
           [
-            "Waterfront",
-            "Keep a flexible finish",
-            "Weather and onward pickup"
+            "Creative browsing",
+            "Armenian Street",
+            "Named shop or gallery hours"
+          ],
+          [
+            "Full heritage trail",
+            "Tourism board’s 7–8-hour itinerary, excluding meals",
+            "All interior admissions, breaks and final transport"
           ]
         ]
       },
@@ -12957,6 +13500,10 @@
         [
           "Must I follow the entire official trail?",
           "No. Select the part that fits your interests and walking needs."
+        ],
+        [
+          "How long is the official George Town heritage trail?",
+          "Penang Global Tourism gives 7–8 hours excluding meals. Our shorter options select one segment; they do not cover the entire itinerary."
         ]
       ],
       "tips": [
@@ -12969,10 +13516,10 @@
         "png-heritage-streets"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-10-19",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-11-21",
+      "researchNote": "Official trail sequence and duration, contrasted with shorter editorial segments rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "mins": 3,
-      "seoTitle": "George Town Penang: A Heritage Walking Guide",
+      "seoTitle": "George Town Penang Heritage Walk: Routes & Time Planning",
       "planLinks": [
         [
           "Explore the George Town city guide",
@@ -12981,12 +13528,16 @@
         [
           "Continue planning in Kuala Lumpur",
           "/city/kuala-lumpur"
+        ],
+        [
+          "Open the official full trail",
+          "https://www.mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09"
         ]
       ],
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Official trail sequence and duration, contrasted with shorter editorial segments only; not a full publisher signoff, image-rights clearance or live service check."
       },
       "relatedGuides": []
     },
@@ -13892,105 +14443,71 @@
       "city": "cnx",
       "cat": "news",
       "kind": "news",
-      "title": "Chiang Mai Design Week 2026: what to plan now for December",
-      "dek": "Design, scent and a slower city outing: plan 5–13 December around Scents Asia at TCDC, then choose individual sessions as the programme develops.",
+      "title": "Chiang Mai Design Week 2026: dates, programme choices and booking checks",
+      "dek": "Plan 5–13 December around a named activity: compare Scents Asia, music, creative shopping and workshops before arranging a transfer.",
       "img": "cnx-tha-phae",
       "src": [
-        "cmdw-2026-news",
-        "cmdw-2026-program",
-        "cmdw-2026-program-th",
-        "cmdw-scents-2026",
-        "cmdw-2026-announcement",
-        "cmdw-about-2026"
+        "review21-cmdw",
+        "review21-cmdw-program"
       ],
       "body": [
-        "Chiang Mai Design Week 2026 runs from 5 to 13 December under the announced theme “Local Thunders, Global Transformation”. One concrete starting point is Scents Asia: the organiser names TCDC Chiang Mai and a 10:00–20:00 event window for those dates. Other exhibitions, performances and workshops have their own locations and participation rules.",
-        "Use the festival dates to choose your stay, then choose a named activity for each outing. This researched guide separates an announced venue from a booked session and helps you decide between design displays, a market, music and a hands-on workshop."
+        "Chiang Mai Design Week 2026 is announced for 5–13 December under the theme “Local Thunders, Global Transformation”. CEA names Scents Asia, LABBfest., Pop Market and Trade & Business Matching among its strands. Each activity needs its own venue, time and admission check.",
+        "Choose the part of design culture you want to experience, then use the current programme to find a dated activity. This guide separates festival-wide dates from an individual session and its booking terms."
       ],
       "sections": [
         {
-          "h": "26 October update: the vendor deadline has passed",
+          "h": "Start with a visitor activity, not an exhibitor application",
           "p": [
-            "Scents Asia’s official notice set 25 October as the vendor-application deadline and 30 October for the selection announcement on its Facebook page. As of this update, the stated application window has ended. That timetable concerns exhibitors; it does not establish visitor admission or confirm that a particular workshop can be booked.",
-            "If you are planning a December visit, use this week to shortlist your interests rather than build a shopping list around unannounced exhibitors. Choose whether you care most about fragrance, materials or a hands-on session, then return to the dated programme once the relevant listing is available. A useful half-day can have one anchor and enough time for an unhurried meal."
+            "The organiser’s current announcement confirms the nine-day festival and its main strands. An earlier Scents Asia vendor-detail link now leads to the general guide index. Use the current programme for a session’s actual address and timing; this update does not certify the earlier 10:00–20:00 vendor notice as a current visitor timetable.",
+            "Our visitor record has four fields: activity title, date and start time, venue entrance, and admission or registration requirement. Complete those before adding a transfer or another ticketed activity. If a detail is absent, keep that part of the outing flexible."
           ],
           "sourceIds": [
-            "cmdw-scents-2026"
+            "review21-cmdw",
+            "review21-cmdw-program"
           ]
         },
         {
-          "h": "When is Chiang Mai Design Week 2026?",
+          "h": "Choose the experience before choosing the district",
           "p": [
-            "The Creative Economy Agency’s announcement confirms 5–13 December 2026. It describes exhibitions, creative markets, music and workshops across the festival. Those are programme themes, not a promise that all activities run every day or share one entrance.",
-            "Our suggestion for a short stay is one festival-focused half-day and a separate flexible city outing. Choose the session you care about before booking a cross-city transfer. The published nine-day festival window does not mean you need nine sightseeing days or that a workshop ticket covers other events."
+            "Scents Asia is the fragrance-and-materials strand; LABBfest. is the music strand; Pop Market is for creative shopping. Trade & Business Matching serves a professional meeting purpose. These are different reasons to attend, rather than four stops to fit into one half-day.",
+            "Our suggested first choice is one display or session and a meal nearby. For a workshop, let the booked start time determine the rest of the outing. For a market browse, leave more flexible time and a separate shopping budget."
           ],
           "sourceIds": [
-            "cmdw-2026-announcement"
+            "review21-cmdw"
           ]
         },
         {
-          "h": "A named venue: Scents Asia at TCDC Chiang Mai",
+          "h": "Build a half-day around the confirmed listing",
           "p": [
-            "The organiser’s Scents Asia announcement lists TCDC Chiang Mai, 5–13 December 2026, 10:00–20:00. It describes a fair with trade displays, exhibitions, talks and workshops connected to scent and local materials. This is a specific venue-and-hours announcement, not simply a district label or the organiser’s office address.",
-            "Use it as a candidate anchor if materials, fragrance or product design interest you. Admission prices, workshop places and individual session times are not established by the vendor announcement, so check the actual activity entry before committing. The map link below is for finding TCDC; it is not a festival-wide venue map or proof of a reserved place."
-          ],
-          "sourceIds": [
-            "cmdw-scents-2026"
-          ],
-          "links": [
-            [
-              "Read the Scents Asia venue announcement",
-              "https://www.chiangmaidesignweek.com/en/cmdw2026/content/178436"
-            ],
-            [
-              "Find TCDC Chiang Mai on the map",
-              "https://www.google.com/maps/search/?api=1&query=TCDC+Chiang+Mai+Thailand"
-            ]
-          ]
-        },
-        {
-          "h": "Choose a programme by the experience you want",
-          "p": [
-            "The CEA announcement names Scents Asia, LABBfest., Pop Market and Trade & Business Matching among the programme strands. They answer different visitor needs: displays and materials, music, creative shopping, or professional meetings. A general festival guide should not treat a trade meeting as the same purchase or time commitment as an exhibition visit.",
-            "For a first visit, choose the strand you want, open its dated listing and record the venue, start time and entry terms. The official programme provides the route to those details. If a listing is absent or incomplete, keep that part of the day flexible; an announced strand does not establish a particular performance time or a ticket currently on sale."
-          ],
-          "sourceIds": [
-            "cmdw-2026-announcement"
-          ],
-          "links": [
-            [
-              "Browse the official 2026 programme",
-              "https://www.chiangmaidesignweek.com/en/cmdw2026/program"
-            ]
-          ]
-        },
-        {
-          "h": "Build a half-day around one confirmed activity",
-          "p": [
-            "For an editorial half-day allowance, reserve a block for your main activity, a meal or seated break and the journeys at either end. Start with the activity’s actual duration and expand the allowance from there. Do not infer a short walk between entries just because they share the festival name.",
-            "Keep an Old City walk as a separate option if you finish early. If you want a hands-on workshop, let its booked start organise the day; browse nearby only after you have saved the meeting point. A restaurant reservation or museum stop should leave enough room for the transfer back to the festival activity."
+            "Allow time for the activity itself, the journeys at each end and a seated break. A shared festival name does not mean venues are next door to one another. Save the exact venue entrance and check whether registration includes materials, an individual session or any other programme.",
+            "An Old City walk can be a separate fallback if an activity is unavailable. Keep hotel and restaurant bookings flexible enough to allow for the actual journey."
           ],
           "sourceIds": [],
           "links": [
             [
-              "Choose a Chiang Mai Old City walk",
+              "Choose an Old City walk",
               "/guides/chiang-mai-oldcity"
             ],
             [
-              "Fit the festival into two Chiang Mai days",
+              "Plan two Chiang Mai days",
               "/guides/chiang-mai-two-day-itinerary"
             ]
           ]
         },
         {
-          "h": "Registration, prices and what is still to be confirmed",
+          "h": "Recheck the programme before departure",
           "p": [
-            "The Scents Asia source is an open call for vendors. Its application process is for exhibitors; it should not be presented as a visitor ticket or workshop registration. For a visit, use the current programme and the participation terms of the activity itself.",
-            "We have not established a festival-wide visitor pass, a universal free-admission policy or availability for individual workshops. Confirm those details with the organiser or named activity. Save a dated programme entry and booking confirmation together, then check for notices before travelling."
+            "Open the organiser’s programme index again before leaving for the activity. Match the date and venue with your confirmation, then look for any changed participation terms. Festival-wide dates are not a promise that every programme runs every day.",
+            "Do not use a vendor application or an announced programme strand as a visitor ticket. Check the named activity for its price, booking and language information."
           ],
           "sourceIds": [
-            "cmdw-scents-2026",
-            "cmdw-2026-program"
+            "review21-cmdw-program"
+          ],
+          "links": [
+            [
+              "Browse the current official programme",
+              "https://www.chiangmaidesignweek.com/cmdw2026/program"
+            ]
           ]
         }
       ],
@@ -13999,66 +14516,66 @@
       "faq": [
         [
           "When is Chiang Mai Design Week 2026?",
-          "The organiser confirms 5–13 December 2026. Activities have their own schedules."
+          "CEA announces 5–13 December 2026. Individual activities have their own dates and times."
         ],
         [
-          "Where is Scents Asia 2026?",
-          "The organiser names TCDC Chiang Mai and announces 10:00–20:00 on 5–13 December. Check the individual activity before travelling."
+          "How do I choose what to attend?",
+          "Use the programme index to compare a named activity in Scents Asia, music, creative shopping or workshops. Save its venue, date and participation terms."
         ],
         [
-          "Is all of Chiang Mai Design Week free?",
-          "We have not established a universal admission policy. Check each activity for price and registration; an exhibitor application is not a visitor ticket."
+          "Is every activity free?",
+          "Check each activity’s published admission or registration terms. A festival-wide free-entry policy is not established by the announcement."
         ],
         [
-          "Can I visit every district in one day?",
-          "This guide recommends one main activity and an optional nearby stop. Compare exact venue addresses and transfer times before combining districts."
+          "Can I use the earlier Scents Asia vendor link to book a visit?",
+          "The old detail link now leads to the guide index. Use the current visitor programme; an exhibitor application is not a workshop or admission booking."
         ]
       ],
       "quickPlan": [
         [
-          "Festival dates",
+          "Announced dates",
           "5–13 December 2026"
         ],
         [
-          "Named venue",
-          "Scents Asia — TCDC Chiang Mai"
+          "Choose a strand",
+          "Scent/materials, music, creative shopping or a workshop"
         ],
         [
-          "Announced Scents Asia hours",
-          "10:00–20:00 for the announced dates; individual sessions vary"
+          "Before travelling",
+          "Save a dated activity, venue entrance and participation terms"
         ],
         [
-          "Before booking",
-          "Use activity-specific admission and registration terms"
+          "Programme",
+          "Use the current official index; an old vendor notice is not a visitor booking"
         ]
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-11-12",
+      "dateModified": "2026-11-21",
       "tips": [
         "Save the programme entry and any booking confirmation before you leave.",
         "Choose a venue address rather than a whole neighbourhood as your meeting point."
       ],
-      "researchNote": "Update added 26 October 2026: the official overview and Scents Asia notice were rechecked, including the passed 25 October vendor deadline and planned 30 October selection announcement. Earlier programme strands retain their linked sources. This is desk research, not a festival visit; visitor admission and individual sessions require their own confirmation.",
-      "mins": 3,
+      "researchNote": "Announced festival dates, programme strands and the old detail-link redirect rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
+      "mins": 2,
       "relatedGuides": [
         "chiang-mai-oldcity",
         "chiang-mai-two-day-itinerary",
         "chiang-mai-restaurants-best-for-noodles-and-sharing"
       ],
-      "seoTitle": "Chiang Mai Design Week 2026: what to plan now for December",
+      "seoTitle": "Chiang Mai Design Week 2026: Dates & Visitor Planning",
       "imageNote": "Destination photograph of Tha Phae Gate; not a photograph of the 2026 festival.",
       "planLinks": [
         [
-          "Scents Asia venue and hours announcement",
-          "https://www.chiangmaidesignweek.com/en/cmdw2026/content/178436"
+          "Browse the current 2026 programme",
+          "https://www.chiangmaidesignweek.com/cmdw2026/program"
         ],
         [
-          "Official festival programme",
-          "https://www.chiangmaidesignweek.com/en/cmdw2026/program"
+          "Read CEA’s announcement",
+          "https://www.chiangmaidesignweek.com/cmdw2026/content/168436"
         ],
         [
-          "Plan a Chiang Mai Old City walk",
-          "/guides/chiang-mai-oldcity"
+          "Compare a two-day Chiang Mai plan",
+          "/guides/chiang-mai-two-day-itinerary"
         ]
       ],
       "planTable": {
@@ -14070,9 +14587,9 @@
         ],
         "rows": [
           [
-            "Materials and fragrance design",
-            "Scents Asia, TCDC Chiang Mai",
-            "Admission and individual sessions"
+            "Materials and fragrance",
+            "Scents Asia",
+            "Current venue, activity time and participation terms"
           ],
           [
             "Live music",
@@ -14092,21 +14609,9 @@
         ]
       },
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Research-based source and consistency revision; no personal visit is claimed.",
-        "scope": "Specific operational claims and reader decisions, not complete factual or image-rights clearance."
-      },
-      "navigationRoute": {
-        "mode": "places",
-        "title": "Find the announced Scents Asia venue",
-        "summary": "One named venue, not a map of every Design Week event. Check the activity listing for its entrance and meeting point.",
-        "stops": [
-          {
-            "name": "TCDC Chiang Mai — Scents Asia announced venue",
-            "query": "TCDC Chiang Mai, Thailand",
-            "note": "Scents Asia is announced here for 5–13 December, 10:00–20:00. This location link does not confirm visitor admission or a workshop reservation."
-          }
-        ]
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Announced festival dates, programme strands and the old detail-link redirect only; not a full publisher signoff, image-rights clearance or live service check."
       },
       "newsWindow": {
         "start": "2026-12-05",
@@ -14847,7 +15352,8 @@
       "img": "cnx-tha-phae",
       "src": [
         "cnx-airport-taxi-official",
-        "cnx-airport-transport-official"
+        "cnx-airport-transport-official",
+        "review21-cnx-taxi"
       ],
       "body": [
         "For a first arrival in Chiang Mai, the most useful transfer is the one that reaches your actual accommodation with a clear total cost. Start with the hotel entrance and your arrival time. Then compare a taxi quote, the currently operating public transport options and any hotel pickup you have arranged. An Old Town address alone is not a precise drop-off point."
@@ -14860,7 +15366,7 @@
             "Show the driver or counter the hotel name, map pin and entrance details. Before agreeing, confirm the total for your specific destination, passenger count and luggage. Ask which payment methods are accepted and retain the booking or receipt. If the quote is for a different accommodation or an additional stop, settle that difference before departure."
           ],
           "sourceIds": [
-            "cnx-airport-taxi-official"
+            "review21-cnx-taxi"
           ]
         },
         {
@@ -14888,16 +15394,6 @@
             "For a late arrival, confirm transport availability and the hotel’s reception arrangements directly. We have not verified a 24-hour promise for every listed service. For the return flight, plan backwards from your airline’s check-in guidance and allow for the actual pickup journey; a short-looking route on a map is not a reliable departure buffer."
           ],
           "sourceIds": []
-        },
-        {
-          "h": "Use Entrance 1 as the airport-taxi reference",
-          "p": [
-            "Chiang Mai Airport’s own taxi listing places the public-area counter on Floor 1 at Entrance 1 and describes a flat-rate service. The listing does not provide a single numerical fare to every Old Town hotel, so this guide does not invent one. Ask for the total to your saved accommodation entrance before accepting the journey.",
-            "Keep three details together: the destination name, the full quoted amount and the pickup arrangement. If you are comparing a hotel driver, use the same destination and include waiting or flight-delay terms. A route into the Old Town is not the same as delivery to a narrow-lane doorway; confirm the final approach with the hotel when that matters for luggage or mobility."
-          ],
-          "sourceIds": [
-            "cnx-airport-taxi-official"
-          ]
         }
       ],
       "quickPlan": [
@@ -14916,8 +15412,8 @@
       ],
       "faq": [
         [
-          "What is the guaranteed taxi fare to every Old Town hotel?",
-          "This guide does not quote one. Confirm a current total for your exact hotel, passengers and luggage before accepting the service."
+          "Where is the airport-listed taxi service at Chiang Mai Airport?",
+          "AOT places it at Entrance 1 in the main terminal’s first-floor public area. Follow current signs and confirm the complete quote to your exact hotel entrance."
         ],
         [
           "Can I assume a bus will be running after a late flight?",
@@ -14947,14 +15443,39 @@
       "places": [],
       "tips": [],
       "datePublished": "2026-10-18",
-      "dateModified": "2026-10-19",
-      "researchNote": "The additional or replaced source-linked sections were researched on 19 October 2026. Other operational references keep their stated dates and limits. This is independent desk research, not a firsthand visit; routes, comparisons and time allowances are editorial suggestions.",
+      "dateModified": "2026-11-21",
+      "researchNote": "Airport-listed taxi location; duplicate same-fact section consolidated into a comparison table rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "imageNote": "Tha Phae Gate in Chiang Mai, shown as destination context. This photograph does not show the airport or a pickup point.",
-      "mins": 3,
+      "mins": 2,
       "compositionReview": {
-        "date": "2026-10-19",
-        "method": "Place-specific primary-source expansion and original planning analysis.",
-        "scope": "The new section records its sources. Existing operational facts outside that section retain their earlier scope; no firsthand visit, exhaustive factual clearance or image-rights signoff is claimed."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Airport-listed taxi location; duplicate same-fact section consolidated into a comparison table only; not a full publisher signoff, image-rights clearance or live service check."
+      },
+      "planTable": {
+        "caption": "Compare the same hotel entrance and party size; no universal fare is asserted",
+        "headers": [
+          "Option",
+          "Useful when",
+          "Confirm before agreement"
+        ],
+        "rows": [
+          [
+            "Airport-listed taxi",
+            "You want a destination-specific quote on arrival",
+            "Entrance 1 / Floor 1 public area; total and luggage"
+          ],
+          [
+            "Hotel-arranged pickup",
+            "You prefer a named meeting procedure",
+            "Flight delays, waiting, contact and vehicle size"
+          ],
+          [
+            "Public transport",
+            "A currently running route fits your arrival",
+            "Stop, hours, payment and hotel-side walk"
+          ]
+        ]
       }
     },
     {
@@ -15671,12 +16192,14 @@
       "cat": "travel",
       "kind": "guide",
       "title": "KLIA to Kuala Lumpur: airport train, terminal and hotel transfer",
-      "seoTitle": "KLIA to Kuala Lumpur: Train Fares & Hotel Transfer",
+      "seoTitle": "KLIA to Kuala Lumpur: Train Fares, Children & Late Arrivals",
       "dek": "Compare KLIA Ekspres and Transit, budget for the final hotel journey, and make a separate plan for a late arrival.",
       "img": "kul-klia-express",
       "src": [
         "klia-ekspres-visitor",
-        "klia-transit-visitor"
+        "klia-transit-visitor",
+        "review21-klia",
+        "review21-klia-schedule"
       ],
       "body": [
         "Choose KLIA Ekspres when its KL Sentral arrival works with the rest of your hotel journey; compare KLIA Transit when an intermediate station is the destination. First confirm whether your flight uses Terminal 1 or Terminal 2. Buying an airport-train ticket solves a rail journey, not the final trip to every Kuala Lumpur hotel.",
@@ -15700,7 +16223,19 @@
             "At the published Ekspres standard adult fare, two adults travelling one way total RM110 and four total RM220. This is our arithmetic example before the final hotel leg, not a group discount or a quote for your travel date. Compare an actual offer using the same party size.",
             "For a direct road-transfer enquiry, give the terminal, flight date, passenger count, luggage and destination address. Ask what the quote includes and what happens if the flight is late. For rail, add the onward fare for everyone. A smaller headline number does not settle the comparison when one option ends at a station and the other at your accommodation."
           ],
-          "sourceIds": []
+          "sourceIds": [
+            "review21-klia"
+          ]
+        },
+        {
+          "h": "Children need the correct ticket process",
+          "p": [
+            "The operator lists RM55 single/RM100 return for adults, and RM25/RM45 for ages 6–15. Under-6 travel is free under the published conditions, with up to three free child tickets per adult. It says online child barcodes need counter activation, so include that step in your arrival plan.",
+            "Our standard-fare example for two adults and two children aged 6–15 is RM160 one way, before the hotel connection and without an online discount. Compare the actual checkout total and any direct-transfer quote for the same group. An advertised discount is not the standard fare table."
+          ],
+          "sourceIds": [
+            "review21-klia"
+          ]
         },
         {
           "h": "Make KL Sentral an interchange, not an assumed hotel stop",
@@ -15717,13 +16252,20 @@
           ]
         },
         {
-          "h": "Late arrival: keep the station deadline separate from landing",
+          "h": "Late arrival: use the terminal-specific full schedule",
           "p": [
-            "The Ekspres product page currently describes service extended until 1am from the airport terminals, with all-stations running late at night. Recheck the day’s departure information rather than using the daytime journey time as a late-night promise. An onward connection can also finish before the airport service.",
-            "Our suggested backup is a transfer plan that remains usable if bags or arrival formalities take longer than expected. Save the hotel’s late-check-in instructions and a way to contact it. Do not pre-book a tight connection solely because a timetable shows a train after the scheduled landing time."
+            "The Ekspres product page contains differing late-service references: its narrative mentions an extension until 01:00, while its summary table displays earlier last departures. Use the official full-schedule page for your terminal and direction, and check current notices. This guide does not turn one of those conflicting summary times into a guaranteed last connection.",
+            "After 23:00 the operator describes all-stations working, so the daytime 28-minute rail reference should not be applied automatically to a late service. Keep a road-transfer fallback and the hotel’s late-check-in instructions together if your arrival would depend on the final train."
           ],
           "sourceIds": [
-            "klia-ekspres-visitor"
+            "review21-klia",
+            "review21-klia-schedule"
+          ],
+          "links": [
+            [
+              "Open the official full-schedule downloads",
+              "https://www.kliaekspres.com/schedule/"
+            ]
           ]
         },
         {
@@ -15744,12 +16286,12 @@
       "items": [],
       "places": [],
       "datePublished": "2026-10-24",
-      "dateModified": "2026-10-24",
-      "researchNote": "Published operator or venue information checked 24 October 2026. This is independent desk research, not a firsthand visit. Suggested time budgets and cost comparisons are editorial analysis; confirm current notices and your exact ticket before travel.",
+      "dateModified": "2026-11-21",
+      "researchNote": "Standard fares, child-ticket process, ticket-product separation and conflicting late-service summaries rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
       "compositionReview": {
-        "date": "2026-10-24",
-        "method": "Primary-source research, original visitor decisions and licence-checked reference photography.",
-        "scope": "The specific references and comparisons in this guide; not a live booking, personal inspection, exhaustive access review or guarantee of future fares."
+        "date": "2026-11-21",
+        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
+        "scope": "Standard fares, child-ticket process, ticket-product separation and conflicting late-service summaries only; not a full publisher signoff, image-rights clearance or live service check."
       },
       "quickPlan": [
         [
@@ -15757,8 +16299,8 @@
           "Confirm KLIA T1 or T2, then save the exact hotel address."
         ],
         [
-          "Rail reference",
-          "Ekspres standard adult: RM55 single or RM100 return, checked 24 October 2026."
+          "Standard adult fare",
+          "RM55 single or RM100 return, rechecked 21 November 2026"
         ],
         [
           "Final leg",
@@ -15770,7 +16312,7 @@
         ]
       ],
       "planTable": {
-        "caption": "Choose the complete KLIA-to-hotel journey; references checked 24 October 2026",
+        "caption": "Choose the complete KLIA-to-hotel journey; fare and product conditions rechecked 21 November 2026",
         "headers": [
           "Your situation",
           "Compare first",
@@ -15802,7 +16344,7 @@
       "faq": [
         [
           "How much is the KLIA Ekspres to KL Sentral?",
-          "The published standard adult fare checked on 24 October 2026 is RM55 single or RM100 return. Confirm the offer and travel date before buying."
+          "The published standard adult fare checked on 21 November 2026 is RM55 single or RM100 return. Confirm the offer and travel date before buying."
         ],
         [
           "Does the 28-minute train time include my hotel transfer?",
@@ -15815,12 +16357,24 @@
         [
           "Should four people automatically take a car?",
           "Compare the actual whole-party rail cost, the final hotel connection and a direct-transfer quote. There is no universally cheaper option established by this guide."
+        ],
+        [
+          "Do online child tickets work immediately at the KLIA gates?",
+          "The operator says online child barcode tickets require counter activation. Check the current collection and age-proof conditions before travel."
+        ],
+        [
+          "Can I rely on the product page’s last-train summary?",
+          "The page has differing late-service references. Use the full official schedule for the actual terminal, direction and date, and keep an alternative if arrival is tight."
         ]
       ],
       "planLinks": [
         [
           "Check official Ekspres fares and current service details",
           "https://www.kliaekspres.com/products-fares/klia-ekspres/"
+        ],
+        [
+          "Check the full official schedule",
+          "https://www.kliaekspres.com/schedule/"
         ],
         [
           "Check Transit stations and ticket conditions",
@@ -19974,15 +20528,16 @@
       "url": "https://www.royalgrandpalace.th/en/visit/practical-information",
       "src": [
         "ytg",
-        "palace-official"
+        "palace-official",
+        "review21-palace"
       ],
       "blurb": "Combine the palace compound and Wat Phra Kaew as one main visit. Read the official ticket inclusions and visitor rules before adding another temple to the day.",
       "img": "bkk-grand-palace",
       "verify": true,
       "factReview": {
-        "checkedAt": "2026-10-19",
+        "checkedAt": "2026-11-21",
         "sourceIds": [
-          "palace-official"
+          "review21-palace"
         ],
         "fields": [
           "hours",
@@ -20000,16 +20555,17 @@
       "price": "฿300",
       "src": [
         "ytg",
-        "pho-official"
+        "pho-official",
+        "review21-pho"
       ],
       "blurb": "Choose a temple visit here for the reclining Buddha and the wider complex. Enquiries about massage are a separate activity with their own arrangements.",
       "img": "bkk-wat-pho",
       "url": "https://www.watpho.com/th/contact/plan",
       "verify": true,
       "factReview": {
-        "checkedAt": "2026-10-19",
+        "checkedAt": "2026-11-21",
         "sourceIds": [
-          "pho-official"
+          "review21-pho"
         ],
         "fields": [
           "hours",
@@ -20181,15 +20737,25 @@
       "city": "bkk",
       "kind": "market",
       "name": "Jodd Fairs Ratchada",
-      "area": "Din Daeng",
-      "hours": "Confirm current opening hours with the market",
+      "area": "129 Ratchadaphisek Road, Din Daeng",
+      "hours": "TAT Japan lists daily 17:00–01:00; reconfirm operator notices",
       "price": "Free",
       "src": [
-        "p101nm"
+        "p101nm",
+        "review21-jodd"
       ],
       "blurb": "Save the current Ratchada address before arranging the evening. This location should not be confused with an older Rama 9 listing under the same market name.",
       "img": null,
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "review21-jodd"
+        ],
+        "fields": [
+          "hours"
+        ]
+      }
     },
     {
       "id": "bkk-train-ratchada",
@@ -20211,14 +20777,24 @@
       "kind": "market",
       "name": "Rot Fai Market Srinakarin",
       "area": "Prawet",
-      "hours": "Thursday to Sunday 5pm to 1am",
+      "hours": "TAT Japan lists Thursday–Sunday 17:00–00:00; reconfirm before travel",
       "price": "Free",
       "src": [
-        "p101nm"
+        "p101nm",
+        "review21-rotfai"
       ],
       "blurb": "Consider the Srinakarin listing for a dedicated browsing evening. Include the journey and carrying purchases in the plan instead of using a Ratchada route.",
       "img": null,
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "review21-rotfai"
+        ],
+        "fields": [
+          "hours"
+        ]
+      }
     },
     {
       "id": "bkk-ong-ang",
@@ -20226,10 +20802,11 @@
       "kind": "market",
       "name": "Ong Ang Canal walking street",
       "area": "Chinatown edge",
-      "hours": "Canal walk; a current market-stall programme is not confirmed",
+      "hours": "Public canal-walk area; confirm a dated stall programme with the responsible district office",
       "price": "Free",
       "src": [
-        "p101nm"
+        "p101nm",
+        "review21-ongang"
       ],
       "blurb": "An outdoor canal-walk option. A public walking area and a programmed market evening are different experiences; confirm any stalls or activities you intend to attend.",
       "img": "bkk-ong-ang",
@@ -20241,14 +20818,24 @@
       "kind": "market",
       "name": "Asiatique The Riverfront",
       "area": "Bang Kho Laem",
-      "hours": "Daily 10am to midnight",
+      "hours": "Operator lists daily 11:00–00:00; free shuttle separately 16:00–23:30",
       "price": "Free",
       "src": [
-        "p101nm"
+        "p101nm",
+        "review21-asiatique"
       ],
       "blurb": "Choose between riverside dining, retail browsing and separately ticketed attractions. Read the product and transport information for the activity you actually want.",
       "img": "bkk-asiatique",
-      "verify": true
+      "verify": true,
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "review21-asiatique"
+        ],
+        "fields": [
+          "hours"
+        ]
+      }
     },
     {
       "id": "bkk-thipsamai",
@@ -21660,9 +22247,11 @@
       "area": "Dihua Street",
       "url": "https://travel.taipei/vintage-clothing/en",
       "src": [
-        "taipei-visitor"
+        "taipei-visitor",
+        "review21-dadaocheng",
+        "review21-dadaocheng-terms"
       ],
-      "blurb": "Check the official temporary-closure announcements before relying on visitor advice, exhibitions or a costume session. The centre address can orient a map without confirming that services are operating.",
+      "blurb": "Use current notices for indoor access. Regular centre service, upstairs exhibitions and the separately reserved costume programme have different hours and terms; past closure dates are not a reopening confirmation.",
       "verify": true
     },
     {
@@ -21703,11 +22292,22 @@
       "area": "Victoria Harbour",
       "url": "https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html",
       "src": [
-        "hongkong-transit"
+        "hongkong-transit",
+        "review21-star-ferry"
       ],
       "blurb": "Compare the actual sailing route, fare and deck before boarding. Ordinary transport and a separately advertised sightseeing product are different purchases.",
       "verify": true,
-      "img": "hkg-ferry-photo"
+      "img": "hkg-ferry-photo",
+      "price": "Central–Tsim Sha Tsui adult single: upper/lower HK$5/4 weekdays, HK$6.50/5.60 weekends and public holidays",
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "review21-star-ferry"
+        ],
+        "fields": [
+          "price"
+        ]
+      }
     },
     {
       "id": "hkg-tsim-sha-tsui",
@@ -21854,11 +22454,24 @@
       "kind": "see",
       "blurb": "A cultural museum visit to plan separately from bathing. Confirm visitor rules and closures; museum entry does not grant access to another facility.",
       "src": [
-        "beitou-museum"
+        "beitou-museum",
+        "review21-beitou"
       ],
       "url": "https://hotspringmuseum.taipei/en/content.aspx?id=33&pid=29",
       "verify": true,
-      "img": "tpe-beitou-photo"
+      "img": "tpe-beitou-photo",
+      "hours": "Tuesday–Sunday 10:00–18:00; last admission 17:45; Monday closed",
+      "price": "Free museum admission; no bathing service",
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "review21-beitou"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     },
     {
       "id": "hkg-tramways",
@@ -21868,11 +22481,22 @@
       "kind": "see",
       "blurb": "Choose a destination and read the displayed route for an ordinary tram journey. Check current fare and boarding rules rather than using a sightseeing-product description.",
       "src": [
-        "hk-tram"
+        "hk-tram",
+        "review21-tram"
       ],
       "url": "https://www.hktramways.com/en/schedules-fares/",
       "verify": true,
-      "img": "hkg-tram-photo"
+      "img": "hkg-tram-photo",
+      "price": "Ordinary ride: adult HK$3.30; ages 3–11 HK$1.60; age 65+ HK$1.50",
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "review21-tram"
+        ],
+        "fields": [
+          "price"
+        ]
+      }
     },
     {
       "id": "par-carnavalet",
@@ -21882,11 +22506,24 @@
       "kind": "see",
       "blurb": "Choose a Paris-history theme within the permanent collections. Check separate terms for temporary exhibitions, group visits and any additional product.",
       "src": [
-        "carnavalet"
+        "carnavalet",
+        "review21-carnavalet"
       ],
       "url": "https://www.carnavalet.paris.fr/en/visit/pratical-information",
       "verify": true,
-      "img": "par-carnavalet-photo"
+      "img": "par-carnavalet-photo",
+      "hours": "Tue–Sun 10:00–18:00; collection last entry 17:15. Holiday closures and early room closing apply.",
+      "price": "Individual permanent collection free without booking; temporary exhibitions separate",
+      "factReview": {
+        "checkedAt": "2026-11-21",
+        "sourceIds": [
+          "review21-carnavalet"
+        ],
+        "fields": [
+          "hours",
+          "price"
+        ]
+      }
     },
     {
       "id": "ist-grand-bazaar",
@@ -23070,10 +23707,11 @@
       "where": "Various Chiang Mai venues — check the programme",
       "blurb": "Choose individual exhibitions and workshops from the official programme; registration conditions vary.",
       "src": [
-        "cmdw-2026-official"
+        "review21-cmdw",
+        "review21-cmdw-program"
       ],
-      "verifiedAt": "2026-10-10",
-      "url": "https://www.chiangmaidesignweek.com/en/cmdw2026/about"
+      "verifiedAt": "2026-11-21",
+      "url": "https://www.chiangmaidesignweek.com/cmdw2026/program"
     },
     {
       "id": "bkk-creative-ward-2026",
