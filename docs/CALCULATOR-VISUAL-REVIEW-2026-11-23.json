@@ -1,0 +1,1056 @@
+{
+  "scenarios": [
+    {
+      "calculator": "HK",
+      "scenario": "4 adults group +60 versus390",
+      "result": "Listed fare subtotal\nHKD\u00a0280\nTransfer total with your connections\nHKD\u00a0340\n\nIndividual singles for the selected adults: HKD\u00a0480. The selected group fare is conditional on the operator\u2019s offer.\n\nYour alternative quote is HKD\u00a050 higher than this transfer total. Compare luggage, route and timing as well as price."
+    },
+    {
+      "calculator": "HK",
+      "scenario": "Invalid group of5",
+      "result": "This group offer requires 2, 3 or 4 adult travellers together; choose individual fares for another party."
+    },
+    {
+      "calculator": "HK",
+      "scenario": "Kowloon4 +60",
+      "result": "Listed fare subtotal\nHKD\u00a0250\nTransfer total with your connections\nHKD\u00a0310\n\nIndividual singles for the selected adults: HKD\u00a0420. The selected group fare is conditional on the operator\u2019s offer.\n\nYour alternative quote is HKD\u00a080 higher than this transfer total. Compare luggage, route and timing as well as price."
+    },
+    {
+      "calculator": "Phuket",
+      "scenario": "4 +50 versus500",
+      "result": "Listed fare subtotal\nTHB\u00a0400\nTransfer total with your connections\nTHB\u00a0450\n\nYour alternative quote is THB\u00a050 higher than this transfer total. Compare luggage, route and timing as well as price."
+    },
+    {
+      "calculator": "Phuket",
+      "scenario": "Blank connection",
+      "result": "Listed fare subtotal\nTHB\u00a0400\nTransfer total with your connections\nAdd the extra connections cost\n\nAdd both connection costs and an alternative quote to compare complete totals."
+    },
+    {
+      "calculator": "Phuket",
+      "scenario": "Explicit zero connection",
+      "result": "Listed fare subtotal\nTHB\u00a0400\nTransfer total with your connections\nTHB\u00a0400\n\nYour alternative quote is THB\u00a0100 higher than this transfer total. Compare luggage, route and timing as well as price."
+    },
+    {
+      "calculator": "KLIA",
+      "scenario": "2 adults2 children +18.35 versus170.35",
+      "result": "Listed fare subtotal\nMYR\u00a0160\nTransfer total with your connections\nMYR\u00a0178.35\n\nYour alternative quote is MYR\u00a08 lower than this transfer total. Compare luggage, route and timing as well as price."
+    },
+    {
+      "calculator": "KLIA",
+      "scenario": "Negative money",
+      "result": "Enter non-negative costs with at most two decimal places, or leave them blank."
+    },
+    {
+      "calculator": "GoKL",
+      "scenario": "3 visitors4 rides +5 versus20",
+      "result": "Listed fare subtotal\nMYR\u00a012\nTransfer total with your connections\nMYR\u00a017\n\nYour alternative quote is MYR\u00a03 higher than this transfer total. Compare luggage, route and timing as well as price."
+    },
+    {
+      "calculator": "GoKL",
+      "scenario": "Fractional rides",
+      "result": "Enter 1 to 20 rides per traveller."
+    }
+  ],
+  "layouts": [
+    {
+      "key": "hk",
+      "requested": 1440,
+      "filename": "calculator-hk-1440-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1015.125,
+        "width": 1096,
+        "x": 32,
+        "y": 4244.484375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        }
+      ],
+      "pageWidth": 1440,
+      "reference": "Selected fare: Hong Kong \u00b7 adult Octopus / eligible bank-card single HK$120",
+      "width": 1440
+    },
+    {
+      "key": "hk",
+      "requested": 1280,
+      "filename": "calculator-hk-1280-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1037.21875,
+        "width": 936,
+        "x": 32,
+        "y": 4179.0625
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        }
+      ],
+      "pageWidth": 1280,
+      "reference": "Selected fare: Hong Kong \u00b7 adult Octopus / eligible bank-card single HK$120",
+      "width": 1280
+    },
+    {
+      "key": "hk",
+      "requested": 390,
+      "filename": "calculator-hk-390-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1782.7265625,
+        "width": 350,
+        "x": 20,
+        "y": 5186.6875
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        }
+      ],
+      "pageWidth": 390,
+      "reference": "Selected fare: Hong Kong \u00b7 adult Octopus / eligible bank-card single HK$120",
+      "width": 390
+    },
+    {
+      "key": "hk",
+      "requested": 360,
+      "filename": "calculator-hk-360-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1905.8046875,
+        "width": 320,
+        "x": 20,
+        "y": 5329.5703125
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        }
+      ],
+      "pageWidth": 360,
+      "reference": "Selected fare: Hong Kong \u00b7 adult Octopus / eligible bank-card single HK$120",
+      "width": 360
+    },
+    {
+      "key": "hk",
+      "requested": 320,
+      "filename": "calculator-hk-320-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 2029.78125,
+        "width": 280,
+        "x": 20,
+        "y": 5752.4375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        }
+      ],
+      "pageWidth": 320,
+      "reference": "Selected fare: Hong Kong \u00b7 adult Octopus / eligible bank-card single HK$120",
+      "width": 320
+    },
+    {
+      "key": "gokl",
+      "requested": 1440,
+      "filename": "calculator-gokl-1440-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 984.328125,
+        "width": 1096,
+        "x": 32,
+        "y": 3133.8671875
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        }
+      ],
+      "pageWidth": 1440,
+      "reference": "Selected fare: GoKL \u00b7 RM1 per fare-paying visitor per ride",
+      "width": 1440
+    },
+    {
+      "key": "gokl",
+      "requested": 1280,
+      "filename": "calculator-gokl-1280-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1006.421875,
+        "width": 936,
+        "x": 32,
+        "y": 3093.984375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        }
+      ],
+      "pageWidth": 1280,
+      "reference": "Selected fare: GoKL \u00b7 RM1 per fare-paying visitor per ride",
+      "width": 1280
+    },
+    {
+      "key": "gokl",
+      "requested": 390,
+      "filename": "calculator-gokl-390-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1678.5390625,
+        "width": 350,
+        "x": 20,
+        "y": 3640.328125
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        }
+      ],
+      "pageWidth": 390,
+      "reference": "Selected fare: GoKL \u00b7 RM1 per fare-paying visitor per ride",
+      "width": 390
+    },
+    {
+      "key": "gokl",
+      "requested": 360,
+      "filename": "calculator-gokl-360-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1755.7265625,
+        "width": 320,
+        "x": 20,
+        "y": 3737.4609375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        }
+      ],
+      "pageWidth": 360,
+      "reference": "Selected fare: GoKL \u00b7 RM1 per fare-paying visitor per ride",
+      "width": 360
+    },
+    {
+      "key": "gokl",
+      "requested": 320,
+      "filename": "calculator-gokl-320-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1877.796875,
+        "width": 280,
+        "x": 20,
+        "y": 3889.375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        }
+      ],
+      "pageWidth": 320,
+      "reference": "Selected fare: GoKL \u00b7 RM1 per fare-paying visitor per ride",
+      "width": 320
+    },
+    {
+      "key": "klia",
+      "requested": 1440,
+      "filename": "calculator-klia-1440-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1015.125,
+        "width": 1096,
+        "x": 32,
+        "y": 4116.828125
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        }
+      ],
+      "pageWidth": 1440,
+      "reference": "Selected fare: Standard Ekspres single \u00b7 adult RM55 / child RM25",
+      "width": 1440
+    },
+    {
+      "key": "klia",
+      "requested": 1280,
+      "filename": "calculator-klia-1280-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1059.3125,
+        "width": 936,
+        "x": 32,
+        "y": 4108.15625
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        }
+      ],
+      "pageWidth": 1280,
+      "reference": "Selected fare: Standard Ekspres single \u00b7 adult RM55 / child RM25",
+      "width": 1280
+    },
+    {
+      "key": "klia",
+      "requested": 390,
+      "filename": "calculator-klia-390-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1782.0234375,
+        "width": 350,
+        "x": 20,
+        "y": 5304.34375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        }
+      ],
+      "pageWidth": 390,
+      "reference": "Selected fare: Standard Ekspres single \u00b7 adult RM55 / child RM25",
+      "width": 390
+    },
+    {
+      "key": "klia",
+      "requested": 360,
+      "filename": "calculator-klia-360-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1875.6015625,
+        "width": 320,
+        "x": 20,
+        "y": 5519.8125
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        }
+      ],
+      "pageWidth": 360,
+      "reference": "Selected fare: Standard Ekspres single \u00b7 adult RM55 / child RM25",
+      "width": 360
+    },
+    {
+      "key": "klia",
+      "requested": 320,
+      "filename": "calculator-klia-320-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 2021.671875,
+        "width": 280,
+        "x": 20,
+        "y": 5763.125
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        }
+      ],
+      "pageWidth": 320,
+      "reference": "Selected fare: Standard Ekspres single \u00b7 adult RM55 / child RM25",
+      "width": 320
+    },
+    {
+      "key": "phuket",
+      "requested": 1440,
+      "filename": "calculator-phuket-1440-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 906.53125,
+        "width": 1096,
+        "x": 32,
+        "y": 3076.234375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 571,
+          "width": 514
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 589,
+          "right": 1103,
+          "width": 514
+        }
+      ],
+      "pageWidth": 1440,
+      "reference": "Selected fare: Airport\u2013Rawai bus \u00b7 THB100 per paid traveller",
+      "width": 1440
+    },
+    {
+      "key": "phuket",
+      "requested": 1280,
+      "filename": "calculator-phuket-1280-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 928.625,
+        "width": 936,
+        "x": 32,
+        "y": 2987.625
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 57,
+          "right": 491,
+          "width": 434
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 509,
+          "right": 943,
+          "width": 434
+        }
+      ],
+      "pageWidth": 1280,
+      "reference": "Selected fare: Airport\u2013Rawai bus \u00b7 THB100 per paid traveller",
+      "width": 1280
+    },
+    {
+      "key": "phuket",
+      "requested": 390,
+      "filename": "calculator-phuket-390-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1645.6328125,
+        "width": 350,
+        "x": 20,
+        "y": 3530.0234375
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 351,
+          "width": 312
+        }
+      ],
+      "pageWidth": 390,
+      "reference": "Selected fare: Airport\u2013Rawai bus \u00b7 THB100 per paid traveller",
+      "width": 390
+    },
+    {
+      "key": "phuket",
+      "requested": 360,
+      "filename": "calculator-phuket-360-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1744.9140625,
+        "width": 320,
+        "x": 20,
+        "y": 3622.3515625
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 321,
+          "width": 282
+        }
+      ],
+      "pageWidth": 360,
+      "reference": "Selected fare: Airport\u2013Rawai bus \u00b7 THB100 per paid traveller",
+      "width": 360
+    },
+    {
+      "key": "phuket",
+      "requested": 320,
+      "filename": "calculator-phuket-320-preview-2026-11-23.jpg",
+      "clip": {
+        "height": 1907.390625,
+        "width": 280,
+        "x": 20,
+        "y": 3886.625
+      },
+      "controls": [
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        },
+        {
+          "font": "16px",
+          "height": 56,
+          "left": 39,
+          "right": 281,
+          "width": 242
+        }
+      ],
+      "pageWidth": 320,
+      "reference": "Selected fare: Airport\u2013Rawai bus \u00b7 THB100 per paid traveller",
+      "width": 320
+    }
+  ],
+  "date": "2026-11-23",
+  "browser": "ChatGPT in-app browser responsive viewport; not physical devices or Safari",
+  "findings_fixed": [
+    "Long fare labels clipped on desktop and mobile: concise option labels plus full wrapping fare reference",
+    "Input and select heights inconsistent: aligned 56px controls",
+    "Additional Hong Kong and KLIA option shortening verified at 320px after rebuild"
+  ],
+  "validation": {
+    "lint": "passed",
+    "tests": 25,
+    "build": "passed",
+    "content_audit": "0 errors, 0 warnings"
+  },
+  "publication": "Pending live verification; screenshots retained in local artifact directory",
+  "fare_basis": "2026-11-21, unchanged by visual review"
+}

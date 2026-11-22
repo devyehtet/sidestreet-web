@@ -14,17 +14,19 @@ export default function TransferBudget({config,sources}) {
  const result=transferBudget(config,{optionId,adults,children,rides,mode,connection,alternative});
  const price=value=>new Intl.NumberFormat('en',{style:'currency',currency:config.currency,currencyDisplay:'code',minimumFractionDigits:0,maximumFractionDigits:2}).format(value);
  const hasGroup=config.options.some(o=>o.groupFares);
+ const selectedOption=config.options.find(o=>o.id===optionId)||config.options[0];
  return <section id="transfer-budget" className="transfer-budget" aria-labelledby={id+'-heading'}>
   <span className="eyebrow">MAKE IT YOUR TRIP</span>
   <h2 id={id+'-heading'}>{config.title}</h2>
   <p id={id+'-scope'}>{config.description}</p>
   <noscript><p>Enable JavaScript to change this worksheet. The fare tables and worked examples in the guide remain available below.</p></noscript>
+  <p className="transfer-budget-fare" id={id+'-fare-reference'}><strong>{mode==='group'?'Individual fare reference:':'Selected fare:'}</strong> {selectedOption.label}</p>
   <div className="transfer-budget-fields" aria-describedby={id+'-scope'}>
-   <label htmlFor={id+'-option'}>Fare option<select id={id+'-option'} value={optionId} onChange={e=>setOptionId(e.target.value)}>{config.options.map(o=><option key={o.id} value={o.id}>{o.label}</option>)}</select></label>
+   <label htmlFor={id+'-option'}>Fare option<select id={id+'-option'} value={optionId} aria-describedby={id+'-fare-reference'} onChange={e=>setOptionId(e.target.value)}>{config.options.map(o=><option key={o.id} value={o.id}>{o.shortLabel||o.label}</option>)}</select></label>
    <label htmlFor={id+'-adults'}>{config.travellerLabel}<input id={id+'-adults'} type="number" inputMode="numeric" min="1" max="99" step="1" value={adults} onChange={e=>setAdults(e.target.value)}/></label>
    {config.childLabel&&<label htmlFor={id+'-children'}>{config.childLabel}<input id={id+'-children'} type="number" inputMode="numeric" min="0" max="99" step="1" value={children} onChange={e=>setChildren(e.target.value)}/></label>}
    {config.multipleRides&&<label htmlFor={id+'-rides'}>Rides per fare-paying traveller<input id={id+'-rides'} type="number" inputMode="numeric" min="1" max="20" step="1" value={rides} onChange={e=>setRides(e.target.value)}/></label>}
-   {hasGroup&&<label htmlFor={id+'-basis'}>Ticket basis<select id={id+'-basis'} value={mode} onChange={e=>setMode(e.target.value)}><option value="standard">Individual adult singles</option><option value="group">Ride Together group offer, if eligible</option></select></label>}
+   {hasGroup&&<label htmlFor={id+'-basis'}>Ticket basis<select id={id+'-basis'} value={mode} onChange={e=>setMode(e.target.value)}><option value="standard">Individual adult singles</option><option value="group">Ride Together · 2–4 adults</option></select></label>}
    <label htmlFor={id+'-connection'}>Extra connections for the whole party ({config.currency})<input id={id+'-connection'} type="text" inputMode="decimal" placeholder="Not entered" value={connection} onChange={e=>setConnection(e.target.value)} aria-describedby={id+'-cost-help'}/></label>
    <label htmlFor={id+'-alternative'}>Alternative whole-party quote ({config.currency})<input id={id+'-alternative'} type="text" inputMode="decimal" placeholder="Optional" value={alternative} onChange={e=>setAlternative(e.target.value)} aria-describedby={id+'-cost-help'}/></label>
   </div>

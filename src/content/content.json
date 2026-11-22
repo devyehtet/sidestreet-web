@@ -13500,7 +13500,8 @@
           {
             "id": "airport-rawai",
             "label": "Airport–Rawai bus · THB100 per paid traveller",
-            "adultFare": 100
+            "adultFare": 100,
+            "shortLabel": "Airport–Rawai · THB100"
           }
         ],
         "sourceIds": [
@@ -16416,7 +16417,8 @@
           {
             "id": "gokl",
             "label": "GoKL · RM1 per fare-paying visitor per ride",
-            "adultFare": 1
+            "adultFare": 1,
+            "shortLabel": "GoKL · MYR1 / paid ride"
           }
         ],
         "sourceIds": [
@@ -16999,7 +17001,8 @@
             "id": "ekspres",
             "label": "Standard Ekspres single · adult RM55 / child RM25",
             "adultFare": 55,
-            "childFare": 25
+            "childFare": 25,
+            "shortLabel": "KLIA Ekspres · single"
           }
         ],
         "sourceIds": [
@@ -17259,7 +17262,8 @@
               "2": 170,
               "3": 230,
               "4": 280
-            }
+            },
+            "shortLabel": "Hong Kong · HKD120"
           },
           {
             "id": "kowloon",
@@ -17269,7 +17273,8 @@
               "2": 150,
               "3": 210,
               "4": 250
-            }
+            },
+            "shortLabel": "Kowloon · HKD105"
           },
           {
             "id": "tsing-yi",
@@ -17279,7 +17284,8 @@
               "2": 100,
               "3": 140,
               "4": 170
-            }
+            },
+            "shortLabel": "Tsing Yi · HKD73"
           }
         ],
         "sourceIds": [
