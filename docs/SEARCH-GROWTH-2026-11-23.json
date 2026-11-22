@@ -1,0 +1,190 @@
+{
+  "date": "2026-11-23",
+  "property": "sc-domain:sidestreetguides.com",
+  "evidenceLabel": "Direct platform evidence",
+  "baseline": {
+    "date": "2026-11-23",
+    "period": [
+      "2026-10-24",
+      "2026-11-20"
+    ],
+    "clicks": 17,
+    "impressions": 2012,
+    "ctrDisplayed": "0.8%",
+    "position": 30.4,
+    "queries": "Top queries\n\t\nClicks\n\t\nImpressions\n\t\nCTR\n\t\nPosition\n\nairport express fare\t0\t55\t0%\t24.4\nborough market\t0\t37\t0%\t30.0\npenang heritage walk\t0\t34\t0%\t42.4\ndragon line phuket\t1\t30\t3.3%\t7.2\nchiang mai design week 2026\t1\t22\t4.5%\t10.4\nsukhumvit vs riverside bangkok\t0\t22\t0%\t29.1\ndragon line bus phuket\t0\t17\t0%\t8.2\ngeorgetown heritage walk\t0\t12\t0%\t45.5\ngeorge town heritage walk\t0\t10\t0%\t44.9\nborough market london\t0\t10\t0%\t50.2",
+    "pages": "Top pages\n\t\nClicks\n\t\nImpressions\n\t\nCTR\n\t\nPosition\n\nhttps://sidestreetguides.com/guides/hong-kong-airport-express-city-transfer\t2\t315\t0.6%\t43.6\nhttps://sidestreetguides.com/guides/phuket-dragon-line-free-town-bus\t3\t234\t1.3%\t8.0\nhttps://sidestreetguides.com/guides/london-borough-market-lunch-guide\t0\t182\t0%\t50.3\nhttps://sidestreetguides.com/guides/kuala-lumpur-gokl-bus-foreign-visitors\t4\t135\t3%\t6.1\nhttps://sidestreetguides.com/guides/chiang-mai-design-week-2026-dates\t2\t78\t2.6%\t8.9\nhttps://sidestreetguides.com/city/george-town\t0\t69\t0%\t39.8\nhttps://sidestreetguides.com/guides/chiang-mai-doi-suthep-visit\t0\t68\t0%\t69.1\nhttps://sidestreetguides.com/guides/taipei-dadaocheng\t0\t66\t0%\t21.9\nhttps://sidestreetguides.com/guides/world-trains\t0\t52\t0%\t58.8\nhttps://sidestreetguides.com/guides/george-town-penang-heritage-walk\t0\t47\t0%\t63.9",
+    "pagesNext": "Top pages\n\t\nClicks\n\t\nImpressions\n\t\nCTR\n\t\nPosition\n\nhttps://sidestreetguides.com/guides/bangkok-hotels\t0\t36\t0%\t22.5\nhttps://sidestreetguides.com/guides/tokyo-listening\t1\t34\t2.9%\t8.8\nhttps://sidestreetguides.com/guides/singapore-national-gallery-november-2026-exhibition\t1\t34\t2.9%\t12.6\nhttps://sidestreetguides.com/guides/bangkok-biennale\t0\t34\t0%\t8.1\nhttps://sidestreetguides.com/guides/hong-kong-tram-first-ride\t0\t32\t0%\t52.5\nhttps://sidestreetguides.com/guides/mexico-city-markets\t0\t29\t0%\t37.4\nhttps://sidestreetguides.com/guides/singapore-deepavali\t0\t28\t0%\t61.3\nhttps://sidestreetguides.com/guides/phuket-restaurants-best-for-old-town-meals\t0\t25\t0%\t31.0\nhttps://sidestreetguides.com/guides/bangkok-night-markets\t0\t24\t0%\t44.8\nhttps://sidestreetguides.com/guides/bangkok-tailors-best-for-your-trip\t0\t24\t0%\t64.1"
+  },
+  "searchType": "Web (text); AI report excluded; no country/device/query/page filter",
+  "baselineLimits": [
+    "Latest complete displayed end date is 20 November, not today.",
+    "Page and query averages aggregate different search appearances; do not compare them as the same position.",
+    "Visible table rows only; anonymous and other rows are not reconstructed.",
+    "Previous release on21November has not had a complete post-release measurement window."
+  ],
+  "changedGuides": [
+    {
+      "slug": "george-town-penang-heritage-walk",
+      "baseline": {
+        "impressions": 47,
+        "clicks": 0,
+        "ctrDisplayed": "0%",
+        "position": 63.9
+      },
+      "queries": [
+        {
+          "query": "penang heritage walk",
+          "impressions": 34,
+          "clicks": 0,
+          "position": 42.4
+        },
+        {
+          "query": "georgetown heritage walk",
+          "impressions": 12,
+          "clicks": 0,
+          "position": 45.5
+        },
+        {
+          "query": "george town heritage walk",
+          "impressions": 10,
+          "clicks": 0,
+          "position": 44.9
+        }
+      ],
+      "changes": [
+        "Four concrete walking stops, ordered map and separate full-trail choice",
+        "Original budgeting and short-visit decisions; six query-shaped answers",
+        "New official itinerary and map references",
+        "Existing SEO title and URL preserved; city description/intro updated",
+        "Correct old official heritage-trail URL references to the verified itinerary endpoint."
+      ]
+    },
+    {
+      "slug": "bangkok-hotels",
+      "baseline": {
+        "impressions": 36,
+        "clicks": 0,
+        "ctrDisplayed": "0%",
+        "position": 22.5
+      },
+      "queries": [
+        {
+          "query": "sukhumvit vs riverside bangkok",
+          "impressions": 22,
+          "clicks": 0,
+          "position": 29.1
+        }
+      ],
+      "changes": [
+        "H1 and description align with existing comparison query; SEO title unchanged",
+        "Named Asok/Saphan Taksin rail comparison and Siam interchange",
+        "One-way versus return boat service, with primary hotel FAQ",
+        "Explicitly hypothetical whole-stay cost example; no invented venue prices",
+        "Contextual arrival/itinerary links and Bangkok starting-guide inclusion"
+      ]
+    }
+  ],
+  "otherChangedPages": [
+    "city/bangkok",
+    "city/george-town",
+    "guides/bangkok-three-day-first-visit (link only)",
+    "guides/bangkok-suvarnabhumi-airport-transfer (link only)"
+  ],
+  "heldCohort": [
+    "hong-kong-airport-express-city-transfer",
+    "phuket-dragon-line-free-town-bus",
+    "kuala-lumpur-gokl-bus-foreign-visitors",
+    "london-borough-market-lunch-guide"
+  ],
+  "reasonToHold": "Recently revised on21November: preserve measurement window instead of repeatedly rewriting titles on tiny samples.",
+  "hypothesis": "Specific answers, useful route planning and contextual discovery may improve relevant query coverage and qualified clicks. No traffic lift is claimed; position improvement and demand remain necessary.",
+  "sources": [
+    {
+      "id": "growth23-penang-trail",
+      "name": "Penang Global Tourism — full George Town culture and heritage itinerary",
+      "url": "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "consultedAt": "2026-11-23"
+    },
+    {
+      "id": "growth23-penang-map",
+      "name": "Penang Global Tourism — tourist map and George Town heritage landmarks (PDF)",
+      "url": "https://mypenang.gov.my/uploads/downloads/Penang-Tourist-Map-ENG_.pdf",
+      "consultedAt": "2026-11-23"
+    },
+    {
+      "id": "growth23-bts-map",
+      "name": "BTS — official SkyTrain route and interchange map (PDF)",
+      "url": "https://www.bts.co.th/btsroutes/btsroutes.pdf",
+      "consultedAt": "2026-11-23"
+    },
+    {
+      "id": "growth23-bts-planner",
+      "name": "BTS — route, fare and station-area planner",
+      "url": "https://www.bts.co.th/eng/routemap.html",
+      "consultedAt": "2026-11-23"
+    },
+    {
+      "id": "growth23-mo-boat",
+      "name": "Mandarin Oriental Bangkok — location and shuttle-boat FAQs",
+      "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+      "consultedAt": "2026-11-23"
+    }
+  ],
+  "measurement": {
+    "baselinePeriod": [
+      "2026-10-24",
+      "2026-11-20"
+    ],
+    "newCohortPostPeriod": [
+      "2026-11-24",
+      "2026-12-07"
+    ],
+    "newCohortComparisonPeriod": [
+      "2026-11-10",
+      "2026-11-23"
+    ],
+    "when": "Compare only after both complete windows are available in GSC. Export the complete14-day comparison baseline then;28-day current snapshot is not its substitute.",
+    "metrics": [
+      "Clicks and impressions per unchanged URL",
+      "Same-query position and CTR, split country/device only if sample supports it",
+      "New relevant queries",
+      "Organic landing sessions and existing meaningful actions if GA4 is available"
+    ],
+    "futureResults": null,
+    "decision": "Investigate losses at unchanged query/position and check relevance; avoid changing titles after one day or claiming statistical significance on a few clicks."
+  },
+  "goals": {
+    "status": "Planning milestones, not forecasts or promised deadlines",
+    "baseline28DayImpressions": 2012,
+    "milestonesPer28Days": [
+      5000,
+      10000,
+      50000,
+      100000,
+      1000000
+    ],
+    "oneMillionScaleVersusBaseline": 497.0,
+    "scenarioOnly": {
+      "impressions": 1000000,
+      "ctr": 0.02,
+      "clicks": 20000
+    },
+    "constraints": [
+      "Impressions are appearances, not unique people.",
+      "CTR2% is hypothetical, not achieved or guaranteed.",
+      "Content quality, demand, competition, links and position influence scale; waiting alone does not produce these milestones."
+    ]
+  },
+  "validation": {
+    "contentAudit": "124 guides,186 places,180 images;0errors0warnings",
+    "tests": "25 passed",
+    "lint": "passed",
+    "build": "passed149staticpages",
+    "browser": "Desktop1440x900 and mobile390x844; route Next selection works; no page overflow or broken in-page anchors",
+    "renderedHttp": "Six pages passed status, canonical, unique IDs, anchor and JSON-LD checks; sitemap content URLs present."
+  },
+  "release": {
+    "status": "validated preview; verify deployed commit separately"
+  }
+}

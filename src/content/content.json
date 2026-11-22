@@ -809,7 +809,7 @@
     },
     "penang-heritage-trail": {
       "name": "Penang Global Tourism — George Town heritage trail",
-      "url": "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "url": "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
       "consultedAt": "2026-10-19"
     },
     "nepal-swayambhu": {
@@ -1836,7 +1836,7 @@
     },
     "review21-penang": {
       "name": "Penang Global Tourism — George Town culture and heritage trail",
-      "url": "https://www.mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "url": "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
       "consultedAt": "2026-11-21"
     },
     "review21-kissaten": {
@@ -1988,6 +1988,31 @@
       "name": "Express Rail Link: child e-ticket activation help",
       "url": "https://www.kliaekspres.com/help-centre/",
       "consultedAt": "2026-11-21"
+    },
+    "growth23-penang-trail": {
+      "name": "Penang Global Tourism — full George Town culture and heritage itinerary",
+      "url": "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "consultedAt": "2026-11-23"
+    },
+    "growth23-penang-map": {
+      "name": "Penang Global Tourism — tourist map and George Town heritage landmarks (PDF)",
+      "url": "https://mypenang.gov.my/uploads/downloads/Penang-Tourist-Map-ENG_.pdf",
+      "consultedAt": "2026-11-23"
+    },
+    "growth23-bts-map": {
+      "name": "BTS — official SkyTrain route and interchange map (PDF)",
+      "url": "https://www.bts.co.th/btsroutes/btsroutes.pdf",
+      "consultedAt": "2026-11-23"
+    },
+    "growth23-bts-planner": {
+      "name": "BTS — route, fare and station-area planner",
+      "url": "https://www.bts.co.th/eng/routemap.html",
+      "consultedAt": "2026-11-23"
+    },
+    "growth23-mo-boat": {
+      "name": "Mandarin Oriental Bangkok — location and shuttle-boat FAQs",
+      "url": "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river",
+      "consultedAt": "2026-11-23"
     }
   },
   "cities": [
@@ -2017,13 +2042,14 @@
       "planningIntro": "Start with the three-day plan for a first visit, or choose one smaller outing: Talat Noi for a neighbourhood walk, temples for cultural visits, and street food for a meal-led evening. Check the journey from your accommodation before adding a second district.",
       "startGuides": [
         "bangkok-three-day-first-visit",
+        "bangkok-hotels",
         "bangkok-talatnoi",
         "bangkok-temples",
         "bangkok-street-food",
         "bangkok-suvarnabhumi-airport-transfer",
         "bangkok-rainy-day-museums-bacc-museum-siam"
       ],
-      "dateModified": "2026-10-24"
+      "dateModified": "2026-11-23"
     },
     {
       "name": "Chiang Mai",
@@ -2784,10 +2810,10 @@
       "startGuides": [
         "george-town-penang-heritage-walk"
       ],
-      "planningIntro": "Start with the heritage walk and choose the part of the town you want to explore first. Keep time for a meal and a rest, then use the place listings below to decide what to add. A short route with a clear finish is easier to adapt than a full day of scattered stops.",
+      "planningIntro": "Choose the four-stop Esplanade–Street of Harmony walk for a smaller first outing, or compare Armenian Street and the tourism board’s longer itinerary. Open the map in the guide, keep interior visits separate and decide where to finish before adding another district.",
       "seoTitle": "George Town Penang Guide: Heritage Walk & Local Stops",
-      "description": "Plan a George Town visit with a Penang heritage walk, local place listings and practical arrival context. Choose a compact route before adding extra stops.",
-      "dateModified": "2026-10-19"
+      "description": "Plan George Town, Penang with a four-stop heritage walk, a route map, shorter alternatives and practical food, admission and transport budgeting.",
+      "dateModified": "2026-11-23"
     },
     {
       "id": "ktm",
@@ -4445,9 +4471,9 @@
       "city": "bkk",
       "cat": "hotels",
       "kind": "list",
-      "mins": 4,
-      "title": "Bangkok hotels: Sukhumvit or riverside, then choose your room",
-      "dek": "Compare rail access, river transfers and your daily plans before choosing an area, then compare four riverside hotel listings by room and rate.",
+      "mins": 7,
+      "title": "Sukhumvit vs riverside Bangkok: where to stay for your trip",
+      "dek": "Compare Asok rail connections with riverside hotel boats, late returns and total stay costs, then use four researched riverside hotel notes to shortlist a room.",
       "body": [
         "Choose Sukhumvit near a usable rail station if repeated journeys across the city shape your trip; consider the riverside if hotel time and river outings are the main attraction. This is a planning rule, not a claim that every hotel in either area is convenient. Compare the exact entrance, first destination and return after dinner before you book.",
         "Start with the area comparison below, then use the four riverside property notes to compare actual rooms and rates. This is not a ranked list of Sukhumvit hotels or a room inspection. Your dates, guest count and cancellation needs determine which offers are meaningfully comparable."
@@ -4479,6 +4505,53 @@
           ],
           "sourceIds": [
             "bts-route-planner"
+          ]
+        },
+        {
+          "h": "Asok or Saphan Taksin: compare named stations, not district labels",
+          "p": [
+            "The BTS map places Asok on the Sukhumvit Line and Saphan Taksin on the Silom Line; Siam connects the two lines. Use those named stations as comparison anchors rather than assuming a Sukhumvit hotel and a riverside hotel share the same rail journey. A property’s district name does not tell you how far its entrance is from either station.",
+            "For an Asok-area candidate, enter Asok and your destination in the official route planner, then add the hotel-to-station walk. For a riverside candidate, establish how you will actually reach rail: on foot, by a hotel boat or by road. A map pin close to the river does not identify a usable pier or a guest transfer.",
+            "Our practical test is to compare the same two days for both hotels: one with several city outings and one ending after dinner. Count changes and the return journey before comparing the room photographs. Use current operator information for fares and last useful services; the rail map is a network diagram, not a hotel-door timetable."
+          ],
+          "sourceIds": [
+            "growth23-bts-map",
+            "growth23-bts-planner"
+          ],
+          "links": [
+            [
+              "Open the official BTS route map (PDF)",
+              "https://www.bts.co.th/btsroutes/btsroutes.pdf"
+            ],
+            [
+              "Check your origin and destination with BTS",
+              "https://www.bts.co.th/eng/routemap.html"
+            ]
+          ]
+        },
+        {
+          "h": "A hotel boat can solve one leg without solving the return",
+          "p": [
+            "Mandarin Oriental’s own FAQ describes a complimentary hotel–ICONSIAM shuttle every 30 minutes, and a one-way hotel-to-Sathorn Pier service on request. Those are different arrangements. The one-way wording does not establish a return pickup from Sathorn Pier, and neither statement supplies the last departure for your evening.",
+            "Before booking a stay around that connection, ask the hotel which passengers can use it, where to wait, the operating dates and last return for your destination. Obtain the answer for your travel dates. Keep a road alternative for the same hotel entrance if your meal finishes outside that confirmed window.",
+            "Apply the same questions to each riverside property separately. We have not verified a common boat timetable for the four hotels in this guide. A useful comparison records the pier, eligibility, direction and final return as four separate fields, rather than just writing “free shuttle”."
+          ],
+          "sourceIds": [
+            "growth23-mo-boat"
+          ],
+          "links": [
+            [
+              "Read Mandarin Oriental’s location and boat FAQs",
+              "https://www.mandarinoriental.com/en/bangkok/chao-phraya-river"
+            ]
+          ]
+        },
+        {
+          "h": "A worked example: when a cheaper room stops being cheaper",
+          "p": [
+            "Imagine two offers for three nights: Hotel A costs THB3,000 per night and Hotel B costs THB3,600. These are invented teaching figures, not prices for the named hotels. The room difference is THB1,800 across the stay. If A requires three additional whole-party return transfers at THB700 each, those extra journeys total THB2,100.",
+            "In that example, A’s lower room rate is outweighed by THB300 of extra transport. Replace every number with your actual quotes and compare the same taxes, meals, room occupancy and cancellation terms. Count only additional transfers: do not add journeys to A while silently ignoring equivalent journeys for B.",
+            "Time matters too. If the lower total needs changes your group is unwilling to make, it may still be the wrong choice. Write down which journeys you will repeat and which hotel facilities you will actually use; the point of the worksheet is to make the trade-off visible, not to declare one area the winner."
           ]
         },
         {
@@ -4561,12 +4634,12 @@
       ],
       "faq": [
         [
-          "How many nights do I need in Bangkok?",
-          "Three or four nights is a good first visit. That gives a day for the temples, a day for markets and neighbourhoods, and time for a day trip or simply for eating."
+          "Is Sukhumvit or riverside better for a first Bangkok visit?",
+          "Sukhumvit near a useful rail station can suit repeated city outings; riverside can suit hotel time and river trips. Test the same daytime and late-evening journeys from each actual hotel before booking."
         ],
         [
-          "Is Sukhumvit or riverside better for a first Bangkok visit?",
-          "Choose by your actual journeys. A Sukhumvit hotel near a useful rail station can suit repeated city outings; a riverside stay can suit hotel time and river trips. Check the exact entrance, bank, boat eligibility and late return before booking."
+          "Are Asok and Saphan Taksin on the same BTS line?",
+          "No. Asok is on the Sukhumvit Line and Saphan Taksin is on the Silom Line. The BTS map shows the interchange at Siam; check the planner for your exact journey."
         ],
         [
           "How do I get from the airport?",
@@ -4575,22 +4648,30 @@
         [
           "Should I tip at hotels?",
           "Read the bill for included charges. Any additional tip is your choice; do not assume a service charge is included in every quoted rate."
+        ],
+        [
+          "Do all riverside hotels offer the same shuttle boat?",
+          "No common service is verified here. Confirm each property’s pier, eligible passengers, direction and last return for your dates. A one-way service is not a promise of a return boat."
         ]
       ],
       "slug": "bangkok-hotels",
       "img": "bkk-mandarin-oriental",
       "quickPlan": [
         [
-          "Best for",
-          "Choosing a Bangkok area, then comparing four riverside hotel listings."
+          "Choose Sukhumvit when",
+          "Your repeated trips work well from the exact nearby rail station"
         ],
         [
-          "Time to allow",
-          "Compare transport and rate terms before booking; this guide is not a room inspection."
+          "Investigate riverside when",
+          "River outings or hotel time are priorities and the actual connections fit"
         ],
         [
-          "Budget approach",
-          "Use the total stay price, including taxes, service charges and extras, not just the headline nightly rate."
+          "Compare named anchors",
+          "Asok for a Sukhumvit example; Saphan Taksin for a river/rail comparison"
+        ],
+        [
+          "Before booking",
+          "Confirm the full stay price, hotel entrance and return after dinner"
         ]
       ],
       "planTable": {
@@ -4628,14 +4709,17 @@
         "peninsula-bangkok",
         "siam-bangkok",
         "capella-bangkok",
-        "bts-route-planner"
+        "bts-route-planner",
+        "growth23-bts-map",
+        "growth23-bts-planner",
+        "growth23-mo-boat"
       ],
-      "dateModified": "2026-10-21",
-      "researchNote": "Selected access, route or transport references and the planning sections were updated on 21 October 2026. Other property and place-card details retain their stated review scope. This is independent desk research, not a firsthand visit; suggested itineraries and cost comparisons are editorial analysis.",
+      "dateModified": "2026-11-23",
+      "researchNote": "BTS’s network map and route planner, and Mandarin Oriental’s location/boat FAQ, were consulted on 23 November 2026 for the new station and transfer comparisons. Other hotel-category notes retain their earlier research scope. This is desk research, not a room inspection; the cost example uses explicitly invented teaching figures, not hotel or transfer quotes.",
       "compositionReview": {
-        "date": "2026-10-21",
-        "method": "Search-intent revision, selected primary-source checks and original trip-planning comparisons.",
-        "scope": "Specific sections and snippets only; not exhaustive factual clearance, a room inspection or image-rights signoff."
+        "date": "2026-11-23",
+        "method": "Authenticated Search Console opportunity selection, named primary references and original visitor-decision guidance.",
+        "scope": "New walking-stop selection / station and boat comparisons only; older place cards and hotel-category claims retain their prior scope. No firsthand visit or live fare/availability claim."
       },
       "seoTitle": "Sukhumvit vs Riverside Bangkok: Where to Stay",
       "planLinks": [
@@ -4648,7 +4732,11 @@
           "/guides/bangkok-suvarnabhumi-airport-transfer"
         ]
       ],
-      "relatedGuides": []
+      "relatedGuides": [
+        "bangkok-three-day-first-visit",
+        "bangkok-suvarnabhumi-airport-transfer",
+        "bangkok-talatnoi"
+      ]
     },
     {
       "id": "cnx-yi-peng",
@@ -12744,6 +12832,10 @@
         [
           "Choose the hotel area before the last leg",
           "/guides/bangkok-hotels"
+        ],
+        [
+          "Compare Sukhumvit and riverside before choosing your hotel",
+          "/guides/bangkok-hotels"
         ]
       ]
     },
@@ -12949,6 +13041,10 @@
         [
           "Choose an indoor alternative for a wet afternoon",
           "/guides/bangkok-rainy-day-museums-bacc-museum-siam"
+        ],
+        [
+          "Compare Sukhumvit and riverside before choosing your hotel",
+          "/guides/bangkok-hotels"
         ]
       ],
       "compositionReview": {
@@ -13873,75 +13969,98 @@
       "cat": "travel",
       "kind": "guide",
       "title": "George Town heritage walk: a short Penang route or the full trail?",
-      "dek": "Compare a waterfront-history segment, Street of Harmony or Armenian Street with the tourism board’s much longer full heritage trail.",
+      "dek": "Choose a short Esplanade–Street of Harmony walk with four map stops, or compare Armenian Street and the official full-day Penang heritage trail.",
       "img": "png-destination-photo",
       "src": [
         "penang-heritage-trail",
-        "review21-penang"
+        "review21-penang",
+        "growth23-penang-trail",
+        "growth23-penang-map"
       ],
       "body": [
-        "Penang Global Tourism publishes a George Town heritage trail lasting 7–8 hours excluding meals. For a shorter first visit, choose one segment instead of treating that full list as a compulsory half-day. The Esplanade and Fort Cornwallis, Street of Harmony, or Armenian Street give three different starting purposes."
+        "For a first George Town heritage walk, our short version starts at the Esplanade, pauses at Fort Cornwallis, then continues to St. George’s Church and the Goddess of Mercy Temple. Use the four-stop map to choose the streets between them. This is a suggested exterior-focused outing, with any interior visit treated as a separate decision.",
+        "Give this smaller plan a two-to-three-hour slot including a break. That is our planning allowance, not a measured walking time. Penang Global Tourism’s complete heritage itinerary takes 7–8 hours excluding meals and continues much further; you do not need to finish it to have a worthwhile first visit."
       ],
       "sections": [
         {
-          "h": "Choose one heritage story rather than ten interiors",
+          "h": "Four stops for a first George Town heritage walk",
           "p": [
-            "The official trail begins with the Esplanade and Fort Cornwallis, continues through the Street of Harmony and heritage buildings, and reaches the Clan Jetties and Ferry Museum. Its 7–8-hour allowance is for the full itinerary, not a promise that a three-hour visit covers the same ground.",
-            "Our shorter choice is a waterfront-history segment or a Street of Harmony segment, with one interior if its current ticket and access arrangements suit you. For craft browsing and murals, start with Armenian Street instead. Keep the next district optional and save an exit or pickup point before setting off."
+            "Start at the Esplanade, also labelled Padang Kota Lama on the tourism map. Use the waterfront as a clear meeting point and decide whether everyone wants the same length of outing. Take a first look at the surroundings before committing to a paid visit; beginning with a public-space stop keeps the plan easy to shorten.",
+            "Next, use Fort Cornwallis as the waterfront-history anchor. The official tourism itinerary pairs it with the Esplanade. Decide at the entrance whether to enter, check the current ticket and allow more time if you do. A map stop outside the fort does not include admission or establish that the entrance is open.",
+            "Continue towards St. George’s Church and then the Goddess of Mercy Temple. Both appear in the tourism board’s Street of Harmony section. The purpose of this part is to notice how different places of worship sit within a working neighbourhood, rather than to collect interiors. Follow posted visitor rules and keep worshippers’ space clear.",
+            "Finish near the final stop or choose one nearby meal after checking its menu. The route map provides directions between named places; it is not a survey of pavement quality, crossings or step-free access. Choose the actual street route for current conditions, and agree a shorter finish if anyone needs one."
           ],
           "sourceIds": [
-            "review21-penang"
+            "growth23-penang-trail",
+            "growth23-penang-map"
           ]
         },
         {
-          "h": "Start with the part of the trail you want to understand",
+          "h": "Choose the short walk, Armenian Street or the full trail",
           "p": [
-            "Penang Global Tourism’s heritage trail includes the Esplanade and historic waterfront surroundings. For a first outing, select a few points from the official map and decide what you want to notice at each: a façade, a public space or a story about the neighbourhood.",
-            "Our suggested sequence is a short street walk, a meal and a waterfront finish. It is not a timed route tested on foot. Put the actual entrances on a map and check which interiors require tickets or advance arrangements. A building being on a heritage trail does not make its doors open to visitors at all times."
+            "Use the four-stop version when you want a clear beginning and finish without planning a whole day. Keep one interior optional. If you enter the fort, spend longer at a place of worship or stop for lunch, use that time instead of automatically adding another district.",
+            "Choose Armenian Street as a separate anchor when murals and creative browsing matter more than the waterfront. It is another part of the official heritage itinerary, not a compulsory extension of this short route. Mark the street and the business you want to visit before setting out, and check that business’s opening independently.",
+            "Choose the full tourism-board trail only when you can give it a large part of the day. Its published duration excludes meals, so add your own breaks and check each interior you plan to enter. A route list cannot reserve a ticket, guarantee a trader will be present or confirm a prayer area welcomes visitors at that moment."
           ],
           "sourceIds": [
-            "penang-heritage-trail"
+            "growth23-penang-trail"
+          ],
+          "links": [
+            [
+              "Open the tourism board’s complete heritage itinerary",
+              "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09"
+            ]
           ]
         },
         {
-          "h": "Leave room for streets that are still in use",
+          "h": "What to budget for, even on an exterior-focused walk",
           "p": [
-            "Treat shophouses and heritage businesses as places with ordinary working routines. Walk without blocking entrances, ask before photographing people and check whether a shop welcomes browsing. If you want to buy something, ask about the item and its making rather than assuming every object is locally produced.",
-            "Do not turn the walk into a hunt for one famous image. An interesting doorway or wall may be beside a home or a delivery area. Keep your group clear of traffic and move on when a stop becomes crowded. A nearby shaded pause can be more useful than an extra landmark across town."
-          ],
-          "sourceIds": []
+            "Make four separate budget lines: the journey to the start, any admission you choose, food and drinks, and transport from the finish. Put shopping in a fifth line if it is part of your plan. Leaving an interior out of the route removes that visit from your schedule; it does not turn the rest of the day into a zero-cost trip.",
+            "For two travellers, write the shared transport quote once and the per-person purchases twice. For example, use your actual return quote plus two meals, rather than doubling the vehicle price along with the meals. We do not publish an invented all-in price because your starting point, paid visits and purchases determine the total.",
+            "Before buying from a heritage business, ask about the item, quantity and price. A building’s age does not establish where its products were made. Browsing can be a complete stop without a purchase; keep doorways and delivery access clear while deciding."
+          ]
         },
         {
-          "h": "Give lunch and the waterfront their own time",
+          "h": "Adapt the walk for heat, rain or a shorter visit",
           "p": [
-            "Choose a meal near the section of the route you are using. Read the current menu and ask about ingredients if you have dietary requirements; a famous food name does not establish how every vendor prepares it. Set a queue limit so lunch does not consume the entire afternoon.",
-            "Finish at the waterfront only if the weather and route suit your group. Identify a meeting point for any onward vehicle and keep the hotel destination saved. If heat or rain changes the walk, choose a confirmed indoor visit or shorten the route. You can return for another part of the heritage trail rather than trying to see the whole district in one session."
-          ],
-          "sourceIds": []
+            "With less time, keep the Esplanade and fort surroundings as your chosen segment and stop there. With more time, continue to the Street of Harmony before deciding on a meal. These are ways to reduce commitments, not claims that every section has shade or shelter.",
+            "If weather changes, choose a confirmed indoor visit, take a break or end the walk. Do not assume an arcade is a continuous public walkway, a place of worship is a rain shelter or an exterior heritage route is step-free. Check conditions with your group before choosing the next crossing.",
+            "Save the hotel address and a reachable pickup point before you start. At the finish, use a current map to choose a legal meeting point for onward transport. An open-air outing should have an easy exit, not depend on completing every pin."
+          ]
         },
         {
-          "h": "Split the published trail at the waterfront or Street of Harmony",
+          "h": "Keep the heritage map for the next visit",
           "p": [
-            "Penang Global Tourism’s trail runs from the Esplanade and Fort Cornwallis through the Street of Harmony, clan buildings, Armenian Street and the Clan Jetties. For a shorter first outing, the Esplanade–fort pairing gives a coastal and colonial-history focus. The Street of Harmony introduces a different theme through neighbouring places of worship.",
-            "Choose one of those as the main task rather than adopting the full published trail as a compulsory half-day. An exterior walk does not include fort admission or permission to enter a prayer area. Save a finish point near your chosen segment and leave the clan-jetties extension for when you still have time and interest; these are living neighbourhoods as well as heritage stops."
+            "Download the tourism board’s map before leaving reliable internet access. Use it to recognise landmark names and the layout, then use current directions for navigation. Printed opening hours and contact details can age; check the venue itself when a specific visit is essential.",
+            "After the walk, save one place you would return to rather than adding several hurried stops. This makes a second outing easier to plan around a real interest: an interior you skipped, a meal you noticed or a different heritage-street segment."
           ],
           "sourceIds": [
-            "penang-heritage-trail"
+            "growth23-penang-map"
+          ],
+          "links": [
+            [
+              "Open the official Penang tourist map (PDF)",
+              "https://mypenang.gov.my/uploads/downloads/Penang-Tourist-Map-ENG_.pdf"
+            ]
           ]
         }
       ],
       "quickPlan": [
         [
-          "Focus",
-          "A small heritage-street selection, not every landmark."
+          "Short walk",
+          "Esplanade → Fort Cornwallis → St. George’s Church → Goddess of Mercy Temple"
         ],
         [
-          "Suggested finish",
-          "Waterfront time after a nearby meal."
+          "Time to set aside",
+          "Our suggestion: 2–3 hours with a break; interiors can need extra time"
         ],
         [
-          "Before entering",
-          "Check the actual venue’s visitor arrangements."
+          "Cost boundary",
+          "Budget separately for transport, food and any paid interior; no package ticket is included"
+        ],
+        [
+          "Finish or extend",
+          "Finish around the Street of Harmony; add Armenian Street only if time and energy allow"
         ]
       ],
       "planTable": {
@@ -13976,16 +14095,28 @@
       },
       "faq": [
         [
-          "Is every heritage building a public museum?",
-          "No. Check the individual property’s visitor information before entering."
+          "Where should I start a George Town heritage walk?",
+          "For our short route, start at the Esplanade (Padang Kota Lama), continue to Fort Cornwallis, then St. George’s Church and the Goddess of Mercy Temple. Check current walking directions between the four map stops."
         ],
         [
-          "Must I follow the entire official trail?",
-          "No. Select the part that fits your interests and walking needs."
+          "Can I do a Penang heritage walk in two or three hours?",
+          "Our two-to-three-hour suggestion covers a small exterior-focused segment with a break, not the full official trail. An interior visit can require extra time; shorten the route if needed."
         ],
         [
-          "How long is the official George Town heritage trail?",
-          "Penang Global Tourism gives 7–8 hours excluding meals. Our shorter options select one segment; they do not cover the entire itinerary."
+          "How long is the full George Town heritage trail?",
+          "Penang Global Tourism publishes 7–8 hours excluding meals for its full itinerary. Check individual admissions and opening before trying the whole route."
+        ],
+        [
+          "Is the George Town heritage walk free?",
+          "This guide does not sell a walking package. Budget separately for transport, refreshments and any interior admission; a stop outside a building does not include a ticket."
+        ],
+        [
+          "Is Armenian Street part of the short route?",
+          "Not in the four-stop version shown here. Choose it as a separate browsing anchor or an optional extension after checking your time and route."
+        ],
+        [
+          "Is this a step-free walking route?",
+          "We have not audited accessibility, pavements or crossings. Use current local advice and the needs of your group when selecting the street route."
         ]
       ],
       "tips": [
@@ -13998,30 +14129,61 @@
         "png-heritage-streets"
       ],
       "datePublished": "2026-10-10",
-      "dateModified": "2026-11-21",
-      "researchNote": "Official trail sequence and duration, contrasted with shorter editorial segments rechecked 21 November 2026 using the named primary references. Other references retain their earlier dates and limits. This is independent desk research, not a firsthand visit; proposed routes and time allowances are editorial suggestions, not live operating guarantees.",
-      "mins": 3,
+      "dateModified": "2026-11-23",
+      "researchNote": "The tourism board’s full itinerary and tourist map were consulted on 23 November 2026 for the named landmarks and full-trail duration. The four-stop selection, suggested time allowance and budgeting method are Sidestreet desk-research recommendations, not a firsthand walking test, live admission check or accessibility audit.",
+      "mins": 6,
       "seoTitle": "George Town Penang Heritage Walk: Routes & Time Planning",
       "planLinks": [
         [
+          "Open the four-stop walking map",
+          "#guide-navigation"
+        ],
+        [
+          "Download the official Penang tourist map (PDF)",
+          "https://mypenang.gov.my/uploads/downloads/Penang-Tourist-Map-ENG_.pdf"
+        ],
+        [
+          "Compare the official full-day heritage trail",
+          "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09"
+        ],
+        [
           "Explore the George Town city guide",
           "/city/george-town"
-        ],
-        [
-          "Continue planning in Kuala Lumpur",
-          "/city/kuala-lumpur"
-        ],
-        [
-          "Open the official full trail",
-          "https://www.mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09"
         ]
       ],
       "compositionReview": {
-        "date": "2026-11-21",
-        "method": "Primary-source check of the specified claims and original visitor-decision improvements.",
-        "scope": "Official trail sequence and duration, contrasted with shorter editorial segments only; not a full publisher signoff, image-rights clearance or live service check."
+        "date": "2026-11-23",
+        "method": "Authenticated Search Console opportunity selection, named primary references and original visitor-decision guidance.",
+        "scope": "New walking-stop selection / station and boat comparisons only; older place cards and hotel-category claims retain their prior scope. No firsthand visit or live fare/availability claim."
       },
-      "relatedGuides": []
+      "relatedGuides": [],
+      "navigationRoute": {
+        "mode": "walking",
+        "title": "A short George Town heritage walk",
+        "summary": "Four exterior-focused stops selected from the official heritage itinerary. Our suggested sequence is not a field-tested or step-free route; check current crossings and access.",
+        "stops": [
+          {
+            "name": "Esplanade (Padang Kota Lama)",
+            "query": "Esplanade Padang Kota Lama George Town Penang Malaysia",
+            "note": "Start at the waterfront; agree how long the group wants to walk."
+          },
+          {
+            "name": "Fort Cornwallis",
+            "query": "Fort Cornwallis George Town Penang Malaysia",
+            "note": "Decide separately whether to enter; check the current ticket and entrance."
+          },
+          {
+            "name": "St. George’s Church",
+            "query": "St George Church George Town Penang Malaysia",
+            "note": "Part of the Street of Harmony theme; follow current visitor arrangements."
+          },
+          {
+            "name": "Goddess of Mercy Temple",
+            "query": "Goddess of Mercy Temple George Town Penang Malaysia",
+            "note": "Suggested finish; respect worshippers and choose a meal or onward journey separately."
+          }
+        ]
+      }
     },
     {
       "id": "kathmandu-swayambhu-boudha-first-visit",
@@ -23542,7 +23704,7 @@
       "src": [
         "penang-heritage-trail"
       ],
-      "url": "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "url": "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
       "verify": true
     },
     {
@@ -23555,7 +23717,7 @@
       "src": [
         "penang-heritage-trail"
       ],
-      "url": "https://mypenang.gov.my/view_directory.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
+      "url": "https://mypenang.gov.my/view_itenary.php?id=THVMRHBRb2V2ODlQc3hRTEkvalB4QT09",
       "verify": true
     },
     {
