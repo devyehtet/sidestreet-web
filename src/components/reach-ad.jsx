@@ -1,13 +1,14 @@
 'use client';
+import{useAudienceLearning}from'./audience-learning';
 import {contextualAdUrl} from '@/lib/ad-context.mjs';
 import{useEffect}from'react';
 import{useAdPreferences}from'./ad-preferences';
 export default function ReachAd({serverOrigin,placementId,placementName,contained=false,context='general'}){
- const audience=useAdPreferences();
+ const audience=useAdPreferences();const learned=useAudienceLearning();
  const granted=audience?.preferences.choice==='granted';
  const expiresAt=audience?.tokenExpiresAt,refresh=audience?.refreshPreferences;
  useEffect(()=>{if(granted&&expiresAt<=Date.now()+30000)void refresh?.();},[granted,expiresAt,refresh]);
  if(!serverOrigin||!/^pl_[a-f0-9]{32}$/.test(placementId||''))return null;
- const src=contextualAdUrl(serverOrigin,placementId,context,granted?audience.audienceToken:'');
+ const src=contextualAdUrl(serverOrigin,placementId,context,granted?audience.audienceToken:(learned?.audienceToken||''));
  return <aside className={"reach-publisher-ad "+(contained?"reach-ad-contained":"container")} aria-label={placementName?"Advertisement — "+placementName:"Advertisement"} data-ad-placement={placementId} data-ad-context={context}><div className="reach-publisher-ad-label"><span>ADVERTISEMENT</span><span>LOCAL CONNECTIONS / REACH</span></div><div className="reach-publisher-ad-slot">{audience?.loading||(granted&&expiresAt<=Date.now())?<div className="reach-ad-loading" aria-label="Loading advertisement">Loading advertisement…</div>:<iframe key={src} src={src} title="Advertisement — Reach local network" width="300" height="250" loading="lazy" referrerPolicy="origin" sandbox="allow-scripts allow-popups allow-popups-to-escape-sandbox" style={{border:0,display:'block',width:'100%',maxWidth:300,aspectRatio:'6 / 5',height:'auto'}}/>}</div></aside>;
 }
