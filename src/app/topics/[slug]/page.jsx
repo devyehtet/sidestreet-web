@@ -33,7 +33,7 @@ export default async function Topic({params}){
   <StructuredData value={breadcrumbSchema(config.siteUrl,[['Home','/'],[data.categories[id],'/topics/'+slug]])}/>
   <div className="page-heading"><span className="eyebrow">THE EDITORIAL SECTORS / {stories.length} GUIDES</span><h1>{data.categories[id]}</h1><p>{plan?.intro||'Local favourites, practical field notes and a different perspective.'}</p></div>
   {plan&&<section className="city-planning" aria-labelledby="topic-start"><h2 id="topic-start">{plan.heading}</h2><ul className="city-planning-links">{plan.links.map(([guide,label,description])=><li key={guide}><Link href={'/guides/'+guide}>{label} ↗</Link><p>{description}</p></li>)}</ul></section>}
-  <PublisherAd slot="topic-middle" contained/>
+  <PublisherAd slot="topic-middle" category={id} contained/>
   {id==='news'?<>{[["Announced programme periods",active],["Dated announcements and reports",reports],["Archive: ended programme periods",archive]].map(([title,entries])=>entries.length>0&&<section className="editorial-section" key={title}><h2>{title}</h2><div className="story-grid three">{entries.map(s=><StoryCard story={s} key={s.id}/>)}</div></section>)}</>:<div className="story-grid three">{stories.map(s=><StoryCard story={s} key={s.id}/>)}</div>}
   {id==='hotels'&&<section className="editorial-section"><SectionTitle eyebrow="WHERE TO STAY" title="HOTELS IN OUR GUIDE"/><Places places={data.places.filter(p=>p.kind==='stay')}/></section>}
  </main>
