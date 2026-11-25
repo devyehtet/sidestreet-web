@@ -1,6 +1,7 @@
 import {connection} from 'next/server';
 import {currentNews} from '@/lib/news-lifecycle.mjs';
 import CoverStories from '@/components/cover-stories';
+import ReachAd from '@/components/reach-ad';
 import {eventDate,isUpcoming} from '@/lib/events.mjs';
 import StructuredData from '@/components/structured-data';
 import {siteSchema} from '@/lib/seo.mjs';
@@ -23,6 +24,7 @@ export default async function Home(){
  {story:story('bkk-hotels'),label:'Places to stay / Bangkok',title:'Check in. See the city differently.',description:'From riverside classics to contemporary stays, find your Bangkok base.',action:'Explore the hotel guide'}
  ].filter(({story:s})=>s&&photoFor(s.img)).map(({story:s,...copy})=>({...copy,id:s.id,href:guideUrl(s),photo:photoFor(s.img)}))}/></section>
  <section className="destination-bar container" aria-label="Choose a city"><div><span className="eyebrow">GO SOMEWHERE GOOD</span><h2>Your city. Your next plan.</h2></div><div className="destination-pills">{['bkk','cnx','hkt','tyo','sin','lon'].map(id=>{const c=cityFor(id);return <Link key={id} href={cityUrl(c)}>{c.name} <span>↗</span></Link>})}<Link href="/cities" className="all-cities">All {data.cities.length} cities ↗</Link></div></section>
+ <ReachAd serverOrigin={process.env.NEXT_PUBLIC_REACH_AD_SERVER} placementId={process.env.NEXT_PUBLIC_REACH_PLACEMENT_ID}/>
  <section className="container editorial-section" id="city-edit-30"><SectionTitle eyebrow="THE SIDESTREET CITY EDIT" title={`${cityEdit.length} REASONS TO GO OUT`} href="/city-edit" label="Explore the city edit"/><p className="section-intro">A Bangkok house visit, Lisbon pastries, Seoul market meals and a different side of Amsterdam. Find a plan that fits the way you like to travel.</p><div className="story-grid three">{['bangkok-jim-thompson-house-guided-visit','lisbon-pasteis-de-belem-bakery-stop','seoul-gwangjang-market-food-shopping-choice','amsterdam-museum-canals-ferry','sydney-opera-house-tour-or-show','cape-town-kirstenbosch-garden-day'].map(slug=>data.stories.find(s=>s.slug===slug)).filter(Boolean).map(s=><StoryCard key={s.id} story={s}/>)}</div></section>
  <section className="container editorial-section best-home"><SectionTitle eyebrow="THE SIDESTREET SHORTLIST" title="THE BEST, FOR YOUR KIND OF TRIP" href="/best-of" label="Explore our picks"/><p className="section-intro">Named businesses. Venue photographs. A clear reason to choose each one. Find the food stop or stay that fits your plan.</p><div className="story-grid best-grid">{data.stories.filter(s=>s.roundup).slice(-2).map(s=><StoryCard key={s.id} story={s}/>)}</div></section>
  <section className="container editorial-section" id="city-news-edit"><SectionTitle eyebrow={`THE CITY UPDATE / ${edition}`} title="DATED CITY UPDATES" href={topicUrl('news')} label="More city news"/><p className="section-intro">Announced programmes still within their published period. Each guide separates source dates, visitor choices and current booking checks.</p><div className="story-grid three">{latestNews.map(s=><StoryCard key={s.id} story={s}/>)}</div></section>
