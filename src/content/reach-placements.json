@@ -1,0 +1,38 @@
+{
+  "home-top": {
+    "placementId": "pl_7a287e6c9359468c97256f9147dde3de",
+    "name": "Homepage — Local connections"
+  },
+  "home-middle": {
+    "placementId": "pl_1a6ba36a32004c9a84e9dd75f26c774e",
+    "name": "Homepage — After shortlist"
+  },
+  "home-culture": {
+    "placementId": "pl_3fb9807d112f410bba52a5efd02254e7",
+    "name": "Homepage — Before culture"
+  },
+  "home-bottom": {
+    "placementId": "pl_34498b98b20343c587fd5631a0c0cc9b",
+    "name": "Homepage — Before final invitation"
+  },
+  "guide-top": {
+    "placementId": "pl_9fa4eecda31b4fdf878dd3e1573558dc",
+    "name": "Guides — After cover photo"
+  },
+  "guide-bottom": {
+    "placementId": "pl_6dad3466fd3f482f8f53e4d5eb7260fe",
+    "name": "Guides — After article"
+  },
+  "city-top": {
+    "placementId": "pl_1eff15f6eb5d4e9296c6a832664e57b6",
+    "name": "City — After city introduction"
+  },
+  "city-bottom": {
+    "placementId": "pl_ee1d405505054804b591f40e92c743f6",
+    "name": "City — Before places"
+  },
+  "topic-middle": {
+    "placementId": "pl_d46437ab198a412fb4b61fe12acd1fa0",
+    "name": "Topics — Before guide listings"
+  }
+}
