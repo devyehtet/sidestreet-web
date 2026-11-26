@@ -10,5 +10,5 @@ export default function ReachSDK({serverOrigin,publisherId,origin,pageCategories
  // The legacy endpoints remain only to remove those old choices; new learning uses Reach SDK.
  useEffect(()=>{if(window.location.origin!==origin)return;void(async()=>{try{await fetch('/api/audience-profile',{method:'DELETE',headers:{'Content-Type':'application/json'},body:'{}',credentials:'same-origin'});await fetch('/api/ad-preferences',{method:'DELETE',headers:{'Content-Type':'application/json'},body:'{}',credentials:'same-origin'});}catch{/* No new tracking profile is created by the migration. */}})();},[origin]);
  if(!serverOrigin||!/^pub_[a-f0-9]{32}$/.test(publisherId||''))return null;
- return <Script id="reach-publisher-sdk" src={serverOrigin+'/publisher-sdk.js'} data-publisher={publisherId} strategy="afterInteractive" onReady={update}/>;
+ return <Script id="reach-publisher-sdk" src={serverOrigin+'/publisher-sdk.js?v=1.1.0'} data-publisher={publisherId} strategy="afterInteractive" onReady={update}/>;
 }
